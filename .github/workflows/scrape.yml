@@ -1,16 +1,21 @@
 name: Scrape Weekly Leaders (ET)
 
 on:
+  # Scheduled run every 5 minutes, 8 AM - 1 AM ET Fri/Sat/Sun (DST-proof)
   schedule:
-    # Every 5 minutes from 8 AM – 1 AM ET, Fri/Sat/Sun
-    - cron: '*/5 12-23,0-5 * * 5,6,0'
+    - cron: '*/5 11-23,0-5 * * 5,6,0'
+  # Run immediately on pushes to main
+  push:
+    branches:
+      - main
+  # Manual trigger for testing
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      TZ: America/New_York
+      TZ: America/New_York  # Makes 'date' command show ET
 
     steps:
       - name: Checkout repository
