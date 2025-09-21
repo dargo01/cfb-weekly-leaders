@@ -62,7 +62,7 @@ jobs:
         run: python generate_json_safe.py
 
       - name: Upload weekly.json as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: weekly-json
           path: weekly.json
