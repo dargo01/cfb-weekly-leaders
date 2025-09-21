@@ -4,18 +4,18 @@ on:
   # Scheduled run every 5 minutes, 8 AM - 1 AM ET Fri/Sat/Sun (DST-proof)
   schedule:
     - cron: '*/5 11-23,0-5 * * 5,6,0'
-  # Run immediately on pushes to main
+  # Run immediately on pushes to main (for testing)
   push:
     branches:
       - main
-  # Manual trigger for testing
+  # Manual trigger
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      TZ: America/New_York  # Makes 'date' command show ET
+      TZ: America/New_York  # Makes 'date' show ET
 
     steps:
       - name: Checkout repository
@@ -30,6 +30,30 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Show next 5 scheduled runs (ET)
+        run: |
+          pip install croniter pytz
+          python - <<'EOF'
+          from croniter import croniter
+          from datetime import datetime
+          import pytz
+
+          # GitHub Actions cron
+          cron = "*/5 11-23,0-5 * * 5,6,0"
+
+          # Current UTC time
+          now_utc = datetime.utcnow()
+          iter = croniter(cron, now_utc)
+
+          eastern = pytz.timezone("America/New_York")
+
+          print("Next 5 scheduled runs (ET):")
+          for _ in range(5):
+              next_run_utc = iter.get_next(datetime)
+              next_run_et = next_run_utc.replace(tzinfo=pytz.utc).astimezone(eastern)
+              print(next_run_et.strftime("%Y-%m-%d %H:%M %Z"))
+          EOF
 
       - name: Log timestamp (ET)
         run: date
