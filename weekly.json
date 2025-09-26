@@ -17,12 +17,12 @@
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
       "RESULT": "",
-      "COMP": "8",
-      "ATT": "10",
-      "YDS": "50",
+      "COMP": "10",
+      "ATT": "12",
+      "YDS": "63",
       "TD": "1",
       "INT": "0",
-      "RAT": "155.0"
+      "RAT": "154.9"
     },
     {
       "RK": "3",
@@ -255,13 +255,13 @@
       "TD": "0"
     },
     {
-      "RK": "10",
-      "NAME": "Dakota Twitty, TE",
+      "RK": "",
+      "NAME": "J'Mari Taylor, RB",
       "TEAM": "UVA",
       "RESULT": "",
       "REC": "2",
-      "YDS": "11",
-      "YPR": "5.5",
+      "YDS": "13",
+      "YPR": "6.5",
       "TD": "0"
     }
   ]
