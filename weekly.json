@@ -30,11 +30,11 @@
       "TEAM": "UVA",
       "RESULT": "",
       "COMP": "4",
-      "ATT": "5",
+      "ATT": "6",
       "YDS": "21",
       "TD": "0",
       "INT": "0",
-      "RAT": "115.3"
+      "RAT": "96.1"
     },
     {
       "RK": "4",
@@ -53,12 +53,12 @@
       "NAME": "Tommy Castellanos, QB",
       "TEAM": "FSU",
       "RESULT": "",
-      "COMP": "1",
-      "ATT": "2",
-      "YDS": "4",
+      "COMP": "2",
+      "ATT": "3",
+      "YDS": "10",
       "TD": "0",
       "INT": "0",
-      "RAT": "66.8"
+      "RAT": "94.7"
     }
   ],
   "Rushing Leaders": [
@@ -127,13 +127,23 @@
       "NAME": "J'Mari Taylor, RB",
       "TEAM": "UVA",
       "RESULT": "",
-      "CAR": "3",
-      "YDS": "15",
-      "YPC": "5.0",
+      "CAR": "5",
+      "YDS": "19",
+      "YPC": "3.8",
       "TD": "0"
     },
     {
       "RK": "8",
+      "NAME": "Gavin Sawchuk, RB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "CAR": "2",
+      "YDS": "18",
+      "YPC": "9.0",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Briggs Bartosh, RB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -143,23 +153,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Tommy Castellanos, QB",
       "TEAM": "FSU",
       "RESULT": "",
       "CAR": "2",
       "YDS": "8",
       "YPC": "4.0",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Hayden Reed, RB",
-      "TEAM": "ARMY",
-      "RESULT": "L6-28atECU",
-      "CAR": "3",
-      "YDS": "4",
-      "YPC": "1.3",
       "TD": "0"
     }
   ],
