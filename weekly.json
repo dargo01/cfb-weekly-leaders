@@ -29,12 +29,12 @@
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
       "RESULT": "",
-      "COMP": "3",
-      "ATT": "4",
-      "YDS": "17",
+      "COMP": "4",
+      "ATT": "5",
+      "YDS": "21",
       "TD": "0",
       "INT": "0",
-      "RAT": "110.7"
+      "RAT": "115.3"
     },
     {
       "RK": "4",
@@ -226,6 +226,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Jahmal Edrine, WR",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "18",
+      "YPR": "9.0",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Noah Short, WR",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
