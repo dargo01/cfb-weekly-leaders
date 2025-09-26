@@ -29,15 +29,27 @@
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "6",
-      "YDS": "21",
-      "TD": "0",
+      "COMP": "6",
+      "ATT": "8",
+      "YDS": "32",
+      "TD": "1",
       "INT": "0",
-      "RAT": "96.1"
+      "RAT": "149.9"
     },
     {
       "RK": "4",
+      "NAME": "Tommy Castellanos, QB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "COMP": "2",
+      "ATT": "5",
+      "YDS": "15",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "65.2"
+    },
+    {
+      "RK": "5",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -47,18 +59,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "69.7"
-    },
-    {
-      "RK": "5",
-      "NAME": "Tommy Castellanos, QB",
-      "TEAM": "FSU",
-      "RESULT": "",
-      "COMP": "2",
-      "ATT": "3",
-      "YDS": "10",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "94.7"
     }
   ],
   "Rushing Leaders": [
@@ -124,22 +124,22 @@
     },
     {
       "RK": "7",
-      "NAME": "J'Mari Taylor, RB",
-      "TEAM": "UVA",
+      "NAME": "Gavin Sawchuk, RB",
+      "TEAM": "FSU",
       "RESULT": "",
       "CAR": "5",
-      "YDS": "19",
-      "YPC": "3.8",
+      "YDS": "33",
+      "YPC": "6.6",
       "TD": "0"
     },
     {
       "RK": "8",
-      "NAME": "Gavin Sawchuk, RB",
-      "TEAM": "FSU",
+      "NAME": "J'Mari Taylor, RB",
+      "TEAM": "UVA",
       "RESULT": "",
-      "CAR": "2",
-      "YDS": "18",
-      "YPC": "9.0",
+      "CAR": "7",
+      "YDS": "27",
+      "YPC": "3.9",
       "TD": "0"
     },
     {
@@ -242,6 +242,16 @@
       "REC": "3",
       "YDS": "13",
       "YPR": "4.3",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
+      "NAME": "Dakota Twitty, TE",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "11",
+      "YPR": "5.5",
       "TD": "0"
     }
   ]
