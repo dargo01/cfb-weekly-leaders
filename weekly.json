@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Chandler Morris, QB",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "COMP": "8",
+      "ATT": "10",
+      "YDS": "50",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "155.0"
+    },
+    {
+      "RK": "3",
       "NAME": "Dewayne Coleman, QB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -25,28 +37,16 @@
       "RAT": "89.2"
     },
     {
-      "RK": "3",
-      "NAME": "Chandler Morris, QB",
-      "TEAM": "UVA",
-      "RESULT": "",
-      "COMP": "6",
-      "ATT": "8",
-      "YDS": "32",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "149.9"
-    },
-    {
       "RK": "4",
       "NAME": "Tommy Castellanos, QB",
       "TEAM": "FSU",
       "RESULT": "",
-      "COMP": "2",
-      "ATT": "5",
-      "YDS": "15",
+      "COMP": "3",
+      "ATT": "7",
+      "YDS": "27",
       "TD": "0",
-      "INT": "0",
-      "RAT": "65.2"
+      "INT": "1",
+      "RAT": "46.7"
     },
     {
       "RK": "5",
@@ -134,6 +134,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Caziah Holmes, RB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "CAR": "2",
+      "YDS": "32",
+      "YPC": "16.0",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "J'Mari Taylor, RB",
       "TEAM": "UVA",
       "RESULT": "",
@@ -143,23 +153,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Briggs Bartosh, RB",
-      "TEAM": "ARMY",
-      "RESULT": "L6-28atECU",
-      "CAR": "6",
-      "YDS": "14",
-      "YPC": "2.3",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "Tommy Castellanos, QB",
-      "TEAM": "FSU",
+      "NAME": "Xavier Brown, RB",
+      "TEAM": "UVA",
       "RESULT": "",
-      "CAR": "2",
-      "YDS": "8",
-      "YPC": "4.0",
+      "CAR": "3",
+      "YDS": "17",
+      "YPC": "5.7",
       "TD": "0"
     }
   ],
@@ -225,7 +225,17 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "",
+      "NAME": "Duce Robinson, WR",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "23",
+      "YPR": "11.5",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Jahmal Edrine, WR",
       "TEAM": "UVA",
       "RESULT": "",
@@ -235,7 +245,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Noah Short, WR",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -245,7 +255,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Dakota Twitty, TE",
       "TEAM": "UVA",
       "RESULT": "",
