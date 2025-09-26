@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Chandler Morris, QB",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "COMP": "3",
+      "ATT": "4",
+      "YDS": "17",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "110.7"
+    },
+    {
+      "RK": "4",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -35,6 +47,18 @@
       "TD": "0",
       "INT": "0",
       "RAT": "69.7"
+    },
+    {
+      "RK": "5",
+      "NAME": "Tommy Castellanos, QB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "COMP": "1",
+      "ATT": "2",
+      "YDS": "4",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "66.8"
     }
   ],
   "Rushing Leaders": [
@@ -100,6 +124,16 @@
     },
     {
       "RK": "7",
+      "NAME": "J'Mari Taylor, RB",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "CAR": "3",
+      "YDS": "15",
+      "YPC": "5.0",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Briggs Bartosh, RB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -109,7 +143,17 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Tommy Castellanos, QB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "CAR": "2",
+      "YDS": "8",
+      "YPC": "4.0",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Hayden Reed, RB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -117,16 +161,6 @@
       "YDS": "4",
       "YPC": "1.3",
       "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Katin Houser, QB",
-      "TEAM": "ECU",
-      "RESULT": "W28-6vs.ARMY",
-      "CAR": "8",
-      "YDS": "-2",
-      "YPC": "-0.3",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
