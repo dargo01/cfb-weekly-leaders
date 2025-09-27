@@ -2,39 +2,39 @@
   "Passing Leaders": [
     {
       "RK": "1",
-      "NAME": "CJ Carr, QB",
-      "TEAM": "ND",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "29",
-      "YDS": "341",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "216.7"
-    },
-    {
-      "RK": "2",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "",
-      "COMP": "12",
-      "ATT": "19",
-      "YDS": "337",
+      "COMP": "13",
+      "ATT": "20",
+      "YDS": "355",
       "TD": "3",
       "INT": "0",
-      "RAT": "264.3"
+      "RAT": "263.6"
+    },
+    {
+      "RK": "2",
+      "NAME": "CJ Carr, QB",
+      "TEAM": "ND",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "30",
+      "YDS": "354",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "216.5"
     },
     {
       "RK": "3",
       "NAME": "Brendan Sorsby, QB",
       "TEAM": "CIN",
       "RESULT": "",
-      "COMP": "22",
-      "ATT": "31",
-      "YDS": "315",
+      "COMP": "23",
+      "ATT": "32",
+      "YDS": "329",
       "TD": "2",
       "INT": "0",
-      "RAT": "177.6"
+      "RAT": "178.9"
     },
     {
       "RK": "4",
@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Drake Lindsey, QB",
+      "TEAM": "MINN",
+      "RESULT": "",
+      "COMP": "25",
+      "ATT": "34",
+      "YDS": "252",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "155.2"
+    },
+    {
+      "RK": "9",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -97,7 +109,7 @@
       "RAT": "184.9"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Josh Hoover, QB",
       "TEAM": "TCU",
       "RESULT": "L24-27atASU",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "2",
       "RAT": "113.5"
-    },
-    {
-      "RK": "",
-      "NAME": "Drake Lindsey, QB",
-      "TEAM": "MINN",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "32",
-      "YDS": "242",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "156.0"
     }
   ],
   "Rushing Leaders": [
@@ -127,23 +127,33 @@
       "NAME": "Nate Sheppard, RB",
       "TEAM": "DUKE",
       "RESULT": "",
-      "CAR": "13",
-      "YDS": "164",
-      "YPC": "12.6",
+      "CAR": "15",
+      "YDS": "168",
+      "YPC": "11.2",
       "TD": "2"
     },
     {
       "RK": "2",
-      "NAME": "Dylan Edwards, RB",
-      "TEAM": "KSU",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
       "RESULT": "",
-      "CAR": "13",
-      "YDS": "150",
-      "YPC": "11.5",
-      "TD": "1"
+      "CAR": "22",
+      "YDS": "152",
+      "YPC": "6.9",
+      "TD": "2"
     },
     {
       "RK": "3",
+      "NAME": "Dylan Edwards, RB",
+      "TEAM": "KSU",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "151",
+      "YPC": "10.8",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Raleek Brown, RB",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -153,7 +163,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Noah Short, WR",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -161,16 +171,6 @@
       "YDS": "127",
       "YPC": "11.5",
       "TD": "0"
-    },
-    {
-      "RK": "5",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "126",
-      "YPC": "7.0",
-      "TD": "1"
     },
     {
       "RK": "6",
@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Angel Flores, QB",
-      "TEAM": "CMU",
+      "NAME": "Jadarian Price, RB",
+      "TEAM": "ND",
       "RESULT": "",
-      "CAR": "11",
-      "YDS": "84",
-      "YPC": "7.6",
-      "TD": "0"
+      "CAR": "13",
+      "YDS": "86",
+      "YPC": "6.6",
+      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Devin Voisin, WR",
+      "TEAM": "USA",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "97",
+      "YPR": "19.4",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Jalen Smith, WR",
       "TEAM": "MINN",
       "RESULT": "",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Junior Sherrill, WR",
       "TEAM": "VAN",
       "RESULT": "",
@@ -313,16 +323,6 @@
       "YDS": "91",
       "YPR": "15.2",
       "TD": "3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Anthony Smith, WR",
-      "TEAM": "ECU",
-      "RESULT": "W28-6vs.ARMY",
-      "REC": "3",
-      "YDS": "87",
-      "YPR": "29.0",
-      "TD": "1"
     }
   ]
 }
