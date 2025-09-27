@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "24",
+      "ATT": "35",
+      "YDS": "393",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "200.6"
+    },
+    {
+      "RK": "3",
       "NAME": "Brendan Sorsby, QB",
       "TEAM": "CIN",
       "RESULT": "W37-34atKU",
@@ -25,7 +37,7 @@
       "RAT": "158.6"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
       "RESULT": "L32-34atILL",
@@ -37,7 +49,7 @@
       "RAT": "151.6"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "CJ Carr, QB",
       "TEAM": "ND",
       "RESULT": "W56-13atARK",
@@ -61,7 +73,7 @@
       "RAT": "160.3"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Miller Moss, QB",
       "TEAM": "LOU",
       "RESULT": "W34-27atPITT",
@@ -71,18 +83,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "136.0"
-    },
-    {
-      "RK": "7",
-      "NAME": "Sawyer Robertson, QB",
-      "TEAM": "BAY",
-      "RESULT": "",
-      "COMP": "20",
-      "ATT": "30",
-      "YDS": "337",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "205.0"
     },
     {
       "RK": "8",
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Le'Veon Moss, RB",
+      "TEAM": "TA&M",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "140",
+      "YPC": "7.8",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W36-22vs.USA",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jordan Fuller, RB",
       "TEAM": "JMU",
       "RESULT": "W35-10vs.GASO",
@@ -193,33 +203,23 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Liam Szarka, QB",
+      "TEAM": "AF",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "135",
+      "YPC": "9.0",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Angel Flores, QB",
       "TEAM": "CMU",
       "RESULT": "W24-13vs.EMU",
       "CAR": "22",
       "YDS": "134",
       "YPC": "6.1",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Kenny Tracy, RB",
-      "TEAM": "M-OH",
-      "RESULT": "W38-0vs.LIN",
-      "CAR": "20",
-      "YDS": "134",
-      "YPC": "6.7",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Raleek Brown, RB",
-      "TEAM": "ASU",
-      "RESULT": "W27-24vs.TCU",
-      "CAR": "21",
-      "YDS": "134",
-      "YPC": "6.4",
       "TD": "0"
     }
   ],
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Elijah Sarratt, WR",
+      "TEAM": "IU",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "132",
+      "YPR": "22.0",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Cyrus Allen, WR",
       "TEAM": "CIN",
       "RESULT": "W37-34atKU",
@@ -275,7 +285,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jordyn Tyson, WR",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -295,10 +305,10 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Junior Vandeross III, WR",
       "TEAM": "TOL",
-      "RESULT": "",
+      "RESULT": "W45-3vs.AKR",
       "REC": "9",
       "YDS": "122",
       "YPR": "13.6",
@@ -313,16 +323,6 @@
       "YDS": "122",
       "YPR": "40.7",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Corey Rucker, WR",
-      "TEAM": "ARST",
-      "RESULT": "L16-28atULM",
-      "REC": "9",
-      "YDS": "120",
-      "YPR": "13.3",
-      "TD": "0"
     }
   ]
 }
