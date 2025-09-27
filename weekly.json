@@ -5,12 +5,12 @@
       "NAME": "Sam Leavitt, QB",
       "TEAM": "ASU",
       "RESULT": "",
-      "COMP": "20",
-      "ATT": "29",
-      "YDS": "260",
+      "COMP": "22",
+      "ATT": "31",
+      "YDS": "271",
       "TD": "1",
       "INT": "0",
-      "RAT": "155.7"
+      "RAT": "155.0"
     },
     {
       "RK": "2",
@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Josh Hoover, QB",
+      "TEAM": "TCU",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "29",
+      "YDS": "233",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "126.1"
+    },
+    {
+      "RK": "5",
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -49,40 +61,28 @@
       "RAT": "131.0"
     },
     {
-      "RK": "5",
-      "NAME": "Josh Hoover, QB",
-      "TEAM": "TCU",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "25",
-      "YDS": "216",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "132.6"
-    },
-    {
       "RK": "6",
-      "NAME": "Conner Weigman, QB",
-      "TEAM": "HOU",
-      "RESULT": "",
-      "COMP": "5",
-      "ATT": "12",
-      "YDS": "57",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "64.9"
-    },
-    {
-      "RK": "7",
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "",
-      "COMP": "5",
-      "ATT": "9",
-      "YDS": "55",
+      "COMP": "9",
+      "ATT": "15",
+      "YDS": "94",
       "TD": "1",
       "INT": "0",
-      "RAT": "143.6"
+      "RAT": "134.6"
+    },
+    {
+      "RK": "7",
+      "NAME": "Conner Weigman, QB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "COMP": "7",
+      "ATT": "15",
+      "YDS": "69",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "72.0"
     },
     {
       "RK": "8",
@@ -112,6 +112,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Raleek Brown, RB",
+      "TEAM": "ASU",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "140",
+      "YPC": "7.8",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Noah Short, WR",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -121,7 +131,7 @@
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "J'Mari Taylor, RB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -129,16 +139,6 @@
       "YDS": "99",
       "YPC": "3.7",
       "TD": "1"
-    },
-    {
-      "RK": "3",
-      "NAME": "Raleek Brown, RB",
-      "TEAM": "ASU",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "90",
-      "YPC": "6.0",
-      "TD": "0"
     },
     {
       "RK": "4",
@@ -182,6 +182,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Dean Connors, RB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "59",
+      "YPC": "5.9",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -191,23 +201,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Marlon Gunn Jr., RB",
-      "TEAM": "ECU",
-      "RESULT": "W28-6vs.ARMY",
-      "CAR": "10",
-      "YDS": "53",
-      "YPC": "5.3",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "Dewayne Coleman, QB",
-      "TEAM": "ARMY",
-      "RESULT": "L6-28atECU",
-      "CAR": "22",
-      "YDS": "51",
-      "YPC": "2.3",
+      "NAME": "Sam Leavitt, QB",
+      "TEAM": "ASU",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "55",
+      "YPC": "4.6",
       "TD": "1"
     }
   ],
@@ -227,9 +227,9 @@
       "NAME": "Jordyn Tyson, WR",
       "TEAM": "ASU",
       "RESULT": "",
-      "REC": "6",
-      "YDS": "118",
-      "YPR": "19.7",
+      "REC": "7",
+      "YDS": "122",
+      "YPR": "17.4",
       "TD": "1"
     },
     {
@@ -264,22 +264,22 @@
     },
     {
       "RK": "6",
+      "NAME": "DJ Rogers, TE",
+      "TEAM": "TCU",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "51",
+      "YPR": "17.0",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Jahmal Edrine, WR",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
       "REC": "5",
       "YDS": "45",
       "YPR": "9.0",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "DJ Rogers, TE",
-      "TEAM": "TCU",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "45",
-      "YPR": "22.5",
       "TD": "0"
     },
     {
@@ -304,12 +304,12 @@
     },
     {
       "RK": "10",
-      "NAME": "Jordan Dwyer, WR",
-      "TEAM": "TCU",
+      "NAME": "Trent Walker, WR",
+      "TEAM": "ORST",
       "RESULT": "",
-      "REC": "3",
-      "YDS": "42",
-      "YPR": "14.0",
+      "REC": "4",
+      "YDS": "43",
+      "YPR": "10.8",
       "TD": "0"
     }
   ]
