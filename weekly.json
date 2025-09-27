@@ -89,36 +89,36 @@
       "NAME": "Athan Kaliakmanis, QB",
       "TEAM": "RUTG",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "4",
-      "YDS": "59",
-      "TD": "0",
+      "COMP": "8",
+      "ATT": "8",
+      "YDS": "99",
+      "TD": "1",
       "INT": "0",
-      "RAT": "223.9"
+      "RAT": "245.2"
     },
     {
-      "RK": "9",
-      "NAME": "Bishop Davenport, QB",
-      "TEAM": "USA",
+      "RK": "",
+      "NAME": "Jalon Daniels, QB",
+      "TEAM": "KU",
       "RESULT": "",
-      "COMP": "3",
-      "ATT": "4",
-      "YDS": "56",
-      "TD": "0",
+      "COMP": "2",
+      "ATT": "3",
+      "YDS": "99",
+      "TD": "1",
       "INT": "0",
-      "RAT": "192.6"
+      "RAT": "453.9"
     },
     {
       "RK": "10",
       "NAME": "Eli Holstein, QB",
       "TEAM": "PITT",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "6",
-      "YDS": "54",
-      "TD": "0",
+      "COMP": "5",
+      "ATT": "7",
+      "YDS": "93",
+      "TD": "1",
       "INT": "0",
-      "RAT": "142.3"
+      "RAT": "230.2"
     }
   ],
   "Rushing Leaders": [
@@ -194,6 +194,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Nate Sheppard, RB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "CAR": "3",
+      "YDS": "68",
+      "YPC": "22.7",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Ousmane Kromah, RB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
@@ -203,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Sam Leavitt, QB",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -211,16 +221,6 @@
       "YDS": "62",
       "YPC": "4.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Xavier Brown, RB",
-      "TEAM": "UVA",
-      "RESULT": "W46-38vs.FSU",
-      "CAR": "9",
-      "YDS": "60",
-      "YPC": "6.7",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
