@@ -6,29 +6,29 @@
       "TEAM": "KU",
       "RESULT": "",
       "COMP": "18",
-      "ATT": "25",
+      "ATT": "27",
       "YDS": "419",
       "TD": "4",
       "INT": "0",
-      "RAT": "265.6"
+      "RAT": "245.9"
     },
     {
       "RK": "2",
       "NAME": "Brendan Sorsby, QB",
       "TEAM": "CIN",
       "RESULT": "",
-      "COMP": "27",
-      "ATT": "40",
-      "YDS": "380",
+      "COMP": "29",
+      "ATT": "43",
+      "YDS": "388",
       "TD": "2",
       "INT": "0",
-      "RAT": "163.8"
+      "RAT": "158.6"
     },
     {
       "RK": "3",
       "NAME": "CJ Carr, QB",
       "TEAM": "ND",
-      "RESULT": "",
+      "RESULT": "W56-13atARK",
       "COMP": "22",
       "ATT": "30",
       "YDS": "354",
@@ -38,18 +38,42 @@
     },
     {
       "RK": "4",
-      "NAME": "Miller Moss, QB",
-      "TEAM": "LOU",
+      "NAME": "Jayden Maiava, QB",
+      "TEAM": "USC",
       "RESULT": "",
-      "COMP": "32",
-      "ATT": "50",
-      "YDS": "330",
-      "TD": "2",
+      "COMP": "29",
+      "ATT": "42",
+      "YDS": "348",
+      "TD": "1",
       "INT": "1",
-      "RAT": "128.6"
+      "RAT": "141.7"
     },
     {
       "RK": "5",
+      "NAME": "Miller Moss, QB",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "COMP": "33",
+      "ATT": "51",
+      "YDS": "339",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "136.0"
+    },
+    {
+      "RK": "6",
+      "NAME": "Luke Altmyer, QB",
+      "TEAM": "ILL",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "25",
+      "YDS": "328",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "212.6"
+    },
+    {
+      "RK": "7",
       "NAME": "Drake Lindsey, QB",
       "TEAM": "MINN",
       "RESULT": "",
@@ -61,31 +85,19 @@
       "RAT": "166.1"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Diego Pavia, QB",
       "TEAM": "VAN",
       "RESULT": "",
       "COMP": "25",
-      "ATT": "31",
+      "ATT": "33",
       "YDS": "317",
       "TD": "5",
-      "INT": "0",
-      "RAT": "219.8"
-    },
-    {
-      "RK": "7",
-      "NAME": "Jayden Maiava, QB",
-      "TEAM": "USC",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "38",
-      "YDS": "314",
-      "TD": "1",
       "INT": "1",
-      "RAT": "138.6"
+      "RAT": "200.4"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Sam Leavitt, QB",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -97,7 +109,7 @@
       "RAT": "148.8"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "W27-24atORST",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "131.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Darian Mensah, QB",
-      "TEAM": "DUKE",
-      "RESULT": "W38-3atSYR",
-      "COMP": "22",
-      "ATT": "28",
-      "YDS": "268",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "182.5"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Dylan Edwards, RB",
+      "TEAM": "KSU",
+      "RESULT": "W34-20vs.UCF",
+      "CAR": "20",
+      "YDS": "166",
+      "YPC": "8.3",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "",
@@ -143,20 +153,10 @@
       "TD": "2"
     },
     {
-      "RK": "3",
-      "NAME": "Dylan Edwards, RB",
-      "TEAM": "KSU",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "153",
-      "YPC": "9.0",
-      "TD": "1"
-    },
-    {
       "RK": "4",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
-      "RESULT": "",
+      "RESULT": "W36-22vs.USA",
       "CAR": "16",
       "YDS": "140",
       "YPC": "8.8",
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Wayne Knight, RB",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "130",
+      "YPC": "10.0",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Noah Short, WR",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -183,32 +193,22 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Myles Montgomery, RB",
       "TEAM": "UCF",
-      "RESULT": "",
+      "RESULT": "L20-34atKSU",
       "CAR": "10",
       "YDS": "119",
       "YPC": "11.9",
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Wayne Knight, RB",
-      "TEAM": "JMU",
-      "RESULT": "",
-      "CAR": "10",
-      "YDS": "115",
-      "YPC": "11.5",
-      "TD": "1"
-    },
-    {
       "RK": "9",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "108",
+      "RESULT": "W35-20vs.BGSU",
+      "CAR": "18",
+      "YDS": "115",
       "YPC": "6.4",
       "TD": "0"
     },
@@ -255,7 +255,17 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "",
+      "NAME": "Makai Lemon, WR",
+      "TEAM": "USC",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "135",
+      "YPR": "13.5",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Cyrus Allen, WR",
       "TEAM": "CIN",
       "RESULT": "",
@@ -265,7 +275,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jordyn Tyson, WR",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -275,23 +285,13 @@
       "TD": "2"
     },
     {
-      "RK": "6",
-      "NAME": "Makai Lemon, WR",
-      "TEAM": "USC",
-      "RESULT": "",
-      "REC": "8",
-      "YDS": "113",
-      "YPR": "14.1",
-      "TD": "1"
-    },
-    {
       "RK": "7",
       "NAME": "Cataurus Hicks, WR",
       "TEAM": "PITT",
       "RESULT": "",
-      "REC": "3",
-      "YDS": "107",
-      "YPR": "35.7",
+      "REC": "4",
+      "YDS": "113",
+      "YPR": "28.3",
       "TD": "1"
     },
     {
