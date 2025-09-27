@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Conner Weigman, QB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "32",
+      "YDS": "240",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "133.6"
+    },
+    {
+      "RK": "6",
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -61,28 +73,16 @@
       "RAT": "131.0"
     },
     {
-      "RK": "6",
-      "NAME": "Conner Weigman, QB",
-      "TEAM": "HOU",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "27",
-      "YDS": "149",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "90.8"
-    },
-    {
       "RK": "7",
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "",
-      "COMP": "14",
-      "ATT": "22",
-      "YDS": "138",
+      "COMP": "15",
+      "ATT": "25",
+      "YDS": "147",
       "TD": "1",
       "INT": "0",
-      "RAT": "131.3"
+      "RAT": "122.6"
     },
     {
       "RK": "8",
@@ -145,9 +145,9 @@
       "NAME": "Cornell Hatcher Jr., RB",
       "TEAM": "ORST",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "88",
-      "YPC": "6.3",
+      "CAR": "16",
+      "YDS": "93",
+      "YPC": "5.8",
       "TD": "1"
     },
     {
@@ -192,22 +192,22 @@
     },
     {
       "RK": "9",
+      "NAME": "Anthony Hankerson, RB",
+      "TEAM": "ORST",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "61",
+      "YPC": "3.1",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Xavier Brown, RB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
       "CAR": "9",
       "YDS": "60",
       "YPC": "6.7",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "London Montgomery, RB",
-      "TEAM": "ECU",
-      "RESULT": "W28-6vs.ARMY",
-      "CAR": "15",
-      "YDS": "58",
-      "YPC": "3.9",
       "TD": "0"
     }
   ],
@@ -244,6 +244,26 @@
     },
     {
       "RK": "4",
+      "NAME": "Amare Thomas, WR",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "86",
+      "YPR": "17.2",
+      "TD": "0"
+    },
+    {
+      "RK": "",
+      "NAME": "Tanner Koziol, TE",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "86",
+      "YPR": "14.3",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Joseph Manjack IV, WR",
       "TEAM": "TCU",
       "RESULT": "L24-27atASU",
@@ -253,17 +273,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
-      "NAME": "Amare Thomas, WR",
-      "TEAM": "HOU",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "78",
-      "YPR": "19.5",
-      "TD": "0"
-    },
-    {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Trent Walker, WR",
       "TEAM": "ORST",
       "RESULT": "",
@@ -273,7 +283,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "DJ Rogers, TE",
       "TEAM": "TCU",
       "RESULT": "L24-27atASU",
@@ -283,7 +293,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Yannick Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -293,23 +303,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jahmal Edrine, WR",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
       "REC": "5",
       "YDS": "45",
       "YPR": "9.0",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Trell Harris, WR",
-      "TEAM": "UVA",
-      "RESULT": "W46-38vs.FSU",
-      "REC": "3",
-      "YDS": "45",
-      "YPR": "15.0",
       "TD": "0"
     }
   ]
