@@ -17,12 +17,12 @@
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "W27-24atORST",
-      "COMP": "19",
-      "ATT": "35",
-      "YDS": "258",
+      "COMP": "20",
+      "ATT": "36",
+      "YDS": "270",
       "TD": "2",
       "INT": "1",
-      "RAT": "129.3"
+      "RAT": "131.3"
     },
     {
       "RK": "3",
@@ -77,12 +77,12 @@
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "L24-27vs.HOU",
-      "COMP": "18",
-      "ATT": "31",
-      "YDS": "192",
+      "COMP": "20",
+      "ATT": "33",
+      "YDS": "201",
       "TD": "1",
       "INT": "0",
-      "RAT": "120.7"
+      "RAT": "121.8"
     },
     {
       "RK": "8",
@@ -145,9 +145,9 @@
       "NAME": "Cornell Hatcher Jr., RB",
       "TEAM": "ORST",
       "RESULT": "L24-27vs.HOU",
-      "CAR": "16",
+      "CAR": "17",
       "YDS": "93",
-      "YPC": "5.8",
+      "YPC": "5.5",
       "TD": "1"
     },
     {
