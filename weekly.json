@@ -89,15 +89,15 @@
       "NAME": "Athan Kaliakmanis, QB",
       "TEAM": "RUTG",
       "RESULT": "",
-      "COMP": "8",
-      "ATT": "8",
-      "YDS": "99",
+      "COMP": "9",
+      "ATT": "9",
+      "YDS": "115",
       "TD": "1",
       "INT": "0",
-      "RAT": "245.2"
+      "RAT": "244.0"
     },
     {
-      "RK": "",
+      "RK": "9",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "",
@@ -113,12 +113,12 @@
       "NAME": "Eli Holstein, QB",
       "TEAM": "PITT",
       "RESULT": "",
-      "COMP": "5",
-      "ATT": "7",
-      "YDS": "93",
+      "COMP": "7",
+      "ATT": "10",
+      "YDS": "98",
       "TD": "1",
       "INT": "0",
-      "RAT": "230.2"
+      "RAT": "185.3"
     }
   ],
   "Rushing Leaders": [
