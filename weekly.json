@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Junior Vandeross III, WR",
+      "TEAM": "TOL",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "116",
+      "YPR": "14.5",
+      "TD": "2"
+    },
+    {
+      "RK": "8",
       "NAME": "Cataurus Hicks, WR",
       "TEAM": "PITT",
       "RESULT": "L27-34vs.LOU",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
       "RESULT": "L10-35atJMU",
@@ -305,23 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Amare Thomas, WR",
       "TEAM": "HOU",
       "RESULT": "W27-24atORST",
       "REC": "6",
       "YDS": "104",
       "YPR": "17.3",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Trent Walker, WR",
-      "TEAM": "ORST",
-      "RESULT": "L24-27vs.HOU",
-      "REC": "7",
-      "YDS": "103",
-      "YPR": "14.7",
       "TD": "0"
     }
   ]
