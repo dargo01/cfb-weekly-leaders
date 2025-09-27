@@ -65,12 +65,12 @@
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "",
-      "COMP": "10",
-      "ATT": "16",
-      "YDS": "99",
+      "COMP": "13",
+      "ATT": "20",
+      "YDS": "128",
       "TD": "1",
       "INT": "0",
-      "RAT": "135.1"
+      "RAT": "135.3"
     },
     {
       "RK": "7",
@@ -78,11 +78,11 @@
       "TEAM": "HOU",
       "RESULT": "",
       "COMP": "9",
-      "ATT": "18",
+      "ATT": "20",
       "YDS": "72",
       "TD": "0",
       "INT": "1",
-      "RAT": "72.5"
+      "RAT": "65.2"
     },
     {
       "RK": "8",
@@ -165,13 +165,13 @@
       "NAME": "Dean Connors, RB",
       "TEAM": "HOU",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "63",
-      "YPC": "5.3",
+      "CAR": "13",
+      "YDS": "66",
+      "YPC": "5.1",
       "TD": "0"
     },
     {
-      "RK": "",
+      "RK": "7",
       "NAME": "Ousmane Kromah, RB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
@@ -182,6 +182,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Sam Leavitt, QB",
+      "TEAM": "ASU",
+      "RESULT": "W27-24vs.TCU",
+      "CAR": "13",
+      "YDS": "62",
+      "YPC": "4.8",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Xavier Brown, RB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -191,7 +201,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -199,16 +209,6 @@
       "YDS": "58",
       "YPC": "3.9",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sam Leavitt, QB",
-      "TEAM": "ASU",
-      "RESULT": "W27-24vs.TCU",
-      "CAR": "13",
-      "YDS": "56",
-      "YPC": "4.3",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -254,6 +254,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Trent Walker, WR",
+      "TEAM": "ORST",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "65",
+      "YPR": "13.0",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "DJ Rogers, TE",
       "TEAM": "TCU",
       "RESULT": "L24-27atASU",
@@ -263,7 +273,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Yannick Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -273,7 +283,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jahmal Edrine, WR",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -293,23 +303,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Lawayne McCoy, WR",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
       "REC": "2",
       "YDS": "44",
       "YPR": "22.0",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Trent Walker, WR",
-      "TEAM": "ORST",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "43",
-      "YPR": "10.8",
       "TD": "0"
     }
   ]
