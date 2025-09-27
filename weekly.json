@@ -62,6 +62,30 @@
     },
     {
       "RK": "6",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "29",
+      "YDS": "337",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "212.1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Micah Alejado, QB",
+      "TEAM": "HAW",
+      "RESULT": "",
+      "COMP": "30",
+      "ATT": "39",
+      "YDS": "331",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "165.1"
+    },
+    {
+      "RK": "8",
       "NAME": "Luke Altmyer, QB",
       "TEAM": "ILL",
       "RESULT": "W34-32vs.USC",
@@ -73,7 +97,7 @@
       "RAT": "208.3"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Drake Lindsey, QB",
       "TEAM": "MINN",
       "RESULT": "W31-28vs.RUTG",
@@ -85,7 +109,7 @@
       "RAT": "166.1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Diego Pavia, QB",
       "TEAM": "VAN",
       "RESULT": "W55-35vs.USU",
@@ -95,35 +119,21 @@
       "TD": "5",
       "INT": "1",
       "RAT": "198.4"
-    },
-    {
-      "RK": "9",
-      "NAME": "Micah Alejado, QB",
-      "TEAM": "HAW",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "34",
-      "YDS": "301",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "167.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sam Leavitt, QB",
-      "TEAM": "ASU",
-      "RESULT": "W27-24vs.TCU",
-      "COMP": "27",
-      "ATT": "39",
-      "YDS": "291",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "148.8"
     }
   ],
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Turbo Richard, RB",
+      "TEAM": "BC",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "171",
+      "YPC": "11.4",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
       "NAME": "Nate Sheppard, RB",
       "TEAM": "DUKE",
       "RESULT": "W38-3atSYR",
@@ -133,7 +143,7 @@
       "TD": "2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Dylan Edwards, RB",
       "TEAM": "KSU",
       "RESULT": "W34-20vs.UCF",
@@ -143,7 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "L28-31atMINN",
@@ -153,7 +163,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "W35-10vs.GASO",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W36-22vs.USA",
@@ -173,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jordan Fuller, RB",
       "TEAM": "JMU",
       "RESULT": "W35-10vs.GASO",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Angel Flores, QB",
       "TEAM": "CMU",
       "RESULT": "W24-13vs.EMU",
@@ -210,16 +220,6 @@
       "CAR": "21",
       "YDS": "134",
       "YPC": "6.4",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Noah Short, WR",
-      "TEAM": "ARMY",
-      "RESULT": "L6-28atECU",
-      "CAR": "11",
-      "YDS": "127",
-      "YPC": "11.5",
       "TD": "0"
     }
   ],
@@ -288,7 +288,7 @@
       "RK": "",
       "NAME": "Chauncy Cobb, WR",
       "TEAM": "ARST",
-      "RESULT": "",
+      "RESULT": "L16-28atULM",
       "REC": "8",
       "YDS": "126",
       "YPR": "15.8",
@@ -318,7 +318,7 @@
       "RK": "10",
       "NAME": "Corey Rucker, WR",
       "TEAM": "ARST",
-      "RESULT": "",
+      "RESULT": "L16-28atULM",
       "REC": "9",
       "YDS": "120",
       "YPR": "13.3",
