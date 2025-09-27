@@ -89,36 +89,36 @@
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "6",
-      "YDS": "138",
+      "COMP": "5",
+      "ATT": "7",
+      "YDS": "169",
       "TD": "1",
       "INT": "0",
-      "RAT": "314.9"
+      "RAT": "321.4"
     },
     {
-      "RK": "9",
-      "NAME": "Athan Kaliakmanis, QB",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "COMP": "10",
-      "ATT": "13",
-      "YDS": "129",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "211.0"
-    },
-    {
-      "RK": "10",
+      "RK": "",
       "NAME": "Brendan Sorsby, QB",
       "TEAM": "CIN",
       "RESULT": "",
-      "COMP": "10",
-      "ATT": "15",
-      "YDS": "108",
-      "TD": "0",
+      "COMP": "14",
+      "ATT": "20",
+      "YDS": "169",
+      "TD": "1",
       "INT": "0",
-      "RAT": "127.1"
+      "RAT": "157.5"
+    },
+    {
+      "RK": "10",
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "COMP": "9",
+      "ATT": "11",
+      "YDS": "147",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "224.1"
     }
   ],
   "Rushing Leaders": [
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Nate Sheppard, RB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "CAR": "4",
+      "YDS": "77",
+      "YPC": "19.3",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Anthony Hankerson, RB",
       "TEAM": "ORST",
       "RESULT": "L24-27vs.HOU",
@@ -190,16 +200,6 @@
       "CAR": "17",
       "YDS": "74",
       "YPC": "4.4",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Nate Sheppard, RB",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "CAR": "3",
-      "YDS": "68",
-      "YPC": "22.7",
       "TD": "1"
     },
     {
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Johntay Cook, WR",
+      "TEAM": "SYR",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "63",
+      "YPR": "12.6",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "DJ Rogers, TE",
       "TEAM": "TCU",
       "RESULT": "L24-27atASU",
@@ -305,24 +315,14 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Yannick Smith, WR",
-      "TEAM": "ECU",
-      "RESULT": "W28-6vs.ARMY",
-      "REC": "3",
-      "YDS": "56",
-      "YPR": "18.7",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "KJ Duff, WR",
-      "TEAM": "RUTG",
+      "NAME": "Chris Bell, WR",
+      "TEAM": "LOU",
       "RESULT": "",
-      "REC": "3",
-      "YDS": "53",
-      "YPR": "17.7",
-      "TD": "1"
+      "REC": "5",
+      "YDS": "58",
+      "YPR": "11.6",
+      "TD": "0"
     }
   ]
 }
