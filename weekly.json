@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Sam Leavitt, QB",
+      "TEAM": "ASU",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "29",
+      "YDS": "260",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "155.7"
+    },
+    {
+      "RK": "2",
       "NAME": "Tommy Castellanos, QB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
@@ -13,7 +25,7 @@
       "RAT": "120.7"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -25,7 +37,7 @@
       "RAT": "184.9"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -35,18 +47,6 @@
       "TD": "2",
       "INT": "3",
       "RAT": "131.0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Sam Leavitt, QB",
-      "TEAM": "ASU",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "24",
-      "YDS": "224",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "167.1"
     },
     {
       "RK": "5",
@@ -66,23 +66,23 @@
       "TEAM": "HOU",
       "RESULT": "",
       "COMP": "5",
-      "ATT": "9",
+      "ATT": "12",
       "YDS": "57",
       "TD": "0",
       "INT": "1",
-      "RAT": "86.5"
+      "RAT": "64.9"
     },
     {
       "RK": "7",
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "8",
-      "YDS": "47",
+      "COMP": "5",
+      "ATT": "9",
+      "YDS": "55",
       "TD": "1",
       "INT": "0",
-      "RAT": "140.6"
+      "RAT": "143.6"
     },
     {
       "RK": "8",
@@ -132,6 +132,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Raleek Brown, RB",
+      "TEAM": "ASU",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "90",
+      "YPC": "6.0",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Tommy Castellanos, QB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
@@ -141,17 +151,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
-      "NAME": "Raleek Brown, RB",
-      "TEAM": "ASU",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "74",
-      "YPC": "6.2",
-      "TD": "0"
-    },
-    {
-      "RK": "",
+      "RK": "5",
       "NAME": "Gavin Sawchuk, RB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
@@ -227,9 +227,9 @@
       "NAME": "Jordyn Tyson, WR",
       "TEAM": "ASU",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "93",
-      "YPR": "18.6",
+      "REC": "6",
+      "YDS": "118",
+      "YPR": "19.7",
       "TD": "1"
     },
     {
