@@ -28,7 +28,7 @@
       "RK": "3",
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
-      "RESULT": "",
+      "RESULT": "L32-34atILL",
       "COMP": "30",
       "ATT": "43",
       "YDS": "364",
@@ -52,7 +52,7 @@
       "RK": "5",
       "NAME": "Miller Moss, QB",
       "TEAM": "LOU",
-      "RESULT": "",
+      "RESULT": "W34-27atPITT",
       "COMP": "33",
       "ATT": "51",
       "YDS": "339",
@@ -64,13 +64,13 @@
       "RK": "6",
       "NAME": "Luke Altmyer, QB",
       "TEAM": "ILL",
-      "RESULT": "",
+      "RESULT": "W34-32vs.USC",
       "COMP": "20",
-      "ATT": "27",
+      "ATT": "26",
       "YDS": "328",
       "TD": "2",
       "INT": "0",
-      "RAT": "200.6"
+      "RAT": "208.3"
     },
     {
       "RK": "7",
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Wayne Knight, RB",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "135",
+      "YPC": "9.0",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Raleek Brown, RB",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -173,17 +183,17 @@
       "TD": "0"
     },
     {
-      "RK": "6",
-      "NAME": "Wayne Knight, RB",
-      "TEAM": "JMU",
+      "RK": "7",
+      "NAME": "Angel Flores, QB",
+      "TEAM": "CMU",
       "RESULT": "",
-      "CAR": "13",
-      "YDS": "130",
-      "YPC": "10.0",
-      "TD": "1"
+      "CAR": "21",
+      "YDS": "127",
+      "YPC": "6.0",
+      "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "",
       "NAME": "Noah Short, WR",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Myles Montgomery, RB",
       "TEAM": "UCF",
       "RESULT": "L20-34atKSU",
@@ -203,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W35-20vs.BGSU",
@@ -211,16 +221,6 @@
       "YDS": "115",
       "YPC": "6.4",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "J'Mari Taylor, RB",
-      "TEAM": "UVA",
-      "RESULT": "W46-38vs.FSU",
-      "CAR": "27",
-      "YDS": "99",
-      "YPC": "3.7",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -238,7 +238,7 @@
       "RK": "2",
       "NAME": "Makai Lemon, WR",
       "TEAM": "USC",
-      "RESULT": "",
+      "RESULT": "L32-34atILL",
       "REC": "11",
       "YDS": "151",
       "YPR": "13.7",
@@ -258,7 +258,7 @@
       "RK": "4",
       "NAME": "Chris Bell, WR",
       "TEAM": "LOU",
-      "RESULT": "",
+      "RESULT": "W34-27atPITT",
       "REC": "10",
       "YDS": "135",
       "YPR": "13.5",
@@ -288,7 +288,7 @@
       "RK": "7",
       "NAME": "Cataurus Hicks, WR",
       "TEAM": "PITT",
-      "RESULT": "",
+      "RESULT": "L27-34vs.LOU",
       "REC": "4",
       "YDS": "113",
       "YPR": "28.3",
