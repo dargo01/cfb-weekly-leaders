@@ -4,7 +4,7 @@
       "RK": "1",
       "NAME": "Sam Leavitt, QB",
       "TEAM": "ASU",
-      "RESULT": "",
+      "RESULT": "W27-24vs.TCU",
       "COMP": "26",
       "ATT": "38",
       "YDS": "278",
@@ -40,13 +40,13 @@
       "RK": "4",
       "NAME": "Josh Hoover, QB",
       "TEAM": "TCU",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "30",
-      "YDS": "233",
+      "RESULT": "L24-27atASU",
+      "COMP": "20",
+      "ATT": "32",
+      "YDS": "242",
       "TD": "0",
-      "INT": "1",
-      "RAT": "121.9"
+      "INT": "2",
+      "RAT": "113.5"
     },
     {
       "RK": "5",
@@ -65,24 +65,24 @@
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "",
-      "COMP": "9",
-      "ATT": "15",
-      "YDS": "94",
+      "COMP": "10",
+      "ATT": "16",
+      "YDS": "99",
       "TD": "1",
       "INT": "0",
-      "RAT": "134.6"
+      "RAT": "135.1"
     },
     {
       "RK": "7",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "",
-      "COMP": "8",
-      "ATT": "16",
+      "COMP": "9",
+      "ATT": "18",
       "YDS": "72",
       "TD": "0",
       "INT": "1",
-      "RAT": "75.3"
+      "RAT": "72.5"
     },
     {
       "RK": "8",
@@ -114,10 +114,10 @@
       "RK": "1",
       "NAME": "Raleek Brown, RB",
       "TEAM": "ASU",
-      "RESULT": "",
-      "CAR": "20",
-      "YDS": "144",
-      "YPC": "7.2",
+      "RESULT": "W27-24vs.TCU",
+      "CAR": "22",
+      "YDS": "147",
+      "YPC": "6.7",
       "TD": "0"
     },
     {
@@ -162,6 +162,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Dean Connors, RB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "63",
+      "YPC": "5.3",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Ousmane Kromah, RB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
@@ -171,7 +181,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Xavier Brown, RB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -181,7 +191,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -191,23 +201,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Dean Connors, RB",
-      "TEAM": "HOU",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "57",
-      "YPC": "5.2",
-      "TD": "0"
-    },
-    {
       "RK": "10",
       "NAME": "Sam Leavitt, QB",
       "TEAM": "ASU",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "55",
-      "YPC": "4.6",
+      "RESULT": "W27-24vs.TCU",
+      "CAR": "13",
+      "YDS": "56",
+      "YPC": "4.3",
       "TD": "1"
     }
   ],
@@ -226,7 +226,7 @@
       "RK": "2",
       "NAME": "Jordyn Tyson, WR",
       "TEAM": "ASU",
-      "RESULT": "",
+      "RESULT": "W27-24vs.TCU",
       "REC": "8",
       "YDS": "126",
       "YPR": "15.8",
@@ -246,7 +246,7 @@
       "RK": "4",
       "NAME": "Joseph Manjack IV, WR",
       "TEAM": "TCU",
-      "RESULT": "",
+      "RESULT": "L24-27atASU",
       "REC": "6",
       "YDS": "83",
       "YPR": "13.8",
@@ -254,22 +254,22 @@
     },
     {
       "RK": "5",
+      "NAME": "DJ Rogers, TE",
+      "TEAM": "TCU",
+      "RESULT": "L24-27atASU",
+      "REC": "4",
+      "YDS": "60",
+      "YPR": "15.0",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Yannick Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
       "REC": "3",
       "YDS": "56",
       "YPR": "18.7",
-      "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "DJ Rogers, TE",
-      "TEAM": "TCU",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "51",
-      "YPR": "17.0",
       "TD": "0"
     },
     {
