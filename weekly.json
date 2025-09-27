@@ -62,27 +62,27 @@
     },
     {
       "RK": "6",
+      "NAME": "Conner Weigman, QB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "27",
+      "YDS": "149",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "90.8"
+    },
+    {
+      "RK": "7",
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "",
       "COMP": "14",
-      "ATT": "21",
+      "ATT": "22",
       "YDS": "138",
       "TD": "1",
       "INT": "0",
-      "RAT": "137.6"
-    },
-    {
-      "RK": "7",
-      "NAME": "Conner Weigman, QB",
-      "TEAM": "HOU",
-      "RESULT": "",
-      "COMP": "10",
-      "ATT": "22",
-      "YDS": "104",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "76.1"
+      "RAT": "131.3"
     },
     {
       "RK": "8",
@@ -145,9 +145,9 @@
       "NAME": "Cornell Hatcher Jr., RB",
       "TEAM": "ORST",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "82",
-      "YPC": "6.8",
+      "CAR": "14",
+      "YDS": "88",
+      "YPC": "6.3",
       "TD": "1"
     },
     {
@@ -254,6 +254,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Amare Thomas, WR",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "78",
+      "YPR": "19.5",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Trent Walker, WR",
       "TEAM": "ORST",
       "RESULT": "",
@@ -263,7 +273,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "DJ Rogers, TE",
       "TEAM": "TCU",
       "RESULT": "L24-27atASU",
@@ -273,7 +283,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Yannick Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -283,7 +293,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jahmal Edrine, WR",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -300,16 +310,6 @@
       "REC": "3",
       "YDS": "45",
       "YPR": "15.0",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Lawayne McCoy, WR",
-      "TEAM": "FSU",
-      "RESULT": "L38-46atUVA",
-      "REC": "2",
-      "YDS": "44",
-      "YPR": "22.0",
       "TD": "0"
     }
   ]
