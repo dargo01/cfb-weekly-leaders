@@ -49,7 +49,19 @@
       "RAT": "216.5"
     },
     {
-      "RK": "5",
+      "RK": "",
+      "NAME": "Micah Alejado, QB",
+      "TEAM": "HAW",
+      "RESULT": "",
+      "COMP": "31",
+      "ATT": "41",
+      "YDS": "354",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "164.2"
+    },
+    {
+      "RK": "6",
       "NAME": "Miller Moss, QB",
       "TEAM": "LOU",
       "RESULT": "W34-27atPITT",
@@ -61,28 +73,16 @@
       "RAT": "136.0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "",
       "COMP": "20",
-      "ATT": "29",
+      "ATT": "30",
       "YDS": "337",
       "TD": "4",
       "INT": "0",
-      "RAT": "212.1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Micah Alejado, QB",
-      "TEAM": "HAW",
-      "RESULT": "",
-      "COMP": "30",
-      "ATT": "39",
-      "YDS": "331",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "165.1"
+      "RAT": "205.0"
     },
     {
       "RK": "8",
