@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "CJ Carr, QB",
+      "TEAM": "ND",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "29",
+      "YDS": "341",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "216.7"
+    },
+    {
+      "RK": "2",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "",
@@ -11,18 +23,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "264.3"
-    },
-    {
-      "RK": "2",
-      "NAME": "CJ Carr, QB",
-      "TEAM": "ND",
-      "RESULT": "",
-      "COMP": "20",
-      "ATT": "28",
-      "YDS": "329",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "217.3"
     },
     {
       "RK": "3",
