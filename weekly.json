@@ -88,7 +88,7 @@
       "RK": "8",
       "NAME": "Diego Pavia, QB",
       "TEAM": "VAN",
-      "RESULT": "",
+      "RESULT": "W55-35vs.USU",
       "COMP": "26",
       "ATT": "34",
       "YDS": "321",
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Wayne Knight, RB",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "153",
+      "YPC": "8.5",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W36-22vs.USA",
@@ -161,16 +171,6 @@
       "YDS": "140",
       "YPC": "8.8",
       "TD": "2"
-    },
-    {
-      "RK": "5",
-      "NAME": "Wayne Knight, RB",
-      "TEAM": "JMU",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "135",
-      "YPC": "9.0",
-      "TD": "1"
     },
     {
       "RK": "6",
@@ -186,11 +186,21 @@
       "RK": "7",
       "NAME": "Angel Flores, QB",
       "TEAM": "CMU",
-      "RESULT": "",
+      "RESULT": "W24-13vs.EMU",
       "CAR": "21",
       "YDS": "127",
       "YPC": "6.0",
       "TD": "0"
+    },
+    {
+      "RK": "",
+      "NAME": "Jordan Fuller, RB",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "127",
+      "YPC": "9.1",
+      "TD": "1"
     },
     {
       "RK": "",
@@ -203,23 +213,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Myles Montgomery, RB",
       "TEAM": "UCF",
       "RESULT": "L20-34atKSU",
       "CAR": "10",
       "YDS": "119",
       "YPC": "11.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sieh Bangura, RB",
-      "TEAM": "OHIO",
-      "RESULT": "W35-20vs.BGSU",
-      "CAR": "18",
-      "YDS": "115",
-      "YPC": "6.4",
       "TD": "0"
     }
   ],
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Camden Brown, WR",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "111",
+      "YPR": "22.2",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Amare Thomas, WR",
       "TEAM": "HOU",
       "RESULT": "W27-24atORST",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Trent Walker, WR",
       "TEAM": "ORST",
       "RESULT": "L24-27vs.HOU",
@@ -313,16 +323,6 @@
       "YDS": "103",
       "YPR": "14.7",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Jalen Smith, WR",
-      "TEAM": "MINN",
-      "RESULT": "W31-28vs.RUTG",
-      "REC": "4",
-      "YDS": "103",
-      "YPR": "25.8",
-      "TD": "1"
     }
   ]
 }
