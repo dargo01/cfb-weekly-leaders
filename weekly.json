@@ -86,27 +86,39 @@
     },
     {
       "RK": "8",
-      "NAME": "Dewayne Coleman, QB",
-      "TEAM": "ARMY",
-      "RESULT": "L6-28atECU",
-      "COMP": "5",
-      "ATT": "9",
-      "YDS": "36",
+      "NAME": "Athan Kaliakmanis, QB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "COMP": "4",
+      "ATT": "4",
+      "YDS": "59",
       "TD": "0",
       "INT": "0",
-      "RAT": "89.2"
+      "RAT": "223.9"
     },
     {
       "RK": "9",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "L6-28atECU",
-      "COMP": "1",
-      "ATT": "3",
-      "YDS": "13",
+      "NAME": "Bishop Davenport, QB",
+      "TEAM": "USA",
+      "RESULT": "",
+      "COMP": "3",
+      "ATT": "4",
+      "YDS": "56",
       "TD": "0",
       "INT": "0",
-      "RAT": "69.7"
+      "RAT": "192.6"
+    },
+    {
+      "RK": "10",
+      "NAME": "Eli Holstein, QB",
+      "TEAM": "PITT",
+      "RESULT": "",
+      "COMP": "4",
+      "ATT": "6",
+      "YDS": "54",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "142.3"
     }
   ],
   "Rushing Leaders": [
