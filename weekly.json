@@ -65,24 +65,24 @@
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "",
-      "COMP": "13",
-      "ATT": "20",
-      "YDS": "128",
+      "COMP": "14",
+      "ATT": "21",
+      "YDS": "138",
       "TD": "1",
       "INT": "0",
-      "RAT": "135.3"
+      "RAT": "137.6"
     },
     {
       "RK": "7",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "",
-      "COMP": "9",
-      "ATT": "20",
-      "YDS": "72",
+      "COMP": "10",
+      "ATT": "22",
+      "YDS": "104",
       "TD": "0",
       "INT": "1",
-      "RAT": "65.2"
+      "RAT": "76.1"
     },
     {
       "RK": "8",
@@ -142,6 +142,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Cornell Hatcher Jr., RB",
+      "TEAM": "ORST",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "82",
+      "YPC": "6.8",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Tommy Castellanos, QB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
@@ -151,7 +161,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Gavin Sawchuk, RB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
@@ -159,16 +169,6 @@
       "YDS": "74",
       "YPC": "4.4",
       "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Dean Connors, RB",
-      "TEAM": "HOU",
-      "RESULT": "",
-      "CAR": "13",
-      "YDS": "66",
-      "YPC": "5.1",
-      "TD": "0"
     },
     {
       "RK": "7",
