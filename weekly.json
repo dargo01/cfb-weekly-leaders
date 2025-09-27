@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "CJ Carr, QB",
+      "TEAM": "ND",
+      "RESULT": "",
+      "COMP": "10",
+      "ATT": "13",
+      "YDS": "204",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "284.9"
+    },
+    {
+      "RK": "8",
       "NAME": "Maalik Murphy, QB",
       "TEAM": "ORST",
       "RESULT": "L24-27vs.HOU",
@@ -85,40 +97,28 @@
       "RAT": "121.8"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "",
-      "COMP": "5",
-      "ATT": "7",
-      "YDS": "169",
+      "COMP": "6",
+      "ATT": "10",
+      "YDS": "194",
       "TD": "1",
       "INT": "0",
-      "RAT": "321.4"
-    },
-    {
-      "RK": "",
-      "NAME": "Brendan Sorsby, QB",
-      "TEAM": "CIN",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "20",
-      "YDS": "169",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "157.5"
+      "RAT": "256.0"
     },
     {
       "RK": "10",
       "NAME": "Darian Mensah, QB",
       "TEAM": "DUKE",
       "RESULT": "",
-      "COMP": "9",
-      "ATT": "11",
-      "YDS": "147",
-      "TD": "1",
+      "COMP": "13",
+      "ATT": "16",
+      "YDS": "186",
+      "TD": "2",
       "INT": "0",
-      "RAT": "224.1"
+      "RAT": "220.2"
     }
   ],
   "Rushing Leaders": [
@@ -173,13 +173,13 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "",
       "NAME": "Nate Sheppard, RB",
       "TEAM": "DUKE",
       "RESULT": "",
-      "CAR": "4",
-      "YDS": "77",
-      "YPC": "19.3",
+      "CAR": "5",
+      "YDS": "78",
+      "YPC": "15.6",
       "TD": "1"
     },
     {
@@ -203,23 +203,23 @@
       "TD": "1"
     },
     {
-      "RK": "9",
-      "NAME": "Ousmane Kromah, RB",
-      "TEAM": "FSU",
-      "RESULT": "L38-46atUVA",
-      "CAR": "12",
-      "YDS": "63",
+      "RK": "",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "74",
       "YPC": "5.3",
       "TD": "0"
     },
     {
       "RK": "10",
-      "NAME": "Sam Leavitt, QB",
-      "TEAM": "ASU",
-      "RESULT": "W27-24vs.TCU",
-      "CAR": "13",
-      "YDS": "62",
-      "YPC": "4.8",
+      "NAME": "Demond Claiborne, RB",
+      "TEAM": "WAKE",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "69",
+      "YPC": "7.7",
       "TD": "1"
     }
   ],
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Emmanuel Henderson Jr., WR",
+      "TEAM": "KU",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "118",
+      "YPR": "59.0",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Amare Thomas, WR",
       "TEAM": "HOU",
       "RESULT": "W27-24atORST",
@@ -255,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Trent Walker, WR",
       "TEAM": "ORST",
       "RESULT": "L24-27vs.HOU",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Anthony Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Tanner Koziol, TE",
       "TEAM": "HOU",
       "RESULT": "W27-24atORST",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Joseph Manjack IV, WR",
       "TEAM": "TCU",
       "RESULT": "L24-27atASU",
@@ -295,34 +305,24 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Johntay Cook, WR",
-      "TEAM": "SYR",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "63",
-      "YPR": "12.6",
-      "TD": "0"
-    },
-    {
       "RK": "9",
-      "NAME": "DJ Rogers, TE",
-      "TEAM": "TCU",
-      "RESULT": "L24-27atASU",
+      "NAME": "Devin Voisin, WR",
+      "TEAM": "USA",
+      "RESULT": "",
       "REC": "4",
-      "YDS": "60",
-      "YPR": "15.0",
+      "YDS": "79",
+      "YPR": "19.8",
       "TD": "0"
     },
     {
       "RK": "10",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "58",
-      "YPR": "11.6",
-      "TD": "0"
+      "REC": "4",
+      "YDS": "72",
+      "YPR": "18.0",
+      "TD": "2"
     }
   ]
 }
