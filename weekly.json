@@ -194,6 +194,16 @@
     },
     {
       "RK": "",
+      "NAME": "Kenny Tracy, RB",
+      "TEAM": "M-OH",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "134",
+      "YPC": "6.7",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Raleek Brown, RB",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -203,23 +213,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Noah Short, WR",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
       "CAR": "11",
       "YDS": "127",
       "YPC": "11.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Myles Montgomery, RB",
-      "TEAM": "UCF",
-      "RESULT": "L20-34atKSU",
-      "CAR": "10",
-      "YDS": "119",
-      "YPC": "11.9",
       "TD": "0"
     }
   ],
