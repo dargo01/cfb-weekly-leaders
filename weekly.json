@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Jalon Daniels, QB",
+      "TEAM": "KU",
+      "RESULT": "",
+      "COMP": "10",
+      "ATT": "16",
+      "YDS": "253",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "236.6"
+    },
+    {
+      "RK": "6",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -61,7 +73,7 @@
       "RAT": "184.9"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Josh Hoover, QB",
       "TEAM": "TCU",
       "RESULT": "L24-27atASU",
@@ -73,7 +85,19 @@
       "RAT": "113.5"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Brendan Sorsby, QB",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "25",
+      "YDS": "232",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "159.2"
+    },
+    {
+      "RK": "9",
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
@@ -85,40 +109,16 @@
       "RAT": "131.0"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Darian Mensah, QB",
       "TEAM": "DUKE",
       "RESULT": "",
-      "COMP": "16",
-      "ATT": "21",
-      "YDS": "203",
+      "COMP": "18",
+      "ATT": "24",
+      "YDS": "221",
       "TD": "2",
       "INT": "0",
-      "RAT": "188.8"
-    },
-    {
-      "RK": "9",
-      "NAME": "Maalik Murphy, QB",
-      "TEAM": "ORST",
-      "RESULT": "L24-27vs.HOU",
-      "COMP": "20",
-      "ATT": "33",
-      "YDS": "201",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "121.8"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jalon Daniels, QB",
-      "TEAM": "KU",
-      "RESULT": "",
-      "COMP": "6",
-      "ATT": "10",
-      "YDS": "194",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "256.0"
+      "RAT": "179.8"
     }
   ],
   "Rushing Leaders": [
@@ -147,9 +147,9 @@
       "NAME": "Nate Sheppard, RB",
       "TEAM": "DUKE",
       "RESULT": "",
-      "CAR": "6",
-      "YDS": "110",
-      "YPC": "18.3",
+      "CAR": "8",
+      "YDS": "113",
+      "YPC": "14.1",
       "TD": "1"
     },
     {
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Caleb Hawkins, RB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "89",
+      "YPC": "6.8",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Evan Pryor, RB",
       "TEAM": "CIN",
       "RESULT": "",
@@ -193,33 +203,23 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Dylan Edwards, RB",
+      "TEAM": "KSU",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "79",
+      "YPC": "7.2",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Tommy Castellanos, QB",
       "TEAM": "FSU",
       "RESULT": "L38-46atUVA",
       "CAR": "14",
       "YDS": "78",
       "YPC": "5.6",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Angel Flores, QB",
-      "TEAM": "CMU",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "76",
-      "YPC": "8.4",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Caleb Hawkins, RB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "75",
-      "YPC": "6.8",
       "TD": "1"
     }
   ],
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Emmanuel Henderson Jr., WR",
+      "TEAM": "KU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "139",
+      "YPR": "34.8",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Jordyn Tyson, WR",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -243,16 +253,6 @@
       "YDS": "126",
       "YPR": "15.8",
       "TD": "2"
-    },
-    {
-      "RK": "3",
-      "NAME": "Emmanuel Henderson Jr., WR",
-      "TEAM": "KU",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "118",
-      "YPR": "59.0",
-      "TD": "1"
     },
     {
       "RK": "4",
@@ -276,6 +276,36 @@
     },
     {
       "RK": "6",
+      "NAME": "Cyrus Allen, WR",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "101",
+      "YPR": "14.4",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Jalen Smith, WR",
+      "TEAM": "MINN",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "97",
+      "YPR": "32.3",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
+      "NAME": "Junior Sherrill, WR",
+      "TEAM": "VAN",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "91",
+      "YPR": "15.2",
+      "TD": "3"
+    },
+    {
+      "RK": "9",
       "NAME": "Anthony Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -285,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Tanner Koziol, TE",
       "TEAM": "HOU",
       "RESULT": "W27-24atORST",
@@ -293,36 +323,6 @@
       "YDS": "86",
       "YPR": "14.3",
       "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Joseph Manjack IV, WR",
-      "TEAM": "TCU",
-      "RESULT": "L24-27atASU",
-      "REC": "6",
-      "YDS": "83",
-      "YPR": "13.8",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "83",
-      "YPR": "13.8",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Devin Voisin, WR",
-      "TEAM": "USA",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "79",
-      "YPR": "19.8",
-      "TD": "0"
     }
   ]
 }
