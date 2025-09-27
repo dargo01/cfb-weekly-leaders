@@ -86,39 +86,39 @@
     },
     {
       "RK": "8",
-      "NAME": "Athan Kaliakmanis, QB",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "COMP": "9",
-      "ATT": "9",
-      "YDS": "115",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "244.0"
-    },
-    {
-      "RK": "9",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "",
-      "COMP": "2",
-      "ATT": "3",
-      "YDS": "99",
+      "COMP": "4",
+      "ATT": "6",
+      "YDS": "138",
       "TD": "1",
       "INT": "0",
-      "RAT": "453.9"
+      "RAT": "314.9"
+    },
+    {
+      "RK": "9",
+      "NAME": "Athan Kaliakmanis, QB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "COMP": "10",
+      "ATT": "13",
+      "YDS": "129",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "211.0"
     },
     {
       "RK": "10",
-      "NAME": "Eli Holstein, QB",
-      "TEAM": "PITT",
+      "NAME": "Brendan Sorsby, QB",
+      "TEAM": "CIN",
       "RESULT": "",
-      "COMP": "7",
-      "ATT": "10",
-      "YDS": "98",
-      "TD": "1",
+      "COMP": "10",
+      "ATT": "15",
+      "YDS": "108",
+      "TD": "0",
       "INT": "0",
-      "RAT": "185.3"
+      "RAT": "127.1"
     }
   ],
   "Rushing Leaders": [
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Raleek Brown, RB",
-      "TEAM": "ASU",
-      "RESULT": "W27-24vs.TCU",
-      "REC": "9",
-      "YDS": "50",
-      "YPR": "5.6",
-      "TD": "0"
+      "NAME": "KJ Duff, WR",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "53",
+      "YPR": "17.7",
+      "TD": "1"
     }
   ]
 }
