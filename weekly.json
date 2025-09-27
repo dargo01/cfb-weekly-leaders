@@ -4,7 +4,7 @@
       "RK": "1",
       "NAME": "Micah Alejado, QB",
       "TEAM": "HAW",
-      "RESULT": "",
+      "RESULT": "W44-35atAF",
       "COMP": "35",
       "ATT": "47",
       "YDS": "457",
@@ -28,7 +28,7 @@
       "RK": "3",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
-      "RESULT": "",
+      "RESULT": "W45-27atOKST",
       "COMP": "24",
       "ATT": "35",
       "YDS": "393",
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Liam Szarka, QB",
+      "TEAM": "AF",
+      "RESULT": "L35-44vs.HAW",
+      "CAR": "17",
+      "YDS": "139",
+      "YPC": "8.2",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Le'Veon Moss, RB",
       "TEAM": "TA&M",
       "RESULT": "W16-10vs.AUB",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jordan Fuller, RB",
       "TEAM": "JMU",
       "RESULT": "W35-10vs.GASO",
@@ -203,24 +213,14 @@
       "TD": "1"
     },
     {
-      "RK": "9",
-      "NAME": "Liam Szarka, QB",
-      "TEAM": "AF",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "135",
-      "YPC": "9.0",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "Angel Flores, QB",
-      "TEAM": "CMU",
-      "RESULT": "W24-13vs.EMU",
-      "CAR": "22",
-      "YDS": "134",
-      "YPC": "6.1",
-      "TD": "0"
+      "NAME": "Fluff Bothwell, RB",
+      "TEAM": "MSST",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "135",
+      "YPC": "6.4",
+      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -258,7 +258,7 @@
       "RK": "4",
       "NAME": "Jackson Harris, WR",
       "TEAM": "HAW",
-      "RESULT": "",
+      "RESULT": "W44-35atAF",
       "REC": "7",
       "YDS": "144",
       "YPR": "20.6",
