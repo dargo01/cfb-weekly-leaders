@@ -17,15 +17,27 @@
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
       "RESULT": "",
-      "COMP": "10",
-      "ATT": "12",
-      "YDS": "63",
+      "COMP": "20",
+      "ATT": "26",
+      "YDS": "156",
       "TD": "1",
-      "INT": "0",
-      "RAT": "154.9"
+      "INT": "2",
+      "RAT": "124.6"
     },
     {
       "RK": "3",
+      "NAME": "Tommy Castellanos, QB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "COMP": "10",
+      "ATT": "16",
+      "YDS": "124",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "115.1"
+    },
+    {
+      "RK": "4",
       "NAME": "Dewayne Coleman, QB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -35,18 +47,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "89.2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Tommy Castellanos, QB",
-      "TEAM": "FSU",
-      "RESULT": "",
-      "COMP": "3",
-      "ATT": "7",
-      "YDS": "27",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "46.7"
     },
     {
       "RK": "5",
@@ -74,6 +74,26 @@
     },
     {
       "RK": "2",
+      "NAME": "J'Mari Taylor, RB",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "71",
+      "YPC": "5.1",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
+      "NAME": "Gavin Sawchuk, RB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "64",
+      "YPC": "4.3",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -83,7 +103,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Marlon Gunn Jr., RB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -93,7 +113,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Dewayne Coleman, QB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -103,7 +123,17 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "7",
+      "NAME": "Xavier Brown, RB",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "CAR": "6",
+      "YDS": "44",
+      "YPC": "7.3",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -113,59 +143,39 @@
       "TD": "0"
     },
     {
-      "RK": "6",
-      "NAME": "Parker Jenkins, RB",
-      "TEAM": "ECU",
-      "RESULT": "W28-6vs.ARMY",
-      "CAR": "13",
-      "YDS": "36",
-      "YPC": "2.8",
-      "TD": "0"
+      "RK": "9",
+      "NAME": "Tommy Castellanos, QB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "40",
+      "YPC": "4.4",
+      "TD": "1"
     },
     {
-      "RK": "7",
-      "NAME": "Gavin Sawchuk, RB",
+      "RK": "",
+      "NAME": "Ousmane Kromah, RB",
       "TEAM": "FSU",
       "RESULT": "",
       "CAR": "5",
-      "YDS": "33",
-      "YPC": "6.6",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Caziah Holmes, RB",
-      "TEAM": "FSU",
-      "RESULT": "",
-      "CAR": "2",
-      "YDS": "32",
-      "YPC": "16.0",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "J'Mari Taylor, RB",
-      "TEAM": "UVA",
-      "RESULT": "",
-      "CAR": "7",
-      "YDS": "27",
-      "YPC": "3.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Xavier Brown, RB",
-      "TEAM": "UVA",
-      "RESULT": "",
-      "CAR": "3",
-      "YDS": "17",
-      "YPC": "5.7",
+      "YDS": "40",
+      "YPC": "8.0",
       "TD": "0"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Duce Robinson, WR",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "100",
+      "YPR": "20.0",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Anthony Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -175,7 +185,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Yannick Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -185,7 +195,27 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Trell Harris, WR",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "45",
+      "YPR": "15.0",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
+      "NAME": "Jahmal Edrine, WR",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "36",
+      "YPR": "9.0",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Brock Spalding, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -195,7 +225,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "7",
       "NAME": "Jayvontay Conner, TE",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -205,7 +235,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "8",
       "NAME": "Samari Howard, WR",
       "TEAM": "ARMY",
       "RESULT": "L6-28atECU",
@@ -215,7 +245,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "9",
       "NAME": "Jaquaize Pettaway, WR",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
@@ -225,43 +255,13 @@
       "TD": "0"
     },
     {
-      "RK": "",
-      "NAME": "Duce Robinson, WR",
-      "TEAM": "FSU",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "23",
-      "YPR": "11.5",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jahmal Edrine, WR",
+      "RK": "10",
+      "NAME": "Dakota Twitty, TE",
       "TEAM": "UVA",
       "RESULT": "",
-      "REC": "2",
-      "YDS": "18",
-      "YPR": "9.0",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Noah Short, WR",
-      "TEAM": "ARMY",
-      "RESULT": "L6-28atECU",
-      "REC": "3",
-      "YDS": "13",
-      "YPR": "4.3",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "J'Mari Taylor, RB",
-      "TEAM": "UVA",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "13",
-      "YPR": "6.5",
+      "REC": "4",
+      "YDS": "21",
+      "YPR": "5.3",
       "TD": "0"
     }
   ]
