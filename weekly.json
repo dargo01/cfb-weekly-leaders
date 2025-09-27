@@ -78,11 +78,11 @@
       "TEAM": "ORST",
       "RESULT": "",
       "COMP": "15",
-      "ATT": "25",
+      "ATT": "24",
       "YDS": "147",
       "TD": "1",
       "INT": "0",
-      "RAT": "122.6"
+      "RAT": "127.7"
     },
     {
       "RK": "8",
@@ -192,22 +192,22 @@
     },
     {
       "RK": "9",
-      "NAME": "Anthony Hankerson, RB",
-      "TEAM": "ORST",
-      "RESULT": "",
-      "CAR": "20",
-      "YDS": "61",
-      "YPC": "3.1",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
       "NAME": "Xavier Brown, RB",
       "TEAM": "UVA",
       "RESULT": "W46-38vs.FSU",
       "CAR": "9",
       "YDS": "60",
       "YPC": "6.7",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
+      "NAME": "London Montgomery, RB",
+      "TEAM": "ECU",
+      "RESULT": "W28-6vs.ARMY",
+      "CAR": "15",
+      "YDS": "58",
+      "YPC": "3.9",
       "TD": "0"
     }
   ],
