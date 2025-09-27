@@ -6,11 +6,11 @@
       "TEAM": "FSU",
       "RESULT": "",
       "COMP": "17",
-      "ATT": "27",
+      "ATT": "28",
       "YDS": "251",
       "TD": "1",
       "INT": "1",
-      "RAT": "145.9"
+      "RAT": "140.7"
     },
     {
       "RK": "",
@@ -53,12 +53,12 @@
       "NAME": "Josh Hoover, QB",
       "TEAM": "TCU",
       "RESULT": "",
-      "COMP": "6",
-      "ATT": "11",
-      "YDS": "91",
+      "COMP": "7",
+      "ATT": "12",
+      "YDS": "94",
       "TD": "0",
       "INT": "0",
-      "RAT": "124.0"
+      "RAT": "124.1"
     },
     {
       "RK": "6",
@@ -101,9 +101,9 @@
       "NAME": "J'Mari Taylor, RB",
       "TEAM": "UVA",
       "RESULT": "",
-      "CAR": "25",
-      "YDS": "96",
-      "YPC": "3.8",
+      "CAR": "27",
+      "YDS": "99",
+      "YPC": "3.7",
       "TD": "1"
     },
     {
@@ -128,22 +128,22 @@
     },
     {
       "RK": "5",
+      "NAME": "Ousmane Kromah, RB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "63",
+      "YPC": "5.3",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W28-6vs.ARMY",
       "CAR": "15",
       "YDS": "58",
       "YPC": "3.9",
-      "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Ousmane Kromah, RB",
-      "TEAM": "FSU",
-      "RESULT": "",
-      "CAR": "10",
-      "YDS": "56",
-      "YPC": "5.6",
       "TD": "0"
     },
     {
