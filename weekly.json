@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "COMP": "31",
+      "ATT": "51",
+      "YDS": "418",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "149.0"
+    },
+    {
+      "RK": "4",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "W45-27atOKST",
@@ -37,7 +49,7 @@
       "RAT": "200.6"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Brendan Sorsby, QB",
       "TEAM": "CIN",
       "RESULT": "W37-34atKU",
@@ -49,7 +61,19 @@
       "RAT": "158.6"
     },
     {
-      "RK": "5",
+      "RK": "6",
+      "NAME": "Ben Gulbranson, QB",
+      "TEAM": "STAN",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "33",
+      "YDS": "367",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "183.1"
+    },
+    {
+      "RK": "7",
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
       "RESULT": "L32-34atILL",
@@ -61,7 +85,7 @@
       "RAT": "151.6"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "CJ Carr, QB",
       "TEAM": "ND",
       "RESULT": "W56-13atARK",
@@ -73,7 +97,7 @@
       "RAT": "216.5"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Miller Moss, QB",
       "TEAM": "LOU",
       "RESULT": "W34-27atPITT",
@@ -85,7 +109,7 @@
       "RAT": "136.0"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Joey Aguilar, QB",
       "TEAM": "TENN",
       "RESULT": "W41-34atMSST",
@@ -95,35 +119,31 @@
       "TD": "1",
       "INT": "2",
       "RAT": "128.6"
-    },
-    {
-      "RK": "9",
-      "NAME": "Luke Altmyer, QB",
-      "TEAM": "ILL",
-      "RESULT": "W34-32vs.USC",
-      "COMP": "20",
-      "ATT": "26",
-      "YDS": "328",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "208.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Drake Lindsey, QB",
-      "TEAM": "MINN",
-      "RESULT": "W31-28vs.RUTG",
-      "COMP": "31",
-      "ATT": "41",
-      "YDS": "324",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "166.1"
     }
   ],
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Greg Desrosiers Jr., RB",
+      "TEAM": "MEM",
+      "RESULT": "W55-26atFAU",
+      "CAR": "19",
+      "YDS": "204",
+      "YPC": "10.7",
+      "TD": "3"
+    },
+    {
+      "RK": "2",
+      "NAME": "Terion Stewart, RB",
+      "TEAM": "VT",
+      "RESULT": "W23-21atNCSU",
+      "CAR": "15",
+      "YDS": "174",
+      "YPC": "11.6",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Turbo Richard, RB",
       "TEAM": "BC",
       "RESULT": "L24-28vs.CAL",
@@ -133,7 +153,7 @@
       "TD": "2"
     },
     {
-      "RK": "2",
+      "RK": "4",
       "NAME": "Nate Sheppard, RB",
       "TEAM": "DUKE",
       "RESULT": "W38-3atSYR",
@@ -143,7 +163,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Dylan Edwards, RB",
       "TEAM": "KSU",
       "RESULT": "W34-20vs.UCF",
@@ -153,7 +173,17 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "6",
+      "NAME": "Caden Creel, QB",
+      "TEAM": "JXST",
+      "RESULT": "L25-42atUSM",
+      "CAR": "23",
+      "YDS": "161",
+      "YPC": "7.0",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "L28-31atMINN",
@@ -163,17 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
-      "NAME": "Greg Desrosiers Jr., RB",
-      "TEAM": "MEM",
-      "RESULT": "",
-      "CAR": "10",
-      "YDS": "159",
-      "YPC": "15.9",
-      "TD": "2"
-    },
-    {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "W35-10vs.GASO",
@@ -183,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W36-22vs.USA",
@@ -193,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Liam Szarka, QB",
       "TEAM": "AF",
       "RESULT": "L35-44vs.HAW",
@@ -201,26 +221,6 @@
       "YDS": "139",
       "YPC": "8.2",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Le'Veon Moss, RB",
-      "TEAM": "TA&M",
-      "RESULT": "W16-10vs.AUB",
-      "CAR": "21",
-      "YDS": "139",
-      "YPC": "6.6",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jordan Fuller, RB",
-      "TEAM": "JMU",
-      "RESULT": "W35-10vs.GASO",
-      "CAR": "16",
-      "YDS": "137",
-      "YPC": "8.6",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Chase Sowell, WR",
+      "TEAM": "ISU",
+      "RESULT": "W39-14vs.ARIZ",
+      "REC": "4",
+      "YDS": "146",
+      "YPR": "36.5",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Jackson Harris, WR",
       "TEAM": "HAW",
       "RESULT": "W44-35atAF",
@@ -265,7 +275,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Chris Bell, WR",
       "TEAM": "LOU",
       "RESULT": "W34-27atPITT",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Elijah Sarratt, WR",
       "TEAM": "IU",
       "RESULT": "W20-15atIOWA",
@@ -285,7 +295,17 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Easton Messer, WR",
+      "TEAM": "FAU",
+      "RESULT": "L26-55vs.MEM",
+      "REC": "9",
+      "YDS": "131",
+      "YPR": "14.6",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Cyrus Allen, WR",
       "TEAM": "CIN",
       "RESULT": "W37-34atKU",
@@ -295,34 +315,14 @@
       "TD": "2"
     },
     {
-      "RK": "8",
-      "NAME": "Chase Sowell, WR",
-      "TEAM": "ISU",
-      "RESULT": "",
-      "REC": "3",
+      "RK": "10",
+      "NAME": "Cortez Braham Jr., WR",
+      "TEAM": "MEM",
+      "RESULT": "W55-26atFAU",
+      "REC": "6",
       "YDS": "127",
-      "YPR": "42.3",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jordyn Tyson, WR",
-      "TEAM": "ASU",
-      "RESULT": "W27-24vs.TCU",
-      "REC": "8",
-      "YDS": "126",
-      "YPR": "15.8",
+      "YPR": "21.2",
       "TD": "2"
-    },
-    {
-      "RK": "",
-      "NAME": "Chauncy Cobb, WR",
-      "TEAM": "ARST",
-      "RESULT": "L16-28atULM",
-      "REC": "8",
-      "YDS": "126",
-      "YPR": "15.8",
-      "TD": "0"
     }
   ]
 }
