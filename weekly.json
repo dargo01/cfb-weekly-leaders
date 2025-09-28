@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "L29-30atSTAN",
+      "COMP": "36",
+      "ATT": "58",
+      "YDS": "473",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "147.6"
+    },
+    {
+      "RK": "2",
       "NAME": "Micah Alejado, QB",
       "TEAM": "HAW",
       "RESULT": "W44-35atAF",
@@ -13,7 +25,7 @@
       "RAT": "177.2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "L34-37vs.CIN",
@@ -25,19 +37,19 @@
       "RAT": "248.5"
     },
     {
-      "RK": "3",
-      "NAME": "Walker Eget, QB",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "COMP": "31",
-      "ATT": "51",
-      "YDS": "418",
-      "TD": "3",
+      "RK": "4",
+      "NAME": "Ben Gulbranson, QB",
+      "TEAM": "STAN",
+      "RESULT": "W30-29vs.SJSU",
+      "COMP": "29",
+      "ATT": "43",
+      "YDS": "444",
+      "TD": "2",
       "INT": "0",
-      "RAT": "149.0"
+      "RAT": "169.5"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "W45-27atOKST",
@@ -49,7 +61,7 @@
       "RAT": "200.6"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Brendan Sorsby, QB",
       "TEAM": "CIN",
       "RESULT": "W37-34atKU",
@@ -59,18 +71,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "158.6"
-    },
-    {
-      "RK": "6",
-      "NAME": "Ben Gulbranson, QB",
-      "TEAM": "STAN",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "33",
-      "YDS": "367",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "183.1"
     },
     {
       "RK": "7",
@@ -255,7 +255,27 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "",
+      "NAME": "Kyri Shoels, WR",
+      "TEAM": "SJSU",
+      "RESULT": "L29-30atSTAN",
+      "REC": "10",
+      "YDS": "147",
+      "YPR": "14.7",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
+      "NAME": "Demarcus Lacey, WR",
+      "TEAM": "MRSH",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "146",
+      "YPR": "14.6",
+      "TD": "2"
+    },
+    {
+      "RK": "",
       "NAME": "Chase Sowell, WR",
       "TEAM": "ISU",
       "RESULT": "W39-14vs.ARIZ",
@@ -265,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Jackson Harris, WR",
       "TEAM": "HAW",
       "RESULT": "W44-35atAF",
@@ -275,7 +295,17 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "8",
+      "NAME": "CJ Williams, WR",
+      "TEAM": "STAN",
+      "RESULT": "W30-29vs.SJSU",
+      "REC": "12",
+      "YDS": "138",
+      "YPR": "11.5",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Chris Bell, WR",
       "TEAM": "LOU",
       "RESULT": "W34-27atPITT",
@@ -285,43 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "7",
-      "NAME": "Elijah Sarratt, WR",
-      "TEAM": "IU",
-      "RESULT": "W20-15atIOWA",
-      "REC": "6",
-      "YDS": "132",
-      "YPR": "22.0",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Easton Messer, WR",
-      "TEAM": "FAU",
-      "RESULT": "L26-55vs.MEM",
-      "REC": "9",
-      "YDS": "131",
-      "YPR": "14.6",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Cyrus Allen, WR",
-      "TEAM": "CIN",
-      "RESULT": "W37-34atKU",
+      "RK": "",
+      "NAME": "Danny Scudero, WR",
+      "TEAM": "SJSU",
+      "RESULT": "L29-30atSTAN",
       "REC": "11",
-      "YDS": "128",
-      "YPR": "11.6",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cortez Braham Jr., WR",
-      "TEAM": "MEM",
-      "RESULT": "W55-26atFAU",
-      "REC": "6",
-      "YDS": "127",
-      "YPR": "21.2",
+      "YDS": "135",
+      "YPR": "12.3",
       "TD": "2"
     }
   ]
