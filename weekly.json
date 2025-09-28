@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Joey Aguilar, QB",
+      "TEAM": "TENN",
+      "RESULT": "W41-34atMSST",
+      "COMP": "24",
+      "ATT": "40",
+      "YDS": "335",
+      "TD": "1",
+      "INT": "2",
+      "RAT": "128.6"
+    },
+    {
+      "RK": "9",
       "NAME": "Luke Altmyer, QB",
       "TEAM": "ILL",
       "RESULT": "W34-32vs.USC",
@@ -97,7 +109,7 @@
       "RAT": "208.3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Drake Lindsey, QB",
       "TEAM": "MINN",
       "RESULT": "W31-28vs.RUTG",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "166.1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Joey Aguilar, QB",
-      "TEAM": "TENN",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "36",
-      "YDS": "322",
-      "TD": "1",
-      "INT": "2",
-      "RAT": "137.1"
     }
   ],
   "Rushing Leaders": [
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Greg Desrosiers Jr., RB",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "159",
+      "YPC": "15.9",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "W35-10vs.GASO",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W36-22vs.USA",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Liam Szarka, QB",
       "TEAM": "AF",
       "RESULT": "L35-44vs.HAW",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jordan Fuller, RB",
       "TEAM": "JMU",
       "RESULT": "W35-10vs.GASO",
@@ -211,16 +221,6 @@
       "YDS": "137",
       "YPC": "8.6",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Fluff Bothwell, RB",
-      "TEAM": "MSST",
-      "RESULT": "",
-      "CAR": "21",
-      "YDS": "135",
-      "YPC": "6.4",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Chase Sowell, WR",
+      "TEAM": "ISU",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "127",
+      "YPR": "42.3",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Jordyn Tyson, WR",
       "TEAM": "ASU",
       "RESULT": "W27-24vs.TCU",
@@ -313,16 +323,6 @@
       "YDS": "126",
       "YPR": "15.8",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Junior Vandeross III, WR",
-      "TEAM": "TOL",
-      "RESULT": "W45-3vs.AKR",
-      "REC": "9",
-      "YDS": "122",
-      "YPR": "13.6",
-      "TD": "2"
     }
   ]
 }
