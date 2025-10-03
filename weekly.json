@@ -53,12 +53,24 @@
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "",
-      "COMP": "0",
-      "ATT": "3",
-      "YDS": "0",
+      "COMP": "1",
+      "ATT": "4",
+      "YDS": "5",
       "TD": "0",
       "INT": "0",
-      "RAT": "0.0"
+      "RAT": "35.5"
+    },
+    {
+      "RK": "6",
+      "NAME": "Grayson Loftis, QB",
+      "TEAM": "CLT",
+      "RESULT": "",
+      "COMP": "1",
+      "ATT": "3",
+      "YDS": "-3",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "24.9"
     }
   ],
   "Rushing Leaders": [
@@ -74,6 +86,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "4",
+      "YDS": "46",
+      "YPC": "11.5",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Alton McCaskill, RB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -83,17 +105,17 @@
       "TD": "0"
     },
     {
-      "RK": "3",
-      "NAME": "Byrum Brown, QB",
+      "RK": "4",
+      "NAME": "Alvon Isaac, RB",
       "TEAM": "USF",
       "RESULT": "",
       "CAR": "2",
-      "YDS": "23",
-      "YPC": "11.5",
+      "YDS": "21",
+      "YPC": "10.5",
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Isaiah Rudison, RB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -103,7 +125,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -113,7 +135,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jo Silver, RB",
       "TEAM": "DEL",
       "RESULT": "",
@@ -133,7 +155,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "",
@@ -143,23 +165,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
-      "NAME": "Logan Fife, QB",
-      "TEAM": "NMSU",
-      "RESULT": "W37-10vs.SHSU",
-      "CAR": "5",
-      "YDS": "4",
-      "YPC": "0.8",
-      "TD": "1"
-    },
-    {
       "RK": "10",
-      "NAME": "TK King, WR",
-      "TEAM": "NMSU",
-      "RESULT": "W37-10vs.SHSU",
-      "CAR": "3",
-      "YDS": "-2",
-      "YPC": "-0.7",
+      "NAME": "Cameren Smith, RB",
+      "TEAM": "CLT",
+      "RESULT": "",
+      "CAR": "2",
+      "YDS": "7",
+      "YPC": "3.5",
       "TD": "0"
     }
   ],
