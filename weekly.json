@@ -5,24 +5,24 @@
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "",
-      "COMP": "7",
-      "ATT": "9",
-      "YDS": "89",
+      "COMP": "12",
+      "ATT": "16",
+      "YDS": "156",
       "TD": "0",
       "INT": "0",
-      "RAT": "160.8"
+      "RAT": "156.9"
     },
     {
       "RK": "2",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "",
-      "COMP": "7",
-      "ATT": "10",
-      "YDS": "36",
+      "COMP": "10",
+      "ATT": "15",
+      "YDS": "62",
       "TD": "0",
       "INT": "0",
-      "RAT": "100.2"
+      "RAT": "101.4"
     }
   ],
   "Rushing Leaders": [
@@ -31,39 +31,69 @@
       "NAME": "Alton McCaskill, RB",
       "TEAM": "SHSU",
       "RESULT": "",
-      "CAR": "4",
-      "YDS": "15",
-      "YPC": "3.8",
+      "CAR": "6",
+      "YDS": "26",
+      "YPC": "4.3",
       "TD": "0"
     },
     {
       "RK": "2",
-      "NAME": "Isaiah Rudison, RB",
+      "NAME": "Kadarius Calloway, RB",
       "TEAM": "NMSU",
       "RESULT": "",
-      "CAR": "2",
-      "YDS": "11",
-      "YPC": "5.5",
+      "CAR": "9",
+      "YDS": "24",
+      "YPC": "2.7",
       "TD": "0"
     },
     {
       "RK": "3",
-      "NAME": "Kadarius Calloway, RB",
+      "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "",
       "CAR": "4",
-      "YDS": "8",
-      "YPC": "2.0",
+      "YDS": "12",
+      "YPC": "3.0",
+      "TD": "1"
+    },
+    {
+      "RK": "",
+      "NAME": "Isaiah Rudison, RB",
+      "TEAM": "NMSU",
+      "RESULT": "",
+      "CAR": "3",
+      "YDS": "12",
+      "YPC": "4.0",
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "",
+      "CAR": "5",
+      "YDS": "7",
+      "YPC": "1.4",
+      "TD": "0"
+    },
+    {
+      "RK": "",
+      "NAME": "Tim Gans, RB",
+      "TEAM": "NMSU",
+      "RESULT": "",
       "CAR": "2",
-      "YDS": "6",
-      "YPC": "3.0",
+      "YDS": "7",
+      "YPC": "3.5",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
+      "NAME": "TK King, WR",
+      "TEAM": "NMSU",
+      "RESULT": "",
+      "CAR": "2",
+      "YDS": "4",
+      "YPC": "2.0",
       "TD": "0"
     }
   ],
@@ -73,9 +103,9 @@
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "",
-      "REC": "2",
-      "YDS": "52",
-      "YPR": "26.0",
+      "REC": "3",
+      "YDS": "65",
+      "YPR": "21.7",
       "TD": "0"
     },
     {
@@ -83,13 +113,23 @@
       "NAME": "Donovan Faupel, WR",
       "TEAM": "NMSU",
       "RESULT": "",
-      "REC": "3",
-      "YDS": "23",
-      "YPR": "7.7",
+      "REC": "4",
+      "YDS": "38",
+      "YPR": "9.5",
       "TD": "0"
     },
     {
       "RK": "3",
+      "NAME": "Kadarius Calloway, RB",
+      "TEAM": "NMSU",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "16",
+      "YPR": "8.0",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Qua'Vez Humphreys, WR",
       "TEAM": "SHSU",
       "RESULT": "",
@@ -99,7 +139,27 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
+      "NAME": "Alton McCaskill, RB",
+      "TEAM": "SHSU",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "11",
+      "YPR": "5.5",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
+      "NAME": "Malik Phillips, WR",
+      "TEAM": "SHSU",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "10",
+      "YPR": "5.0",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Austin Smith, TE",
       "TEAM": "SHSU",
       "RESULT": "",
