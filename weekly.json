@@ -26,18 +26,42 @@
     },
     {
       "RK": "3",
-      "NAME": "Nick Minicucci, QB",
-      "TEAM": "DEL",
+      "NAME": "Maverick McIvor, QB",
+      "TEAM": "WKU",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "8",
-      "YDS": "54",
+      "COMP": "5",
+      "ATT": "7",
+      "YDS": "75",
       "TD": "0",
       "INT": "0",
-      "RAT": "106.7"
+      "RAT": "161.4"
     },
     {
       "RK": "4",
+      "NAME": "Nick Minicucci, QB",
+      "TEAM": "DEL",
+      "RESULT": "",
+      "COMP": "5",
+      "ATT": "11",
+      "YDS": "59",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "90.5"
+    },
+    {
+      "RK": "5",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "COMP": "2",
+      "ATT": "6",
+      "YDS": "43",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "148.5"
+    },
+    {
+      "RK": "6",
       "NAME": "Mabrey Mettauer, QB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -49,28 +73,16 @@
       "RAT": "137.0"
     },
     {
-      "RK": "5",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "COMP": "1",
-      "ATT": "4",
-      "YDS": "5",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "35.5"
-    },
-    {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Grayson Loftis, QB",
       "TEAM": "CLT",
       "RESULT": "",
       "COMP": "1",
-      "ATT": "3",
+      "ATT": "4",
       "YDS": "-3",
       "TD": "0",
       "INT": "0",
-      "RAT": "24.9"
+      "RAT": "18.7"
     }
   ],
   "Rushing Leaders": [
@@ -89,9 +101,9 @@
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "",
-      "CAR": "4",
-      "YDS": "46",
-      "YPC": "11.5",
+      "CAR": "5",
+      "YDS": "47",
+      "YPC": "9.4",
       "TD": "0"
     },
     {
@@ -106,6 +118,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Sam Franklin, RB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "3",
+      "YDS": "24",
+      "YPC": "8.0",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Alvon Isaac, RB",
       "TEAM": "USF",
       "RESULT": "",
@@ -115,7 +137,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Isaiah Rudison, RB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -125,7 +147,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -135,17 +157,17 @@
       "TD": "0"
     },
     {
-      "RK": "7",
-      "NAME": "Jo Silver, RB",
-      "TEAM": "DEL",
+      "RK": "8",
+      "NAME": "Maverick McIvor, QB",
+      "TEAM": "WKU",
       "RESULT": "",
       "CAR": "3",
-      "YDS": "11",
-      "YPC": "3.7",
+      "YDS": "13",
+      "YPC": "4.3",
       "TD": "0"
     },
     {
-      "RK": "",
+      "RK": "9",
       "NAME": "Landan Brown, RB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -155,23 +177,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Nick Minicucci, QB",
+      "RK": "10",
+      "NAME": "Jo Silver, RB",
       "TEAM": "DEL",
       "RESULT": "",
-      "CAR": "3",
-      "YDS": "9",
-      "YPC": "3.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cameren Smith, RB",
-      "TEAM": "CLT",
-      "RESULT": "",
-      "CAR": "2",
-      "YDS": "7",
-      "YPC": "3.5",
+      "CAR": "4",
+      "YDS": "10",
+      "YPC": "2.5",
       "TD": "0"
     }
   ],
@@ -258,22 +270,22 @@
     },
     {
       "RK": "9",
+      "NAME": "K.D. Hutchinson, WR",
+      "TEAM": "WKU",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "15",
+      "YPR": "5.0",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Grady O'Neill, WR",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
       "REC": "2",
       "YDS": "15",
       "YPR": "7.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Austin Smith, TE",
-      "TEAM": "SHSU",
-      "RESULT": "L10-37atNMSU",
-      "REC": "2",
-      "YDS": "7",
-      "YPR": "3.5",
       "TD": "0"
     }
   ]
