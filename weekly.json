@@ -90,16 +90,6 @@
     },
     {
       "RK": "6",
-      "NAME": "Tim Gans, RB",
-      "TEAM": "NMSU",
-      "RESULT": "W37-10vs.SHSU",
-      "CAR": "2",
-      "YDS": "7",
-      "YPC": "3.5",
-      "TD": "0"
-    },
-    {
-      "RK": "7",
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -109,7 +99,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "7",
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
