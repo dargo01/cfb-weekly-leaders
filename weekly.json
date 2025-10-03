@@ -5,24 +5,24 @@
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "",
-      "COMP": "18",
-      "ATT": "25",
-      "YDS": "254",
+      "COMP": "19",
+      "ATT": "26",
+      "YDS": "255",
       "TD": "1",
       "INT": "0",
-      "RAT": "170.5"
+      "RAT": "168.2"
     },
     {
       "RK": "2",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "",
-      "COMP": "20",
-      "ATT": "29",
-      "YDS": "184",
+      "COMP": "22",
+      "ATT": "33",
+      "YDS": "222",
       "TD": "1",
       "INT": "0",
-      "RAT": "133.6"
+      "RAT": "133.2"
     }
   ],
   "Rushing Leaders": [
@@ -41,29 +41,29 @@
       "NAME": "Alton McCaskill, RB",
       "TEAM": "SHSU",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "40",
-      "YPC": "3.3",
+      "CAR": "13",
+      "YDS": "38",
+      "YPC": "2.9",
       "TD": "0"
     },
     {
       "RK": "3",
+      "NAME": "Isaiah Rudison, RB",
+      "TEAM": "NMSU",
+      "RESULT": "",
+      "CAR": "6",
+      "YDS": "20",
+      "YPC": "3.3",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "",
       "CAR": "9",
       "YDS": "16",
       "YPC": "1.8",
-      "TD": "0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Isaiah Rudison, RB",
-      "TEAM": "NMSU",
-      "RESULT": "",
-      "CAR": "3",
-      "YDS": "12",
-      "YPC": "4.0",
       "TD": "0"
     },
     {
@@ -120,6 +120,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Kadarius Calloway, RB",
+      "TEAM": "NMSU",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "44",
+      "YPR": "8.8",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Malik Phillips, WR",
       "TEAM": "SHSU",
       "RESULT": "",
@@ -129,17 +139,17 @@
       "TD": "0"
     },
     {
-      "RK": "3",
-      "NAME": "Kadarius Calloway, RB",
-      "TEAM": "NMSU",
+      "RK": "4",
+      "NAME": "Landan Brown, RB",
+      "TEAM": "SHSU",
       "RESULT": "",
-      "REC": "4",
-      "YDS": "43",
-      "YPR": "10.8",
+      "REC": "3",
+      "YDS": "42",
+      "YPR": "14.0",
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Donovan Faupel, WR",
       "TEAM": "NMSU",
       "RESULT": "",
@@ -149,23 +159,13 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Qua'Vez Humphreys, WR",
       "TEAM": "SHSU",
       "RESULT": "",
       "REC": "4",
       "YDS": "37",
       "YPR": "9.3",
-      "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Landan Brown, RB",
-      "TEAM": "SHSU",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "32",
-      "YPR": "16.0",
       "TD": "0"
     },
     {
