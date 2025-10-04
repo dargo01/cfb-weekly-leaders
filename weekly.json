@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "26",
+      "YDS": "347",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "231.0"
+    },
+    {
+      "RK": "5",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "W35-34vs.KSU",
@@ -49,7 +61,7 @@
       "RAT": "150.2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
@@ -61,7 +73,7 @@
       "RAT": "127.2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Avery Johnson, QB",
       "TEAM": "KSU",
       "RESULT": "L34-35atBAY",
@@ -85,7 +97,7 @@
       "RAT": "224.5"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "CJ Bailey, QB",
       "TEAM": "NCSU",
       "RESULT": "W56-10vs.CAM",
@@ -97,7 +109,7 @@
       "RAT": "267.4"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Walker Eget, QB",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "213.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Mason Heintschel, QB",
-      "TEAM": "PITT",
-      "RESULT": "W48-7vs.BC",
-      "COMP": "30",
-      "ATT": "41",
-      "YDS": "323",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "171.5"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "",
-      "CAR": "22",
-      "YDS": "153",
-      "YPC": "7.0",
+      "CAR": "24",
+      "YDS": "160",
+      "YPC": "6.7",
       "TD": "0"
     },
     {
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Trent Walker, WR",
+      "TEAM": "ORST",
+      "RESULT": "",
+      "REC": "11",
+      "YDS": "154",
+      "YPR": "14.0",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Jordan Napier, WR",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Keagan Johnson, WR",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
@@ -305,23 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Davion Dozier, WR",
       "TEAM": "APP",
       "RESULT": "",
       "REC": "4",
       "YDS": "140",
       "YPR": "35.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "REC": "9",
-      "YDS": "137",
-      "YPR": "15.2",
       "TD": "1"
     }
   ]
