@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Maalik Murphy, QB",
+      "TEAM": "ORST",
+      "RESULT": "",
+      "COMP": "30",
+      "ATT": "43",
+      "YDS": "359",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "150.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "",
@@ -37,7 +49,7 @@
       "RAT": "232.2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Bear Bachmeier, QB",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -49,7 +61,7 @@
       "RAT": "195.1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "W35-34vs.KSU",
@@ -61,7 +73,7 @@
       "RAT": "150.2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
@@ -73,19 +85,19 @@
       "RAT": "127.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Ty Simpson, QB",
       "TEAM": "ALA",
       "RESULT": "",
       "COMP": "23",
-      "ATT": "30",
+      "ATT": "31",
       "YDS": "340",
       "TD": "2",
       "INT": "1",
-      "RAT": "187.2"
+      "RAT": "181.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Avery Johnson, QB",
       "TEAM": "KSU",
       "RESULT": "L34-35atBAY",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "224.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "CJ Bailey, QB",
-      "TEAM": "NCSU",
-      "RESULT": "W56-10vs.CAM",
-      "COMP": "20",
-      "ATT": "23",
-      "YDS": "337",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "267.4"
     }
   ],
   "Rushing Leaders": [
@@ -126,7 +126,7 @@
       "RK": "1",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
-      "RESULT": "",
+      "RESULT": "W28-22vs.CMU",
       "CAR": "32",
       "YDS": "176",
       "YPC": "5.5",
@@ -163,17 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "",
-      "NAME": "Nico Iamaleava, QB",
-      "TEAM": "UCLA",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "130",
-      "YPC": "8.7",
-      "TD": "3"
-    },
-    {
-      "RK": "6",
+      "RK": "5",
       "NAME": "Byron Cardwell Jr., RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -181,6 +171,16 @@
       "YDS": "129",
       "YPC": "8.6",
       "TD": "1"
+    },
+    {
+      "RK": "6",
+      "NAME": "Nico Iamaleava, QB",
+      "TEAM": "UCLA",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "128",
+      "YPC": "8.0",
+      "TD": "3"
     },
     {
       "RK": "7",
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Chris Bell, WR",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "REC": "13",
+      "YDS": "183",
+      "YPR": "14.1",
+      "TD": "2"
+    },
+    {
+      "RK": "4",
       "NAME": "Trent Walker, WR",
       "TEAM": "ORST",
       "RESULT": "",
@@ -255,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Bruin Fleischmann, TE",
       "TEAM": "AF",
       "RESULT": "L31-34atNAVY",
@@ -263,16 +273,6 @@
       "YDS": "166",
       "YPR": "27.7",
       "TD": "1"
-    },
-    {
-      "RK": "5",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "REC": "11",
-      "YDS": "164",
-      "YPR": "14.9",
-      "TD": "2"
     },
     {
       "RK": "6",
