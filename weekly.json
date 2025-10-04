@@ -246,16 +246,6 @@
     },
     {
       "RK": "3",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
-      "RESULT": "L27-30vs.UVA",
-      "REC": "13",
-      "YDS": "183",
-      "YPR": "14.1",
-      "TD": "2"
-    },
-    {
-      "RK": "4",
       "NAME": "Trent Walker, WR",
       "TEAM": "ORST",
       "RESULT": "L23-27atAPP",
@@ -263,6 +253,16 @@
       "YDS": "179",
       "YPR": "13.8",
       "TD": "0"
+    },
+    {
+      "RK": "4",
+      "NAME": "Chris Bell, WR",
+      "TEAM": "LOU",
+      "RESULT": "L27-30vs.UVA",
+      "REC": "12",
+      "YDS": "170",
+      "YPR": "14.2",
+      "TD": "2"
     },
     {
       "RK": "5",
