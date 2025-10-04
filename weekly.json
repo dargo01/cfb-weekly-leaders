@@ -193,7 +193,17 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "",
+      "NAME": "Jordan Gant, RB",
+      "TEAM": "AKR",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "113",
+      "YPC": "9.4",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Evan Pryor, RB",
       "TEAM": "CIN",
       "RESULT": "W38-30vs.ISU",
@@ -201,16 +211,6 @@
       "YDS": "111",
       "YPC": "11.1",
       "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jordan Gant, RB",
-      "TEAM": "AKR",
-      "RESULT": "",
-      "CAR": "10",
-      "YDS": "106",
-      "YPC": "10.6",
-      "TD": "0"
     },
     {
       "RK": "10",
@@ -316,12 +316,12 @@
     },
     {
       "RK": "10",
-      "NAME": "Kenny Johnson, WR",
-      "TEAM": "PITT",
-      "RESULT": "W48-7vs.BC",
-      "REC": "9",
-      "YDS": "115",
-      "YPR": "12.8",
+      "NAME": "Chris Bell, WR",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "129",
+      "YPR": "16.1",
       "TD": "1"
     }
   ]
