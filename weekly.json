@@ -77,12 +77,12 @@
       "NAME": "Luke Altmyer, QB",
       "TEAM": "ILL",
       "RESULT": "",
-      "COMP": "11",
-      "ATT": "12",
-      "YDS": "232",
+      "COMP": "12",
+      "ATT": "13",
+      "YDS": "251",
       "TD": "1",
       "INT": "0",
-      "RAT": "281.6"
+      "RAT": "279.9"
     },
     {
       "RK": "8",
@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Cade Klubnik, QB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "19",
+      "YDS": "225",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "263.7"
+    },
+    {
+      "RK": "10",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "123.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "W54-26vs.CLT",
-      "COMP": "19",
-      "ATT": "34",
-      "YDS": "211",
-      "TD": "4",
-      "INT": "2",
-      "RAT": "135.1"
     }
   ],
   "Rushing Leaders": [
@@ -167,9 +167,9 @@
       "NAME": "Liam Szarka, QB",
       "TEAM": "AF",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "93",
-      "YPC": "10.3",
+      "CAR": "10",
+      "YDS": "92",
+      "YPC": "9.2",
       "TD": "1"
     },
     {
@@ -197,13 +197,23 @@
       "NAME": "Evan Pryor, RB",
       "TEAM": "CIN",
       "RESULT": "",
-      "CAR": "5",
-      "YDS": "85",
-      "YPC": "17.0",
+      "CAR": "6",
+      "YDS": "88",
+      "YPC": "14.7",
       "TD": "2"
     },
     {
       "RK": "9",
+      "NAME": "Tawee Walker, RB",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "81",
+      "YPC": "9.0",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -211,16 +221,6 @@
       "YDS": "79",
       "YPC": "5.3",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sam Franklin, RB",
-      "TEAM": "USF",
-      "RESULT": "W54-26vs.CLT",
-      "CAR": "14",
-      "YDS": "76",
-      "YPC": "5.4",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Kenny Johnson, WR",
+      "TEAM": "PITT",
+      "RESULT": "",
+      "REC": "9",
+      "YDS": "115",
+      "YPR": "12.8",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Parker Kingston, WR",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "T.J. Moore, WR",
       "TEAM": "CLEM",
       "RESULT": "",
@@ -313,16 +323,6 @@
       "YDS": "105",
       "YPR": "26.3",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Matthew Henry, WR",
-      "TEAM": "WKU",
-      "RESULT": "W27-24atDEL",
-      "REC": "4",
-      "YDS": "99",
-      "YPR": "24.8",
-      "TD": "0"
     }
   ]
 }
