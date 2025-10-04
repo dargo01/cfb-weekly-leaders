@@ -62,18 +62,6 @@
     },
     {
       "RK": "6",
-      "NAME": "Mason Heintschel, QB",
-      "TEAM": "PITT",
-      "RESULT": "",
-      "COMP": "30",
-      "ATT": "40",
-      "YDS": "323",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "175.8"
-    },
-    {
-      "RK": "7",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "",
@@ -83,6 +71,18 @@
       "TD": "3",
       "INT": "0",
       "RAT": "233.8"
+    },
+    {
+      "RK": "7",
+      "NAME": "Mason Heintschel, QB",
+      "TEAM": "PITT",
+      "RESULT": "",
+      "COMP": "28",
+      "ATT": "38",
+      "YDS": "318",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "178.7"
     },
     {
       "RK": "8",
@@ -167,10 +167,10 @@
       "NAME": "Justice Haynes, RB",
       "TEAM": "MICH",
       "RESULT": "",
-      "CAR": "19",
-      "YDS": "117",
-      "YPC": "6.2",
-      "TD": "2"
+      "CAR": "18",
+      "YDS": "116",
+      "YPC": "6.4",
+      "TD": "1"
     },
     {
       "RK": "6",
