@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Ty Simpson, QB",
+      "TEAM": "ALA",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "30",
+      "YDS": "340",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "187.2"
+    },
+    {
+      "RK": "8",
       "NAME": "Avery Johnson, QB",
       "TEAM": "KSU",
       "RESULT": "L34-35atBAY",
@@ -97,7 +109,7 @@
       "RAT": "224.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "CJ Bailey, QB",
       "TEAM": "NCSU",
       "RESULT": "W56-10vs.CAM",
@@ -107,18 +119,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "267.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Walker Eget, QB",
-      "TEAM": "SJSU",
-      "RESULT": "W35-28vs.UNM",
-      "COMP": "26",
-      "ATT": "30",
-      "YDS": "334",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "213.2"
     }
   ],
   "Rushing Leaders": [
@@ -127,9 +127,9 @@
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "",
-      "CAR": "29",
-      "YDS": "165",
-      "YPC": "5.7",
+      "CAR": "32",
+      "YDS": "176",
+      "YPC": "5.5",
       "TD": "0"
     },
     {
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Chris Bell, WR",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "REC": "11",
+      "YDS": "164",
+      "YPR": "14.9",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
       "NAME": "Chase Roberts, WR",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Michael Trigg, TE",
       "TEAM": "BAY",
       "RESULT": "W35-34vs.KSU",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jordan Napier, WR",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -295,17 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "REC": "10",
-      "YDS": "151",
-      "YPR": "15.1",
-      "TD": "1"
-    },
-    {
-      "RK": "",
+      "RK": "9",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
