@@ -53,12 +53,12 @@
       "NAME": "Luke Altmyer, QB",
       "TEAM": "ILL",
       "RESULT": "",
-      "COMP": "13",
-      "ATT": "14",
-      "YDS": "267",
+      "COMP": "15",
+      "ATT": "17",
+      "YDS": "307",
       "TD": "1",
       "INT": "0",
-      "RAT": "276.6"
+      "RAT": "259.3"
     },
     {
       "RK": "6",
@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Mason Heintschel, QB",
+      "TEAM": "PITT",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "31",
+      "YDS": "245",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "166.1"
+    },
+    {
+      "RK": "10",
       "NAME": "Maverick McIvor, QB",
       "TEAM": "WKU",
       "RESULT": "W27-24atDEL",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "147.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Hunter Watson, QB",
-      "TEAM": "SHSU",
-      "RESULT": "L10-37atNMSU",
-      "COMP": "22",
-      "ATT": "34",
-      "YDS": "222",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "123.4"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Liam Szarka, QB",
+      "TEAM": "AF",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "136",
+      "YPC": "6.8",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Byron Cardwell Jr., RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -143,7 +153,17 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "119",
+      "YPC": "9.9",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Lucky Sutton, RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -153,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Jalen Dupree, RB",
       "TEAM": "CSU",
       "RESULT": "L24-45atSDSU",
@@ -163,17 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
-      "NAME": "Liam Szarka, QB",
-      "TEAM": "AF",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "92",
-      "YPC": "7.7",
-      "TD": "1"
-    },
-    {
-      "RK": "6",
+      "RK": "7",
       "NAME": "LJ Martin, RB",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Khalil Wilkins, QB",
       "TEAM": "WVU",
       "RESULT": "L24-38atBYU",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Evan Pryor, RB",
       "TEAM": "CIN",
       "RESULT": "",
@@ -203,24 +213,14 @@
       "TD": "2"
     },
     {
-      "RK": "9",
-      "NAME": "Tawee Walker, RB",
-      "TEAM": "CIN",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "81",
-      "YPC": "9.0",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "Nykahi Davenport, RB",
-      "TEAM": "USF",
-      "RESULT": "W54-26vs.CLT",
-      "CAR": "15",
-      "YDS": "79",
-      "YPC": "5.3",
-      "TD": "1"
+      "NAME": "Abu Sama III, RB",
+      "TEAM": "ISU",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "84",
+      "YPC": "7.6",
+      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Bruin Fleischmann, TE",
+      "TEAM": "AF",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "134",
+      "YPR": "33.5",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Kenny Johnson, WR",
       "TEAM": "PITT",
       "RESULT": "",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Parker Kingston, WR",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
       "REC": "4",
       "YDS": "111",
       "YPR": "27.8",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "T.J. Moore, WR",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "108",
-      "YPR": "21.6",
       "TD": "1"
     }
   ]
