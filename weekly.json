@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Rocco Becht, QB",
+      "TEAM": "ISU",
+      "RESULT": "L30-38atCIN",
+      "COMP": "30",
+      "ATT": "48",
+      "YDS": "314",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "131.2"
+    },
+    {
+      "RK": "",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "L24-27vs.WKU",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "1",
       "RAT": "111.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Ryan Browne, QB",
-      "TEAM": "PUR",
-      "RESULT": "L27-43vs.ILL",
-      "COMP": "30",
-      "ATT": "50",
-      "YDS": "302",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "117.3"
     }
   ],
   "Rushing Leaders": [
@@ -196,7 +196,7 @@
       "RK": "8",
       "NAME": "Evan Pryor, RB",
       "TEAM": "CIN",
-      "RESULT": "",
+      "RESULT": "W38-30vs.ISU",
       "CAR": "10",
       "YDS": "111",
       "YPC": "11.1",
