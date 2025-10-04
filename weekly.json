@@ -76,7 +76,7 @@
       "RK": "7",
       "NAME": "CJ Bailey, QB",
       "TEAM": "NCSU",
-      "RESULT": "",
+      "RESULT": "W56-10vs.CAM",
       "COMP": "20",
       "ATT": "23",
       "YDS": "337",
@@ -166,7 +166,7 @@
       "RK": "5",
       "NAME": "Hollywood Smothers, RB",
       "TEAM": "NCSU",
-      "RESULT": "",
+      "RESULT": "W56-10vs.CAM",
       "CAR": "4",
       "YDS": "123",
       "YPC": "30.8",
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Chris Bell, WR",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "REC": "9",
+      "YDS": "137",
+      "YPR": "15.2",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -313,16 +323,6 @@
       "YDS": "132",
       "YPR": "22.0",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "REC": "8",
-      "YDS": "129",
-      "YPR": "16.1",
-      "TD": "1"
     }
   ]
 }
