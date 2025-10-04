@@ -16,7 +16,7 @@
       "RK": "2",
       "NAME": "Noah Fifita, QB",
       "TEAM": "ARIZ",
-      "RESULT": "",
+      "RESULT": "W41-13vs.OKST",
       "COMP": "28",
       "ATT": "38",
       "YDS": "376",
@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "28",
+      "YDS": "355",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "232.2"
+    },
+    {
+      "RK": "4",
       "NAME": "Bear Bachmeier, QB",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -35,18 +47,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "195.1"
-    },
-    {
-      "RK": "4",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "26",
-      "YDS": "347",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "231.0"
     },
     {
       "RK": "5",
@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Jordan Gant, RB",
+      "TEAM": "AKR",
+      "RESULT": "",
+      "CAR": "26",
+      "YDS": "163",
+      "YPC": "6.3",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -131,16 +141,6 @@
       "YDS": "162",
       "YPC": "9.5",
       "TD": "1"
-    },
-    {
-      "RK": "2",
-      "NAME": "Jordan Gant, RB",
-      "TEAM": "AKR",
-      "RESULT": "",
-      "CAR": "24",
-      "YDS": "160",
-      "YPC": "6.7",
-      "TD": "0"
     },
     {
       "RK": "3",
@@ -163,7 +163,17 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "",
+      "NAME": "Nico Iamaleava, QB",
+      "TEAM": "UCLA",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "130",
+      "YPC": "8.7",
+      "TD": "3"
+    },
+    {
+      "RK": "6",
       "NAME": "Byron Cardwell Jr., RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Hollywood Smothers, RB",
       "TEAM": "NCSU",
       "RESULT": "W56-10vs.CAM",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Justice Haynes, RB",
       "TEAM": "MICH",
       "RESULT": "W24-10vs.WIS",
@@ -193,7 +203,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Lucky Sutton, RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -203,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Evan Pryor, RB",
       "TEAM": "CIN",
       "RESULT": "W38-30vs.ISU",
@@ -211,16 +221,6 @@
       "YDS": "111",
       "YPC": "11.1",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jalen Dupree, RB",
-      "TEAM": "CSU",
-      "RESULT": "L24-45atSDSU",
-      "CAR": "16",
-      "YDS": "103",
-      "YPC": "6.4",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Trent Walker, WR",
+      "TEAM": "ORST",
+      "RESULT": "",
+      "REC": "13",
+      "YDS": "179",
+      "YPR": "13.8",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Bruin Fleischmann, TE",
       "TEAM": "AF",
       "RESULT": "L31-34atNAVY",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Chase Roberts, WR",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -265,23 +275,13 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Michael Trigg, TE",
       "TEAM": "BAY",
       "RESULT": "W35-34vs.KSU",
       "REC": "8",
       "YDS": "155",
       "YPR": "19.4",
-      "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Trent Walker, WR",
-      "TEAM": "ORST",
-      "RESULT": "",
-      "REC": "11",
-      "YDS": "154",
-      "YPR": "14.0",
       "TD": "0"
     },
     {
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Chris Bell, WR",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "151",
+      "YPR": "15.1",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Keagan Johnson, WR",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
@@ -313,16 +323,6 @@
       "YDS": "145",
       "YPR": "13.2",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Davion Dozier, WR",
-      "TEAM": "APP",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "140",
-      "YPR": "35.0",
-      "TD": "1"
     }
   ]
 }
