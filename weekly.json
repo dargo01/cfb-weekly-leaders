@@ -30,11 +30,11 @@
       "TEAM": "BAY",
       "RESULT": "",
       "COMP": "25",
-      "ATT": "38",
+      "ATT": "39",
       "YDS": "345",
       "TD": "2",
       "INT": "1",
-      "RAT": "154.2"
+      "RAT": "150.2"
     },
     {
       "RK": "4",
@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Avery Johnson, QB",
+      "TEAM": "KSU",
+      "RESULT": "",
+      "COMP": "29",
+      "ATT": "45",
+      "YDS": "339",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "137.9"
+    },
+    {
+      "RK": "",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "W34-31vs.AF",
@@ -61,7 +73,7 @@
       "RAT": "224.5"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Walker Eget, QB",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -73,28 +85,16 @@
       "RAT": "213.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
-      "RESULT": "",
+      "RESULT": "W48-7vs.BC",
       "COMP": "30",
       "ATT": "41",
       "YDS": "323",
       "TD": "4",
       "INT": "0",
       "RAT": "171.5"
-    },
-    {
-      "RK": "8",
-      "NAME": "Avery Johnson, QB",
-      "TEAM": "KSU",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "41",
-      "YDS": "317",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "142.0"
     },
     {
       "RK": "9",
@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Bryce Underwood, QB",
-      "TEAM": "MICH",
-      "RESULT": "W24-10vs.WIS",
-      "COMP": "19",
-      "ATT": "28",
-      "YDS": "270",
+      "NAME": "Ryan Browne, QB",
+      "TEAM": "PUR",
+      "RESULT": "",
+      "COMP": "30",
+      "ATT": "50",
+      "YDS": "302",
       "TD": "1",
       "INT": "0",
-      "RAT": "160.6"
+      "RAT": "117.3"
     }
   ],
   "Rushing Leaders": [
@@ -216,7 +216,7 @@
       "RK": "10",
       "NAME": "Kiael Kelly, QB",
       "TEAM": "BALL",
-      "RESULT": "",
+      "RESULT": "W20-14vs.OHIO",
       "CAR": "21",
       "YDS": "96",
       "YPC": "4.6",
@@ -318,7 +318,7 @@
       "RK": "10",
       "NAME": "Kenny Johnson, WR",
       "TEAM": "PITT",
-      "RESULT": "",
+      "RESULT": "W48-7vs.BC",
       "REC": "9",
       "YDS": "115",
       "YPR": "12.8",
