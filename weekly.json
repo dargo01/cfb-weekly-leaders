@@ -203,7 +203,17 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "",
+      "NAME": "Liam Szarka, QB",
+      "TEAM": "AF",
+      "RESULT": "",
+      "CAR": "4",
+      "YDS": "76",
+      "YPC": "19.0",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Steve Chavez-Soto, RB",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -211,16 +221,6 @@
       "YDS": "71",
       "YPC": "5.1",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cartevious Norton, RB",
-      "TEAM": "USF",
-      "RESULT": "W54-26vs.CLT",
-      "CAR": "13",
-      "YDS": "69",
-      "YPC": "5.3",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "T.J. Moore, WR",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "89",
+      "YPR": "44.5",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Kyri Shoels, WR",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jeremiah Koger, WR",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -313,16 +323,6 @@
       "YDS": "75",
       "YPR": "18.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Shawn Miller, WR",
-      "TEAM": "UNM",
-      "RESULT": "L28-35atSJSU",
-      "REC": "4",
-      "YDS": "66",
-      "YPR": "16.5",
-      "TD": "0"
     }
   ]
 }
