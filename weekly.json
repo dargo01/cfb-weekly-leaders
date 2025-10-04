@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Jackson Brousseau, QB",
-      "TEAM": "CSU",
-      "RESULT": "L24-45atSDSU",
-      "COMP": "13",
-      "ATT": "25",
-      "YDS": "155",
-      "TD": "1",
+      "NAME": "Cade Klubnik, QB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "COMP": "9",
+      "ATT": "10",
+      "YDS": "158",
+      "TD": "3",
       "INT": "0",
-      "RAT": "117.3"
+      "RAT": "321.7"
     }
   ],
   "Rushing Leaders": [
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Liam Szarka, QB",
+      "TEAM": "AF",
+      "RESULT": "",
+      "CAR": "6",
+      "YDS": "91",
+      "YPC": "15.2",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "LJ Martin, RB",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -173,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Khalil Wilkins, QB",
       "TEAM": "WVU",
       "RESULT": "L24-38atBYU",
@@ -183,7 +193,17 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Evan Pryor, RB",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "CAR": "5",
+      "YDS": "85",
+      "YPC": "17.0",
+      "TD": "2"
+    },
+    {
+      "RK": "9",
       "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -193,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Sam Franklin, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -201,26 +221,6 @@
       "YDS": "76",
       "YPC": "5.4",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Liam Szarka, QB",
-      "TEAM": "AF",
-      "RESULT": "",
-      "CAR": "4",
-      "YDS": "76",
-      "YPC": "19.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Steve Chavez-Soto, RB",
-      "TEAM": "SJSU",
-      "RESULT": "W35-28vs.UNM",
-      "CAR": "14",
-      "YDS": "71",
-      "YPC": "5.1",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
