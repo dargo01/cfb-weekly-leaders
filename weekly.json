@@ -2,9 +2,21 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Bear Bachmeier, QB",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "25",
+      "YDS": "351",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "195.1"
+    },
+    {
+      "RK": "2",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
-      "RESULT": "",
+      "RESULT": "L28-35atSJSU",
       "COMP": "28",
       "ATT": "40",
       "YDS": "344",
@@ -13,22 +25,10 @@
       "RAT": "127.2"
     },
     {
-      "RK": "2",
-      "NAME": "Bear Bachmeier, QB",
-      "TEAM": "BYU",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "24",
-      "YDS": "337",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "194.2"
-    },
-    {
       "RK": "3",
       "NAME": "Walker Eget, QB",
       "TEAM": "SJSU",
-      "RESULT": "",
+      "RESULT": "W35-28vs.UNM",
       "COMP": "26",
       "ATT": "30",
       "YDS": "334",
@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Zach Wilcke, QB",
-      "TEAM": "CLT",
-      "RESULT": "L26-54atUSF",
-      "COMP": "14",
-      "ATT": "18",
-      "YDS": "150",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "173.3"
+      "NAME": "Jackson Brousseau, QB",
+      "TEAM": "CSU",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "24",
+      "YDS": "155",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "122.2"
     }
   ],
   "Rushing Leaders": [
@@ -148,12 +148,32 @@
       "TEAM": "CSU",
       "RESULT": "",
       "CAR": "16",
-      "YDS": "102",
+      "YDS": "103",
       "YPC": "6.4",
       "TD": "0"
     },
     {
       "RK": "4",
+      "NAME": "Byron Cardwell Jr., RB",
+      "TEAM": "SDSU",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "91",
+      "YPC": "10.1",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
+      "NAME": "Khalil Wilkins, QB",
+      "TEAM": "WVU",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "84",
+      "YPC": "4.4",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -163,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Sam Franklin, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -173,17 +193,17 @@
       "TD": "0"
     },
     {
-      "RK": "6",
-      "NAME": "Khalil Wilkins, QB",
-      "TEAM": "WVU",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "75",
-      "YPC": "4.4",
-      "TD": "1"
+      "RK": "8",
+      "NAME": "Steve Chavez-Soto, RB",
+      "TEAM": "SJSU",
+      "RESULT": "W35-28vs.UNM",
+      "CAR": "14",
+      "YDS": "71",
+      "YPC": "5.1",
+      "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Cartevious Norton, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -193,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Kadarius Calloway, RB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -201,26 +221,6 @@
       "YDS": "66",
       "YPC": "4.4",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Lamar Radcliffe, RB",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "64",
-      "YPC": "4.3",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Nick Minicucci, QB",
-      "TEAM": "DEL",
-      "RESULT": "L24-27vs.WKU",
-      "CAR": "12",
-      "YDS": "55",
-      "YPC": "4.6",
-      "TD": "3"
     }
   ],
   "Receiving Leaders": [
@@ -248,7 +248,7 @@
       "RK": "3",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
-      "RESULT": "",
+      "RESULT": "W35-28vs.UNM",
       "REC": "7",
       "YDS": "151",
       "YPR": "21.6",
@@ -258,7 +258,7 @@
       "RK": "4",
       "NAME": "Keagan Johnson, WR",
       "TEAM": "UNM",
-      "RESULT": "",
+      "RESULT": "L28-35atSJSU",
       "REC": "11",
       "YDS": "145",
       "YPR": "13.2",
@@ -298,7 +298,7 @@
       "RK": "8",
       "NAME": "Kyri Shoels, WR",
       "TEAM": "SJSU",
-      "RESULT": "",
+      "RESULT": "W35-28vs.UNM",
       "REC": "7",
       "YDS": "81",
       "YPR": "11.6",
@@ -318,7 +318,7 @@
       "RK": "10",
       "NAME": "Shawn Miller, WR",
       "TEAM": "UNM",
-      "RESULT": "",
+      "RESULT": "L28-35atSJSU",
       "REC": "4",
       "YDS": "66",
       "YPR": "16.5",
