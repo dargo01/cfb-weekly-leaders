@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Bear Bachmeier, QB",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "COMP": "7",
+      "ATT": "9",
+      "YDS": "201",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "279.8"
+    },
+    {
+      "RK": "7",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "",
@@ -73,7 +85,7 @@
       "RAT": "149.7"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Walker Eget, QB",
       "TEAM": "SJSU",
       "RESULT": "",
@@ -85,7 +97,7 @@
       "RAT": "240.8"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jayden Denegal, QB",
       "TEAM": "SDSU",
       "RESULT": "",
@@ -97,7 +109,7 @@
       "RAT": "265.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Zach Wilcke, QB",
       "TEAM": "CLT",
       "RESULT": "L26-54atUSF",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "173.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Bear Bachmeier, QB",
-      "TEAM": "BYU",
-      "RESULT": "",
-      "COMP": "6",
-      "ATT": "8",
-      "YDS": "116",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "213.0"
     }
   ],
   "Rushing Leaders": [
@@ -226,6 +226,16 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Chase Roberts, WR",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "132",
+      "YPR": "66.0",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -235,7 +245,7 @@
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
       "RESULT": "",
@@ -245,7 +255,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Matthew Henry, WR",
       "TEAM": "WKU",
       "RESULT": "W27-24atDEL",
@@ -255,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jordan Napier, WR",
       "TEAM": "SDSU",
       "RESULT": "",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "K.D. Hutchinson, WR",
       "TEAM": "WKU",
       "RESULT": "W27-24atDEL",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Parker Kingston, WR",
       "TEAM": "BYU",
       "RESULT": "",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jo Silver, RB",
       "TEAM": "DEL",
       "RESULT": "L24-27vs.WKU",
       "REC": "5",
       "YDS": "55",
       "YPR": "11.0",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Jake Thaw, WR",
-      "TEAM": "DEL",
-      "RESULT": "L24-27vs.WKU",
-      "REC": "4",
-      "YDS": "55",
-      "YPR": "13.8",
       "TD": "0"
     }
   ]
