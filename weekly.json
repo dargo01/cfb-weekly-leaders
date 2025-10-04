@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Luke Altmyer, QB",
+      "TEAM": "ILL",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "19",
+      "YDS": "370",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "270.4"
+    },
+    {
+      "RK": "2",
       "NAME": "Bear Bachmeier, QB",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -13,7 +25,7 @@
       "RAT": "195.1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
@@ -25,7 +37,7 @@
       "RAT": "127.2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Walker Eget, QB",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -37,7 +49,7 @@
       "RAT": "213.2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "L24-27vs.WKU",
@@ -49,19 +61,31 @@
       "RAT": "111.4"
     },
     {
-      "RK": "5",
-      "NAME": "Luke Altmyer, QB",
-      "TEAM": "ILL",
+      "RK": "6",
+      "NAME": "Mason Heintschel, QB",
+      "TEAM": "PITT",
       "RESULT": "",
-      "COMP": "15",
-      "ATT": "17",
-      "YDS": "307",
-      "TD": "1",
+      "COMP": "26",
+      "ATT": "36",
+      "YDS": "296",
+      "TD": "4",
       "INT": "0",
-      "RAT": "259.3"
+      "RAT": "178.0"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "18",
+      "YDS": "281",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "263.9"
+    },
+    {
+      "RK": "8",
       "NAME": "Jayden Denegal, QB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -73,7 +97,7 @@
       "RAT": "256.9"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -85,40 +109,16 @@
       "RAT": "168.2"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "",
-      "COMP": "21",
-      "ATT": "23",
-      "YDS": "251",
+      "COMP": "22",
+      "ATT": "24",
+      "YDS": "254",
       "TD": "4",
       "INT": "0",
-      "RAT": "231.3"
-    },
-    {
-      "RK": "9",
-      "NAME": "Mason Heintschel, QB",
-      "TEAM": "PITT",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "31",
-      "YDS": "245",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "166.1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Maverick McIvor, QB",
-      "TEAM": "WKU",
-      "RESULT": "W27-24atDEL",
-      "COMP": "23",
-      "ATT": "31",
-      "YDS": "230",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "147.2"
+      "RAT": "226.5"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Liam Szarka, QB",
       "TEAM": "AF",
       "RESULT": "",
-      "CAR": "20",
-      "YDS": "136",
-      "YPC": "6.8",
+      "CAR": "21",
+      "YDS": "147",
+      "YPC": "7.0",
       "TD": "2"
     },
     {
@@ -184,6 +184,26 @@
     },
     {
       "RK": "7",
+      "NAME": "Evan Pryor, RB",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "95",
+      "YPC": "11.9",
+      "TD": "2"
+    },
+    {
+      "RK": "8",
+      "NAME": "Justice Haynes, RB",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "93",
+      "YPC": "6.2",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "LJ Martin, RB",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -193,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Khalil Wilkins, QB",
       "TEAM": "WVU",
       "RESULT": "L24-38atBYU",
@@ -201,31 +221,31 @@
       "YDS": "89",
       "YPC": "3.9",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Evan Pryor, RB",
-      "TEAM": "CIN",
-      "RESULT": "",
-      "CAR": "6",
-      "YDS": "88",
-      "YPC": "14.7",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Abu Sama III, RB",
-      "TEAM": "ISU",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "84",
-      "YPC": "7.6",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Eli Heidenreich, WR",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "209",
+      "YPR": "34.8",
+      "TD": "3"
+    },
+    {
+      "RK": "2",
+      "NAME": "Hank Beatty, WR",
+      "TEAM": "ILL",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "186",
+      "YPR": "37.2",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Chase Roberts, WR",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -235,7 +255,7 @@
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "4",
       "NAME": "Jordan Napier, WR",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -245,7 +265,17 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "5",
+      "NAME": "Bruin Fleischmann, TE",
+      "TEAM": "AF",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "152",
+      "YPR": "30.4",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -255,43 +285,13 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "7",
       "NAME": "Keagan Johnson, WR",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
       "REC": "11",
       "YDS": "145",
       "YPR": "13.2",
-      "TD": "0"
-    },
-    {
-      "RK": "5",
-      "NAME": "Eli Heidenreich, WR",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "143",
-      "YPR": "35.8",
-      "TD": "2"
-    },
-    {
-      "RK": "6",
-      "NAME": "Hank Beatty, WR",
-      "TEAM": "ILL",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "137",
-      "YPR": "34.3",
-      "TD": "1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Bruin Fleischmann, TE",
-      "TEAM": "AF",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "134",
-      "YPR": "33.5",
       "TD": "0"
     },
     {
