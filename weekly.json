@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Cade Klubnik, QB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "20",
+      "YDS": "234",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "259.3"
+    },
+    {
+      "RK": "9",
       "NAME": "Maverick McIvor, QB",
       "TEAM": "WKU",
       "RESULT": "W27-24atDEL",
@@ -95,18 +107,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "147.2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Cade Klubnik, QB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "19",
-      "YDS": "225",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "263.7"
     },
     {
       "RK": "10",
