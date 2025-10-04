@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Luke Altmyer, QB",
+      "TEAM": "ILL",
+      "RESULT": "",
+      "COMP": "11",
+      "ATT": "12",
+      "YDS": "232",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "281.6"
+    },
+    {
+      "RK": "8",
       "NAME": "Maverick McIvor, QB",
       "TEAM": "WKU",
       "RESULT": "W27-24atDEL",
@@ -85,7 +97,7 @@
       "RAT": "147.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -97,7 +109,7 @@
       "RAT": "123.4"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -107,18 +119,6 @@
       "TD": "4",
       "INT": "2",
       "RAT": "135.1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cade Klubnik, QB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "COMP": "9",
-      "ATT": "10",
-      "YDS": "158",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "321.7"
     }
   ],
   "Rushing Leaders": [
@@ -167,9 +167,9 @@
       "NAME": "Liam Szarka, QB",
       "TEAM": "AF",
       "RESULT": "",
-      "CAR": "6",
-      "YDS": "91",
-      "YPC": "15.2",
+      "CAR": "9",
+      "YDS": "93",
+      "YPC": "10.3",
       "TD": "1"
     },
     {
@@ -266,6 +266,26 @@
     },
     {
       "RK": "5",
+      "NAME": "Eli Heidenreich, WR",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "143",
+      "YPR": "35.8",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
+      "NAME": "Hank Beatty, WR",
+      "TEAM": "ILL",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "137",
+      "YPR": "34.3",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -275,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Parker Kingston, WR",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -285,7 +305,17 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
+      "NAME": "T.J. Moore, WR",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "105",
+      "YPR": "26.3",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Matthew Henry, WR",
       "TEAM": "WKU",
       "RESULT": "W27-24atDEL",
@@ -293,36 +323,6 @@
       "YDS": "99",
       "YPR": "24.8",
       "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "T.J. Moore, WR",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "89",
-      "YPR": "44.5",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Kyri Shoels, WR",
-      "TEAM": "SJSU",
-      "RESULT": "W35-28vs.UNM",
-      "REC": "7",
-      "YDS": "81",
-      "YPR": "11.6",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jeremiah Koger, WR",
-      "TEAM": "USF",
-      "RESULT": "W54-26vs.CLT",
-      "REC": "4",
-      "YDS": "75",
-      "YPR": "18.8",
-      "TD": "1"
     }
   ]
 }
