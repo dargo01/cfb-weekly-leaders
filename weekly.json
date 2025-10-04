@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "25",
+      "ATT": "38",
+      "YDS": "345",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "154.2"
+    },
+    {
+      "RK": "4",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
@@ -37,7 +49,7 @@
       "RAT": "127.2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "W34-31vs.AF",
@@ -49,7 +61,7 @@
       "RAT": "224.5"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Walker Eget, QB",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -59,18 +71,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "213.2"
-    },
-    {
-      "RK": "6",
-      "NAME": "Sawyer Robertson, QB",
-      "TEAM": "BAY",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "35",
-      "YDS": "327",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "157.3"
     },
     {
       "RK": "7",
@@ -90,11 +90,11 @@
       "TEAM": "KSU",
       "RESULT": "",
       "COMP": "27",
-      "ATT": "39",
+      "ATT": "41",
       "YDS": "317",
       "TD": "2",
       "INT": "1",
-      "RAT": "149.3"
+      "RAT": "142.0"
     },
     {
       "RK": "9",
@@ -112,13 +112,13 @@
       "RK": "10",
       "NAME": "Bryce Underwood, QB",
       "TEAM": "MICH",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "27",
-      "YDS": "264",
+      "RESULT": "W24-10vs.WIS",
+      "COMP": "19",
+      "ATT": "28",
+      "YDS": "270",
       "TD": "1",
       "INT": "0",
-      "RAT": "161.0"
+      "RAT": "160.6"
     }
   ],
   "Rushing Leaders": [
@@ -164,16 +164,26 @@
     },
     {
       "RK": "5",
+      "NAME": "Hollywood Smothers, RB",
+      "TEAM": "NCSU",
+      "RESULT": "",
+      "CAR": "4",
+      "YDS": "123",
+      "YPC": "30.8",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Justice Haynes, RB",
       "TEAM": "MICH",
-      "RESULT": "",
+      "RESULT": "W24-10vs.WIS",
       "CAR": "19",
       "YDS": "117",
       "YPC": "6.2",
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Lucky Sutton, RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Evan Pryor, RB",
       "TEAM": "CIN",
       "RESULT": "",
@@ -193,7 +203,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jalen Dupree, RB",
       "TEAM": "CSU",
       "RESULT": "L24-45atSDSU",
@@ -203,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Kiael Kelly, QB",
       "TEAM": "BALL",
       "RESULT": "",
@@ -211,16 +221,6 @@
       "YDS": "96",
       "YPC": "4.6",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Abu Sama III, RB",
-      "TEAM": "ISU",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "96",
-      "YPC": "5.3",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Michael Trigg, TE",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "155",
+      "YPR": "19.4",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Jordan Napier, WR",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -283,16 +293,6 @@
       "YDS": "151",
       "YPR": "21.6",
       "TD": "1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Michael Trigg, TE",
-      "TEAM": "BAY",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "148",
-      "YPR": "21.1",
-      "TD": "0"
     },
     {
       "RK": "8",
