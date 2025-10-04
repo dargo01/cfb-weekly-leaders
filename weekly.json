@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "19",
+      "YDS": "308",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "267.2"
+    },
+    {
+      "RK": "7",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "",
@@ -71,18 +83,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "178.0"
-    },
-    {
-      "RK": "7",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "18",
-      "YDS": "281",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "263.9"
     },
     {
       "RK": "8",
@@ -157,9 +157,9 @@
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "119",
-      "YPC": "9.9",
+      "CAR": "13",
+      "YDS": "122",
+      "YPC": "9.4",
       "TD": "1"
     },
     {
@@ -229,9 +229,9 @@
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "",
-      "REC": "6",
-      "YDS": "209",
-      "YPR": "34.8",
+      "REC": "7",
+      "YDS": "236",
+      "YPR": "33.7",
       "TD": "3"
     },
     {
