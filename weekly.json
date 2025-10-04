@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Brad Jackson, QB",
+      "TEAM": "TXST",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "131",
+      "YPC": "13.1",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "W34-31vs.AF",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Byron Cardwell Jr., RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Nico Iamaleava, QB",
       "TEAM": "UCLA",
       "RESULT": "W42-37vs.PSU",
@@ -193,7 +203,7 @@
       "TD": "3"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Hollywood Smothers, RB",
       "TEAM": "NCSU",
       "RESULT": "W56-10vs.CAM",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Dontae McMillan, RB",
       "TEAM": "EMU",
       "RESULT": "L30-31atBUF",
@@ -211,16 +221,6 @@
       "YDS": "117",
       "YPC": "5.9",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Justice Haynes, RB",
-      "TEAM": "MICH",
-      "RESULT": "W24-10vs.WIS",
-      "CAR": "19",
-      "YDS": "117",
-      "YPC": "6.2",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
