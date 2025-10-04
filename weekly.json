@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Nick Minicucci, QB",
+      "TEAM": "DEL",
+      "RESULT": "L24-27vs.WKU",
+      "COMP": "28",
+      "ATT": "47",
+      "YDS": "314",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "111.4"
+    },
+    {
+      "RK": "2",
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -13,7 +25,19 @@
       "RAT": "168.2"
     },
     {
-      "RK": "2",
+      "RK": "3",
+      "NAME": "Maverick McIvor, QB",
+      "TEAM": "WKU",
+      "RESULT": "W27-24atDEL",
+      "COMP": "23",
+      "ATT": "31",
+      "YDS": "230",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "147.2"
+    },
+    {
+      "RK": "4",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -25,55 +49,43 @@
       "RAT": "123.4"
     },
     {
-      "RK": "3",
-      "NAME": "Nick Minicucci, QB",
-      "TEAM": "DEL",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "28",
-      "YDS": "173",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "94.8"
-    },
-    {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "",
-      "COMP": "13",
-      "ATT": "23",
-      "YDS": "147",
+      "COMP": "16",
+      "ATT": "31",
+      "YDS": "187",
       "TD": "3",
-      "INT": "1",
-      "RAT": "144.5"
-    },
-    {
-      "RK": "5",
-      "NAME": "Maverick McIvor, QB",
-      "TEAM": "WKU",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "22",
-      "YDS": "146",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "123.9"
+      "INT": "2",
+      "RAT": "121.3"
     },
     {
       "RK": "6",
       "NAME": "Zach Wilcke, QB",
       "TEAM": "CLT",
       "RESULT": "",
-      "COMP": "3",
-      "ATT": "4",
-      "YDS": "29",
-      "TD": "0",
+      "COMP": "10",
+      "ATT": "12",
+      "YDS": "108",
+      "TD": "1",
       "INT": "0",
-      "RAT": "135.9"
+      "RAT": "186.4"
     },
     {
       "RK": "7",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "COMP": "6",
+      "ATT": "6",
+      "YDS": "59",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "182.6"
+    },
+    {
+      "RK": "8",
       "NAME": "Mabrey Mettauer, QB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -85,7 +97,19 @@
       "RAT": "137.0"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Jack Layne, QB",
+      "TEAM": "UNM",
+      "RESULT": "",
+      "COMP": "3",
+      "ATT": "4",
+      "YDS": "13",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "52.3"
+    },
+    {
+      "RK": "10",
       "NAME": "Grayson Loftis, QB",
       "TEAM": "CLT",
       "RESULT": "",
@@ -103,13 +127,33 @@
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "98",
-      "YPC": "10.9",
+      "CAR": "15",
+      "YDS": "141",
+      "YPC": "9.4",
       "TD": "0"
     },
     {
       "RK": "2",
+      "NAME": "Cartevious Norton, RB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "68",
+      "YPC": "5.2",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
+      "NAME": "Sam Franklin, RB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "67",
+      "YPC": "6.1",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Kadarius Calloway, RB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -119,37 +163,47 @@
       "TD": "1"
     },
     {
-      "RK": "3",
-      "NAME": "Cartevious Norton, RB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "CAR": "5",
-      "YDS": "55",
-      "YPC": "11.0",
-      "TD": "1"
-    },
-    {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "51",
-      "YPC": "5.7",
-      "TD": "2"
-    },
-    {
-      "RK": "5",
-      "NAME": "Sam Franklin, RB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "50",
-      "YPC": "5.6",
-      "TD": "0"
+      "RESULT": "L24-27vs.WKU",
+      "CAR": "12",
+      "YDS": "55",
+      "YPC": "4.6",
+      "TD": "3"
     },
     {
       "RK": "6",
+      "NAME": "CJ Stokes, RB",
+      "TEAM": "CLT",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "54",
+      "YPC": "4.2",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Nykahi Davenport, RB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "49",
+      "YPC": "6.1",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
+      "NAME": "Jo Silver, RB",
+      "TEAM": "DEL",
+      "RESULT": "L24-27vs.WKU",
+      "CAR": "17",
+      "YDS": "47",
+      "YPC": "2.8",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Alton McCaskill, RB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -159,43 +213,13 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Maverick McIvor, QB",
       "TEAM": "WKU",
-      "RESULT": "",
+      "RESULT": "W27-24atDEL",
       "CAR": "6",
       "YDS": "36",
       "YPC": "6.0",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "CJ Stokes, RB",
-      "TEAM": "CLT",
-      "RESULT": "",
-      "CAR": "6",
-      "YDS": "29",
-      "YPC": "4.8",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jo Silver, RB",
-      "TEAM": "DEL",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "27",
-      "YPC": "2.3",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Nykahi Davenport, RB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "CAR": "5",
-      "YDS": "26",
-      "YPC": "5.2",
       "TD": "0"
     }
   ],
@@ -214,14 +238,64 @@
       "RK": "2",
       "NAME": "Matthew Henry, WR",
       "TEAM": "WKU",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "54",
-      "YPR": "27.0",
+      "RESULT": "W27-24atDEL",
+      "REC": "4",
+      "YDS": "99",
+      "YPR": "24.8",
       "TD": "0"
     },
     {
       "RK": "3",
+      "NAME": "Jeremiah Koger, WR",
+      "TEAM": "USF",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "75",
+      "YPR": "18.8",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
+      "NAME": "K.D. Hutchinson, WR",
+      "TEAM": "WKU",
+      "RESULT": "W27-24atDEL",
+      "REC": "9",
+      "YDS": "58",
+      "YPR": "6.4",
+      "TD": "0"
+    },
+    {
+      "RK": "",
+      "NAME": "Sean Brown, WR",
+      "TEAM": "CLT",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "58",
+      "YPR": "14.5",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
+      "NAME": "Jo Silver, RB",
+      "TEAM": "DEL",
+      "RESULT": "L24-27vs.WKU",
+      "REC": "5",
+      "YDS": "55",
+      "YPR": "11.0",
+      "TD": "0"
+    },
+    {
+      "RK": "",
+      "NAME": "Jake Thaw, WR",
+      "TEAM": "DEL",
+      "RESULT": "L24-27vs.WKU",
+      "REC": "4",
+      "YDS": "55",
+      "YPR": "13.8",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Landan Brown, RB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -231,17 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
-      "NAME": "K.D. Hutchinson, WR",
-      "TEAM": "WKU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "49",
-      "YPR": "7.0",
-      "TD": "0"
-    },
-    {
-      "RK": "5",
+      "RK": "9",
       "NAME": "Kadarius Calloway, RB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -258,46 +322,6 @@
       "REC": "5",
       "YDS": "44",
       "YPR": "8.8",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Jeremiah Koger, WR",
-      "TEAM": "USF",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "44",
-      "YPR": "22.0",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jake Thaw, WR",
-      "TEAM": "DEL",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "40",
-      "YPR": "20.0",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Donovan Faupel, WR",
-      "TEAM": "NMSU",
-      "RESULT": "W37-10vs.SHSU",
-      "REC": "4",
-      "YDS": "38",
-      "YPR": "9.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Qua'Vez Humphreys, WR",
-      "TEAM": "SHSU",
-      "RESULT": "L10-37atNMSU",
-      "REC": "4",
-      "YDS": "37",
-      "YPR": "9.3",
       "TD": "0"
     }
   ]
