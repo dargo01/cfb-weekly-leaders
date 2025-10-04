@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "CJ Bailey, QB",
+      "TEAM": "NCSU",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "23",
+      "YDS": "337",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "267.4"
+    },
+    {
+      "RK": "8",
       "NAME": "Walker Eget, QB",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -85,7 +97,7 @@
       "RAT": "213.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "W48-7vs.BC",
@@ -97,7 +109,7 @@
       "RAT": "171.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Rocco Becht, QB",
       "TEAM": "ISU",
       "RESULT": "L30-38atCIN",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "131.2"
-    },
-    {
-      "RK": "",
-      "NAME": "Nick Minicucci, QB",
-      "TEAM": "DEL",
-      "RESULT": "L24-27vs.WKU",
-      "COMP": "28",
-      "ATT": "47",
-      "YDS": "314",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "111.4"
     }
   ],
   "Rushing Leaders": [
