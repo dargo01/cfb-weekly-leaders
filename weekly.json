@@ -50,6 +50,42 @@
     },
     {
       "RK": "5",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "35",
+      "YDS": "327",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "157.3"
+    },
+    {
+      "RK": "6",
+      "NAME": "Mason Heintschel, QB",
+      "TEAM": "PITT",
+      "RESULT": "",
+      "COMP": "30",
+      "ATT": "40",
+      "YDS": "323",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "175.8"
+    },
+    {
+      "RK": "7",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "23",
+      "YDS": "320",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "233.8"
+    },
+    {
+      "RK": "8",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "L24-27vs.WKU",
@@ -61,31 +97,19 @@
       "RAT": "111.4"
     },
     {
-      "RK": "6",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
+      "RK": "9",
+      "NAME": "Bryce Underwood, QB",
+      "TEAM": "MICH",
       "RESULT": "",
-      "COMP": "15",
-      "ATT": "19",
-      "YDS": "308",
-      "TD": "3",
+      "COMP": "18",
+      "ATT": "27",
+      "YDS": "264",
+      "TD": "1",
       "INT": "0",
-      "RAT": "267.2"
+      "RAT": "161.0"
     },
     {
-      "RK": "7",
-      "NAME": "Mason Heintschel, QB",
-      "TEAM": "PITT",
-      "RESULT": "",
-      "COMP": "26",
-      "ATT": "36",
-      "YDS": "296",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "178.0"
-    },
-    {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Jayden Denegal, QB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -95,30 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "256.9"
-    },
-    {
-      "RK": "9",
-      "NAME": "Logan Fife, QB",
-      "TEAM": "NMSU",
-      "RESULT": "W37-10vs.SHSU",
-      "COMP": "19",
-      "ATT": "26",
-      "YDS": "255",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "168.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cade Klubnik, QB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "COMP": "22",
-      "ATT": "24",
-      "YDS": "254",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "226.5"
     }
   ],
   "Rushing Leaders": [
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Justice Haynes, RB",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "117",
+      "YPC": "6.2",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
       "NAME": "Lucky Sutton, RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -173,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jalen Dupree, RB",
       "TEAM": "CSU",
       "RESULT": "L24-45atSDSU",
@@ -183,24 +193,14 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Evan Pryor, RB",
       "TEAM": "CIN",
       "RESULT": "",
-      "CAR": "8",
-      "YDS": "95",
-      "YPC": "11.9",
+      "CAR": "9",
+      "YDS": "99",
+      "YPC": "11.0",
       "TD": "2"
-    },
-    {
-      "RK": "8",
-      "NAME": "Justice Haynes, RB",
-      "TEAM": "MICH",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "93",
-      "YPC": "6.2",
-      "TD": "1"
     },
     {
       "RK": "9",
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Michael Trigg, TE",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "148",
+      "YPR": "21.1",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Keagan Johnson, WR",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -305,23 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Kenny Johnson, WR",
       "TEAM": "PITT",
       "RESULT": "",
       "REC": "9",
       "YDS": "115",
       "YPR": "12.8",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Parker Kingston, WR",
-      "TEAM": "BYU",
-      "RESULT": "W38-24vs.WVU",
-      "REC": "4",
-      "YDS": "111",
-      "YPR": "27.8",
       "TD": "1"
     }
   ]
