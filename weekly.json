@@ -38,6 +38,30 @@
     },
     {
       "RK": "4",
+      "NAME": "Jack Layne, QB",
+      "TEAM": "UNM",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "30",
+      "YDS": "275",
+      "TD": "0",
+      "INT": "3",
+      "RAT": "130.3"
+    },
+    {
+      "RK": "5",
+      "NAME": "Jayden Denegal, QB",
+      "TEAM": "SDSU",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "16",
+      "YDS": "256",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "256.9"
+    },
+    {
+      "RK": "6",
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -49,19 +73,7 @@
       "RAT": "168.2"
     },
     {
-      "RK": "5",
-      "NAME": "Jayden Denegal, QB",
-      "TEAM": "SDSU",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "15",
-      "YDS": "246",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "261.8"
-    },
-    {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Maverick McIvor, QB",
       "TEAM": "WKU",
       "RESULT": "W27-24atDEL",
@@ -73,7 +85,7 @@
       "RAT": "147.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "L10-37atNMSU",
@@ -83,18 +95,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "123.4"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jack Layne, QB",
-      "TEAM": "UNM",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "26",
-      "YDS": "219",
-      "TD": "0",
-      "INT": "3",
-      "RAT": "116.9"
     },
     {
       "RK": "9",
@@ -137,9 +137,9 @@
       "NAME": "Lucky Sutton, RB",
       "TEAM": "SDSU",
       "RESULT": "",
-      "CAR": "16",
-      "YDS": "80",
-      "YPC": "5.0",
+      "CAR": "20",
+      "YDS": "112",
+      "YPC": "5.6",
       "TD": "1"
     },
     {
@@ -207,9 +207,9 @@
       "NAME": "Khalil Wilkins, QB",
       "TEAM": "WVU",
       "RESULT": "",
-      "CAR": "13",
+      "CAR": "14",
       "YDS": "60",
-      "YPC": "4.6",
+      "YPC": "4.3",
       "TD": "0"
     },
     {
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Keagan Johnson, WR",
+      "TEAM": "UNM",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "92",
+      "YPR": "13.1",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Parker Kingston, WR",
       "TEAM": "BYU",
       "RESULT": "",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jeremiah Koger, WR",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Kyri Shoels, WR",
       "TEAM": "SJSU",
       "RESULT": "",
@@ -305,23 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Keagan Johnson, WR",
+      "RK": "10",
+      "NAME": "Shawn Miller, WR",
       "TEAM": "UNM",
       "RESULT": "",
-      "REC": "5",
+      "REC": "3",
       "YDS": "60",
-      "YPR": "12.0",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "K.D. Hutchinson, WR",
-      "TEAM": "WKU",
-      "RESULT": "W27-24atDEL",
-      "REC": "9",
-      "YDS": "58",
-      "YPR": "6.4",
+      "YPR": "20.0",
       "TD": "0"
     }
   ]
