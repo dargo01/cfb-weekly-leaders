@@ -62,18 +62,30 @@
     },
     {
       "RK": "6",
-      "NAME": "Walker Eget, QB",
-      "TEAM": "SJSU",
+      "NAME": "Jack Layne, QB",
+      "TEAM": "UNM",
       "RESULT": "",
-      "COMP": "12",
-      "ATT": "12",
-      "YDS": "165",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "270.5"
+      "COMP": "14",
+      "ATT": "17",
+      "YDS": "178",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "158.5"
     },
     {
       "RK": "7",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "14",
+      "YDS": "168",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "240.8"
+    },
+    {
+      "RK": "8",
       "NAME": "Zach Wilcke, QB",
       "TEAM": "CLT",
       "RESULT": "L26-54atUSF",
@@ -85,40 +97,28 @@
       "RAT": "173.3"
     },
     {
-      "RK": "8",
-      "NAME": "Jack Layne, QB",
-      "TEAM": "UNM",
-      "RESULT": "",
-      "COMP": "9",
-      "ATT": "11",
-      "YDS": "129",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "162.1"
-    },
-    {
       "RK": "9",
       "NAME": "Bear Bachmeier, QB",
       "TEAM": "BYU",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "5",
-      "YDS": "104",
+      "COMP": "6",
+      "ATT": "8",
+      "YDS": "116",
       "TD": "1",
-      "INT": "0",
-      "RAT": "320.7"
+      "INT": "1",
+      "RAT": "213.0"
     },
     {
       "RK": "10",
       "NAME": "Jayden Denegal, QB",
       "TEAM": "SDSU",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "5",
-      "YDS": "74",
+      "COMP": "6",
+      "ATT": "8",
+      "YDS": "97",
       "TD": "1",
       "INT": "0",
-      "RAT": "270.3"
+      "RAT": "218.1"
     }
   ],
   "Rushing Leaders": [
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Jalen Dupree, RB",
+      "TEAM": "CSU",
+      "RESULT": "",
+      "CAR": "6",
+      "YDS": "70",
+      "YPC": "11.7",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Cartevious Norton, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Kadarius Calloway, RB",
       "TEAM": "NMSU",
       "RESULT": "W37-10vs.SHSU",
@@ -171,16 +181,6 @@
       "YDS": "66",
       "YPC": "4.4",
       "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Jalen Dupree, RB",
-      "TEAM": "CSU",
-      "RESULT": "",
-      "CAR": "5",
-      "YDS": "58",
-      "YPC": "11.6",
-      "TD": "0"
     },
     {
       "RK": "7",
@@ -204,22 +204,22 @@
     },
     {
       "RK": "9",
-      "NAME": "Jo Silver, RB",
-      "TEAM": "DEL",
-      "RESULT": "L24-27vs.WKU",
-      "CAR": "17",
-      "YDS": "47",
-      "YPC": "2.8",
+      "NAME": "Khalil Wilkins, QB",
+      "TEAM": "WVU",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "51",
+      "YPC": "4.6",
       "TD": "0"
     },
     {
-      "RK": "",
-      "NAME": "Jariel Cobb, RB",
-      "TEAM": "CLT",
-      "RESULT": "L26-54atUSF",
-      "CAR": "4",
-      "YDS": "47",
-      "YPC": "11.8",
+      "RK": "10",
+      "NAME": "Lamar Radcliffe, RB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "48",
+      "YPC": "4.8",
       "TD": "0"
     }
   ],
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Danny Scudero, WR",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "101",
+      "YPR": "25.3",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Matthew Henry, WR",
       "TEAM": "WKU",
       "RESULT": "W27-24atDEL",
@@ -243,16 +253,6 @@
       "YDS": "99",
       "YPR": "24.8",
       "TD": "0"
-    },
-    {
-      "RK": "3",
-      "NAME": "Danny Scudero, WR",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "98",
-      "YPR": "32.7",
-      "TD": "1"
     },
     {
       "RK": "4",
