@@ -89,12 +89,12 @@
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "",
-      "COMP": "20",
-      "ATT": "21",
-      "YDS": "237",
+      "COMP": "19",
+      "ATT": "20",
+      "YDS": "234",
       "TD": "4",
       "INT": "0",
-      "RAT": "252.9"
+      "RAT": "259.3"
     },
     {
       "RK": "9",
@@ -319,9 +319,9 @@
       "NAME": "T.J. Moore, WR",
       "TEAM": "CLEM",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "108",
-      "YPR": "21.6",
+      "REC": "4",
+      "YDS": "105",
+      "YPR": "26.3",
       "TD": "1"
     }
   ]
