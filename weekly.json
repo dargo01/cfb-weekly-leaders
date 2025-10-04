@@ -204,6 +204,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Jordan Gant, RB",
+      "TEAM": "AKR",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "106",
+      "YPC": "10.6",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Jalen Dupree, RB",
       "TEAM": "CSU",
       "RESULT": "L24-45atSDSU",
@@ -211,16 +221,6 @@
       "YDS": "103",
       "YPC": "6.4",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kiael Kelly, QB",
-      "TEAM": "BALL",
-      "RESULT": "W20-14vs.OHIO",
-      "CAR": "21",
-      "YDS": "96",
-      "YPC": "4.6",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
