@@ -5,12 +5,12 @@
       "NAME": "Luke Altmyer, QB",
       "TEAM": "ILL",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "19",
-      "YDS": "370",
+      "COMP": "19",
+      "ATT": "22",
+      "YDS": "390",
       "TD": "1",
       "INT": "0",
-      "RAT": "270.4"
+      "RAT": "250.3"
     },
     {
       "RK": "2",
@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "25",
+      "YDS": "331",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "226.8"
+    },
+    {
+      "RK": "6",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "",
@@ -61,28 +73,16 @@
       "RAT": "157.3"
     },
     {
-      "RK": "6",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "23",
-      "YDS": "320",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "233.8"
-    },
-    {
       "RK": "7",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "",
-      "COMP": "28",
-      "ATT": "38",
-      "YDS": "318",
+      "COMP": "30",
+      "ATT": "41",
+      "YDS": "323",
       "TD": "4",
       "INT": "0",
-      "RAT": "178.7"
+      "RAT": "171.5"
     },
     {
       "RK": "8",
@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Avery Johnson, QB",
+      "TEAM": "KSU",
+      "RESULT": "",
+      "COMP": "26",
+      "ATT": "38",
+      "YDS": "269",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "140.0"
+    },
+    {
+      "RK": "10",
       "NAME": "Bryce Underwood, QB",
       "TEAM": "MICH",
       "RESULT": "",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "161.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jayden Denegal, QB",
-      "TEAM": "SDSU",
-      "RESULT": "W45-24vs.CSU",
-      "COMP": "13",
-      "ATT": "16",
-      "YDS": "256",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "256.9"
     }
   ],
   "Rushing Leaders": [
@@ -137,13 +137,23 @@
       "NAME": "Liam Szarka, QB",
       "TEAM": "AF",
       "RESULT": "",
-      "CAR": "21",
-      "YDS": "147",
-      "YPC": "7.0",
+      "CAR": "25",
+      "YDS": "152",
+      "YPC": "6.1",
       "TD": "2"
     },
     {
       "RK": "3",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "129",
+      "YPC": "8.1",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Byron Cardwell Jr., RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -153,24 +163,14 @@
       "TD": "1"
     },
     {
-      "RK": "4",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "CAR": "13",
-      "YDS": "122",
-      "YPC": "9.4",
-      "TD": "1"
-    },
-    {
       "RK": "5",
       "NAME": "Justice Haynes, RB",
       "TEAM": "MICH",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "116",
-      "YPC": "6.4",
-      "TD": "1"
+      "CAR": "19",
+      "YDS": "117",
+      "YPC": "6.2",
+      "TD": "2"
     },
     {
       "RK": "6",
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Evan Pryor, RB",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "111",
+      "YPC": "11.1",
+      "TD": "2"
+    },
+    {
+      "RK": "8",
       "NAME": "Jalen Dupree, RB",
       "TEAM": "CSU",
       "RESULT": "L24-45atSDSU",
@@ -193,17 +203,17 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Evan Pryor, RB",
-      "TEAM": "CIN",
+      "RK": "9",
+      "NAME": "Kiael Kelly, QB",
+      "TEAM": "BALL",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "99",
-      "YPC": "11.0",
-      "TD": "2"
+      "CAR": "20",
+      "YDS": "93",
+      "YPC": "4.7",
+      "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "LJ Martin, RB",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -211,16 +221,6 @@
       "YDS": "90",
       "YPC": "4.3",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Khalil Wilkins, QB",
-      "TEAM": "WVU",
-      "RESULT": "L24-38atBYU",
-      "CAR": "23",
-      "YDS": "89",
-      "YPC": "3.9",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -229,9 +229,9 @@
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "",
-      "REC": "7",
-      "YDS": "236",
-      "YPR": "33.7",
+      "REC": "8",
+      "YDS": "243",
+      "YPR": "30.4",
       "TD": "3"
     },
     {
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Bruin Fleischmann, TE",
+      "TEAM": "AF",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "166",
+      "YPR": "27.7",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Chase Roberts, WR",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -255,23 +265,13 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jordan Napier, WR",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
       "REC": "7",
       "YDS": "153",
       "YPR": "21.9",
-      "TD": "1"
-    },
-    {
-      "RK": "5",
-      "NAME": "Bruin Fleischmann, TE",
-      "TEAM": "AF",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "152",
-      "YPR": "30.4",
       "TD": "1"
     },
     {
