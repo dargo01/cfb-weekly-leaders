@@ -52,7 +52,7 @@
       "RK": "5",
       "NAME": "Jayden Denegal, QB",
       "TEAM": "SDSU",
-      "RESULT": "",
+      "RESULT": "W45-24vs.CSU",
       "COMP": "13",
       "ATT": "16",
       "YDS": "256",
@@ -112,7 +112,7 @@
       "RK": "10",
       "NAME": "Jackson Brousseau, QB",
       "TEAM": "CSU",
-      "RESULT": "",
+      "RESULT": "L24-45atSDSU",
       "COMP": "13",
       "ATT": "25",
       "YDS": "155",
@@ -136,7 +136,7 @@
       "RK": "2",
       "NAME": "Byron Cardwell Jr., RB",
       "TEAM": "SDSU",
-      "RESULT": "",
+      "RESULT": "W45-24vs.CSU",
       "CAR": "15",
       "YDS": "129",
       "YPC": "8.6",
@@ -146,7 +146,7 @@
       "RK": "3",
       "NAME": "Lucky Sutton, RB",
       "TEAM": "SDSU",
-      "RESULT": "",
+      "RESULT": "W45-24vs.CSU",
       "CAR": "21",
       "YDS": "113",
       "YPC": "5.4",
@@ -156,7 +156,7 @@
       "RK": "4",
       "NAME": "Jalen Dupree, RB",
       "TEAM": "CSU",
-      "RESULT": "",
+      "RESULT": "L24-45atSDSU",
       "CAR": "16",
       "YDS": "103",
       "YPC": "6.4",
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "LJ Martin, RB",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "90",
+      "YPC": "4.3",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
       "NAME": "Khalil Wilkins, QB",
       "TEAM": "WVU",
       "RESULT": "",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Sam Franklin, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Steve Chavez-Soto, RB",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -203,23 +213,13 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Cartevious Norton, RB",
       "TEAM": "USF",
       "RESULT": "W54-26vs.CLT",
       "CAR": "13",
       "YDS": "69",
       "YPC": "5.3",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kadarius Calloway, RB",
-      "TEAM": "NMSU",
-      "RESULT": "W37-10vs.SHSU",
-      "CAR": "15",
-      "YDS": "66",
-      "YPC": "4.4",
       "TD": "1"
     }
   ],
@@ -238,7 +238,7 @@
       "RK": "2",
       "NAME": "Jordan Napier, WR",
       "TEAM": "SDSU",
-      "RESULT": "",
+      "RESULT": "W45-24vs.CSU",
       "REC": "7",
       "YDS": "153",
       "YPR": "21.9",
