@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Jordan Gant, RB",
+      "TEAM": "AKR",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "153",
+      "YPC": "7.0",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Liam Szarka, QB",
       "TEAM": "AF",
       "RESULT": "L31-34atNAVY",
@@ -141,16 +151,6 @@
       "YDS": "152",
       "YPC": "6.1",
       "TD": "2"
-    },
-    {
-      "RK": "3",
-      "NAME": "Jordan Gant, RB",
-      "TEAM": "AKR",
-      "RESULT": "",
-      "CAR": "21",
-      "YDS": "151",
-      "YPC": "7.2",
-      "TD": "0"
     },
     {
       "RK": "4",
