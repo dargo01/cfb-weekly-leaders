@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Behren Morton, QB",
+      "TEAM": "TTU",
+      "RESULT": "W35-11atHOU",
+      "COMP": "28",
+      "ATT": "40",
+      "YDS": "345",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "150.7"
+    },
+    {
+      "RK": "",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "W35-34vs.KSU",
@@ -73,7 +85,7 @@
       "RAT": "150.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "L28-35atSJSU",
@@ -85,7 +97,7 @@
       "RAT": "127.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Ty Simpson, QB",
       "TEAM": "ALA",
       "RESULT": "W30-14vs.VAN",
@@ -97,7 +109,7 @@
       "RAT": "181.2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Avery Johnson, QB",
       "TEAM": "KSU",
       "RESULT": "L34-35atBAY",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "137.9"
-    },
-    {
-      "RK": "",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "W34-31vs.AF",
-      "COMP": "20",
-      "ATT": "26",
-      "YDS": "339",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "224.5"
     }
   ],
   "Rushing Leaders": [
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Rueben Owens II, RB",
+      "TEAM": "TA&M",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "142",
+      "YPC": "6.8",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Jam Miller, RB",
       "TEAM": "ALA",
       "RESULT": "W30-14vs.VAN",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Brad Jackson, QB",
       "TEAM": "TXST",
       "RESULT": "L30-31atARST",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "W34-31vs.AF",
@@ -183,23 +193,13 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Byron Cardwell Jr., RB",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
       "CAR": "15",
       "YDS": "129",
       "YPC": "8.6",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Quinton Jackson, RB",
-      "TEAM": "RICE",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "129",
-      "YPC": "7.2",
       "TD": "1"
     },
     {
@@ -213,13 +213,13 @@
       "TD": "3"
     },
     {
-      "RK": "10",
-      "NAME": "Hollywood Smothers, RB",
-      "TEAM": "NCSU",
-      "RESULT": "W56-10vs.CAM",
-      "CAR": "4",
-      "YDS": "123",
-      "YPC": "30.8",
+      "RK": "",
+      "NAME": "Quinton Jackson, RB",
+      "TEAM": "RICE",
+      "RESULT": "L21-27vs.FAU",
+      "CAR": "19",
+      "YDS": "128",
+      "YPC": "6.7",
       "TD": "1"
     }
   ],
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Carnell Tate, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "9",
+      "YDS": "183",
+      "YPR": "20.3",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Trent Walker, WR",
       "TEAM": "ORST",
       "RESULT": "L23-27atAPP",
@@ -255,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Chris Bell, WR",
       "TEAM": "LOU",
       "RESULT": "L27-30vs.UVA",
@@ -265,23 +275,13 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Bruin Fleischmann, TE",
       "TEAM": "AF",
       "RESULT": "L31-34atNAVY",
       "REC": "6",
       "YDS": "166",
       "YPR": "27.7",
-      "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Carnell Tate, WR",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "163",
-      "YPR": "23.3",
       "TD": "1"
     },
     {
