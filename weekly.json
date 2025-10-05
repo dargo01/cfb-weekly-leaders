@@ -193,7 +193,17 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "",
+      "NAME": "Quinton Jackson, RB",
+      "TEAM": "RICE",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "129",
+      "YPC": "7.2",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Nico Iamaleava, QB",
       "TEAM": "UCLA",
       "RESULT": "W42-37vs.PSU",
@@ -203,23 +213,13 @@
       "TD": "3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Hollywood Smothers, RB",
       "TEAM": "NCSU",
       "RESULT": "W56-10vs.CAM",
       "CAR": "4",
       "YDS": "123",
       "YPC": "30.8",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Dontae McMillan, RB",
-      "TEAM": "EMU",
-      "RESULT": "L30-31atBUF",
-      "CAR": "20",
-      "YDS": "117",
-      "YPC": "5.9",
       "TD": "1"
     }
   ],
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Carnell Tate, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "163",
+      "YPR": "23.3",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Chase Roberts, WR",
       "TEAM": "BYU",
       "RESULT": "W38-24vs.WVU",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Michael Trigg, TE",
       "TEAM": "BAY",
       "RESULT": "W35-34vs.KSU",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jordan Napier, WR",
       "TEAM": "SDSU",
       "RESULT": "W45-24vs.CSU",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
       "RESULT": "W35-28vs.UNM",
@@ -313,16 +323,6 @@
       "YDS": "151",
       "YPR": "21.6",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Keagan Johnson, WR",
-      "TEAM": "UNM",
-      "RESULT": "L28-35atSJSU",
-      "REC": "11",
-      "YDS": "145",
-      "YPR": "13.2",
-      "TD": "0"
     }
   ]
 }
