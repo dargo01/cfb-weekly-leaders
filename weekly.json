@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "JC French IV, QB",
+      "TEAM": "GASO",
+      "RESULT": "L35-38vs.USM",
+      "COMP": "24",
+      "ATT": "43",
+      "YDS": "313",
+      "TD": "2",
+      "INT": "3",
+      "RAT": "118.3"
+    },
+    {
+      "RK": "3",
       "NAME": "Dexter Williams II, QB",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -25,7 +37,7 @@
       "RAT": "179.3"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Deuce Bailey, QB",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -37,7 +49,7 @@
       "RAT": "137.6"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -47,18 +59,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "140.5"
-    },
-    {
-      "RK": "5",
-      "NAME": "JC French IV, QB",
-      "TEAM": "GASO",
-      "RESULT": "",
-      "COMP": "20",
-      "ATT": "35",
-      "YDS": "257",
-      "TD": "2",
-      "INT": "3",
-      "RAT": "120.5"
     },
     {
       "RK": "6",
@@ -76,7 +76,7 @@
       "RK": "7",
       "NAME": "Braylon Braxton, QB",
       "TEAM": "USM",
-      "RESULT": "",
+      "RESULT": "W38-35atGASO",
       "COMP": "19",
       "ATT": "28",
       "YDS": "237",
@@ -100,7 +100,7 @@
       "RK": "9",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
-      "RESULT": "",
+      "RESULT": "L27-29vs.JXST",
       "COMP": "12",
       "ATT": "19",
       "YDS": "136",
@@ -112,13 +112,13 @@
       "RK": "10",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "16",
-      "YDS": "124",
+      "RESULT": "W29-27atSHSU",
+      "COMP": "13",
+      "ATT": "17",
+      "YDS": "129",
       "TD": "0",
       "INT": "0",
-      "RAT": "140.1"
+      "RAT": "140.2"
     }
   ],
   "Rushing Leaders": [
@@ -126,7 +126,7 @@
       "RK": "1",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
-      "RESULT": "",
+      "RESULT": "W29-27atSHSU",
       "CAR": "31",
       "YDS": "218",
       "YPC": "7.0",
@@ -134,23 +134,23 @@
     },
     {
       "RK": "2",
+      "NAME": "Jeffery Pittman, RB",
+      "TEAM": "USM",
+      "RESULT": "W38-35atGASO",
+      "CAR": "31",
+      "YDS": "140",
+      "YPC": "4.5",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
-      "RESULT": "",
+      "RESULT": "W29-27atSHSU",
       "CAR": "24",
       "YDS": "132",
       "YPC": "5.5",
       "TD": "1"
-    },
-    {
-      "RK": "3",
-      "NAME": "Jeffery Pittman, RB",
-      "TEAM": "USM",
-      "RESULT": "",
-      "CAR": "29",
-      "YDS": "130",
-      "YPC": "4.5",
-      "TD": "2"
     },
     {
       "RK": "4",
@@ -166,7 +166,7 @@
       "RK": "5",
       "NAME": "Alton McCaskill, RB",
       "TEAM": "SHSU",
-      "RESULT": "",
+      "RESULT": "L27-29vs.JXST",
       "CAR": "14",
       "YDS": "87",
       "YPC": "6.2",
@@ -228,10 +228,10 @@
       "RK": "1",
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
-      "RESULT": "",
-      "REC": "10",
-      "YDS": "127",
-      "YPR": "12.7",
+      "RESULT": "L35-38vs.USM",
+      "REC": "12",
+      "YDS": "158",
+      "YPR": "13.2",
       "TD": "1"
     },
     {
@@ -256,6 +256,26 @@
     },
     {
       "RK": "4",
+      "NAME": "Pearson Baldwin, TE",
+      "TEAM": "JXST",
+      "RESULT": "W29-27atSHSU",
+      "REC": "5",
+      "YDS": "72",
+      "YPR": "14.4",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
+      "NAME": "Marcus Sanders Jr., WR",
+      "TEAM": "GASO",
+      "RESULT": "L35-38vs.USM",
+      "REC": "4",
+      "YDS": "70",
+      "YPR": "17.5",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Tristian Gardner, WR",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -265,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Ronnel Johnson, WR",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -275,17 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
-      "NAME": "Pearson Baldwin, TE",
-      "TEAM": "JXST",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "67",
-      "YPR": "16.8",
-      "TD": "0"
-    },
-    {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -293,16 +303,6 @@
       "YDS": "66",
       "YPR": "16.5",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Marcus Sanders Jr., WR",
-      "TEAM": "GASO",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "66",
-      "YPR": "22.0",
-      "TD": "1"
     },
     {
       "RK": "9",
