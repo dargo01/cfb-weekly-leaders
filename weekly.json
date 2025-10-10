@@ -41,36 +41,36 @@
       "NAME": "Dexter Williams II, QB",
       "TEAM": "KENN",
       "RESULT": "",
-      "COMP": "24",
-      "ATT": "32",
-      "YDS": "227",
-      "TD": "3",
+      "COMP": "23",
+      "ATT": "30",
+      "YDS": "220",
+      "TD": "2",
       "INT": "0",
-      "RAT": "165.5"
+      "RAT": "160.3"
     },
     {
       "RK": "5",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "26",
-      "YDS": "199",
+      "COMP": "14",
+      "ATT": "23",
+      "YDS": "174",
       "TD": "0",
       "INT": "0",
-      "RAT": "129.7"
+      "RAT": "124.4"
     },
     {
       "RK": "6",
       "NAME": "Braylon Braxton, QB",
       "TEAM": "USM",
       "RESULT": "",
-      "COMP": "10",
-      "ATT": "15",
-      "YDS": "168",
+      "COMP": "9",
+      "ATT": "14",
+      "YDS": "148",
       "TD": "2",
       "INT": "0",
-      "RAT": "204.8"
+      "RAT": "200.2"
     },
     {
       "RK": "7",
@@ -187,9 +187,9 @@
       "NAME": "Coleman Bennett, RB",
       "TEAM": "KENN",
       "RESULT": "",
-      "CAR": "11",
-      "YDS": "55",
-      "YPC": "5.0",
+      "CAR": "10",
+      "YDS": "53",
+      "YPC": "5.3",
       "TD": "0"
     },
     {
