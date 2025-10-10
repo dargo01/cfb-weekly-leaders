@@ -2,6 +2,30 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Jake Retzlaff, QB",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "COMP": "25",
+      "ATT": "35",
+      "YDS": "343",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "163.2"
+    },
+    {
+      "RK": "2",
+      "NAME": "Dexter Williams II, QB",
+      "TEAM": "KENN",
+      "RESULT": "W35-7vs.LT",
+      "COMP": "27",
+      "ATT": "36",
+      "YDS": "290",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "179.3"
+    },
+    {
+      "RK": "3",
       "NAME": "Deuce Bailey, QB",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -13,7 +37,7 @@
       "RAT": "137.6"
     },
     {
-      "RK": "2",
+      "RK": "4",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -25,7 +49,7 @@
       "RAT": "140.5"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Ethan Vasko, QB",
       "TEAM": "LIB",
       "RESULT": "W19-8atUTEP",
@@ -37,55 +61,55 @@
       "RAT": "119.4"
     },
     {
-      "RK": "4",
-      "NAME": "Dexter Williams II, QB",
-      "TEAM": "KENN",
-      "RESULT": "",
-      "COMP": "24",
-      "ATT": "32",
-      "YDS": "227",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "165.5"
-    },
-    {
-      "RK": "5",
-      "NAME": "Jake Retzlaff, QB",
-      "TEAM": "TULN",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "26",
-      "YDS": "199",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "129.7"
-    },
-    {
       "RK": "6",
       "NAME": "Braylon Braxton, QB",
       "TEAM": "USM",
       "RESULT": "",
-      "COMP": "10",
-      "ATT": "15",
-      "YDS": "168",
+      "COMP": "15",
+      "ATT": "22",
+      "YDS": "220",
       "TD": "2",
       "INT": "0",
-      "RAT": "204.8"
+      "RAT": "182.2"
     },
     {
       "RK": "7",
-      "NAME": "Katin Houser, QB",
-      "TEAM": "ECU",
+      "NAME": "JC French IV, QB",
+      "TEAM": "GASO",
       "RESULT": "",
-      "COMP": "9",
-      "ATT": "14",
-      "YDS": "109",
+      "COMP": "17",
+      "ATT": "29",
+      "YDS": "197",
       "TD": "1",
-      "INT": "0",
-      "RAT": "153.3"
+      "INT": "2",
+      "RAT": "113.3"
     },
     {
       "RK": "8",
+      "NAME": "Katin Houser, QB",
+      "TEAM": "ECU",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "27",
+      "YDS": "158",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "128.0"
+    },
+    {
+      "RK": "9",
+      "NAME": "Evan Bullock, QB",
+      "TEAM": "LT",
+      "RESULT": "L7-35atKENN",
+      "COMP": "11",
+      "ATT": "21",
+      "YDS": "112",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "87.7"
+    },
+    {
+      "RK": "10",
       "NAME": "Skyler Locklear, QB",
       "TEAM": "UTEP",
       "RESULT": "L8-19vs.LIB",
@@ -95,30 +119,6 @@
       "TD": "0",
       "INT": "2",
       "RAT": "73.9"
-    },
-    {
-      "RK": "9",
-      "NAME": "JC French IV, QB",
-      "TEAM": "GASO",
-      "RESULT": "",
-      "COMP": "9",
-      "ATT": "20",
-      "YDS": "85",
-      "TD": "0",
-      "INT": "2",
-      "RAT": "60.7"
-    },
-    {
-      "RK": "10",
-      "NAME": "Evan Bullock, QB",
-      "TEAM": "LT",
-      "RESULT": "",
-      "COMP": "7",
-      "ATT": "14",
-      "YDS": "80",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "83.7"
     }
   ],
   "Rushing Leaders": [
@@ -127,13 +127,23 @@
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "",
-      "CAR": "15",
-      "YDS": "141",
-      "YPC": "9.4",
+      "CAR": "24",
+      "YDS": "183",
+      "YPC": "7.6",
       "TD": "1"
     },
     {
       "RK": "2",
+      "NAME": "Caden Creel, QB",
+      "TEAM": "JXST",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "109",
+      "YPC": "5.2",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Jekail Middlebrook, RB",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -143,17 +153,17 @@
       "TD": "0"
     },
     {
-      "RK": "3",
-      "NAME": "Caden Creel, QB",
-      "TEAM": "JXST",
+      "RK": "4",
+      "NAME": "Jeffery Pittman, RB",
+      "TEAM": "USM",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "86",
-      "YPC": "6.1",
-      "TD": "1"
+      "CAR": "19",
+      "YDS": "81",
+      "YPC": "4.3",
+      "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Vaughn Blue, RB",
       "TEAM": "LIB",
       "RESULT": "W19-8atUTEP",
@@ -163,7 +173,27 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
+      "NAME": "Coleman Bennett, RB",
+      "TEAM": "KENN",
+      "RESULT": "W35-7vs.LT",
+      "CAR": "17",
+      "YDS": "73",
+      "YPC": "4.3",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
+      "NAME": "Omiri Wiggins, RB",
+      "TEAM": "LT",
+      "RESULT": "L7-35atKENN",
+      "CAR": "14",
+      "YDS": "67",
+      "YPC": "4.8",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Shomari Lawrence, RB",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -173,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "9",
       "NAME": "Skyler Locklear, QB",
       "TEAM": "UTEP",
       "RESULT": "L8-19vs.LIB",
@@ -183,44 +213,14 @@
       "TD": "1"
     },
     {
-      "RK": "7",
-      "NAME": "Coleman Bennett, RB",
-      "TEAM": "KENN",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "55",
-      "YPC": "5.0",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Omiri Wiggins, RB",
-      "TEAM": "LT",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "47",
-      "YPC": "4.3",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Hunter Watson, QB",
+      "RK": "10",
+      "NAME": "Alton McCaskill, RB",
       "TEAM": "SHSU",
       "RESULT": "",
       "CAR": "8",
-      "YDS": "44",
-      "YPC": "5.5",
+      "YDS": "56",
+      "YPC": "7.0",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jeffery Pittman, RB",
-      "TEAM": "USM",
-      "RESULT": "",
-      "CAR": "13",
-      "YDS": "38",
-      "YPC": "2.9",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -239,13 +239,23 @@
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
       "RESULT": "",
-      "REC": "6",
-      "YDS": "73",
-      "YPR": "12.2",
+      "REC": "9",
+      "YDS": "101",
+      "YPR": "11.2",
       "TD": "0"
     },
     {
       "RK": "3",
+      "NAME": "Zycarl Lewis Jr., WR",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "75",
+      "YPR": "37.5",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Tristian Gardner, WR",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -255,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Ronnel Johnson, WR",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -265,17 +275,27 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
-      "RESULT": "",
+      "RESULT": "W35-7vs.LT",
       "REC": "4",
       "YDS": "66",
       "YPR": "16.5",
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "",
+      "NAME": "Marcus Sanders Jr., WR",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "66",
+      "YPR": "22.0",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Tre Shackelford, WR",
       "TEAM": "TULN",
       "RESULT": "",
@@ -285,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Julian Gray, RB",
       "TEAM": "LIB",
       "RESULT": "W19-8atUTEP",
@@ -295,33 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Hunter Tipton, TE",
-      "TEAM": "MTSU",
-      "RESULT": "L20-22vs.MOST",
-      "REC": "7",
-      "YDS": "54",
-      "YPR": "7.7",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Tychaun Chapman, WR",
+      "RK": "10",
+      "NAME": "Elijah Metcalf, WR",
       "TEAM": "USM",
       "RESULT": "",
-      "REC": "2",
-      "YDS": "53",
-      "YPR": "26.5",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Kenny Odom, WR",
-      "TEAM": "UTEP",
-      "RESULT": "L8-19vs.LIB",
-      "REC": "3",
-      "YDS": "53",
-      "YPR": "17.7",
+      "REC": "4",
+      "YDS": "62",
+      "YPR": "15.5",
       "TD": "0"
     }
   ]
