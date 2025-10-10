@@ -77,12 +77,12 @@
       "NAME": "Braylon Braxton, QB",
       "TEAM": "USM",
       "RESULT": "",
-      "COMP": "18",
-      "ATT": "27",
-      "YDS": "236",
+      "COMP": "19",
+      "ATT": "28",
+      "YDS": "237",
       "TD": "2",
       "INT": "0",
-      "RAT": "164.5"
+      "RAT": "162.5"
     },
     {
       "RK": "8",
@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Evan Bullock, QB",
-      "TEAM": "LT",
-      "RESULT": "L7-35atKENN",
-      "COMP": "11",
-      "ATT": "21",
-      "YDS": "112",
+      "NAME": "Caden Creel, QB",
+      "TEAM": "JXST",
+      "RESULT": "",
+      "COMP": "12",
+      "ATT": "16",
+      "YDS": "124",
       "TD": "0",
-      "INT": "1",
-      "RAT": "87.7"
+      "INT": "0",
+      "RAT": "140.1"
     }
   ],
   "Rushing Leaders": [
@@ -127,9 +127,9 @@
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "",
-      "CAR": "30",
-      "YDS": "200",
-      "YPC": "6.7",
+      "CAR": "31",
+      "YDS": "218",
+      "YPC": "7.0",
       "TD": "2"
     },
     {
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Pearson Baldwin, TE",
+      "TEAM": "JXST",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "67",
+      "YPR": "16.8",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Tre Shackelford, WR",
       "TEAM": "TULN",
       "RESULT": "W26-19vs.ECU",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Julian Gray, RB",
       "TEAM": "LIB",
       "RESULT": "W19-8atUTEP",
@@ -313,16 +323,6 @@
       "YDS": "63",
       "YPR": "21.0",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Chris Reed, WR",
-      "TEAM": "SHSU",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "63",
-      "YPR": "21.0",
-      "TD": "2"
     }
   ]
 }
