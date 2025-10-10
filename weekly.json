@@ -5,12 +5,12 @@
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "",
-      "COMP": "25",
-      "ATT": "35",
-      "YDS": "343",
+      "COMP": "24",
+      "ATT": "34",
+      "YDS": "332",
       "TD": "1",
       "INT": "0",
-      "RAT": "163.2"
+      "RAT": "162.3"
     },
     {
       "RK": "2",
@@ -77,15 +77,15 @@
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "29",
-      "YDS": "197",
-      "TD": "1",
+      "COMP": "16",
+      "ATT": "28",
+      "YDS": "158",
+      "TD": "0",
       "INT": "2",
-      "RAT": "113.3"
+      "RAT": "90.3"
     },
     {
-      "RK": "8",
+      "RK": "",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "",
@@ -127,9 +127,9 @@
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "",
-      "CAR": "24",
-      "YDS": "183",
-      "YPC": "7.6",
+      "CAR": "23",
+      "YDS": "177",
+      "YPC": "7.7",
       "TD": "1"
     },
     {
@@ -285,17 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "",
-      "NAME": "Marcus Sanders Jr., WR",
-      "TEAM": "GASO",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "66",
-      "YPR": "22.0",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
+      "RK": "7",
       "NAME": "Tre Shackelford, WR",
       "TEAM": "TULN",
       "RESULT": "",
@@ -305,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "8",
       "NAME": "Julian Gray, RB",
       "TEAM": "LIB",
       "RESULT": "W19-8atUTEP",
@@ -315,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "10",
+      "RK": "9",
       "NAME": "Elijah Metcalf, WR",
       "TEAM": "USM",
       "RESULT": "",
@@ -323,6 +313,16 @@
       "YDS": "62",
       "YPR": "15.5",
       "TD": "0"
+    },
+    {
+      "RK": "10",
+      "NAME": "Coleman Bennett, RB",
+      "TEAM": "KENN",
+      "RESULT": "W35-7vs.LT",
+      "REC": "3",
+      "YDS": "55",
+      "YPR": "18.3",
+      "TD": "1"
     }
   ]
 }
