@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Emmett Johnson, RB",
+      "TEAM": "NEB",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "167",
+      "YPC": "8.8",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "W24-7vs.CLT",
@@ -153,7 +163,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Kewan Lacy, RB",
       "TEAM": "MISS",
       "RESULT": "W24-21vs.WSU",
@@ -163,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jeffery Pittman, RB",
       "TEAM": "USM",
       "RESULT": "W38-35atGASO",
@@ -173,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Telly Johnson Jr., RB",
       "TEAM": "NIU",
       "RESULT": "L10-16atEMU",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Demond Williams Jr., QB",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
@@ -193,7 +203,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Owen Allen, RB",
       "TEAM": "AF",
       "RESULT": "",
@@ -203,23 +213,13 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "W29-27atSHSU",
       "CAR": "24",
       "YDS": "132",
       "YPC": "5.5",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Malachi Hosley, RB",
-      "TEAM": "GT",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "129",
-      "YPC": "11.7",
       "TD": "1"
     }
   ],
