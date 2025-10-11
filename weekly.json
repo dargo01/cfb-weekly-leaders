@@ -112,7 +112,7 @@
       "RK": "",
       "NAME": "Alonza Barnett III, QB",
       "TEAM": "JMU",
-      "RESULT": "",
+      "RESULT": "W24-14vs.UL",
       "COMP": "26",
       "ATT": "40",
       "YDS": "290",
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "24",
+      "YDS": "142",
+      "YPC": "5.9",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Jeffery Pittman, RB",
       "TEAM": "USM",
       "RESULT": "W38-35atGASO",
@@ -153,17 +163,17 @@
       "TD": "2"
     },
     {
-      "RK": "4",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
+      "RK": "5",
+      "NAME": "Telly Johnson Jr., RB",
+      "TEAM": "NIU",
       "RESULT": "",
-      "CAR": "21",
-      "YDS": "138",
-      "YPC": "6.6",
-      "TD": "0"
+      "CAR": "12",
+      "YDS": "137",
+      "YPC": "11.4",
+      "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Demond Williams Jr., QB",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
@@ -173,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "W29-27atSHSU",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "L23-28atBGSU",
@@ -193,20 +203,10 @@
       "TD": "1"
     },
     {
-      "RK": "8",
-      "NAME": "Telly Johnson Jr., RB",
-      "TEAM": "NIU",
-      "RESULT": "",
-      "CAR": "8",
-      "YDS": "122",
-      "YPC": "15.3",
-      "TD": "1"
-    },
-    {
       "RK": "9",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
-      "RESULT": "",
+      "RESULT": "W24-14vs.UL",
       "CAR": "20",
       "YDS": "111",
       "YPC": "5.6",
@@ -258,7 +258,7 @@
       "RK": "4",
       "NAME": "Robert Williams, WR",
       "TEAM": "UL",
-      "RESULT": "",
+      "RESULT": "L14-24atJMU",
       "REC": "5",
       "YDS": "134",
       "YPR": "26.8",
@@ -288,7 +288,7 @@
       "RK": "7",
       "NAME": "Landon Ellis, WR",
       "TEAM": "JMU",
-      "RESULT": "",
+      "RESULT": "W24-14vs.UL",
       "REC": "6",
       "YDS": "120",
       "YPR": "20.0",
