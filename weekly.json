@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Demond Williams Jr., QB",
+      "TEAM": "WASH",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "87",
+      "YPC": "9.7",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Alton McCaskill, RB",
       "TEAM": "SHSU",
       "RESULT": "L27-29vs.JXST",
@@ -173,17 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
-      "NAME": "Demond Williams Jr., QB",
-      "TEAM": "WASH",
-      "RESULT": "",
-      "CAR": "8",
-      "YDS": "84",
-      "YPC": "10.5",
-      "TD": "0"
-    },
-    {
-      "RK": "",
+      "RK": "7",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "",
