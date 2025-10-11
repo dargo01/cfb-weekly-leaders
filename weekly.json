@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Conner Weigman, QB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "29",
+      "YDS": "306",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "183.8"
+    },
+    {
+      "RK": "8",
       "NAME": "Dexter Williams II, QB",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -85,7 +97,7 @@
       "RAT": "179.3"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Deuce Bailey, QB",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -97,7 +109,7 @@
       "RAT": "137.6"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "140.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "W63-36atUNT",
-      "COMP": "22",
-      "ATT": "28",
-      "YDS": "245",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "180.3"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "143",
+      "YPC": "6.8",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Jeffery Pittman, RB",
       "TEAM": "USM",
       "RESULT": "W38-35atGASO",
@@ -143,7 +153,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Demond Williams Jr., QB",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
@@ -151,16 +161,6 @@
       "YDS": "136",
       "YPC": "10.5",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "133",
-      "YPC": "7.8",
-      "TD": "1"
     },
     {
       "RK": "5",
@@ -174,6 +174,36 @@
     },
     {
       "RK": "6",
+      "NAME": "Chip Trayanum, RB",
+      "TEAM": "TOL",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "104",
+      "YPC": "5.8",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Cam Fancher, QB",
+      "TEAM": "UCF",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "101",
+      "YPC": "7.2",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "98",
+      "YPC": "7.5",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Chris Johnson Jr., RB",
       "TEAM": "SMU",
       "RESULT": "",
@@ -183,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Justin Marshall, RB",
       "TEAM": "CSU",
       "RESULT": "W49-21vs.FRES",
@@ -191,36 +221,6 @@
       "YDS": "93",
       "YPC": "13.3",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Jekail Middlebrook, RB",
-      "TEAM": "MTSU",
-      "RESULT": "L20-22vs.MOST",
-      "CAR": "17",
-      "YDS": "93",
-      "YPC": "5.5",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
-      "RESULT": "L19-38atWASH",
-      "CAR": "15",
-      "YDS": "89",
-      "YPC": "5.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Alton McCaskill, RB",
-      "TEAM": "SHSU",
-      "RESULT": "L27-29vs.JXST",
-      "CAR": "14",
-      "YDS": "87",
-      "YPC": "6.2",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Amare Thomas, WR",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "157",
+      "YPR": "22.4",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Ian Strong, WR",
       "TEAM": "RUTG",
       "RESULT": "L19-38atWASH",
@@ -245,7 +255,17 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Desmond Reid, RB",
+      "TEAM": "PITT",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "120",
+      "YPR": "17.1",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
       "NAME": "Cam'ron Lacy, WR",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -255,7 +275,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Dezmen Roebuck, WR",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
@@ -265,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Robert Williams, WR",
       "TEAM": "UL",
       "RESULT": "",
@@ -275,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Miles Coleman, WR",
       "TEAM": "UNT",
       "RESULT": "L36-63vs.USF",
@@ -285,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Denzel Boston, WR",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
@@ -295,33 +315,13 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Jeremiah Koger, WR",
       "TEAM": "USF",
       "RESULT": "W63-36atUNT",
       "REC": "4",
       "YDS": "94",
       "YPR": "23.5",
-      "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
-      "RESULT": "L19-38atWASH",
-      "REC": "7",
-      "YDS": "89",
-      "YPR": "12.7",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Josiah Freeman, WR",
-      "TEAM": "FRES",
-      "RESULT": "L21-49atCSU",
-      "REC": "7",
-      "YDS": "89",
-      "YPR": "12.7",
       "TD": "2"
     }
   ]
