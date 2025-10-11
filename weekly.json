@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Mason Heintschel, QB",
+      "TEAM": "PITT",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "29",
+      "YDS": "321",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "174.3"
+    },
+    {
+      "RK": "7",
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "L35-38vs.USM",
@@ -73,7 +85,7 @@
       "RAT": "118.4"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "W39-17atOKST",
@@ -83,18 +95,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "177.7"
-    },
-    {
-      "RK": "8",
-      "NAME": "Mason Heintschel, QB",
-      "TEAM": "PITT",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "27",
-      "YDS": "294",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "171.5"
     },
     {
       "RK": "9",
@@ -177,39 +177,39 @@
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "",
-      "CAR": "23",
-      "YDS": "113",
+      "CAR": "25",
+      "YDS": "122",
       "YPC": "4.9",
       "TD": "1"
     },
     {
-      "RK": "",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "113",
-      "YPC": "6.3",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
+      "RK": "7",
       "NAME": "Telly Johnson Jr., RB",
       "TEAM": "NIU",
       "RESULT": "",
-      "CAR": "4",
-      "YDS": "110",
-      "YPC": "27.5",
+      "CAR": "7",
+      "YDS": "120",
+      "YPC": "17.1",
       "TD": "1"
+    },
+    {
+      "RK": "8",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "113",
+      "YPC": "5.9",
+      "TD": "0"
     },
     {
       "RK": "9",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "",
-      "CAR": "17",
-      "YDS": "103",
-      "YPC": "6.1",
+      "CAR": "18",
+      "YDS": "106",
+      "YPC": "5.9",
       "TD": "0"
     },
     {
@@ -217,10 +217,10 @@
       "NAME": "Cam Fancher, QB",
       "TEAM": "UCF",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "99",
-      "YPC": "5.5",
-      "TD": "0"
+      "CAR": "19",
+      "YDS": "102",
+      "YPC": "5.4",
+      "TD": "1"
     }
   ],
   "Receiving Leaders": [
