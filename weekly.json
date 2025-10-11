@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Abu Sama III, RB",
+      "TEAM": "ISU",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "133",
+      "YPC": "7.8",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "W29-27atSHSU",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "L23-28atBGSU",
@@ -203,24 +213,14 @@
       "TD": "1"
     },
     {
-      "RK": "9",
-      "NAME": "Wayne Knight, RB",
-      "TEAM": "JMU",
-      "RESULT": "W24-14vs.UL",
-      "CAR": "20",
-      "YDS": "111",
-      "YPC": "5.6",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "Cam Fancher, QB",
-      "TEAM": "UCF",
-      "RESULT": "L11-20atCIN",
-      "CAR": "20",
-      "YDS": "108",
-      "YPC": "5.4",
-      "TD": "1"
+      "NAME": "Owen Allen, RB",
+      "TEAM": "AF",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "119",
+      "YPC": "14.9",
+      "TD": "2"
     }
   ],
   "Receiving Leaders": [
