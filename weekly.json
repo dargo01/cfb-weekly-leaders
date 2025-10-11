@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "32",
+      "YDS": "361",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "167.6"
+    },
+    {
+      "RK": "4",
       "NAME": "E.J. Warner, QB",
       "TEAM": "FRES",
       "RESULT": "L21-49atCSU",
@@ -37,7 +49,7 @@
       "RAT": "125.1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "W26-19vs.ECU",
@@ -49,10 +61,10 @@
       "RAT": "171.5"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "CJ Carr, QB",
       "TEAM": "ND",
-      "RESULT": "",
+      "RESULT": "W36-7vs.NCSU",
       "COMP": "19",
       "ATT": "31",
       "YDS": "342",
@@ -61,7 +73,7 @@
       "RAT": "168.8"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Drew Mestemaker, QB",
       "TEAM": "UNT",
       "RESULT": "L36-63vs.USF",
@@ -73,7 +85,7 @@
       "RAT": "120.8"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "W34-31atFSU",
@@ -85,7 +97,7 @@
       "RAT": "174.3"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "L35-38vs.USM",
@@ -97,28 +109,16 @@
       "RAT": "118.4"
     },
     {
-      "RK": "9",
-      "NAME": "JJ Kohl, QB",
-      "TEAM": "APP",
+      "RK": "10",
+      "NAME": "Evan Simon, QB",
+      "TEAM": "TEM",
       "RESULT": "",
       "COMP": "21",
-      "ATT": "32",
-      "YDS": "309",
-      "TD": "4",
+      "ATT": "31",
+      "YDS": "310",
+      "TD": "1",
       "INT": "0",
-      "RAT": "178.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Josh Hoover, QB",
-      "TEAM": "TCU",
-      "RESULT": "",
-      "COMP": "22",
-      "ATT": "38",
-      "YDS": "306",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "137.6"
+      "RAT": "162.4"
     }
   ],
   "Rushing Leaders": [
@@ -146,7 +146,7 @@
       "RK": "3",
       "NAME": "Abu Sama III, RB",
       "TEAM": "ISU",
-      "RESULT": "",
+      "RESULT": "L17-24atCOLO",
       "CAR": "24",
       "YDS": "177",
       "YPC": "7.4",
@@ -156,7 +156,7 @@
       "RK": "4",
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
-      "RESULT": "",
+      "RESULT": "W34-31atMD",
       "CAR": "21",
       "YDS": "176",
       "YPC": "8.4",
@@ -164,16 +164,26 @@
     },
     {
       "RK": "5",
+      "NAME": "DeSean Bishop, RB",
+      "TEAM": "TENN",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "146",
+      "YPC": "10.4",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Demond Claiborne, RB",
       "TEAM": "WAKE",
-      "RESULT": "",
+      "RESULT": "W39-14atORST",
       "CAR": "16",
       "YDS": "144",
       "YPC": "9.0",
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "W24-7vs.CLT",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Kewan Lacy, RB",
       "TEAM": "MISS",
       "RESULT": "W24-21vs.WSU",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jeffery Pittman, RB",
       "TEAM": "USM",
       "RESULT": "W38-35atGASO",
@@ -203,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Telly Johnson Jr., RB",
       "TEAM": "NIU",
       "RESULT": "L10-16atEMU",
@@ -211,16 +221,6 @@
       "YDS": "137",
       "YPC": "11.4",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Demond Williams Jr., QB",
-      "TEAM": "WASH",
-      "RESULT": "W38-19vs.RUTG",
-      "CAR": "13",
-      "YDS": "136",
-      "YPC": "10.5",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Daejon Reynolds, WR",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "139",
+      "YPR": "34.8",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Robert Williams, WR",
       "TEAM": "UL",
       "RESULT": "L14-24atJMU",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Micahi Danzy, WR",
       "TEAM": "FSU",
       "RESULT": "L31-34vs.PITT",
@@ -275,17 +285,27 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Joseph Williams, WR",
+      "TEAM": "COLO",
+      "RESULT": "W24-17vs.ISU",
+      "REC": "8",
+      "YDS": "128",
+      "YPR": "16.0",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Nyziah Hunter, WR",
       "TEAM": "NEB",
-      "RESULT": "",
+      "RESULT": "W34-31atMD",
       "REC": "5",
       "YDS": "125",
       "YPR": "25.0",
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Ian Strong, WR",
       "TEAM": "RUTG",
       "RESULT": "L19-38atWASH",
@@ -295,34 +315,14 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Demarcus Lacey, WR",
       "TEAM": "MRSH",
-      "RESULT": "",
+      "RESULT": "W48-24vs.ODU",
       "REC": "8",
       "YDS": "121",
       "YPR": "15.1",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Elijah Sarratt, WR",
-      "TEAM": "IU",
-      "RESULT": "",
-      "REC": "8",
-      "YDS": "121",
-      "YPR": "15.1",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Landon Ellis, WR",
-      "TEAM": "JMU",
-      "RESULT": "W24-14vs.UL",
-      "REC": "6",
-      "YDS": "120",
-      "YPR": "20.0",
-      "TD": "3"
     }
   ]
 }
