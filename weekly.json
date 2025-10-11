@@ -184,22 +184,22 @@
     },
     {
       "RK": "7",
-      "NAME": "Cam Fancher, QB",
-      "TEAM": "UCF",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "101",
-      "YPC": "7.2",
+      "CAR": "15",
+      "YDS": "104",
+      "YPC": "6.9",
       "TD": "0"
     },
     {
       "RK": "8",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
+      "NAME": "Cam Fancher, QB",
+      "TEAM": "UCF",
       "RESULT": "",
-      "CAR": "13",
-      "YDS": "98",
-      "YPC": "7.5",
+      "CAR": "15",
+      "YDS": "97",
+      "YPC": "6.5",
       "TD": "0"
     },
     {
@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Justin Marshall, RB",
-      "TEAM": "CSU",
-      "RESULT": "W49-21vs.FRES",
-      "CAR": "7",
-      "YDS": "93",
-      "YPC": "13.3",
-      "TD": "1"
+      "NAME": "Wayne Knight, RB",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "95",
+      "YPC": "6.3",
+      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -306,22 +306,22 @@
     },
     {
       "RK": "9",
+      "NAME": "CJ Williams, WR",
+      "TEAM": "STAN",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "99",
+      "YPR": "16.5",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Denzel Boston, WR",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
       "REC": "5",
       "YDS": "98",
       "YPR": "19.6",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jeremiah Koger, WR",
-      "TEAM": "USF",
-      "RESULT": "W63-36atUNT",
-      "REC": "4",
-      "YDS": "94",
-      "YPR": "23.5",
       "TD": "2"
     }
   ]
