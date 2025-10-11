@@ -109,16 +109,16 @@
       "RAT": "179.3"
     },
     {
-      "RK": "10",
-      "NAME": "Deuce Bailey, QB",
-      "TEAM": "MOST",
-      "RESULT": "W22-20atMTSU",
-      "COMP": "16",
-      "ATT": "31",
-      "YDS": "278",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "137.6"
+      "RK": "",
+      "NAME": "Alonza Barnett III, QB",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "COMP": "26",
+      "ATT": "40",
+      "YDS": "290",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "145.7"
     }
   ],
   "Rushing Leaders": [
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "138",
+      "YPC": "6.6",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Demond Williams Jr., QB",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
@@ -163,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "W29-27atSHSU",
@@ -173,52 +183,42 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "",
-      "CAR": "25",
-      "YDS": "122",
-      "YPC": "4.9",
-      "TD": "1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Telly Johnson Jr., RB",
-      "TEAM": "NIU",
-      "RESULT": "",
-      "CAR": "7",
-      "YDS": "120",
-      "YPC": "17.1",
+      "CAR": "27",
+      "YDS": "125",
+      "YPC": "4.6",
       "TD": "1"
     },
     {
       "RK": "8",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
+      "NAME": "Telly Johnson Jr., RB",
+      "TEAM": "NIU",
       "RESULT": "",
-      "CAR": "19",
-      "YDS": "113",
-      "YPC": "5.9",
-      "TD": "0"
+      "CAR": "8",
+      "YDS": "122",
+      "YPC": "15.3",
+      "TD": "1"
     },
     {
       "RK": "9",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "106",
-      "YPC": "5.9",
+      "CAR": "20",
+      "YDS": "111",
+      "YPC": "5.6",
       "TD": "0"
     },
     {
       "RK": "10",
       "NAME": "Cam Fancher, QB",
       "TEAM": "UCF",
-      "RESULT": "",
-      "CAR": "19",
-      "YDS": "102",
+      "RESULT": "L11-20atCIN",
+      "CAR": "20",
+      "YDS": "108",
       "YPC": "5.4",
       "TD": "1"
     }
@@ -256,6 +256,26 @@
     },
     {
       "RK": "4",
+      "NAME": "Robert Williams, WR",
+      "TEAM": "UL",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "134",
+      "YPR": "26.8",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
+      "NAME": "Micahi Danzy, WR",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "133",
+      "YPR": "19.0",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
       "NAME": "Ian Strong, WR",
       "TEAM": "RUTG",
       "RESULT": "L19-38atWASH",
@@ -265,7 +285,17 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "7",
+      "NAME": "Landon Ellis, WR",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "120",
+      "YPR": "20.0",
+      "TD": "3"
+    },
+    {
+      "RK": "8",
       "NAME": "Cameron Pettaway, RB",
       "TEAM": "BGSU",
       "RESULT": "",
@@ -275,7 +305,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "9",
       "NAME": "Cam'ron Lacy, WR",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -285,43 +315,13 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "CJ Williams, WR",
       "TEAM": "STAN",
-      "RESULT": "",
+      "RESULT": "L10-34atSMU",
       "REC": "7",
       "YDS": "109",
       "YPR": "15.6",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Dezmen Roebuck, WR",
-      "TEAM": "WASH",
-      "RESULT": "W38-19vs.RUTG",
-      "REC": "4",
-      "YDS": "108",
-      "YPR": "27.0",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Robert Williams, WR",
-      "TEAM": "UL",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "104",
-      "YPR": "26.0",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Miles Coleman, WR",
-      "TEAM": "UNT",
-      "RESULT": "L36-63vs.USF",
-      "REC": "7",
-      "YDS": "101",
-      "YPR": "14.4",
       "TD": "1"
     }
   ]
