@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "JJ Kohl, QB",
+      "TEAM": "APP",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "30",
+      "YDS": "300",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "170.8"
+    },
+    {
+      "RK": "10",
       "NAME": "Dexter Williams II, QB",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -107,18 +119,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "179.3"
-    },
-    {
-      "RK": "",
-      "NAME": "Alonza Barnett III, QB",
-      "TEAM": "JMU",
-      "RESULT": "W24-14vs.UL",
-      "COMP": "26",
-      "ATT": "40",
-      "YDS": "290",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "145.7"
     }
   ],
   "Rushing Leaders": [
@@ -187,10 +187,10 @@
       "NAME": "Abu Sama III, RB",
       "TEAM": "ISU",
       "RESULT": "",
-      "CAR": "17",
-      "YDS": "133",
-      "YPC": "7.8",
-      "TD": "1"
+      "CAR": "18",
+      "YDS": "134",
+      "YPC": "7.4",
+      "TD": "2"
     },
     {
       "RK": "8",
@@ -204,6 +204,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Malachi Hosley, RB",
+      "TEAM": "GT",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "129",
+      "YPC": "11.7",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "L23-28atBGSU",
@@ -211,16 +221,6 @@
       "YDS": "125",
       "YPC": "4.6",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Owen Allen, RB",
-      "TEAM": "AF",
-      "RESULT": "",
-      "CAR": "8",
-      "YDS": "119",
-      "YPC": "14.9",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Demarcus Lacey, WR",
+      "TEAM": "MRSH",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "121",
+      "YPR": "15.1",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Landon Ellis, WR",
       "TEAM": "JMU",
       "RESULT": "W24-14vs.UL",
@@ -295,7 +305,7 @@
       "TD": "3"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Cameron Pettaway, RB",
       "TEAM": "BGSU",
       "RESULT": "W28-23vs.TOL",
@@ -305,7 +315,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Cam'ron Lacy, WR",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -313,16 +323,6 @@
       "YDS": "114",
       "YPR": "19.0",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Daejon Reynolds, WR",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "112",
-      "YPR": "37.3",
-      "TD": "1"
     }
   ]
 }
