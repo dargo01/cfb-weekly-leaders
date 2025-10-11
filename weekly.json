@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Demond Williams Jr., QB",
+      "TEAM": "WASH",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "23",
+      "YDS": "359",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "238.1"
+    },
+    {
+      "RK": "2",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "W26-19vs.ECU",
@@ -13,10 +25,10 @@
       "RAT": "171.5"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Drew Mestemaker, QB",
       "TEAM": "UNT",
-      "RESULT": "",
+      "RESULT": "L36-63vs.USF",
       "COMP": "30",
       "ATT": "48",
       "YDS": "326",
@@ -25,7 +37,7 @@
       "RAT": "120.8"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "L35-38vs.USM",
@@ -37,7 +49,7 @@
       "RAT": "118.4"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Dexter Williams II, QB",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -49,7 +61,7 @@
       "RAT": "179.3"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Deuce Bailey, QB",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -61,7 +73,7 @@
       "RAT": "137.6"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -73,52 +85,40 @@
       "RAT": "140.5"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Athan Kaliakmanis, QB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "29",
+      "YDS": "261",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "142.7"
+    },
+    {
+      "RK": "9",
+      "NAME": "E.J. Warner, QB",
+      "TEAM": "FRES",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "32",
+      "YDS": "256",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "157.5"
+    },
+    {
+      "RK": "10",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
-      "RESULT": "",
+      "RESULT": "W63-36atUNT",
       "COMP": "22",
       "ATT": "28",
       "YDS": "245",
       "TD": "3",
       "INT": "1",
       "RAT": "180.3"
-    },
-    {
-      "RK": "8",
-      "NAME": "Demond Williams Jr., QB",
-      "TEAM": "WASH",
-      "RESULT": "",
-      "COMP": "11",
-      "ATT": "16",
-      "YDS": "244",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "217.5"
-    },
-    {
-      "RK": "9",
-      "NAME": "Ethan Vasko, QB",
-      "TEAM": "LIB",
-      "RESULT": "W19-8atUTEP",
-      "COMP": "19",
-      "ATT": "33",
-      "YDS": "243",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "119.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Braylon Braxton, QB",
-      "TEAM": "USM",
-      "RESULT": "W38-35atGASO",
-      "COMP": "19",
-      "ATT": "28",
-      "YDS": "237",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "162.5"
     }
   ],
   "Rushing Leaders": [
@@ -164,16 +164,26 @@
     },
     {
       "RK": "5",
+      "NAME": "Justin Marshall, RB",
+      "TEAM": "CSU",
+      "RESULT": "",
+      "CAR": "6",
+      "YDS": "90",
+      "YPC": "15.0",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Demond Williams Jr., QB",
       "TEAM": "WASH",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "87",
-      "YPC": "9.7",
+      "CAR": "10",
+      "YDS": "88",
+      "YPC": "8.8",
       "TD": "0"
     },
     {
-      "RK": "",
+      "RK": "7",
       "NAME": "Alton McCaskill, RB",
       "TEAM": "SHSU",
       "RESULT": "L27-29vs.JXST",
@@ -183,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "",
@@ -193,20 +203,10 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Justin Marshall, RB",
-      "TEAM": "CSU",
-      "RESULT": "",
-      "CAR": "5",
-      "YDS": "83",
-      "YPC": "16.6",
-      "TD": "1"
-    },
-    {
       "RK": "9",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
-      "RESULT": "",
+      "RESULT": "W63-36atUNT",
       "CAR": "21",
       "YDS": "82",
       "YPC": "3.9",
@@ -246,59 +246,59 @@
     },
     {
       "RK": "3",
-      "NAME": "Miles Coleman, WR",
-      "TEAM": "UNT",
+      "NAME": "Dezmen Roebuck, WR",
+      "TEAM": "WASH",
       "RESULT": "",
-      "REC": "7",
-      "YDS": "101",
-      "YPR": "14.4",
-      "TD": "1"
+      "REC": "4",
+      "YDS": "108",
+      "YPR": "27.0",
+      "TD": "0"
     },
     {
       "RK": "4",
       "NAME": "Ian Strong, WR",
       "TEAM": "RUTG",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "95",
-      "YPR": "19.0",
+      "REC": "6",
+      "YDS": "107",
+      "YPR": "17.8",
       "TD": "0"
     },
     {
-      "RK": "",
-      "NAME": "Dezmen Roebuck, WR",
-      "TEAM": "WASH",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "95",
-      "YPR": "31.7",
-      "TD": "0"
+      "RK": "5",
+      "NAME": "Miles Coleman, WR",
+      "TEAM": "UNT",
+      "RESULT": "L36-63vs.USF",
+      "REC": "7",
+      "YDS": "101",
+      "YPR": "14.4",
+      "TD": "1"
     },
     {
       "RK": "6",
+      "NAME": "Denzel Boston, WR",
+      "TEAM": "WASH",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "98",
+      "YPR": "19.6",
+      "TD": "2"
+    },
+    {
+      "RK": "7",
       "NAME": "Jeremiah Koger, WR",
       "TEAM": "USF",
-      "RESULT": "",
+      "RESULT": "W63-36atUNT",
       "REC": "4",
       "YDS": "94",
       "YPR": "23.5",
       "TD": "2"
     },
     {
-      "RK": "7",
-      "NAME": "Josiah Freeman, WR",
-      "TEAM": "FRES",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "86",
-      "YPR": "17.2",
-      "TD": "2"
-    },
-    {
       "RK": "8",
       "NAME": "Wyatt Young, WR",
       "TEAM": "UNT",
-      "RESULT": "",
+      "RESULT": "L36-63vs.USF",
       "REC": "7",
       "YDS": "79",
       "YPR": "11.3",
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Josiah Freeman, WR",
+      "TEAM": "FRES",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "76",
+      "YPR": "15.2",
+      "TD": "2"
+    },
+    {
+      "RK": "10",
       "NAME": "Zycarl Lewis Jr., WR",
       "TEAM": "TULN",
       "RESULT": "W26-19vs.ECU",
@@ -313,16 +323,6 @@
       "YDS": "75",
       "YPR": "37.5",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cameron Dorner, WR",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "73",
-      "YPR": "14.6",
-      "TD": "0"
     }
   ]
 }
