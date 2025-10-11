@@ -6,11 +6,11 @@
       "TEAM": "WASH",
       "RESULT": "",
       "COMP": "18",
-      "ATT": "23",
+      "ATT": "24",
       "YDS": "359",
       "TD": "2",
       "INT": "0",
-      "RAT": "238.1"
+      "RAT": "228.1"
     },
     {
       "RK": "2",
@@ -50,6 +50,30 @@
     },
     {
       "RK": "5",
+      "NAME": "Athan Kaliakmanis, QB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "36",
+      "YDS": "305",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "136.3"
+    },
+    {
+      "RK": "6",
+      "NAME": "E.J. Warner, QB",
+      "TEAM": "FRES",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "36",
+      "YDS": "297",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "155.1"
+    },
+    {
+      "RK": "7",
       "NAME": "Dexter Williams II, QB",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -61,7 +85,7 @@
       "RAT": "179.3"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Deuce Bailey, QB",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -73,7 +97,7 @@
       "RAT": "137.6"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -83,30 +107,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "140.5"
-    },
-    {
-      "RK": "8",
-      "NAME": "Athan Kaliakmanis, QB",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "29",
-      "YDS": "261",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "142.7"
-    },
-    {
-      "RK": "9",
-      "NAME": "E.J. Warner, QB",
-      "TEAM": "FRES",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "32",
-      "YDS": "256",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "157.5"
     },
     {
       "RK": "10",
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Demond Williams Jr., QB",
+      "TEAM": "WASH",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "99",
+      "YPC": "9.0",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Jekail Middlebrook, RB",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -163,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Justin Marshall, RB",
       "TEAM": "CSU",
       "RESULT": "",
@@ -171,16 +181,6 @@
       "YDS": "90",
       "YPC": "15.0",
       "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Demond Williams Jr., QB",
-      "TEAM": "WASH",
-      "RESULT": "",
-      "CAR": "10",
-      "YDS": "88",
-      "YPC": "8.8",
-      "TD": "0"
     },
     {
       "RK": "7",
@@ -197,9 +197,9 @@
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "",
-      "CAR": "10",
+      "CAR": "11",
       "YDS": "84",
-      "YPC": "8.4",
+      "YPC": "7.6",
       "TD": "0"
     },
     {
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Ian Strong, WR",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "124",
+      "YPR": "17.7",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Cam'ron Lacy, WR",
       "TEAM": "MTSU",
       "RESULT": "L20-22vs.MOST",
@@ -245,23 +255,13 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Dezmen Roebuck, WR",
       "TEAM": "WASH",
       "RESULT": "",
       "REC": "4",
       "YDS": "108",
       "YPR": "27.0",
-      "TD": "0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Ian Strong, WR",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "107",
-      "YPR": "17.8",
       "TD": "0"
     },
     {
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Josiah Freeman, WR",
+      "TEAM": "FRES",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "84",
+      "YPR": "14.0",
+      "TD": "2"
+    },
+    {
+      "RK": "9",
       "NAME": "Wyatt Young, WR",
       "TEAM": "UNT",
       "RESULT": "L36-63vs.USF",
@@ -303,16 +313,6 @@
       "YDS": "79",
       "YPR": "11.3",
       "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Josiah Freeman, WR",
-      "TEAM": "FRES",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "76",
-      "YPR": "15.2",
-      "TD": "2"
     },
     {
       "RK": "10",
