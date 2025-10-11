@@ -295,7 +295,17 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "",
+      "NAME": "Elijah Sarratt, WR",
+      "TEAM": "IU",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "121",
+      "YPR": "15.1",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Landon Ellis, WR",
       "TEAM": "JMU",
       "RESULT": "W24-14vs.UL",
@@ -305,7 +315,7 @@
       "TD": "3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Cameron Pettaway, RB",
       "TEAM": "BGSU",
       "RESULT": "W28-23vs.TOL",
@@ -313,16 +323,6 @@
       "YDS": "118",
       "YPR": "59.0",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Devonte Ross, WR",
-      "TEAM": "PSU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "115",
-      "YPR": "16.4",
-      "TD": "0"
     }
   ]
 }
