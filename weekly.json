@@ -98,27 +98,27 @@
     },
     {
       "RK": "9",
-      "NAME": "Hunter Watson, QB",
-      "TEAM": "SHSU",
-      "RESULT": "L27-29vs.JXST",
-      "COMP": "12",
-      "ATT": "19",
-      "YDS": "136",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "175.4"
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "26",
+      "YDS": "168",
+      "TD": "0",
+      "INT": "3",
+      "RAT": "88.9"
     },
     {
       "RK": "10",
-      "NAME": "Caden Creel, QB",
-      "TEAM": "JXST",
-      "RESULT": "W29-27atSHSU",
-      "COMP": "13",
-      "ATT": "17",
-      "YDS": "129",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "140.2"
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "20",
+      "YDS": "144",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "163.5"
     }
   ],
   "Rushing Leaders": [
@@ -174,6 +174,26 @@
     },
     {
       "RK": "6",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "CAR": "7",
+      "YDS": "80",
+      "YPC": "11.4",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
+      "NAME": "Justin Marshall, RB",
+      "TEAM": "CSU",
+      "RESULT": "",
+      "CAR": "2",
+      "YDS": "77",
+      "YPC": "38.5",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Vaughn Blue, RB",
       "TEAM": "LIB",
       "RESULT": "W19-8atUTEP",
@@ -183,7 +203,17 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "9",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "73",
+      "YPC": "4.1",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Coleman Bennett, RB",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -191,36 +221,6 @@
       "YDS": "73",
       "YPC": "4.3",
       "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Omiri Wiggins, RB",
-      "TEAM": "LT",
-      "RESULT": "L7-35atKENN",
-      "CAR": "14",
-      "YDS": "67",
-      "YPC": "4.8",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Shomari Lawrence, RB",
-      "TEAM": "MOST",
-      "RESULT": "W22-20atMTSU",
-      "CAR": "11",
-      "YDS": "63",
-      "YPC": "5.7",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Skyler Locklear, QB",
-      "TEAM": "UTEP",
-      "RESULT": "L8-19vs.LIB",
-      "CAR": "8",
-      "YDS": "58",
-      "YPC": "7.3",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Cameron Dorner, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "83",
+      "YPR": "16.6",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Zycarl Lewis Jr., WR",
       "TEAM": "TULN",
       "RESULT": "W26-19vs.ECU",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Pearson Baldwin, TE",
       "TEAM": "JXST",
       "RESULT": "W29-27atSHSU",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "L35-38vs.USM",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Ronnel Johnson, WR",
       "TEAM": "MOST",
       "RESULT": "W22-20atMTSU",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W35-7vs.LT",
@@ -305,23 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Tre Shackelford, WR",
       "TEAM": "TULN",
       "RESULT": "W26-19vs.ECU",
       "REC": "4",
       "YDS": "65",
       "YPR": "16.3",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Julian Gray, RB",
-      "TEAM": "LIB",
-      "RESULT": "W19-8atUTEP",
-      "REC": "3",
-      "YDS": "63",
-      "YPR": "21.0",
       "TD": "0"
     }
   ]
