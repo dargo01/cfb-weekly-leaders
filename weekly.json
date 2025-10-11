@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "JJ Kohl, QB",
+      "TEAM": "APP",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "32",
+      "YDS": "309",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "178.5"
+    },
+    {
+      "RK": "9",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "W39-17atOKST",
@@ -97,28 +109,16 @@
       "RAT": "177.7"
     },
     {
-      "RK": "9",
-      "NAME": "JJ Kohl, QB",
-      "TEAM": "APP",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "30",
-      "YDS": "300",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "170.8"
-    },
-    {
       "RK": "10",
-      "NAME": "Dexter Williams II, QB",
-      "TEAM": "KENN",
-      "RESULT": "W35-7vs.LT",
-      "COMP": "27",
-      "ATT": "36",
-      "YDS": "290",
-      "TD": "4",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "28",
+      "YDS": "305",
+      "TD": "1",
       "INT": "0",
-      "RAT": "179.3"
+      "RAT": "160.4"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Abu Sama III, RB",
+      "TEAM": "ISU",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "168",
+      "YPC": "7.6",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "W24-7vs.CLT",
@@ -143,7 +153,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Kewan Lacy, RB",
       "TEAM": "MISS",
       "RESULT": "W24-21vs.WSU",
@@ -153,7 +163,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jeffery Pittman, RB",
       "TEAM": "USM",
       "RESULT": "W38-35atGASO",
@@ -163,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Telly Johnson Jr., RB",
       "TEAM": "NIU",
       "RESULT": "L10-16atEMU",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Demond Williams Jr., QB",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
@@ -183,17 +193,17 @@
       "TD": "2"
     },
     {
-      "RK": "7",
-      "NAME": "Abu Sama III, RB",
-      "TEAM": "ISU",
+      "RK": "8",
+      "NAME": "Owen Allen, RB",
+      "TEAM": "AF",
       "RESULT": "",
-      "CAR": "18",
+      "CAR": "10",
       "YDS": "134",
-      "YPC": "7.4",
+      "YPC": "13.4",
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "W29-27atSHSU",
@@ -203,23 +213,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Malachi Hosley, RB",
       "TEAM": "GT",
       "RESULT": "",
       "CAR": "11",
       "YDS": "129",
       "YPC": "11.7",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chip Trayanum, RB",
-      "TEAM": "TOL",
-      "RESULT": "L23-28atBGSU",
-      "CAR": "27",
-      "YDS": "125",
-      "YPC": "4.6",
       "TD": "1"
     }
   ],
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Cam'ron Lacy, WR",
-      "TEAM": "MTSU",
-      "RESULT": "L20-22vs.MOST",
-      "REC": "6",
-      "YDS": "114",
-      "YPR": "19.0",
-      "TD": "2"
+      "NAME": "Devonte Ross, WR",
+      "TEAM": "PSU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "115",
+      "YPR": "16.4",
+      "TD": "0"
     }
   ]
 }
