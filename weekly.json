@@ -285,7 +285,17 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "",
+      "NAME": "Danny Scudero, WR",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "139",
+      "YPR": "34.8",
+      "TD": "3"
+    },
+    {
+      "RK": "8",
       "NAME": "Robert Williams, WR",
       "TEAM": "UL",
       "RESULT": "L14-24atJMU",
@@ -295,23 +305,13 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Micahi Danzy, WR",
       "TEAM": "FSU",
       "RESULT": "L31-34vs.PITT",
       "REC": "7",
       "YDS": "133",
       "YPR": "19.0",
-      "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Danny Scudero, WR",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "132",
-      "YPR": "44.0",
       "TD": "2"
     },
     {
