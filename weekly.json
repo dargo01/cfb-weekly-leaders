@@ -74,18 +74,6 @@
     },
     {
       "RK": "7",
-      "NAME": "Josh Hoover, QB",
-      "TEAM": "TCU",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "46",
-      "YDS": "339",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "121.9"
-    },
-    {
-      "RK": "8",
       "NAME": "Drew Mestemaker, QB",
       "TEAM": "UNT",
       "RESULT": "L36-63vs.USF",
@@ -97,7 +85,7 @@
       "RAT": "120.8"
     },
     {
-      "RK": "9",
+      "RK": "8",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "W34-31atFSU",
@@ -109,7 +97,7 @@
       "RAT": "174.3"
     },
     {
-      "RK": "10",
+      "RK": "9",
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "L35-38vs.USM",
@@ -119,6 +107,18 @@
       "TD": "2",
       "INT": "3",
       "RAT": "118.4"
+    },
+    {
+      "RK": "10",
+      "NAME": "Evan Simon, QB",
+      "TEAM": "TEM",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "31",
+      "YDS": "310",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "162.4"
     }
   ],
   "Rushing Leaders": [
