@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "CJ Carr, QB",
+      "TEAM": "ND",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "31",
+      "YDS": "342",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "168.8"
+    },
+    {
+      "RK": "6",
       "NAME": "Drew Mestemaker, QB",
       "TEAM": "UNT",
       "RESULT": "L36-63vs.USF",
@@ -61,7 +73,7 @@
       "RAT": "120.8"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "W34-31atFSU",
@@ -73,7 +85,7 @@
       "RAT": "174.3"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "L35-38vs.USM",
@@ -85,7 +97,7 @@
       "RAT": "118.4"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "JJ Kohl, QB",
       "TEAM": "APP",
       "RESULT": "",
@@ -97,28 +109,16 @@
       "RAT": "178.5"
     },
     {
-      "RK": "9",
-      "NAME": "Conner Weigman, QB",
-      "TEAM": "HOU",
-      "RESULT": "W39-17atOKST",
-      "COMP": "21",
-      "ATT": "30",
+      "RK": "10",
+      "NAME": "Josh Hoover, QB",
+      "TEAM": "TCU",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "38",
       "YDS": "306",
       "TD": "2",
-      "INT": "0",
-      "RAT": "177.7"
-    },
-    {
-      "RK": "10",
-      "NAME": "Anthony Colandrea, QB",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "COMP": "16",
-      "ATT": "28",
-      "YDS": "305",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "160.4"
+      "INT": "1",
+      "RAT": "137.6"
     }
   ],
   "Rushing Leaders": [
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Emmett Johnson, RB",
+      "TEAM": "NEB",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "176",
+      "YPC": "8.4",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Owen Allen, RB",
       "TEAM": "AF",
       "RESULT": "",
@@ -151,16 +161,6 @@
       "YDS": "170",
       "YPC": "12.1",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Emmett Johnson, RB",
-      "TEAM": "NEB",
-      "RESULT": "",
-      "CAR": "19",
-      "YDS": "167",
-      "YPC": "8.8",
-      "TD": "0"
     },
     {
       "RK": "5",
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Nyziah Hunter, WR",
+      "TEAM": "NEB",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "125",
+      "YPR": "25.0",
+      "TD": "2"
+    },
+    {
+      "RK": "7",
       "NAME": "Ian Strong, WR",
       "TEAM": "RUTG",
       "RESULT": "L19-38atWASH",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Demarcus Lacey, WR",
       "TEAM": "MRSH",
       "RESULT": "",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Landon Ellis, WR",
       "TEAM": "JMU",
       "RESULT": "W24-14vs.UL",
@@ -313,16 +323,6 @@
       "YDS": "120",
       "YPR": "20.0",
       "TD": "3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cameron Pettaway, RB",
-      "TEAM": "BGSU",
-      "RESULT": "W28-23vs.TOL",
-      "REC": "2",
-      "YDS": "118",
-      "YPR": "59.0",
-      "TD": "2"
     }
   ]
 }
