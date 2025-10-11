@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Owen Allen, RB",
+      "TEAM": "AF",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "190",
+      "YPC": "11.9",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Abu Sama III, RB",
       "TEAM": "ISU",
       "RESULT": "",
@@ -143,7 +153,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
       "RESULT": "",
@@ -151,16 +161,6 @@
       "YDS": "176",
       "YPC": "8.4",
       "TD": "0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Owen Allen, RB",
-      "TEAM": "AF",
-      "RESULT": "",
-      "CAR": "14",
-      "YDS": "170",
-      "YPC": "12.1",
-      "TD": "2"
     },
     {
       "RK": "5",
