@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Josh Hoover, QB",
+      "TEAM": "TCU",
+      "RESULT": "",
+      "COMP": "24",
+      "ATT": "45",
+      "YDS": "323",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "119.4"
+    },
+    {
+      "RK": "9",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "W34-31atFSU",
@@ -97,7 +109,7 @@
       "RAT": "174.3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "L35-38vs.USM",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "3",
       "RAT": "118.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "JJ Kohl, QB",
-      "TEAM": "APP",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "32",
-      "YDS": "309",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "178.5"
     }
   ],
   "Rushing Leaders": [
