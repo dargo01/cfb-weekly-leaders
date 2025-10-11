@@ -78,11 +78,11 @@
       "TEAM": "HOU",
       "RESULT": "",
       "COMP": "21",
-      "ATT": "29",
+      "ATT": "30",
       "YDS": "306",
       "TD": "2",
       "INT": "0",
-      "RAT": "183.8"
+      "RAT": "177.7"
     },
     {
       "RK": "8",
@@ -177,9 +177,9 @@
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "104",
-      "YPC": "5.8",
+      "CAR": "21",
+      "YDS": "114",
+      "YPC": "5.4",
       "TD": "1"
     },
     {
@@ -187,9 +187,9 @@
       "NAME": "Cam Fancher, QB",
       "TEAM": "UCF",
       "RESULT": "",
-      "CAR": "15",
+      "CAR": "14",
       "YDS": "101",
-      "YPC": "6.7",
+      "YPC": "7.2",
       "TD": "0"
     },
     {
