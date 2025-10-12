@@ -176,7 +176,7 @@
       "RK": "6",
       "NAME": "DeSean Bishop, RB",
       "TEAM": "TENN",
-      "RESULT": "",
+      "RESULT": "W34-31vs.ARK",
       "CAR": "14",
       "YDS": "146",
       "YPC": "10.4",
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Danny Scudero, WR",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "151",
+      "YPR": "25.2",
+      "TD": "4"
+    },
+    {
+      "RK": "6",
       "NAME": "Kajiya Hollawayne, WR",
       "TEAM": "TEM",
       "RESULT": "L31-32vs.NAVY",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Daejon Reynolds, WR",
       "TEAM": "UNLV",
       "RESULT": "W51-48vs.AF",
@@ -283,16 +293,6 @@
       "YDS": "139",
       "YPR": "34.8",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Danny Scudero, WR",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "139",
-      "YPR": "34.8",
-      "TD": "3"
     },
     {
       "RK": "8",
