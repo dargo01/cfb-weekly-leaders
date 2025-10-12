@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Tucker Kilcrease, QB",
+      "TEAM": "TROY",
+      "RESULT": "W48-41atTXST",
+      "COMP": "30",
+      "ATT": "39",
+      "YDS": "415",
+      "TD": "5",
+      "INT": "0",
+      "RAT": "208.6"
+    },
+    {
+      "RK": "2",
       "NAME": "Demond Williams Jr., QB",
       "TEAM": "WASH",
       "RESULT": "W38-19vs.RUTG",
@@ -11,18 +23,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "227.3"
-    },
-    {
-      "RK": "2",
-      "NAME": "Tucker Kilcrease, QB",
-      "TEAM": "TROY",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "36",
-      "YDS": "394",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "203.6"
     },
     {
       "RK": "3",
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "DJ Epps, WR",
+      "TEAM": "TROY",
+      "RESULT": "W48-41atTXST",
+      "REC": "10",
+      "YDS": "148",
+      "YPR": "14.8",
+      "TD": "2"
+    },
+    {
+      "RK": "7",
       "NAME": "Kajiya Hollawayne, WR",
       "TEAM": "TEM",
       "RESULT": "L31-32vs.NAVY",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Daejon Reynolds, WR",
       "TEAM": "UNLV",
       "RESULT": "W51-48vs.AF",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Andrew Marsh, WR",
       "TEAM": "MICH",
       "RESULT": "L13-31atUSC",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Robert Williams, WR",
       "TEAM": "UL",
       "RESULT": "L14-24atJMU",
@@ -313,16 +323,6 @@
       "YDS": "134",
       "YPR": "26.8",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Micahi Danzy, WR",
-      "TEAM": "FSU",
-      "RESULT": "L31-34vs.PITT",
-      "REC": "7",
-      "YDS": "133",
-      "YPR": "19.0",
-      "TD": "2"
     }
   ]
 }
