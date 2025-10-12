@@ -194,6 +194,16 @@
     },
     {
       "RK": "8",
+      "NAME": "LJ Martin, RB",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "CAR": "23",
+      "YDS": "154",
+      "YPC": "6.7",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "DeSean Bishop, RB",
       "TEAM": "TENN",
       "RESULT": "W34-31vs.ARK",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Demond Claiborne, RB",
       "TEAM": "WAKE",
       "RESULT": "W39-14atORST",
@@ -211,16 +221,6 @@
       "YDS": "144",
       "YPC": "9.0",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "W24-7vs.CLT",
-      "CAR": "21",
-      "YDS": "143",
-      "YPC": "6.8",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
