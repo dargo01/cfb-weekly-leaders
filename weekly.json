@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Tucker Kilcrease, QB",
+      "TEAM": "TROY",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "27",
+      "YDS": "330",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "204.9"
+    },
+    {
+      "RK": "10",
       "NAME": "Drew Mestemaker, QB",
       "TEAM": "UNT",
       "RESULT": "L36-63vs.USF",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "3",
       "RAT": "120.8"
-    },
-    {
-      "RK": "10",
-      "NAME": "Mason Heintschel, QB",
-      "TEAM": "PITT",
-      "RESULT": "W34-31atFSU",
-      "COMP": "21",
-      "ATT": "29",
-      "YDS": "321",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "174.3"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Cameron Dickey, RB",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "215",
+      "YPC": "12.6",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Owen Allen, RB",
       "TEAM": "AF",
       "RESULT": "L48-51atUNLV",
@@ -143,7 +153,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Abu Sama III, RB",
       "TEAM": "ISU",
       "RESULT": "L17-24atCOLO",
@@ -153,7 +163,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
       "RESULT": "W34-31atMD",
@@ -163,7 +173,17 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
+      "NAME": "King Miller, RB",
+      "TEAM": "USC",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "156",
+      "YPC": "9.2",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "W32-31atTEM",
@@ -173,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "DeSean Bishop, RB",
       "TEAM": "TENN",
       "RESULT": "W34-31vs.ARK",
@@ -183,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Demond Claiborne, RB",
       "TEAM": "WAKE",
       "RESULT": "W39-14atORST",
@@ -193,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "W24-7vs.CLT",
@@ -201,31 +221,21 @@
       "YDS": "143",
       "YPC": "6.8",
       "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
-      "RESULT": "W24-21vs.WSU",
-      "CAR": "24",
-      "YDS": "142",
-      "YPC": "5.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jeffery Pittman, RB",
-      "TEAM": "USM",
-      "RESULT": "W38-35atGASO",
-      "CAR": "31",
-      "YDS": "140",
-      "YPC": "4.5",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Danny Scudero, WR",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "REC": "9",
+      "YDS": "171",
+      "YPR": "19.0",
+      "TD": "4"
+    },
+    {
+      "RK": "2",
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
       "RESULT": "L35-38vs.USM",
@@ -235,7 +245,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Amare Thomas, WR",
       "TEAM": "HOU",
       "RESULT": "W39-17atOKST",
@@ -245,7 +255,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Eric McAlister, WR",
       "TEAM": "TCU",
       "RESULT": "L28-41atKSU",
@@ -255,7 +265,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Desmond Reid, RB",
       "TEAM": "PITT",
       "RESULT": "W34-31atFSU",
@@ -263,16 +273,6 @@
       "YDS": "155",
       "YPR": "19.4",
       "TD": "2"
-    },
-    {
-      "RK": "5",
-      "NAME": "Danny Scudero, WR",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "151",
-      "YPR": "25.2",
-      "TD": "4"
     },
     {
       "RK": "6",
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Andrew Marsh, WR",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "138",
+      "YPR": "17.3",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Robert Williams, WR",
       "TEAM": "UL",
       "RESULT": "L14-24atJMU",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Micahi Danzy, WR",
       "TEAM": "FSU",
       "RESULT": "L31-34vs.PITT",
@@ -313,16 +323,6 @@
       "YDS": "133",
       "YPR": "19.0",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Joseph Williams, WR",
-      "TEAM": "COLO",
-      "RESULT": "W24-17vs.ISU",
-      "REC": "8",
-      "YDS": "128",
-      "YPR": "16.0",
-      "TD": "1"
     }
   ]
 }
