@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Tucker Kilcrease, QB",
+      "TEAM": "TROY",
+      "RESULT": "",
+      "COMP": "27",
+      "ATT": "36",
+      "YDS": "394",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "203.6"
+    },
+    {
+      "RK": "3",
       "NAME": "Athan Kaliakmanis, QB",
       "TEAM": "RUTG",
       "RESULT": "L19-38atWASH",
@@ -25,7 +37,7 @@
       "RAT": "136.0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Josh Hoover, QB",
       "TEAM": "TCU",
       "RESULT": "L28-41atKSU",
@@ -37,7 +49,7 @@
       "RAT": "135.1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "W51-48vs.AF",
@@ -49,7 +61,7 @@
       "RAT": "167.6"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "E.J. Warner, QB",
       "TEAM": "FRES",
       "RESULT": "L21-49atCSU",
@@ -61,7 +73,7 @@
       "RAT": "125.1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "W26-19vs.ECU",
@@ -73,7 +85,7 @@
       "RAT": "171.5"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Evan Simon, QB",
       "TEAM": "TEM",
       "RESULT": "L31-32vs.NAVY",
@@ -85,7 +97,7 @@
       "RAT": "159.1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "CJ Carr, QB",
       "TEAM": "ND",
       "RESULT": "W36-7vs.NCSU",
@@ -95,18 +107,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "168.8"
-    },
-    {
-      "RK": "9",
-      "NAME": "Tucker Kilcrease, QB",
-      "TEAM": "TROY",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "27",
-      "YDS": "330",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "204.9"
     },
     {
       "RK": "10",
@@ -124,22 +124,22 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Cameron Dickey, RB",
+      "TEAM": "TTU",
+      "RESULT": "W42-17vs.KU",
+      "CAR": "21",
+      "YDS": "263",
+      "YPC": "12.5",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W29-27atSHSU",
       "CAR": "31",
       "YDS": "218",
       "YPC": "7.0",
-      "TD": "2"
-    },
-    {
-      "RK": "2",
-      "NAME": "Cameron Dickey, RB",
-      "TEAM": "TTU",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "217",
-      "YPC": "12.1",
       "TD": "2"
     },
     {
@@ -176,10 +176,10 @@
       "RK": "6",
       "NAME": "King Miller, RB",
       "TEAM": "USC",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "156",
-      "YPC": "9.2",
+      "RESULT": "W31-13vs.MICH",
+      "CAR": "18",
+      "YDS": "158",
+      "YPC": "8.8",
       "TD": "1"
     },
     {
@@ -228,10 +228,10 @@
       "RK": "1",
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
-      "RESULT": "",
-      "REC": "9",
-      "YDS": "171",
-      "YPR": "19.0",
+      "RESULT": "L28-35atWYO",
+      "REC": "10",
+      "YDS": "180",
+      "YPR": "18.0",
       "TD": "4"
     },
     {
@@ -298,7 +298,7 @@
       "RK": "8",
       "NAME": "Andrew Marsh, WR",
       "TEAM": "MICH",
-      "RESULT": "",
+      "RESULT": "L13-31atUSC",
       "REC": "8",
       "YDS": "138",
       "YPR": "17.3",
