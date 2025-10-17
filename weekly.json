@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Katin Houser, QB",
+      "TEAM": "ECU",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "38",
+      "YDS": "300",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "138.9"
+    },
+    {
+      "RK": "3",
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "L27-30atLIB",
@@ -23,18 +35,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "126.8"
-    },
-    {
-      "RK": "",
-      "NAME": "Katin Houser, QB",
-      "TEAM": "ECU",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "28",
-      "YDS": "242",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "149.7"
     },
     {
       "RK": "4",
@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Baylor Hayes, QB",
+      "TEAM": "TLSA",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "33",
+      "YDS": "214",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "126.0"
+    },
+    {
+      "RK": "6",
       "NAME": "Jaylen Raynor, QB",
       "TEAM": "ARST",
       "RESULT": "W15-14atUSA",
@@ -61,7 +73,7 @@
       "RAT": "106.3"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Keyone Jenkins, QB",
       "TEAM": "FIU",
       "RESULT": "W25-6atWKU",
@@ -73,7 +85,7 @@
       "RAT": "143.0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Ethan Vasko, QB",
       "TEAM": "LIB",
       "RESULT": "W30-27vs.NMSU",
@@ -85,7 +97,7 @@
       "RAT": "103.5"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
       "RESULT": "L17-35vs.UTEP",
@@ -97,7 +109,7 @@
       "RAT": "157.0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Maverick McIvor, QB",
       "TEAM": "WKU",
       "RESULT": "L6-25vs.FIU",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "3",
       "RAT": "88.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Bishop Davenport, QB",
-      "TEAM": "USA",
-      "RESULT": "L14-15vs.ARST",
-      "COMP": "18",
-      "ATT": "23",
-      "YDS": "118",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "121.4"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "London Montgomery, RB",
+      "TEAM": "ECU",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "125",
+      "YPC": "7.8",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W38-25vs.DEL",
@@ -143,7 +153,7 @@
       "TD": "3"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Landan Brown, RB",
       "TEAM": "SHSU",
       "RESULT": "L17-35vs.UTEP",
@@ -153,7 +163,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Ashten Emory, RB",
       "TEAM": "UTEP",
       "RESULT": "W35-17atSHSU",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Kadarius Calloway, RB",
       "TEAM": "NMSU",
       "RESULT": "L27-30atLIB",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jaylen Raynor, QB",
       "TEAM": "ARST",
       "RESULT": "W15-14atUSA",
@@ -183,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Marvis Parrish, RB",
       "TEAM": "WKU",
       "RESULT": "L6-25vs.FIU",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Kentrel Bullock, RB",
       "TEAM": "USA",
       "RESULT": "L14-15vs.ARST",
@@ -203,23 +213,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Keenan Phillips, RB",
       "TEAM": "USA",
       "RESULT": "L14-15vs.ARST",
       "CAR": "7",
       "YDS": "60",
       "YPC": "8.6",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Caden Creel, QB",
-      "TEAM": "JXST",
-      "RESULT": "W38-25vs.DEL",
-      "CAR": "12",
-      "YDS": "57",
-      "YPC": "4.8",
       "TD": "0"
     }
   ],
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Brody Foley, TE",
+      "TEAM": "TLSA",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "123",
+      "YPR": "24.6",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Kyre Duplessis, WR",
       "TEAM": "DEL",
       "RESULT": "L25-38atJXST",
@@ -245,7 +255,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Max Patterson, WR",
       "TEAM": "DEL",
       "RESULT": "L25-38atJXST",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Alex Perry, WR",
       "TEAM": "FIU",
       "RESULT": "W25-6atWKU",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Wondame Davis Jr., WR",
       "TEAM": "UTEP",
       "RESULT": "W35-17atSHSU",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "L27-30atLIB",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Kenny Odom, WR",
       "TEAM": "UTEP",
       "RESULT": "W35-17atSHSU",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jo Silver, RB",
       "TEAM": "DEL",
       "RESULT": "L25-38atJXST",
@@ -313,16 +323,6 @@
       "YDS": "63",
       "YPR": "15.8",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Brody Foley, TE",
-      "TEAM": "TLSA",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "63",
-      "YPR": "31.5",
-      "TD": "1"
     }
   ]
 }
