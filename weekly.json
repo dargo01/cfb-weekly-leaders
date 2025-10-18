@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "27",
+      "YDS": "321",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "214.3"
+    },
+    {
+      "RK": "5",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -47,18 +59,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "138.9"
-    },
-    {
-      "RK": "5",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "24",
-      "YDS": "279",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "200.2"
     },
     {
       "RK": "6",
@@ -109,16 +109,16 @@
       "RAT": "126.8"
     },
     {
-      "RK": "10",
-      "NAME": "Skyler Locklear, QB",
-      "TEAM": "UTEP",
-      "RESULT": "W35-17atSHSU",
-      "COMP": "21",
-      "ATT": "26",
-      "YDS": "236",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "174.7"
+      "RK": "",
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "29",
+      "YDS": "242",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "160.8"
     }
   ],
   "Rushing Leaders": [
@@ -187,13 +187,13 @@
       "NAME": "Jordan McDonald, RB",
       "TEAM": "BC",
       "RESULT": "",
-      "CAR": "20",
-      "YDS": "110",
-      "YPC": "5.5",
+      "CAR": "21",
+      "YDS": "112",
+      "YPC": "5.3",
       "TD": "0"
     },
     {
-      "RK": "",
+      "RK": "8",
       "NAME": "Landan Brown, RB",
       "TEAM": "SHSU",
       "RESULT": "L17-35vs.UTEP",
@@ -214,12 +214,12 @@
     },
     {
       "RK": "10",
-      "NAME": "Ashten Emory, RB",
-      "TEAM": "UTEP",
-      "RESULT": "W35-17atSHSU",
-      "CAR": "15",
-      "YDS": "96",
-      "YPC": "6.4",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "27",
+      "YDS": "100",
+      "YPC": "3.7",
       "TD": "1"
     }
   ],
@@ -246,6 +246,16 @@
     },
     {
       "RK": "",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "136",
+      "YPR": "13.6",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Chris Bell, WR",
       "TEAM": "LOU",
       "RESULT": "W24-21atMIA",
@@ -255,23 +265,13 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Malachi Toney, WR",
       "TEAM": "MIA",
       "RESULT": "L21-24vs.LOU",
       "REC": "9",
       "YDS": "135",
       "YPR": "15.0",
-      "TD": "0"
-    },
-    {
-      "RK": "5",
-      "NAME": "Cooper Barkate, WR",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "REC": "9",
-      "YDS": "132",
-      "YPR": "14.7",
       "TD": "0"
     },
     {
@@ -309,9 +309,9 @@
       "NAME": "Jordan Dwyer, WR",
       "TEAM": "TCU",
       "RESULT": "",
-      "REC": "6",
-      "YDS": "108",
-      "YPR": "18.0",
+      "REC": "7",
+      "YDS": "111",
+      "YPR": "15.9",
       "TD": "1"
     },
     {
