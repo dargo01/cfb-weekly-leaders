@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "COMP": "26",
+      "ATT": "47",
+      "YDS": "327",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "127.8"
+    },
+    {
+      "RK": "3",
       "NAME": "Bryson Barnes, QB",
       "TEAM": "USU",
       "RESULT": "",
@@ -25,7 +37,7 @@
       "RAT": "169.9"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -37,7 +49,7 @@
       "RAT": "138.9"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "L21-24vs.LOU",
@@ -47,18 +59,6 @@
       "TD": "0",
       "INT": "4",
       "RAT": "113.6"
-    },
-    {
-      "RK": "5",
-      "NAME": "Walker Eget, QB",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "34",
-      "YDS": "258",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "136.1"
     },
     {
       "RK": "6",
@@ -187,9 +187,9 @@
       "NAME": "Steve Chavez-Soto, RB",
       "TEAM": "SJSU",
       "RESULT": "",
-      "CAR": "10",
+      "CAR": "11",
       "YDS": "102",
-      "YPC": "10.2",
+      "YPC": "9.3",
       "TD": "1"
     },
     {
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Kyri Shoels, WR",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "104",
+      "YPR": "14.9",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Braden Pegan, WR",
       "TEAM": "USU",
       "RESULT": "",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Kyre Duplessis, WR",
       "TEAM": "DEL",
       "RESULT": "L25-38atJXST",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Max Patterson, WR",
       "TEAM": "DEL",
       "RESULT": "L25-38atJXST",
@@ -313,16 +323,6 @@
       "YDS": "87",
       "YPR": "21.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Alex Perry, WR",
-      "TEAM": "FIU",
-      "RESULT": "W25-6atWKU",
-      "REC": "3",
-      "YDS": "86",
-      "YPR": "28.7",
-      "TD": "0"
     }
   ]
 }
