@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Kobe Paysour, WR",
+      "TEAM": "UNC",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "101",
+      "YPR": "16.8",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Braden Pegan, WR",
       "TEAM": "USU",
       "RESULT": "W30-25vs.SJSU",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Kyre Duplessis, WR",
       "TEAM": "DEL",
       "RESULT": "L25-38atJXST",
@@ -313,16 +323,6 @@
       "YDS": "90",
       "YPR": "15.0",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Max Patterson, WR",
-      "TEAM": "DEL",
-      "RESULT": "L25-38atJXST",
-      "REC": "4",
-      "YDS": "87",
-      "YPR": "21.8",
-      "TD": "1"
     }
   ]
 }
