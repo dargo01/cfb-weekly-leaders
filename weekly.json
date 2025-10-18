@@ -90,11 +90,11 @@
       "TEAM": "UCF",
       "RESULT": "",
       "COMP": "23",
-      "ATT": "33",
+      "ATT": "34",
       "YDS": "277",
       "TD": "2",
       "INT": "1",
-      "RAT": "154.1"
+      "RAT": "149.6"
     },
     {
       "RK": "9",
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Tre' Brown III, WR",
+      "TEAM": "ODU",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "127",
+      "YPR": "42.3",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Brody Foley, TE",
       "TEAM": "TLSA",
       "RESULT": "L27-41atECU",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Skyler Bell, WR",
       "TEAM": "CONN",
       "RESULT": "W38-23atBC",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Anthony Garcia, QB",
       "TEAM": "USU",
       "RESULT": "W30-25vs.SJSU",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Leland Smith, WR",
       "TEAM": "SJSU",
       "RESULT": "L25-30atUSU",
       "REC": "4",
       "YDS": "116",
       "YPR": "29.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jordan Dwyer, WR",
-      "TEAM": "TCU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "111",
-      "YPR": "15.9",
       "TD": "1"
     }
   ]
