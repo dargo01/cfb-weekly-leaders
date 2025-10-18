@@ -207,9 +207,9 @@
       "NAME": "Jordan McDonald, RB",
       "TEAM": "BC",
       "RESULT": "",
-      "CAR": "16",
-      "YDS": "90",
-      "YPC": "5.6",
+      "CAR": "17",
+      "YDS": "93",
+      "YPC": "5.5",
       "TD": "0"
     },
     {
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Kobe Paysour, WR",
-      "TEAM": "UNC",
-      "RESULT": "L18-21atCAL",
-      "REC": "6",
+      "NAME": "Harold Mack, WR",
+      "TEAM": "EMU",
+      "RESULT": "",
+      "REC": "2",
       "YDS": "101",
-      "YPR": "16.8",
-      "TD": "0"
+      "YPR": "50.5",
+      "TD": "1"
     }
   ]
 }
