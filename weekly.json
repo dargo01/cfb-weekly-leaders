@@ -134,16 +134,6 @@
     },
     {
       "RK": "2",
-      "NAME": "Brandon Hood, RB",
-      "TEAM": "MASS",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "158",
-      "YPC": "13.2",
-      "TD": "1"
-    },
-    {
-      "RK": "3",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L17-24atTULN",
@@ -151,6 +141,16 @@
       "YDS": "155",
       "YPC": "4.0",
       "TD": "2"
+    },
+    {
+      "RK": "3",
+      "NAME": "Brandon Hood, RB",
+      "TEAM": "MASS",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "154",
+      "YPC": "15.4",
+      "TD": "1"
     },
     {
       "RK": "4",
