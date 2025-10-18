@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Ta'Quan Roberson, QB",
+      "TEAM": "BUF",
+      "RESULT": "",
+      "COMP": "32",
+      "ATT": "51",
+      "YDS": "338",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "124.9"
+    },
+    {
+      "RK": "6",
       "NAME": "Bryson Barnes, QB",
       "TEAM": "USU",
       "RESULT": "W30-25vs.SJSU",
@@ -61,19 +73,31 @@
       "RAT": "169.9"
     },
     {
-      "RK": "6",
-      "NAME": "Ta'Quan Roberson, QB",
-      "TEAM": "BUF",
+      "RK": "7",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
       "RESULT": "",
-      "COMP": "30",
-      "ATT": "47",
-      "YDS": "319",
-      "TD": "1",
+      "COMP": "31",
+      "ATT": "36",
+      "YDS": "325",
+      "TD": "2",
       "INT": "0",
-      "RAT": "127.9"
+      "RAT": "180.3"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "25",
+      "ATT": "51",
+      "YDS": "318",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "106.5"
+    },
+    {
+      "RK": "9",
       "NAME": "Noah Kim, QB",
       "TEAM": "EMU",
       "RESULT": "L30-44atM-OH",
@@ -85,7 +109,7 @@
       "RAT": "153.2"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -95,30 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "138.9"
-    },
-    {
-      "RK": "9",
-      "NAME": "Julian Sayin, QB",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "COMP": "29",
-      "ATT": "32",
-      "YDS": "295",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "188.7"
-    },
-    {
-      "RK": "10",
-      "NAME": "Tucker Gleason, QB",
-      "TEAM": "TOL",
-      "RESULT": "W45-10vs.KENT",
-      "COMP": "21",
-      "ATT": "28",
-      "YDS": "294",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "210.3"
     }
   ],
   "Rushing Leaders": [
@@ -147,9 +147,9 @@
       "NAME": "Dylan Riley, RB",
       "TEAM": "BOIS",
       "RESULT": "",
-      "CAR": "7",
+      "CAR": "8",
       "YDS": "157",
-      "YPC": "22.4",
+      "YPC": "19.6",
       "TD": "1"
     },
     {
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Qua Ashley, RB",
+      "TEAM": "BALL",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "127",
+      "YPC": "10.6",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -193,7 +203,17 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Duncan Brune, RB",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "124",
+      "YPC": "8.3",
+      "TD": "2"
+    },
+    {
+      "RK": "10",
       "NAME": "Jordan McDonald, RB",
       "TEAM": "BC",
       "RESULT": "L23-38vs.CONN",
@@ -201,26 +221,6 @@
       "YDS": "123",
       "YPC": "5.1",
       "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jordan Brunson, RB",
-      "TEAM": "M-OH",
-      "RESULT": "W44-30vs.EMU",
-      "CAR": "23",
-      "YDS": "122",
-      "YPC": "5.3",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Haynes King, QB",
-      "TEAM": "GT",
-      "RESULT": "W27-18atDUKE",
-      "CAR": "14",
-      "YDS": "120",
-      "YPC": "8.6",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
