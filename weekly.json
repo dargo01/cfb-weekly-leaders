@@ -16,7 +16,7 @@
       "RK": "2",
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
-      "RESULT": "",
+      "RESULT": "W38-23atBC",
       "COMP": "23",
       "ATT": "31",
       "YDS": "362",
@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "COMP": "27",
+      "ATT": "38",
+      "YDS": "305",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "147.2"
+    },
+    {
+      "RK": "6",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -61,7 +73,7 @@
       "RAT": "138.9"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "L21-24vs.LOU",
@@ -73,10 +85,10 @@
       "RAT": "113.6"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Noah Fifita, QB",
       "TEAM": "ARIZ",
-      "RESULT": "",
+      "RESULT": "L28-31atHOU",
       "COMP": "24",
       "ATT": "26",
       "YDS": "269",
@@ -85,40 +97,28 @@
       "RAT": "204.6"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Tayven Jackson, QB",
       "TEAM": "UCF",
       "RESULT": "",
-      "COMP": "20",
+      "COMP": "21",
+      "ATT": "31",
+      "YDS": "261",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "153.3"
+    },
+    {
+      "RK": "",
+      "NAME": "Jake Retzlaff, QB",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "COMP": "22",
       "ATT": "29",
-      "YDS": "252",
+      "YDS": "261",
       "TD": "2",
-      "INT": "0",
-      "RAT": "164.7"
-    },
-    {
-      "RK": "9",
-      "NAME": "Baylor Hayes, QB",
-      "TEAM": "TLSA",
-      "RESULT": "L27-41atECU",
-      "COMP": "23",
-      "ATT": "41",
-      "YDS": "251",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "123.6"
-    },
-    {
-      "RK": "10",
-      "NAME": "Miller Moss, QB",
-      "TEAM": "LOU",
-      "RESULT": "W24-21atMIA",
-      "COMP": "23",
-      "ATT": "37",
-      "YDS": "248",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "136.3"
+      "INT": "1",
+      "RAT": "167.3"
     }
   ],
   "Rushing Leaders": [
@@ -147,13 +147,23 @@
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "",
-      "CAR": "35",
-      "YDS": "137",
-      "YPC": "3.9",
+      "CAR": "38",
+      "YDS": "145",
+      "YPC": "3.8",
       "TD": "2"
     },
     {
       "RK": "4",
+      "NAME": "Jordan Marshall, RB",
+      "TEAM": "MICH",
+      "RESULT": "W24-7vs.WASH",
+      "CAR": "25",
+      "YDS": "133",
+      "YPC": "5.3",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -163,24 +173,14 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jordan McDonald, RB",
       "TEAM": "BC",
-      "RESULT": "",
+      "RESULT": "L23-38vs.CONN",
       "CAR": "24",
       "YDS": "123",
       "YPC": "5.1",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Jordan Marshall, RB",
-      "TEAM": "MICH",
-      "RESULT": "",
-      "CAR": "23",
-      "YDS": "123",
-      "YPC": "5.3",
-      "TD": "1"
     },
     {
       "RK": "7",
@@ -194,6 +194,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Haynes King, QB",
+      "TEAM": "GT",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "120",
+      "YPC": "8.6",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W38-25vs.DEL",
@@ -203,23 +213,13 @@
       "TD": "3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Isaac Brown, RB",
       "TEAM": "LOU",
       "RESULT": "W24-21atMIA",
       "CAR": "15",
       "YDS": "113",
       "YPC": "7.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Landan Brown, RB",
-      "TEAM": "SHSU",
-      "RESULT": "L17-35vs.UTEP",
-      "CAR": "13",
-      "YDS": "110",
-      "YPC": "8.5",
       "TD": "0"
     }
   ],
@@ -229,13 +229,23 @@
       "NAME": "Harold Mack, WR",
       "TEAM": "EMU",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "169",
-      "YPR": "33.8",
+      "REC": "6",
+      "YDS": "179",
+      "YPR": "29.8",
       "TD": "2"
     },
     {
       "RK": "2",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "12",
+      "YDS": "168",
+      "YPR": "14.0",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Anthony Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -245,17 +255,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
-      "NAME": "Cooper Barkate, WR",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "REC": "10",
-      "YDS": "136",
-      "YPR": "13.6",
-      "TD": "0"
-    },
-    {
-      "RK": "",
+      "RK": "4",
       "NAME": "Chris Bell, WR",
       "TEAM": "LOU",
       "RESULT": "W24-21atMIA",
@@ -288,7 +288,7 @@
       "RK": "7",
       "NAME": "Skyler Bell, WR",
       "TEAM": "CONN",
-      "RESULT": "",
+      "RESULT": "W38-23atBC",
       "REC": "10",
       "YDS": "125",
       "YPR": "12.5",
