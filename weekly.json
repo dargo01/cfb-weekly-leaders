@@ -41,12 +41,12 @@
       "NAME": "Brad Jackson, QB",
       "TEAM": "TXST",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "23",
-      "YDS": "367",
+      "COMP": "18",
+      "ATT": "24",
+      "YDS": "366",
       "TD": "2",
       "INT": "1",
-      "RAT": "227.9"
+      "RAT": "222.3"
     },
     {
       "RK": "5",
@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Fernando Mendoza, QB",
+      "TEAM": "IU",
+      "RESULT": "",
+      "COMP": "24",
+      "ATT": "28",
+      "YDS": "332",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "232.5"
+    },
+    {
+      "RK": "9",
       "NAME": "Bryson Barnes, QB",
       "TEAM": "USU",
       "RESULT": "W30-25vs.SJSU",
@@ -97,7 +109,7 @@
       "RAT": "169.9"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "L36-42atTCU",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "3",
       "RAT": "100.6"
-    },
-    {
-      "RK": "10",
-      "NAME": "Noah Kim, QB",
-      "TEAM": "EMU",
-      "RESULT": "L30-44atM-OH",
-      "COMP": "20",
-      "ATT": "36",
-      "YDS": "309",
-      "TD": "4",
-      "INT": "2",
-      "RAT": "153.2"
     }
   ],
   "Rushing Leaders": [
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Alonza Barnett III, QB",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "153",
+      "YPC": "9.0",
+      "TD": "4"
+    },
+    {
+      "RK": "6",
       "NAME": "Darius Taylor, RB",
       "TEAM": "MINN",
       "RESULT": "W24-6vs.NEB",
@@ -173,7 +183,37 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Sieh Bangura, RB",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "147",
+      "YPC": "6.7",
+      "TD": "3"
+    },
+    {
+      "RK": "8",
+      "NAME": "Qua Ashley, RB",
+      "TEAM": "BALL",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "140",
+      "YPC": "7.8",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
+      "NAME": "Liam Szarka, QB",
+      "TEAM": "AF",
+      "RESULT": "",
+      "CAR": "25",
+      "YDS": "136",
+      "YPC": "5.4",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Jordan Marshall, RB",
       "TEAM": "MICH",
       "RESULT": "W24-7vs.WASH",
@@ -181,46 +221,6 @@
       "YDS": "133",
       "YPC": "5.3",
       "TD": "1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Qua Ashley, RB",
-      "TEAM": "BALL",
-      "RESULT": "",
-      "CAR": "14",
-      "YDS": "132",
-      "YPC": "9.4",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Liam Szarka, QB",
-      "TEAM": "AF",
-      "RESULT": "",
-      "CAR": "23",
-      "YDS": "128",
-      "YPC": "5.6",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Duncan Brune, RB",
-      "TEAM": "OHIO",
-      "RESULT": "",
-      "CAR": "16",
-      "YDS": "126",
-      "YPC": "7.9",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sieh Bangura, RB",
-      "TEAM": "OHIO",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "125",
-      "YPC": "6.9",
-      "TD": "3"
     }
   ],
   "Receiving Leaders": [
@@ -269,9 +269,9 @@
       "NAME": "Beau Sparks, WR",
       "TEAM": "TXST",
       "RESULT": "",
-      "REC": "6",
-      "YDS": "143",
-      "YPR": "23.8",
+      "REC": "7",
+      "YDS": "142",
+      "YPR": "20.3",
       "TD": "1"
     },
     {
