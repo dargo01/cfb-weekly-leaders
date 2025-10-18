@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Tayven Jackson, QB",
+      "TEAM": "UCF",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "33",
+      "YDS": "277",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "154.1"
+    },
+    {
+      "RK": "9",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "L21-24vs.LOU",
@@ -97,7 +109,7 @@
       "RAT": "113.6"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Noah Fifita, QB",
       "TEAM": "ARIZ",
       "RESULT": "L28-31atHOU",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "204.6"
-    },
-    {
-      "RK": "10",
-      "NAME": "Tayven Jackson, QB",
-      "TEAM": "UCF",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "31",
-      "YDS": "261",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "153.3"
     }
   ],
   "Rushing Leaders": [
@@ -147,9 +147,9 @@
       "NAME": "Brandon Hood, RB",
       "TEAM": "MASS",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "151",
-      "YPC": "16.8",
+      "CAR": "10",
+      "YDS": "154",
+      "YPC": "15.4",
       "TD": "1"
     },
     {
