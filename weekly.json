@@ -41,12 +41,12 @@
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "",
-      "COMP": "21",
-      "ATT": "27",
-      "YDS": "321",
+      "COMP": "22",
+      "ATT": "29",
+      "YDS": "324",
       "TD": "3",
       "INT": "0",
-      "RAT": "214.3"
+      "RAT": "203.8"
     },
     {
       "RK": "5",
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "34",
+      "YDS": "135",
+      "YPC": "4.0",
+      "TD": "2"
+    },
+    {
+      "RK": "4",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -153,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jordan Brunson, RB",
       "TEAM": "M-OH",
       "RESULT": "",
@@ -163,7 +173,17 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "",
+      "NAME": "Jordan McDonald, RB",
+      "TEAM": "BC",
+      "RESULT": "",
+      "CAR": "23",
+      "YDS": "122",
+      "YPC": "5.3",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W38-25vs.DEL",
@@ -173,17 +193,7 @@
       "TD": "3"
     },
     {
-      "RK": "6",
-      "NAME": "Jordan McDonald, RB",
-      "TEAM": "BC",
-      "RESULT": "",
-      "CAR": "22",
-      "YDS": "115",
-      "YPC": "5.2",
-      "TD": "0"
-    },
-    {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Isaac Brown, RB",
       "TEAM": "LOU",
       "RESULT": "W24-21atMIA",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Landan Brown, RB",
       "TEAM": "SHSU",
       "RESULT": "L17-35vs.UTEP",
@@ -203,23 +213,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "",
-      "CAR": "28",
-      "YDS": "103",
-      "YPC": "3.7",
-      "TD": "1"
-    },
-    {
       "RK": "10",
-      "NAME": "Steve Chavez-Soto, RB",
-      "TEAM": "SJSU",
-      "RESULT": "L25-30atUSU",
-      "CAR": "11",
-      "YDS": "102",
-      "YPC": "9.3",
+      "NAME": "Jordan Marshall, RB",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "107",
+      "YPC": "5.6",
       "TD": "1"
     }
   ],
