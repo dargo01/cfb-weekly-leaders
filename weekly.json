@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Ta'Quan Roberson, QB",
+      "TEAM": "BUF",
+      "RESULT": "",
+      "COMP": "30",
+      "ATT": "47",
+      "YDS": "319",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "127.9"
+    },
+    {
+      "RK": "7",
       "NAME": "Noah Kim, QB",
       "TEAM": "EMU",
       "RESULT": "L30-44atM-OH",
@@ -73,7 +85,7 @@
       "RAT": "153.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -85,7 +97,7 @@
       "RAT": "138.9"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W45-10vs.KENT",
@@ -95,18 +107,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "210.3"
-    },
-    {
-      "RK": "9",
-      "NAME": "Ta'Quan Roberson, QB",
-      "TEAM": "BUF",
-      "RESULT": "",
-      "COMP": "28",
-      "ATT": "43",
-      "YDS": "293",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "130.0"
     },
     {
       "RK": "10",
@@ -137,13 +137,23 @@
       "NAME": "Brandon Hood, RB",
       "TEAM": "MASS",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "159",
-      "YPC": "11.4",
+      "CAR": "15",
+      "YDS": "161",
+      "YPC": "10.7",
       "TD": "1"
     },
     {
       "RK": "3",
+      "NAME": "Dylan Riley, RB",
+      "TEAM": "BOIS",
+      "RESULT": "",
+      "CAR": "7",
+      "YDS": "157",
+      "YPC": "22.4",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L17-24atTULN",
@@ -151,16 +161,6 @@
       "YDS": "155",
       "YPC": "4.0",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Dylan Riley, RB",
-      "TEAM": "BOIS",
-      "RESULT": "",
-      "CAR": "6",
-      "YDS": "151",
-      "YPC": "25.2",
-      "TD": "1"
     },
     {
       "RK": "5",
