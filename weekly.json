@@ -204,22 +204,22 @@
     },
     {
       "RK": "9",
+      "NAME": "Jordan McDonald, RB",
+      "TEAM": "BC",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "87",
+      "YPC": "6.2",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Kadarius Calloway, RB",
       "TEAM": "NMSU",
       "RESULT": "L27-30atLIB",
       "CAR": "18",
       "YDS": "84",
       "YPC": "4.7",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kendrick Raphael, RB",
-      "TEAM": "CAL",
-      "RESULT": "W21-18vs.UNC",
-      "CAR": "22",
-      "YDS": "81",
-      "YPC": "3.7",
       "TD": "1"
     }
   ],
