@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Carson Beck, QB",
+      "TEAM": "MIA",
+      "RESULT": "L21-24vs.LOU",
+      "COMP": "25",
+      "ATT": "35",
+      "YDS": "271",
+      "TD": "0",
+      "INT": "4",
+      "RAT": "113.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Baylor Hayes, QB",
       "TEAM": "TLSA",
       "RESULT": "L27-41atECU",
@@ -37,7 +49,19 @@
       "RAT": "123.6"
     },
     {
-      "RK": "4",
+      "RK": "5",
+      "NAME": "Miller Moss, QB",
+      "TEAM": "LOU",
+      "RESULT": "W24-21atMIA",
+      "COMP": "23",
+      "ATT": "37",
+      "YDS": "248",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "136.3"
+    },
+    {
+      "RK": "6",
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "L27-30atLIB",
@@ -49,7 +73,7 @@
       "RAT": "126.8"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Skyler Locklear, QB",
       "TEAM": "UTEP",
       "RESULT": "W35-17atSHSU",
@@ -59,30 +83,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "174.7"
-    },
-    {
-      "RK": "6",
-      "NAME": "Miller Moss, QB",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "33",
-      "YDS": "228",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "133.7"
-    },
-    {
-      "RK": "7",
-      "NAME": "Carson Beck, QB",
-      "TEAM": "MIA",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "25",
-      "YDS": "215",
-      "TD": "0",
-      "INT": "2",
-      "RAT": "124.2"
     },
     {
       "RK": "8",
@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "26",
+      "YDS": "187",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "123.1"
+    },
+    {
+      "RK": "10",
       "NAME": "Keyone Jenkins, QB",
       "TEAM": "FIU",
       "RESULT": "W25-6atWKU",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "143.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Ethan Vasko, QB",
-      "TEAM": "LIB",
-      "RESULT": "W30-27vs.NMSU",
-      "COMP": "20",
-      "ATT": "30",
-      "YDS": "179",
-      "TD": "0",
-      "INT": "2",
-      "RAT": "103.5"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Darius Taylor, RB",
+      "TEAM": "MINN",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "145",
+      "YPC": "7.3",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -143,7 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W38-25vs.DEL",
@@ -153,17 +163,17 @@
       "TD": "3"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Isaac Brown, RB",
       "TEAM": "LOU",
-      "RESULT": "",
-      "CAR": "14",
-      "YDS": "116",
-      "YPC": "8.3",
+      "RESULT": "W24-21atMIA",
+      "CAR": "15",
+      "YDS": "113",
+      "YPC": "7.5",
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Landan Brown, RB",
       "TEAM": "SHSU",
       "RESULT": "L17-35vs.UTEP",
@@ -173,17 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
-      "NAME": "Darius Taylor, RB",
-      "TEAM": "MINN",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "96",
-      "YPC": "8.7",
-      "TD": "0"
-    },
-    {
-      "RK": "",
+      "RK": "7",
       "NAME": "Ashten Emory, RB",
       "TEAM": "UTEP",
       "RESULT": "W35-17atSHSU",
@@ -236,6 +236,26 @@
     },
     {
       "RK": "2",
+      "NAME": "Chris Bell, WR",
+      "TEAM": "LOU",
+      "RESULT": "W24-21atMIA",
+      "REC": "9",
+      "YDS": "136",
+      "YPR": "15.1",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
+      "NAME": "Malachi Toney, WR",
+      "TEAM": "MIA",
+      "RESULT": "L21-24vs.LOU",
+      "REC": "9",
+      "YDS": "135",
+      "YPR": "15.0",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Brody Foley, TE",
       "TEAM": "TLSA",
       "RESULT": "L27-41atECU",
@@ -243,26 +263,6 @@
       "YDS": "126",
       "YPR": "21.0",
       "TD": "1"
-    },
-    {
-      "RK": "3",
-      "NAME": "Malachi Toney, WR",
-      "TEAM": "MIA",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "121",
-      "YPR": "17.3",
-      "TD": "0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "116",
-      "YPR": "16.6",
-      "TD": "2"
     },
     {
       "RK": "5",
@@ -306,22 +306,22 @@
     },
     {
       "RK": "9",
-      "NAME": "TK King, WR",
-      "TEAM": "NMSU",
-      "RESULT": "L27-30atLIB",
-      "REC": "5",
-      "YDS": "68",
-      "YPR": "13.6",
+      "NAME": "CJ Daniels, WR",
+      "TEAM": "MIA",
+      "RESULT": "L21-24vs.LOU",
+      "REC": "7",
+      "YDS": "74",
+      "YPR": "10.6",
       "TD": "0"
     },
     {
-      "RK": "",
-      "NAME": "Chauncy Cobb, WR",
-      "TEAM": "ARST",
-      "RESULT": "W15-14atUSA",
-      "REC": "6",
-      "YDS": "68",
-      "YPR": "11.3",
+      "RK": "10",
+      "NAME": "Leland Smith, WR",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "71",
+      "YPR": "23.7",
       "TD": "0"
     }
   ]
