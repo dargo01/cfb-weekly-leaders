@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
+      "RESULT": "W34-0atWIS",
+      "COMP": "36",
+      "ATT": "42",
+      "YDS": "393",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "195.7"
+    },
+    {
+      "RK": "5",
       "NAME": "Darian Mensah, QB",
       "TEAM": "DUKE",
       "RESULT": "L18-27vs.GT",
@@ -49,7 +61,7 @@
       "RAT": "158.9"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "W38-23atBC",
@@ -59,18 +71,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "214.9"
-    },
-    {
-      "RK": "6",
-      "NAME": "Julian Sayin, QB",
-      "TEAM": "OSU",
-      "RESULT": "W34-0atWIS",
-      "COMP": "33",
-      "ATT": "38",
-      "YDS": "349",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "190.0"
     },
     {
       "RK": "7",
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Brenen Thompson, WR",
+      "TEAM": "MSST",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "155",
+      "YPR": "22.1",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Anthony Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -283,16 +293,6 @@
       "YDS": "150",
       "YPR": "37.5",
       "TD": "2"
-    },
-    {
-      "RK": "7",
-      "NAME": "Brenen Thompson, WR",
-      "TEAM": "MSST",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "139",
-      "YPR": "23.2",
-      "TD": "0"
     },
     {
       "RK": "8",
