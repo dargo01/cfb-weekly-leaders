@@ -207,9 +207,9 @@
       "NAME": "Jordan McDonald, RB",
       "TEAM": "BC",
       "RESULT": "",
-      "CAR": "16",
-      "YDS": "90",
-      "YPC": "5.6",
+      "CAR": "17",
+      "YDS": "93",
+      "YPC": "5.5",
       "TD": "0"
     },
     {
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Harold Mack, WR",
+      "TEAM": "EMU",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "113",
+      "YPR": "37.7",
+      "TD": "2"
+    },
+    {
+      "RK": "9",
       "NAME": "Jacob De Jesus, WR",
       "TEAM": "CAL",
       "RESULT": "W21-18vs.UNC",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Kyri Shoels, WR",
       "TEAM": "SJSU",
       "RESULT": "L25-30atUSU",
       "REC": "7",
       "YDS": "104",
       "YPR": "14.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kobe Paysour, WR",
-      "TEAM": "UNC",
-      "RESULT": "L18-21atCAL",
-      "REC": "6",
-      "YDS": "101",
-      "YPR": "16.8",
       "TD": "0"
     }
   ]
