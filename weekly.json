@@ -88,7 +88,7 @@
       "RK": "8",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
-      "RESULT": "",
+      "RESULT": "W45-10vs.KENT",
       "COMP": "21",
       "ATT": "28",
       "YDS": "294",
@@ -102,11 +102,11 @@
       "TEAM": "BUF",
       "RESULT": "",
       "COMP": "28",
-      "ATT": "40",
+      "ATT": "43",
       "YDS": "293",
       "TD": "1",
       "INT": "0",
-      "RAT": "139.8"
+      "RAT": "130.0"
     },
     {
       "RK": "10",
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Brandon Hood, RB",
+      "TEAM": "MASS",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "159",
+      "YPC": "11.4",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L17-24atTULN",
@@ -143,17 +153,17 @@
       "TD": "2"
     },
     {
-      "RK": "3",
-      "NAME": "Brandon Hood, RB",
-      "TEAM": "MASS",
+      "RK": "4",
+      "NAME": "Dylan Riley, RB",
+      "TEAM": "BOIS",
       "RESULT": "",
-      "CAR": "13",
-      "YDS": "154",
-      "YPC": "11.8",
+      "CAR": "6",
+      "YDS": "151",
+      "YPC": "25.2",
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Darius Taylor, RB",
       "TEAM": "MINN",
       "RESULT": "W24-6vs.NEB",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jordan Marshall, RB",
       "TEAM": "MICH",
       "RESULT": "W24-7vs.WASH",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "London Montgomery, RB",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jordan McDonald, RB",
       "TEAM": "BC",
       "RESULT": "L23-38vs.CONN",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jordan Brunson, RB",
       "TEAM": "M-OH",
       "RESULT": "W44-30vs.EMU",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Haynes King, QB",
       "TEAM": "GT",
       "RESULT": "W27-18atDUKE",
@@ -211,16 +221,6 @@
       "YDS": "120",
       "YPC": "8.6",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cam Cook, RB",
-      "TEAM": "JXST",
-      "RESULT": "W38-25vs.DEL",
-      "CAR": "18",
-      "YDS": "117",
-      "YPC": "6.5",
-      "TD": "3"
     }
   ],
   "Receiving Leaders": [
