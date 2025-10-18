@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Tucker Gleason, QB",
+      "TEAM": "TOL",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "25",
+      "YDS": "271",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "219.9"
+    },
+    {
+      "RK": "",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "L21-24vs.LOU",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "4",
       "RAT": "113.6"
-    },
-    {
-      "RK": "10",
-      "NAME": "Noah Fifita, QB",
-      "TEAM": "ARIZ",
-      "RESULT": "L28-31atHOU",
-      "COMP": "24",
-      "ATT": "26",
-      "YDS": "269",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "204.6"
     }
   ],
   "Rushing Leaders": [
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Tre' Brown III, WR",
+      "TEAM": "ODU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "138",
+      "YPR": "34.5",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
       "NAME": "Chris Bell, WR",
       "TEAM": "LOU",
       "RESULT": "W24-21atMIA",
@@ -265,7 +275,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Malachi Toney, WR",
       "TEAM": "MIA",
       "RESULT": "L21-24vs.LOU",
@@ -273,16 +283,6 @@
       "YDS": "135",
       "YPR": "15.0",
       "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Tre' Brown III, WR",
-      "TEAM": "ODU",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "127",
-      "YPR": "42.3",
-      "TD": "1"
     },
     {
       "RK": "7",
