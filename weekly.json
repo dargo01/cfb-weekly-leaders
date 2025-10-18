@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Brad Jackson, QB",
+      "TEAM": "TXST",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "30",
+      "YDS": "415",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "204.9"
+    },
+    {
+      "RK": "3",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "W28-21atMASS",
@@ -23,18 +35,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "129.4"
-    },
-    {
-      "RK": "3",
-      "NAME": "Brad Jackson, QB",
-      "TEAM": "TXST",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "26",
-      "YDS": "374",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "211.6"
     },
     {
       "RK": "4",
@@ -217,9 +217,9 @@
       "NAME": "Robert Henry Jr., RB",
       "TEAM": "UTSA",
       "RESULT": "",
-      "CAR": "11",
-      "YDS": "137",
-      "YPC": "12.5",
+      "CAR": "12",
+      "YDS": "138",
+      "YPC": "11.5",
       "TD": "1"
     }
   ],
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Beau Sparks, WR",
+      "TEAM": "TXST",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "162",
+      "YPR": "20.3",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Anthony Smith, WR",
       "TEAM": "ECU",
       "RESULT": "W41-27vs.TLSA",
@@ -263,16 +273,6 @@
       "YDS": "150",
       "YPR": "37.5",
       "TD": "2"
-    },
-    {
-      "RK": "5",
-      "NAME": "Beau Sparks, WR",
-      "TEAM": "TXST",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "142",
-      "YPR": "20.3",
-      "TD": "1"
     },
     {
       "RK": "6",
@@ -306,22 +306,22 @@
     },
     {
       "RK": "9",
+      "NAME": "Iverson Hooks, WR",
+      "TEAM": "UAB",
+      "RESULT": "",
+      "REC": "9",
+      "YDS": "129",
+      "YPR": "14.3",
+      "TD": "2"
+    },
+    {
+      "RK": "10",
       "NAME": "Brody Foley, TE",
       "TEAM": "TLSA",
       "RESULT": "L27-41atECU",
       "REC": "6",
       "YDS": "126",
       "YPR": "21.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Skyler Bell, WR",
-      "TEAM": "CONN",
-      "RESULT": "W38-23atBC",
-      "REC": "10",
-      "YDS": "125",
-      "YPR": "12.5",
       "TD": "1"
     }
   ]
