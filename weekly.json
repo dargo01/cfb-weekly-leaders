@@ -174,22 +174,22 @@
     },
     {
       "RK": "6",
+      "NAME": "Jordan McDonald, RB",
+      "TEAM": "BC",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "115",
+      "YPC": "5.2",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Isaac Brown, RB",
       "TEAM": "LOU",
       "RESULT": "W24-21atMIA",
       "CAR": "15",
       "YDS": "113",
       "YPC": "7.5",
-      "TD": "0"
-    },
-    {
-      "RK": "7",
-      "NAME": "Jordan McDonald, RB",
-      "TEAM": "BC",
-      "RESULT": "",
-      "CAR": "21",
-      "YDS": "112",
-      "YPC": "5.3",
       "TD": "0"
     },
     {
@@ -204,22 +204,22 @@
     },
     {
       "RK": "9",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "28",
+      "YDS": "103",
+      "YPC": "3.7",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Steve Chavez-Soto, RB",
       "TEAM": "SJSU",
       "RESULT": "L25-30atUSU",
       "CAR": "11",
       "YDS": "102",
       "YPC": "9.3",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "",
-      "CAR": "27",
-      "YDS": "100",
-      "YPC": "3.7",
       "TD": "1"
     }
   ],
