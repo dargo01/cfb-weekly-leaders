@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Brad Jackson, QB",
+      "TEAM": "TXST",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "26",
+      "YDS": "374",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "211.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Darian Mensah, QB",
       "TEAM": "DUKE",
       "RESULT": "L18-27vs.GT",
@@ -35,18 +47,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "158.9"
-    },
-    {
-      "RK": "4",
-      "NAME": "Brad Jackson, QB",
-      "TEAM": "TXST",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "24",
-      "YDS": "366",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "222.3"
     },
     {
       "RK": "5",
@@ -64,7 +64,7 @@
       "RK": "6",
       "NAME": "Julian Sayin, QB",
       "TEAM": "OSU",
-      "RESULT": "",
+      "RESULT": "W34-0atWIS",
       "COMP": "33",
       "ATT": "38",
       "YDS": "349",
@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Dylan Riley, RB",
+      "TEAM": "BOIS",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "201",
+      "YPC": "13.4",
+      "TD": "1"
+    },
+    {
+      "RK": "2",
       "NAME": "Kejon Owens, RB",
       "TEAM": "FIU",
       "RESULT": "W25-6atWKU",
@@ -133,23 +143,13 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Brandon Hood, RB",
       "TEAM": "MASS",
       "RESULT": "L21-28vs.BUF",
       "CAR": "24",
       "YDS": "179",
       "YPC": "7.5",
-      "TD": "1"
-    },
-    {
-      "RK": "3",
-      "NAME": "Dylan Riley, RB",
-      "TEAM": "BOIS",
-      "RESULT": "",
-      "CAR": "10",
-      "YDS": "163",
-      "YPC": "16.3",
       "TD": "1"
     },
     {
@@ -186,7 +186,7 @@
       "RK": "7",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
-      "RESULT": "",
+      "RESULT": "W48-21vs.NIU",
       "CAR": "22",
       "YDS": "147",
       "YPC": "6.7",
@@ -194,6 +194,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Liam Szarka, QB",
+      "TEAM": "AF",
+      "RESULT": "W24-21vs.WYO",
+      "CAR": "26",
+      "YDS": "141",
+      "YPC": "5.4",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Qua Ashley, RB",
       "TEAM": "BALL",
       "RESULT": "",
@@ -203,23 +213,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
-      "NAME": "Liam Szarka, QB",
-      "TEAM": "AF",
-      "RESULT": "",
-      "CAR": "25",
-      "YDS": "136",
-      "YPC": "5.4",
-      "TD": "1"
-    },
-    {
       "RK": "10",
-      "NAME": "Jordan Marshall, RB",
-      "TEAM": "MICH",
-      "RESULT": "W24-7vs.WASH",
-      "CAR": "25",
-      "YDS": "133",
-      "YPC": "5.3",
+      "NAME": "Robert Henry Jr., RB",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "137",
+      "YPC": "12.5",
       "TD": "1"
     }
   ],
