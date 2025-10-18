@@ -207,9 +207,9 @@
       "NAME": "Jordan McDonald, RB",
       "TEAM": "BC",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "87",
-      "YPC": "6.2",
+      "CAR": "17",
+      "YDS": "93",
+      "YPC": "5.5",
       "TD": "0"
     },
     {
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "118",
+      "YPR": "16.9",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Leland Smith, WR",
       "TEAM": "SJSU",
       "RESULT": "L25-30atUSU",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jacob De Jesus, WR",
       "TEAM": "CAL",
       "RESULT": "W21-18vs.UNC",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Kyri Shoels, WR",
       "TEAM": "SJSU",
       "RESULT": "L25-30atUSU",
@@ -305,24 +315,14 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Kobe Paysour, WR",
-      "TEAM": "UNC",
-      "RESULT": "L18-21atCAL",
-      "REC": "6",
-      "YDS": "101",
-      "YPR": "16.8",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "Braden Pegan, WR",
-      "TEAM": "USU",
-      "RESULT": "W30-25vs.SJSU",
-      "REC": "7",
-      "YDS": "93",
-      "YPR": "13.3",
-      "TD": "0"
+      "NAME": "Harold Mack, WR",
+      "TEAM": "EMU",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "101",
+      "YPR": "50.5",
+      "TD": "1"
     }
   ]
 }
