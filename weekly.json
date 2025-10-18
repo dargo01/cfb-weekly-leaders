@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "COMP": "29",
+      "ATT": "32",
+      "YDS": "295",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "188.7"
+    },
+    {
+      "RK": "10",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W45-10vs.KENT",
@@ -107,18 +119,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "210.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Tayven Jackson, QB",
-      "TEAM": "UCF",
-      "RESULT": "W45-13vs.WVU",
-      "COMP": "23",
-      "ATT": "34",
-      "YDS": "277",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "149.6"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Brandon Hood, RB",
       "TEAM": "MASS",
       "RESULT": "",
-      "CAR": "15",
-      "YDS": "161",
-      "YPC": "10.7",
+      "CAR": "23",
+      "YDS": "183",
+      "YPC": "8.0",
       "TD": "1"
     },
     {
@@ -226,6 +226,16 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Chris Dawn Jr., WR",
+      "TEAM": "TXST",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "180",
+      "YPR": "36.0",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Harold Mack, WR",
       "TEAM": "EMU",
       "RESULT": "L30-44atM-OH",
@@ -235,23 +245,13 @@
       "TD": "2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Cooper Barkate, WR",
       "TEAM": "DUKE",
       "RESULT": "L18-27vs.GT",
       "REC": "13",
       "YDS": "172",
       "YPR": "13.2",
-      "TD": "0"
-    },
-    {
-      "RK": "3",
-      "NAME": "Chris Dawn Jr., WR",
-      "TEAM": "TXST",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "160",
-      "YPR": "40.0",
       "TD": "0"
     },
     {
