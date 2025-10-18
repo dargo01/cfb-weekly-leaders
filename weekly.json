@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Brad Jackson, QB",
+      "TEAM": "TXST",
+      "RESULT": "L37-40atMRSH",
+      "COMP": "26",
+      "ATT": "38",
+      "YDS": "444",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "178.7"
+    },
+    {
+      "RK": "2",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "L25-38atJXST",
@@ -11,18 +23,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "141.5"
-    },
-    {
-      "RK": "2",
-      "NAME": "Brad Jackson, QB",
-      "TEAM": "TXST",
-      "RESULT": "L37-40atMRSH",
-      "COMP": "22",
-      "ATT": "30",
-      "YDS": "415",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "204.9"
     },
     {
       "RK": "3",
@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Sawyer Robertson, QB",
-      "TEAM": "BAY",
-      "RESULT": "L36-42atTCU",
-      "COMP": "25",
-      "ATT": "52",
-      "YDS": "318",
-      "TD": "2",
-      "INT": "3",
-      "RAT": "100.6"
+      "NAME": "Sam Leavitt, QB",
+      "TEAM": "ASU",
+      "RESULT": "",
+      "COMP": "28",
+      "ATT": "47",
+      "YDS": "319",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "123.6"
     }
   ],
   "Rushing Leaders": [
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Jadan Baugh, RB",
+      "TEAM": "FLA",
+      "RESULT": "",
+      "CAR": "23",
+      "YDS": "150",
+      "YPC": "6.5",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Darius Taylor, RB",
       "TEAM": "MINN",
       "RESULT": "W24-6vs.NEB",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W48-21vs.NIU",
@@ -193,23 +203,13 @@
       "TD": "3"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Liam Szarka, QB",
       "TEAM": "AF",
       "RESULT": "W24-21vs.WYO",
       "CAR": "26",
       "YDS": "141",
       "YPC": "5.4",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Jadan Baugh, RB",
-      "TEAM": "FLA",
-      "RESULT": "",
-      "CAR": "21",
-      "YDS": "141",
-      "YPC": "6.7",
       "TD": "1"
     },
     {
@@ -258,7 +258,7 @@
       "RK": "",
       "NAME": "Iverson Hooks, WR",
       "TEAM": "UAB",
-      "RESULT": "",
+      "RESULT": "W31-24vs.MEM",
       "REC": "11",
       "YDS": "172",
       "YPR": "15.6",
@@ -269,9 +269,9 @@
       "NAME": "Beau Sparks, WR",
       "TEAM": "TXST",
       "RESULT": "L37-40atMRSH",
-      "REC": "8",
-      "YDS": "162",
-      "YPR": "20.3",
+      "REC": "9",
+      "YDS": "168",
+      "YPR": "18.7",
       "TD": "1"
     },
     {
