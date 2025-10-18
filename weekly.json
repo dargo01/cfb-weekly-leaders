@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Sam Leavitt, QB",
-      "TEAM": "ASU",
-      "RESULT": "",
-      "COMP": "28",
-      "ATT": "47",
-      "YDS": "319",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "123.6"
+      "NAME": "Blake Shapen, QB",
+      "TEAM": "MSST",
+      "RESULT": "L21-23atFLA",
+      "COMP": "24",
+      "ATT": "36",
+      "YDS": "324",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "136.7"
     }
   ],
   "Rushing Leaders": [
@@ -176,7 +176,7 @@
       "RK": "6",
       "NAME": "Jadan Baugh, RB",
       "TEAM": "FLA",
-      "RESULT": "",
+      "RESULT": "W23-21vs.MSST",
       "CAR": "23",
       "YDS": "150",
       "YPC": "6.5",
@@ -213,13 +213,13 @@
       "TD": "1"
     },
     {
-      "RK": "10",
+      "RK": "",
       "NAME": "Qua Ashley, RB",
       "TEAM": "BALL",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "140",
-      "YPC": "7.8",
+      "CAR": "19",
+      "YDS": "141",
+      "YPC": "7.4",
       "TD": "1"
     }
   ],
@@ -278,7 +278,7 @@
       "RK": "6",
       "NAME": "Brenen Thompson, WR",
       "TEAM": "MSST",
-      "RESULT": "",
+      "RESULT": "L21-23atFLA",
       "REC": "7",
       "YDS": "155",
       "YPR": "22.1",
