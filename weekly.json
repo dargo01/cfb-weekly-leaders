@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Jeremiyah Love, RB",
+      "TEAM": "ND",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "171",
+      "YPC": "11.4",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L17-24atTULN",
@@ -163,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Alonza Barnett III, QB",
       "TEAM": "JMU",
       "RESULT": "W63-27vs.ODU",
@@ -173,7 +183,7 @@
       "TD": "4"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jadan Baugh, RB",
       "TEAM": "FLA",
       "RESULT": "W23-21vs.MSST",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Darius Taylor, RB",
       "TEAM": "MINN",
       "RESULT": "W24-6vs.NEB",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W48-21vs.NIU",
@@ -203,24 +213,14 @@
       "TD": "3"
     },
     {
-      "RK": "9",
-      "NAME": "Liam Szarka, QB",
-      "TEAM": "AF",
-      "RESULT": "W24-21vs.WYO",
-      "CAR": "26",
-      "YDS": "141",
-      "YPC": "5.4",
-      "TD": "1"
-    },
-    {
       "RK": "",
-      "NAME": "Qua Ashley, RB",
-      "TEAM": "BALL",
-      "RESULT": "",
-      "CAR": "19",
-      "YDS": "141",
-      "YPC": "7.4",
-      "TD": "1"
+      "NAME": "Mike Washington Jr., RB",
+      "TEAM": "ARK",
+      "RESULT": "L42-45vs.TA&M",
+      "CAR": "16",
+      "YDS": "147",
+      "YPC": "9.2",
+      "TD": "0"
     }
   ],
   "Receiving Leaders": [
