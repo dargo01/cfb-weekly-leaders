@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Jayden Maiava, QB",
+      "TEAM": "USC",
+      "RESULT": "L24-34atND",
+      "COMP": "22",
+      "ATT": "42",
+      "YDS": "328",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "124.2"
+    },
+    {
+      "RK": "10",
       "NAME": "Bryson Barnes, QB",
       "TEAM": "USU",
       "RESULT": "W30-25vs.SJSU",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "169.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "Blake Shapen, QB",
-      "TEAM": "MSST",
-      "RESULT": "L21-23atFLA",
-      "COMP": "24",
-      "ATT": "36",
-      "YDS": "324",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "136.7"
     }
   ],
   "Rushing Leaders": [
@@ -126,7 +126,7 @@
       "RK": "1",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
-      "RESULT": "",
+      "RESULT": "W34-24vs.USC",
       "CAR": "24",
       "YDS": "228",
       "YPC": "9.5",
@@ -166,7 +166,7 @@
       "RK": "5",
       "NAME": "Rodney Fields Jr., RB",
       "TEAM": "OKST",
-      "RESULT": "",
+      "RESULT": "L17-49vs.CIN",
       "CAR": "21",
       "YDS": "163",
       "YPC": "7.8",
