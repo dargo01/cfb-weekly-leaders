@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Anthony Hankerson, RB",
+      "TEAM": "ORST",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "189",
+      "YPC": "8.6",
+      "TD": "4"
+    },
+    {
+      "RK": "5",
       "NAME": "Brandon Hood, RB",
       "TEAM": "MASS",
       "RESULT": "L21-28vs.BUF",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Rodney Fields Jr., RB",
       "TEAM": "OKST",
       "RESULT": "L17-49vs.CIN",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L17-24atTULN",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Alonza Barnett III, QB",
       "TEAM": "JMU",
       "RESULT": "W63-27vs.ODU",
@@ -193,7 +203,7 @@
       "TD": "4"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jadan Baugh, RB",
       "TEAM": "FLA",
       "RESULT": "W23-21vs.MSST",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Darius Taylor, RB",
       "TEAM": "MINN",
       "RESULT": "W24-6vs.NEB",
@@ -211,16 +221,6 @@
       "YDS": "148",
       "YPC": "6.2",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sieh Bangura, RB",
-      "TEAM": "OHIO",
-      "RESULT": "W48-21vs.NIU",
-      "CAR": "22",
-      "YDS": "147",
-      "YPC": "6.7",
-      "TD": "3"
     }
   ],
   "Receiving Leaders": [
