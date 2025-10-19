@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Anthony Hankerson, RB",
+      "TEAM": "ORST",
+      "RESULT": "W45-13vs.LAF",
+      "CAR": "25",
+      "YDS": "204",
+      "YPC": "8.2",
+      "TD": "4"
+    },
+    {
+      "RK": "3",
       "NAME": "Dylan Riley, RB",
       "TEAM": "BOIS",
       "RESULT": "W56-31vs.UNLV",
@@ -143,7 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Kejon Owens, RB",
       "TEAM": "FIU",
       "RESULT": "W25-6atWKU",
@@ -151,16 +161,6 @@
       "YDS": "195",
       "YPC": "8.9",
       "TD": "1"
-    },
-    {
-      "RK": "4",
-      "NAME": "Anthony Hankerson, RB",
-      "TEAM": "ORST",
-      "RESULT": "",
-      "CAR": "22",
-      "YDS": "189",
-      "YPC": "8.6",
-      "TD": "4"
     },
     {
       "RK": "5",
