@@ -52,7 +52,7 @@
       "RK": "5",
       "NAME": "Bishop Davenport, QB",
       "TEAM": "USA",
-      "RESULT": "",
+      "RESULT": "W38-31atGAST",
       "COMP": "16",
       "ATT": "22",
       "YDS": "280",
@@ -76,13 +76,13 @@
       "RK": "7",
       "NAME": "Cameran Brown, QB",
       "TEAM": "GAST",
-      "RESULT": "",
+      "RESULT": "L31-38vs.USA",
       "COMP": "19",
-      "ATT": "30",
+      "ATT": "33",
       "YDS": "241",
       "TD": "4",
-      "INT": "0",
-      "RAT": "174.8"
+      "INT": "1",
+      "RAT": "152.9"
     },
     {
       "RK": "8",
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Kentrel Bullock, RB",
+      "TEAM": "USA",
+      "RESULT": "W38-31atGAST",
+      "CAR": "20",
+      "YDS": "113",
+      "YPC": "5.7",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Shomari Lawrence, RB",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -143,20 +153,10 @@
       "TD": "0"
     },
     {
-      "RK": "3",
-      "NAME": "Kentrel Bullock, RB",
-      "TEAM": "USA",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "80",
-      "YPC": "4.4",
-      "TD": "1"
-    },
-    {
       "RK": "4",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
-      "RESULT": "",
+      "RESULT": "L31-38vs.USA",
       "CAR": "11",
       "YDS": "78",
       "YPC": "7.1",
@@ -194,6 +194,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Cameran Brown, QB",
+      "TEAM": "GAST",
+      "RESULT": "L31-38vs.USA",
+      "CAR": "10",
+      "YDS": "67",
+      "YPC": "6.7",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Chase Belcher, RB",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -203,20 +213,10 @@
       "TD": "1"
     },
     {
-      "RK": "9",
-      "NAME": "Cameran Brown, QB",
-      "TEAM": "GAST",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "62",
-      "YPC": "6.9",
-      "TD": "0"
-    },
-    {
       "RK": "10",
       "NAME": "Keenan Phillips, RB",
       "TEAM": "USA",
-      "RESULT": "",
+      "RESULT": "W38-31atGAST",
       "CAR": "14",
       "YDS": "60",
       "YPC": "4.3",
@@ -228,7 +228,7 @@
       "RK": "1",
       "NAME": "Jeremy Scott, WR",
       "TEAM": "USA",
-      "RESULT": "",
+      "RESULT": "W38-31atGAST",
       "REC": "3",
       "YDS": "121",
       "YPR": "40.3",
@@ -238,7 +238,7 @@
       "RK": "2",
       "NAME": "Ted Hurst, WR",
       "TEAM": "GAST",
-      "RESULT": "",
+      "RESULT": "L31-38vs.USA",
       "REC": "5",
       "YDS": "110",
       "YPR": "22.0",
@@ -268,7 +268,7 @@
       "RK": "5",
       "NAME": "Devin Voisin, WR",
       "TEAM": "USA",
-      "RESULT": "",
+      "RESULT": "W38-31atGAST",
       "REC": "7",
       "YDS": "98",
       "YPR": "14.0",
