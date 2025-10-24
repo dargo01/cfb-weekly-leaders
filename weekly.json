@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Bishop Davenport, QB",
+      "TEAM": "USA",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "22",
+      "YDS": "280",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "209.6"
+    },
+    {
+      "RK": "6",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "W31-28vs.MTSU",
@@ -61,19 +73,19 @@
       "RAT": "150.9"
     },
     {
-      "RK": "6",
-      "NAME": "Bishop Davenport, QB",
-      "TEAM": "USA",
+      "RK": "7",
+      "NAME": "Cameran Brown, QB",
+      "TEAM": "GAST",
       "RESULT": "",
-      "COMP": "15",
-      "ATT": "19",
+      "COMP": "19",
+      "ATT": "30",
       "YDS": "241",
-      "TD": "2",
+      "TD": "4",
       "INT": "0",
-      "RAT": "220.2"
+      "RAT": "174.8"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
       "RESULT": "W28-27atLT",
@@ -85,7 +97,7 @@
       "RAT": "121.7"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Logan Fife, QB",
       "TEAM": "NMSU",
       "RESULT": "L17-24vs.MOST",
@@ -97,7 +109,7 @@
       "RAT": "102.0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Amari Odom, QB",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "203.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cameran Brown, QB",
-      "TEAM": "GAST",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "20",
-      "YDS": "192",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "173.6"
     }
   ],
   "Rushing Leaders": [
@@ -144,6 +144,26 @@
     },
     {
       "RK": "3",
+      "NAME": "Kentrel Bullock, RB",
+      "TEAM": "USA",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "80",
+      "YPC": "4.4",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
+      "NAME": "Jordon Simmons, RB",
+      "TEAM": "GAST",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "78",
+      "YPC": "7.1",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
       "RESULT": "W28-27atLT",
@@ -153,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Alexander Diggs, RB",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -163,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Jekail Middlebrook, RB",
       "TEAM": "MTSU",
       "RESULT": "L28-31atDEL",
@@ -173,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Chase Belcher, RB",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -183,59 +203,49 @@
       "TD": "1"
     },
     {
-      "RK": "7",
-      "NAME": "Kentrel Bullock, RB",
-      "TEAM": "USA",
+      "RK": "9",
+      "NAME": "Cameran Brown, QB",
+      "TEAM": "GAST",
       "RESULT": "",
-      "CAR": "13",
-      "YDS": "61",
-      "YPC": "4.7",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jo Silver, RB",
-      "TEAM": "DEL",
-      "RESULT": "W31-28vs.MTSU",
-      "CAR": "14",
-      "YDS": "51",
-      "YPC": "3.6",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Ramone Green Jr., RB",
-      "TEAM": "MOST",
-      "RESULT": "W24-17atNMSU",
-      "CAR": "6",
-      "YDS": "51",
-      "YPC": "8.5",
+      "CAR": "9",
+      "YDS": "62",
+      "YPC": "6.9",
       "TD": "0"
     },
     {
       "RK": "10",
-      "NAME": "Kadarius Calloway, RB",
-      "TEAM": "NMSU",
-      "RESULT": "L17-24vs.MOST",
-      "CAR": "10",
-      "YDS": "50",
-      "YPC": "5.0",
+      "NAME": "Keenan Phillips, RB",
+      "TEAM": "USA",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "60",
+      "YPC": "4.3",
       "TD": "0"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
-      "NAME": "Ted Hurst, WR",
-      "TEAM": "GAST",
+      "NAME": "Jeremy Scott, WR",
+      "TEAM": "USA",
       "RESULT": "",
-      "REC": "4",
-      "YDS": "105",
-      "YPR": "26.3",
+      "REC": "3",
+      "YDS": "121",
+      "YPR": "40.3",
       "TD": "1"
     },
     {
       "RK": "2",
+      "NAME": "Ted Hurst, WR",
+      "TEAM": "GAST",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "110",
+      "YPR": "22.0",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Marlion Jackson, WR",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -245,7 +255,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Ronnel Johnson, WR",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Devin Voisin, WR",
       "TEAM": "USA",
       "RESULT": "",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Gabriel Benyard, WR",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -285,23 +295,13 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Donovan Faupel, WR",
       "TEAM": "NMSU",
       "RESULT": "L17-24vs.MOST",
       "REC": "10",
       "YDS": "84",
       "YPR": "8.4",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jeremy Scott, WR",
-      "TEAM": "USA",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "82",
-      "YPR": "41.0",
       "TD": "1"
     },
     {
