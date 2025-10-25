@@ -204,6 +204,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "71",
+      "YPC": "8.9",
+      "TD": "2"
+    },
+    {
+      "RK": "",
       "NAME": "Kendrick Raphael, RB",
       "TEAM": "CAL",
       "RESULT": "L34-42atVT",
@@ -211,16 +221,6 @@
       "YDS": "71",
       "YPC": "3.6",
       "TD": "3"
-    },
-    {
-      "RK": "",
-      "NAME": "Kiefer Sibley, RB",
-      "TEAM": "UNT",
-      "RESULT": "W54-20atCLT",
-      "CAR": "7",
-      "YDS": "71",
-      "YPC": "10.1",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Isaiah Sategna III, WR",
+      "TEAM": "OU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "120",
+      "YPR": "30.0",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "W54-20atCLT",
@@ -265,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Landon Sides, WR",
       "TEAM": "UNT",
       "RESULT": "W54-20atCLT",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Ted Hurst, WR",
       "TEAM": "GAST",
       "RESULT": "L31-38vs.USA",
@@ -285,7 +295,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Marlion Jackson, WR",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Ronnel Johnson, WR",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Devin Voisin, WR",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
       "REC": "7",
       "YDS": "98",
       "YPR": "14.0",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Gabriel Benyard, WR",
-      "TEAM": "KENN",
-      "RESULT": "W45-26atFIU",
-      "REC": "5",
-      "YDS": "97",
-      "YPR": "19.4",
       "TD": "0"
     }
   ]
