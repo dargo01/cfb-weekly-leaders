@@ -52,7 +52,7 @@
       "RK": "5",
       "NAME": "Trinidad Chambliss, QB",
       "TEAM": "MISS",
-      "RESULT": "",
+      "RESULT": "W34-26atOU",
       "COMP": "24",
       "ATT": "44",
       "YDS": "314",
@@ -147,9 +147,9 @@
       "NAME": "Jeremiah Cobb, RB",
       "TEAM": "AUB",
       "RESULT": "",
-      "CAR": "23",
-      "YDS": "146",
-      "YPC": "6.3",
+      "CAR": "28",
+      "YDS": "153",
+      "YPC": "5.5",
       "TD": "0"
     },
     {
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "121",
+      "YPC": "5.8",
+      "TD": "2"
+    },
+    {
+      "RK": "8",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "W27-24atPUR",
@@ -191,16 +201,6 @@
       "YDS": "116",
       "YPC": "4.0",
       "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "CAR": "20",
-      "YDS": "115",
-      "YPC": "5.8",
-      "TD": "2"
     },
     {
       "RK": "9",
@@ -216,7 +216,7 @@
       "RK": "10",
       "NAME": "Xavier Robinson, RB",
       "TEAM": "OU",
-      "RESULT": "",
+      "RESULT": "L26-34vs.MISS",
       "CAR": "9",
       "YDS": "109",
       "YPC": "12.1",
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Isaiah Sategna III, WR",
+      "TEAM": "OU",
+      "RESULT": "L26-34vs.MISS",
+      "REC": "6",
+      "YDS": "131",
+      "YPR": "21.8",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Rohan Jones, TE",
       "TEAM": "ARK",
       "RESULT": "",
@@ -273,16 +283,6 @@
       "YDS": "127",
       "YPR": "42.3",
       "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Isaiah Sategna III, WR",
-      "TEAM": "OU",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "122",
-      "YPR": "24.4",
-      "TD": "1"
     },
     {
       "RK": "7",
