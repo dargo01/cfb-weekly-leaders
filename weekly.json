@@ -49,22 +49,22 @@
       "RAT": "185.9"
     },
     {
-      "RK": "5",
+      "RK": "",
       "NAME": "Trinidad Chambliss, QB",
       "TEAM": "MISS",
       "RESULT": "W34-26atOU",
       "COMP": "24",
       "ATT": "44",
-      "YDS": "314",
+      "YDS": "315",
       "TD": "1",
       "INT": "0",
-      "RAT": "122.0"
+      "RAT": "122.2"
     },
     {
       "RK": "6",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
-      "RESULT": "",
+      "RESULT": "W34-31vs.USF",
       "COMP": "27",
       "ATT": "44",
       "YDS": "307",
@@ -76,7 +76,7 @@
       "RK": "7",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
-      "RESULT": "",
+      "RESULT": "W24-21vs.APP",
       "COMP": "21",
       "ATT": "33",
       "YDS": "305",
@@ -146,7 +146,7 @@
       "RK": "3",
       "NAME": "Jeremiah Cobb, RB",
       "TEAM": "AUB",
-      "RESULT": "",
+      "RESULT": "W33-24atARK",
       "CAR": "28",
       "YDS": "153",
       "YPC": "5.5",
@@ -186,7 +186,7 @@
       "RK": "7",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
-      "RESULT": "",
+      "RESULT": "L31-34atMEM",
       "CAR": "21",
       "YDS": "121",
       "YPC": "5.8",
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Nik McMillan, WR",
+      "TEAM": "BUF",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "177",
+      "YPR": "22.1",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Jayce Brown, WR",
       "TEAM": "KSU",
       "RESULT": "W42-17atKU",
@@ -265,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Isaiah Sategna III, WR",
       "TEAM": "OU",
       "RESULT": "L26-34vs.MISS",
@@ -275,17 +285,27 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Skyler Bell, WR",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "128",
+      "YPR": "32.0",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Rohan Jones, TE",
       "TEAM": "ARK",
-      "RESULT": "",
+      "RESULT": "L24-33vs.AUB",
       "REC": "3",
       "YDS": "127",
       "YPR": "42.3",
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Nick Devereaux, WR",
       "TEAM": "EMU",
       "RESULT": "L21-28vs.OHIO",
@@ -303,26 +323,6 @@
       "YDS": "121",
       "YPR": "40.3",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Cameron Dorner, WR",
-      "TEAM": "UNT",
-      "RESULT": "W54-20atCLT",
-      "REC": "7",
-      "YDS": "117",
-      "YPR": "16.7",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Landon Sides, WR",
-      "TEAM": "UNT",
-      "RESULT": "W54-20atCLT",
-      "REC": "5",
-      "YDS": "114",
-      "YPR": "22.8",
-      "TD": "0"
     }
   ]
 }
