@@ -22,10 +22,22 @@
       "YDS": "423",
       "TD": "3",
       "INT": "0",
-      "RAT": "148.4"
+      "RAT": "153.0"
     },
     {
       "RK": "3",
+      "NAME": "Blake Shapen, QB",
+      "TEAM": "MSST",
+      "RESULT": "",
+      "COMP": "26",
+      "ATT": "39",
+      "YDS": "381",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "182.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Athan Kaliakmanis, QB",
       "TEAM": "RUTG",
       "RESULT": "W27-24atPUR",
@@ -35,18 +47,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "194.3"
-    },
-    {
-      "RK": "4",
-      "NAME": "Blake Shapen, QB",
-      "TEAM": "MSST",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "35",
-      "YDS": "356",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "188.9"
     },
     {
       "RK": "5",
