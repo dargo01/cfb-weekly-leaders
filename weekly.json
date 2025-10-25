@@ -17,12 +17,12 @@
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "",
-      "COMP": "26",
-      "ATT": "46",
-      "YDS": "402",
+      "COMP": "28",
+      "ATT": "48",
+      "YDS": "423",
       "TD": "3",
       "INT": "0",
-      "RAT": "146.9"
+      "RAT": "148.4"
     },
     {
       "RK": "3",
@@ -97,7 +97,19 @@
       "RAT": "135.0"
     },
     {
-      "RK": "9",
+      "RK": "",
+      "NAME": "Bear Bachmeier, QB",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "35",
+      "YDS": "307",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "155.4"
+    },
+    {
+      "RK": "10",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
       "RESULT": "W24-21vs.APP",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "165.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Haynes King, QB",
-      "TEAM": "GT",
-      "RESULT": "W41-16vs.SYR",
-      "COMP": "25",
-      "ATT": "31",
-      "YDS": "304",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "195.0"
     }
   ],
   "Rushing Leaders": [
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Parker Kingston, WR",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "133",
+      "YPR": "19.0",
+      "TD": "2"
+    },
+    {
+      "RK": "9",
       "NAME": "Isaiah Sategna III, WR",
       "TEAM": "OU",
       "RESULT": "L26-34vs.MISS",
@@ -303,16 +313,6 @@
       "YDS": "131",
       "YPR": "21.8",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Parker Kingston, WR",
-      "TEAM": "BYU",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "130",
-      "YPR": "21.7",
-      "TD": "2"
     },
     {
       "RK": "10",
