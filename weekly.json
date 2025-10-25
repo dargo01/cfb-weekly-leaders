@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Athan Kaliakmanis, QB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "23",
+      "YDS": "303",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "194.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Keyone Jenkins, QB",
       "TEAM": "FIU",
       "RESULT": "L26-45vs.KENN",
@@ -37,7 +49,7 @@
       "RAT": "139.3"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Grayson Loftis, QB",
       "TEAM": "CLT",
       "RESULT": "L20-54vs.UNT",
@@ -49,7 +61,31 @@
       "RAT": "142.7"
     },
     {
-      "RK": "5",
+      "RK": "6",
+      "NAME": "Parker Navarro, QB",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "24",
+      "YDS": "294",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "197.1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Haynes King, QB",
+      "TEAM": "GT",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "28",
+      "YDS": "287",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "203.6"
+    },
+    {
+      "RK": "8",
       "NAME": "Jaron-Keawe Sagapolutele, QB",
       "TEAM": "CAL",
       "RESULT": "L34-42atVT",
@@ -61,7 +97,7 @@
       "RAT": "131.6"
     },
     {
-      "RK": "6",
+      "RK": "9",
       "NAME": "Jacob Clark, QB",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -73,7 +109,7 @@
       "RAT": "131.1"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L28-31atDEL",
@@ -83,42 +119,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "130.2"
-    },
-    {
-      "RK": "8",
-      "NAME": "Bishop Davenport, QB",
-      "TEAM": "USA",
-      "RESULT": "W38-31atGAST",
-      "COMP": "16",
-      "ATT": "22",
-      "YDS": "280",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "209.6"
-    },
-    {
-      "RK": "9",
-      "NAME": "Nick Minicucci, QB",
-      "TEAM": "DEL",
-      "RESULT": "W31-28vs.MTSU",
-      "COMP": "27",
-      "ATT": "42",
-      "YDS": "276",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "150.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "Haynes King, QB",
-      "TEAM": "GT",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "26",
-      "YDS": "247",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "198.6"
     }
   ],
   "Rushing Leaders": [
@@ -154,6 +154,26 @@
     },
     {
       "RK": "4",
+      "NAME": "Caleb Komolafe, RB",
+      "TEAM": "NU",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "123",
+      "YPC": "7.7",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
+      "NAME": "Jeremiah Cobb, RB",
+      "TEAM": "AUB",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "115",
+      "YPC": "6.8",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Kentrel Bullock, RB",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
@@ -163,7 +183,27 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "7",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "100",
+      "YPC": "5.9",
+      "TD": "2"
+    },
+    {
+      "RK": "8",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "CAR": "23",
+      "YDS": "99",
+      "YPC": "4.3",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Shomari Lawrence, RB",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -173,59 +213,29 @@
       "TD": "0"
     },
     {
-      "RK": "6",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "CAR": "21",
-      "YDS": "93",
-      "YPC": "4.4",
-      "TD": "1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Austyn Dendy, RB",
-      "TEAM": "BGSU",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "87",
-      "YPC": "4.8",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "84",
-      "YPC": "5.6",
-      "TD": "2"
-    },
-    {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
       "RESULT": "",
-      "CAR": "16",
-      "YDS": "83",
-      "YPC": "5.2",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Roman Hemby, RB",
-      "TEAM": "IU",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "81",
+      "CAR": "20",
+      "YDS": "95",
       "YPC": "4.8",
-      "TD": "2"
+      "TD": "1"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "KJ Duff, WR",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "209",
+      "YPR": "41.8",
+      "TD": "1"
+    },
+    {
+      "RK": "2",
       "NAME": "Wyatt Young, WR",
       "TEAM": "UNT",
       "RESULT": "W54-20atCLT",
@@ -235,7 +245,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Javen Nicholas, WR",
       "TEAM": "CLT",
       "RESULT": "L20-54vs.UNT",
@@ -245,17 +255,17 @@
       "TD": "2"
     },
     {
-      "RK": "3",
-      "NAME": "KJ Duff, WR",
-      "TEAM": "RUTG",
+      "RK": "4",
+      "NAME": "Jayce Brown, WR",
+      "TEAM": "KSU",
       "RESULT": "",
-      "REC": "3",
-      "YDS": "130",
-      "YPR": "43.3",
+      "REC": "4",
+      "YDS": "160",
+      "YPR": "40.0",
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Isaiah Sategna III, WR",
       "TEAM": "OU",
       "RESULT": "",
@@ -265,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jeremy Scott, WR",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "W54-20atCLT",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Landon Sides, WR",
       "TEAM": "UNT",
       "RESULT": "W54-20atCLT",
@@ -295,7 +305,17 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Chase Hendricks, WR",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "112",
+      "YPR": "11.2",
+      "TD": "2"
+    },
+    {
+      "RK": "10",
       "NAME": "Ted Hurst, WR",
       "TEAM": "GAST",
       "RESULT": "L31-38vs.USA",
@@ -303,26 +323,6 @@
       "YDS": "110",
       "YPR": "22.0",
       "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Marlion Jackson, WR",
-      "TEAM": "LT",
-      "RESULT": "L27-28vs.WKU",
-      "REC": "6",
-      "YDS": "103",
-      "YPR": "17.2",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Ronnel Johnson, WR",
-      "TEAM": "MOST",
-      "RESULT": "W24-17atNMSU",
-      "REC": "6",
-      "YDS": "99",
-      "YPR": "16.5",
-      "TD": "1"
     }
   ]
 }
