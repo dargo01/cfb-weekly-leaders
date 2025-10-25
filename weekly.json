@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "33",
+      "ATT": "45",
+      "YDS": "517",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "187.4"
+    },
+    {
+      "RK": "2",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -13,7 +25,7 @@
       "RAT": "135.2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Keyone Jenkins, QB",
       "TEAM": "FIU",
       "RESULT": "L26-45vs.KENN",
@@ -25,7 +37,19 @@
       "RAT": "139.3"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Grayson Loftis, QB",
+      "TEAM": "CLT",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "32",
+      "YDS": "288",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "152.5"
+    },
+    {
+      "RK": "5",
       "NAME": "Jacob Clark, QB",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -37,7 +61,7 @@
       "RAT": "131.1"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L28-31atDEL",
@@ -49,7 +73,7 @@
       "RAT": "130.2"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Bishop Davenport, QB",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
@@ -61,7 +85,7 @@
       "RAT": "209.6"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "W31-28vs.MTSU",
@@ -73,7 +97,7 @@
       "RAT": "150.9"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Cameran Brown, QB",
       "TEAM": "GAST",
       "RESULT": "L31-38vs.USA",
@@ -85,7 +109,7 @@
       "RAT": "152.9"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
       "RESULT": "W28-27atLT",
@@ -95,30 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "121.7"
-    },
-    {
-      "RK": "9",
-      "NAME": "Logan Fife, QB",
-      "TEAM": "NMSU",
-      "RESULT": "L17-24vs.MOST",
-      "COMP": "22",
-      "ATT": "34",
-      "YDS": "207",
-      "TD": "1",
-      "INT": "4",
-      "RAT": "102.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Amari Odom, QB",
-      "TEAM": "KENN",
-      "RESULT": "W45-26atFIU",
-      "COMP": "10",
-      "ATT": "15",
-      "YDS": "205",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "203.5"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Marcellous Hawkins, RB",
+      "TEAM": "VT",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "117",
+      "YPC": "8.4",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Kentrel Bullock, RB",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
@@ -143,7 +153,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Shomari Lawrence, RB",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -153,7 +163,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "L31-38vs.USA",
@@ -163,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
       "RESULT": "W28-27atLT",
@@ -173,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Alexander Diggs, RB",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jekail Middlebrook, RB",
       "TEAM": "MTSU",
       "RESULT": "L28-31atDEL",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Cameran Brown, QB",
       "TEAM": "GAST",
       "RESULT": "L31-38vs.USA",
@@ -203,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Chase Belcher, RB",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -211,16 +221,6 @@
       "YDS": "65",
       "YPC": "5.4",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Keenan Phillips, RB",
-      "TEAM": "USA",
-      "RESULT": "W38-31atGAST",
-      "CAR": "14",
-      "YDS": "60",
-      "YPC": "4.3",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -229,9 +229,9 @@
       "NAME": "Javen Nicholas, WR",
       "TEAM": "CLT",
       "RESULT": "",
-      "REC": "4",
-      "YDS": "125",
-      "YPR": "31.3",
+      "REC": "7",
+      "YDS": "187",
+      "YPR": "26.7",
       "TD": "2"
     },
     {
@@ -246,6 +246,36 @@
     },
     {
       "RK": "3",
+      "NAME": "Wyatt Young, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "120",
+      "YPR": "15.0",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
+      "NAME": "Cameron Dorner, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "117",
+      "YPR": "16.7",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
+      "NAME": "Landon Sides, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "114",
+      "YPR": "22.8",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Ted Hurst, WR",
       "TEAM": "GAST",
       "RESULT": "L31-38vs.USA",
@@ -255,7 +285,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "7",
       "NAME": "Marlion Jackson, WR",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -265,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "8",
       "NAME": "Ronnel Johnson, WR",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -275,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "9",
       "NAME": "Devin Voisin, WR",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
@@ -285,43 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Gabriel Benyard, WR",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
       "REC": "5",
       "YDS": "97",
       "YPR": "19.4",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Christian Moss, WR",
-      "TEAM": "KENN",
-      "RESULT": "W45-26atFIU",
-      "REC": "2",
-      "YDS": "93",
-      "YPR": "46.5",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Donovan Faupel, WR",
-      "TEAM": "NMSU",
-      "RESULT": "L17-24vs.MOST",
-      "REC": "10",
-      "YDS": "84",
-      "YPR": "8.4",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "K.D. Hutchinson, WR",
-      "TEAM": "WKU",
-      "RESULT": "W28-27atLT",
-      "REC": "6",
-      "YDS": "77",
-      "YPR": "12.8",
       "TD": "0"
     }
   ]
