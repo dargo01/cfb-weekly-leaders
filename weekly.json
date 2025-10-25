@@ -62,18 +62,6 @@
     },
     {
       "RK": "6",
-      "NAME": "Colton Joseph, QB",
-      "TEAM": "ODU",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "32",
-      "YDS": "305",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "170.4"
-    },
-    {
-      "RK": "7",
       "NAME": "Haynes King, QB",
       "TEAM": "GT",
       "RESULT": "",
@@ -85,7 +73,7 @@
       "RAT": "195.0"
     },
     {
-      "RK": "8",
+      "RK": "7",
       "NAME": "Keyone Jenkins, QB",
       "TEAM": "FIU",
       "RESULT": "L26-45vs.KENN",
@@ -97,7 +85,7 @@
       "RAT": "139.3"
     },
     {
-      "RK": "9",
+      "RK": "8",
       "NAME": "Grayson Loftis, QB",
       "TEAM": "CLT",
       "RESULT": "L20-54vs.UNT",
@@ -109,7 +97,7 @@
       "RAT": "142.7"
     },
     {
-      "RK": "10",
+      "RK": "9",
       "NAME": "Jaron-Keawe Sagapolutele, QB",
       "TEAM": "CAL",
       "RESULT": "L34-42atVT",
@@ -119,6 +107,18 @@
       "TD": "1",
       "INT": "0",
       "RAT": "131.6"
+    },
+    {
+      "RK": "10",
+      "NAME": "Jacob Clark, QB",
+      "TEAM": "MOST",
+      "RESULT": "W24-17atNMSU",
+      "COMP": "28",
+      "ATT": "44",
+      "YDS": "283",
+      "TD": "3",
+      "INT": "2",
+      "RAT": "131.1"
     }
   ],
   "Rushing Leaders": [
