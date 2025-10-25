@@ -41,15 +41,27 @@
       "NAME": "Blake Shapen, QB",
       "TEAM": "MSST",
       "RESULT": "",
-      "COMP": "22",
-      "ATT": "34",
-      "YDS": "351",
+      "COMP": "23",
+      "ATT": "35",
+      "YDS": "356",
       "TD": "4",
       "INT": "0",
-      "RAT": "190.3"
+      "RAT": "188.9"
     },
     {
       "RK": "5",
+      "NAME": "Arch Manning, QB",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "COMP": "29",
+      "ATT": "46",
+      "YDS": "346",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "143.4"
+    },
+    {
+      "RK": "6",
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "L34-37atRICE",
@@ -61,7 +73,7 @@
       "RAT": "147.5"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -71,18 +83,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "135.2"
-    },
-    {
-      "RK": "7",
-      "NAME": "Arch Manning, QB",
-      "TEAM": "TEX",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "41",
-      "YDS": "317",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "150.1"
     },
     {
       "RK": "8",
