@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Devin Mockobee, RB",
+      "TEAM": "PUR",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "77",
+      "YPC": "7.7",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Herschel Turner, RB",
       "TEAM": "NEV",
       "RESULT": "L3-24vs.BOIS",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "",
@@ -203,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
       "RESULT": "W28-27atLT",
@@ -211,16 +221,6 @@
       "YDS": "73",
       "YPC": "6.1",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kendrick Raphael, RB",
-      "TEAM": "CAL",
-      "RESULT": "L34-42atVT",
-      "CAR": "20",
-      "YDS": "71",
-      "YPC": "3.6",
-      "TD": "3"
     }
   ],
   "Receiving Leaders": [
