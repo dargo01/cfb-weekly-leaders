@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "29",
+      "ATT": "40",
+      "YDS": "322",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "164.9"
+    },
+    {
+      "RK": "5",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W28-21atEMU",
@@ -61,7 +73,7 @@
       "RAT": "122.2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "W34-31vs.USF",
@@ -71,18 +83,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "135.0"
-    },
-    {
-      "RK": "",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "26",
-      "ATT": "37",
-      "YDS": "307",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "166.7"
     },
     {
       "RK": "8",
@@ -114,11 +114,11 @@
       "TEAM": "PITT",
       "RESULT": "",
       "COMP": "23",
-      "ATT": "37",
+      "ATT": "39",
       "YDS": "300",
       "TD": "2",
       "INT": "0",
-      "RAT": "148.1"
+      "RAT": "140.5"
     }
   ],
   "Rushing Leaders": [
@@ -167,13 +167,23 @@
       "NAME": "Quinton Jackson, RB",
       "TEAM": "RICE",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "127",
-      "YPC": "9.1",
+      "CAR": "16",
+      "YDS": "131",
+      "YPC": "8.2",
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "",
+      "NAME": "Chavon Wright, RB",
+      "TEAM": "NIU",
+      "RESULT": "",
+      "CAR": "31",
+      "YDS": "131",
+      "YPC": "4.2",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "L21-28atNEB",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
       "RESULT": "W28-21vs.NU",
@@ -193,7 +203,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "L31-34atMEM",
@@ -203,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "W27-24atPUR",
@@ -211,16 +221,6 @@
       "YDS": "116",
       "YPC": "4.0",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kentrel Bullock, RB",
-      "TEAM": "USA",
-      "RESULT": "W38-31atGAST",
-      "CAR": "20",
-      "YDS": "113",
-      "YPC": "5.7",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
