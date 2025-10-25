@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "31",
+      "ATT": "45",
+      "YDS": "341",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "154.5"
+    },
+    {
+      "RK": "5",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -49,19 +61,19 @@
       "RAT": "135.2"
     },
     {
-      "RK": "5",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
+      "RK": "6",
+      "NAME": "Bear Bachmeier, QB",
+      "TEAM": "BYU",
       "RESULT": "",
-      "COMP": "30",
-      "ATT": "44",
-      "YDS": "325",
-      "TD": "3",
+      "COMP": "21",
+      "ATT": "34",
+      "YDS": "338",
+      "TD": "2",
       "INT": "0",
-      "RAT": "152.7"
+      "RAT": "164.7"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W28-21atEMU",
@@ -85,7 +97,7 @@
       "RAT": "122.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "W34-31vs.USF",
@@ -97,7 +109,7 @@
       "RAT": "135.0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
       "RESULT": "W24-21vs.APP",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "165.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Haynes King, QB",
-      "TEAM": "GT",
-      "RESULT": "W41-16vs.SYR",
-      "COMP": "25",
-      "ATT": "31",
-      "YDS": "304",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "195.0"
     }
   ],
   "Rushing Leaders": [
@@ -164,6 +164,26 @@
     },
     {
       "RK": "5",
+      "NAME": "Chavon Wright, RB",
+      "TEAM": "NIU",
+      "RESULT": "",
+      "CAR": "35",
+      "YDS": "148",
+      "YPC": "4.2",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
+      "NAME": "Quinton Jackson, RB",
+      "TEAM": "RICE",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "143",
+      "YPC": "7.5",
+      "TD": "2"
+    },
+    {
+      "RK": "7",
       "NAME": "Brandon Chatman, WR",
       "TEAM": "NAVY",
       "RESULT": "",
@@ -173,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Kyron Drones, QB",
       "TEAM": "VT",
       "RESULT": "W42-34vs.CAL",
@@ -183,44 +203,24 @@
       "TD": "2"
     },
     {
-      "RK": "",
-      "NAME": "Quinton Jackson, RB",
-      "TEAM": "RICE",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "137",
-      "YPC": "7.6",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Chavon Wright, RB",
-      "TEAM": "NIU",
-      "RESULT": "",
-      "CAR": "32",
-      "YDS": "131",
-      "YPC": "4.1",
-      "TD": "0"
-    },
-    {
       "RK": "9",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "134",
+      "YPC": "7.1",
+      "TD": "3"
+    },
+    {
+      "RK": "10",
       "NAME": "Lucky Sutton, RB",
       "TEAM": "SDSU",
       "RESULT": "",
       "CAR": "21",
-      "YDS": "129",
-      "YPC": "6.1",
+      "YDS": "131",
+      "YPC": "6.2",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Caleb Komolafe, RB",
-      "TEAM": "NU",
-      "RESULT": "L21-28atNEB",
-      "CAR": "17",
-      "YDS": "125",
-      "YPC": "7.4",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Denzel Boston, WR",
+      "TEAM": "WASH",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "153",
+      "YPR": "15.3",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Isaiah Sategna III, WR",
       "TEAM": "OU",
       "RESULT": "L26-34vs.MISS",
@@ -295,34 +305,24 @@
       "TD": "1"
     },
     {
-      "RK": "8",
-      "NAME": "Rohan Jones, TE",
-      "TEAM": "ARK",
-      "RESULT": "L24-33vs.AUB",
-      "REC": "3",
-      "YDS": "127",
-      "YPR": "42.3",
-      "TD": "0"
-    },
-    {
       "RK": "9",
-      "NAME": "Chase Roberts, WR",
+      "NAME": "Parker Kingston, WR",
       "TEAM": "BYU",
       "RESULT": "",
-      "REC": "7",
-      "YDS": "124",
-      "YPR": "17.7",
-      "TD": "0"
+      "REC": "6",
+      "YDS": "130",
+      "YPR": "21.7",
+      "TD": "2"
     },
     {
       "RK": "10",
-      "NAME": "Nick Devereaux, WR",
-      "TEAM": "EMU",
-      "RESULT": "L21-28vs.OHIO",
-      "REC": "5",
-      "YDS": "121",
-      "YPR": "24.2",
-      "TD": "2"
+      "NAME": "Chase Roberts, WR",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "128",
+      "YPR": "16.0",
+      "TD": "0"
     }
   ]
 }
