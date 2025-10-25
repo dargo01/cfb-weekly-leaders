@@ -16,7 +16,7 @@
       "RK": "2",
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
-      "RESULT": "",
+      "RESULT": "W53-34vs.NCSU",
       "COMP": "28",
       "ATT": "48",
       "YDS": "423",
@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Arch Manning, QB",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "COMP": "27",
+      "ATT": "41",
+      "YDS": "317",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "150.1"
+    },
+    {
+      "RK": "8",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W28-21atEMU",
@@ -97,7 +109,7 @@
       "RAT": "122.2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Rocco Becht, QB",
       "TEAM": "ISU",
       "RESULT": "L27-41vs.BYU",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "3",
       "RAT": "131.7"
-    },
-    {
-      "RK": "10",
-      "NAME": "Brendon Lewis, QB",
-      "TEAM": "MEM",
-      "RESULT": "W34-31vs.USF",
-      "COMP": "27",
-      "ATT": "44",
-      "YDS": "307",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "135.0"
     }
   ],
   "Rushing Leaders": [
@@ -256,22 +256,22 @@
     },
     {
       "RK": "4",
+      "NAME": "Ryan Wingo, WR",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "184",
+      "YPR": "36.8",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L16-24vs.AKR",
       "REC": "8",
       "YDS": "177",
       "YPR": "22.1",
-      "TD": "0"
-    },
-    {
-      "RK": "5",
-      "NAME": "Ryan Wingo, WR",
-      "TEAM": "TEX",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "169",
-      "YPR": "42.3",
       "TD": "0"
     },
     {
