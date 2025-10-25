@@ -197,9 +197,9 @@
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "76",
-      "YPC": "6.3",
+      "CAR": "13",
+      "YDS": "74",
+      "YPC": "5.7",
       "TD": "2"
     },
     {
@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Emmett Johnson, RB",
-      "TEAM": "NEB",
-      "RESULT": "",
-      "CAR": "11",
+      "NAME": "Kendrick Raphael, RB",
+      "TEAM": "CAL",
+      "RESULT": "L34-42atVT",
+      "CAR": "20",
       "YDS": "71",
-      "YPC": "6.5",
-      "TD": "1"
+      "YPC": "3.6",
+      "TD": "3"
     }
   ],
   "Receiving Leaders": [
@@ -246,22 +246,22 @@
     },
     {
       "RK": "3",
+      "NAME": "Isaiah Sategna III, WR",
+      "TEAM": "OU",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "122",
+      "YPR": "24.4",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Jeremy Scott, WR",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
       "REC": "3",
       "YDS": "121",
       "YPR": "40.3",
-      "TD": "1"
-    },
-    {
-      "RK": "4",
-      "NAME": "Isaiah Sategna III, WR",
-      "TEAM": "OU",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "120",
-      "YPR": "30.0",
       "TD": "1"
     },
     {
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Chase Hendricks, WR",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "103",
+      "YPR": "12.9",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Marlion Jackson, WR",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Ronnel Johnson, WR",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -313,16 +323,6 @@
       "YDS": "99",
       "YPR": "16.5",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Devin Voisin, WR",
-      "TEAM": "USA",
-      "RESULT": "W38-31atGAST",
-      "REC": "7",
-      "YDS": "98",
-      "YPR": "14.0",
-      "TD": "0"
     }
   ]
 }
