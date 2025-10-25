@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Jaron-Keawe Sagapolutele, QB",
+      "TEAM": "CAL",
+      "RESULT": "L34-42atVT",
+      "COMP": "24",
+      "ATT": "39",
+      "YDS": "286",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "131.6"
+    },
+    {
+      "RK": "6",
       "NAME": "Jacob Clark, QB",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -61,7 +73,7 @@
       "RAT": "131.1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L28-31atDEL",
@@ -73,7 +85,7 @@
       "RAT": "130.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Bishop Davenport, QB",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
@@ -85,7 +97,7 @@
       "RAT": "209.6"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "W31-28vs.MTSU",
@@ -95,18 +107,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "150.9"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jaron-Keawe Sagapolutele, QB",
-      "TEAM": "CAL",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "34",
-      "YDS": "261",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "132.1"
     },
     {
       "RK": "10",
@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Marcellous Hawkins, RB",
+      "TEAM": "VT",
+      "RESULT": "W42-34vs.CAL",
+      "CAR": "21",
+      "YDS": "167",
+      "YPC": "8.0",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Kejon Owens, RB",
       "TEAM": "FIU",
       "RESULT": "L26-45vs.KENN",
@@ -133,17 +143,17 @@
       "TD": "1"
     },
     {
-      "RK": "2",
-      "NAME": "Marcellous Hawkins, RB",
+      "RK": "3",
+      "NAME": "Kyron Drones, QB",
       "TEAM": "VT",
-      "RESULT": "",
-      "CAR": "20",
-      "YDS": "159",
-      "YPC": "8.0",
-      "TD": "0"
+      "RESULT": "W42-34vs.CAL",
+      "CAR": "21",
+      "YDS": "137",
+      "YPC": "6.5",
+      "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Kentrel Bullock, RB",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
@@ -151,16 +161,6 @@
       "YDS": "113",
       "YPC": "5.7",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Kyron Drones, QB",
-      "TEAM": "VT",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "111",
-      "YPC": "6.2",
-      "TD": "1"
     },
     {
       "RK": "5",
@@ -196,7 +196,7 @@
       "RK": "8",
       "NAME": "Kendrick Raphael, RB",
       "TEAM": "CAL",
-      "RESULT": "",
+      "RESULT": "L34-42atVT",
       "CAR": "20",
       "YDS": "71",
       "YPC": "3.6",
