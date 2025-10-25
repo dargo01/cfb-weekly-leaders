@@ -194,6 +194,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "76",
+      "YPC": "6.3",
+      "TD": "2"
+    },
+    {
+      "RK": "9",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
       "RESULT": "W28-27atLT",
@@ -203,24 +213,14 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
+      "RK": "10",
+      "NAME": "Emmett Johnson, RB",
+      "TEAM": "NEB",
       "RESULT": "",
-      "CAR": "8",
+      "CAR": "11",
       "YDS": "71",
-      "YPC": "8.9",
-      "TD": "2"
-    },
-    {
-      "RK": "",
-      "NAME": "Kendrick Raphael, RB",
-      "TEAM": "CAL",
-      "RESULT": "L34-42atVT",
-      "CAR": "20",
-      "YDS": "71",
-      "YPC": "3.6",
-      "TD": "3"
+      "YPC": "6.5",
+      "TD": "1"
     }
   ],
   "Receiving Leaders": [
