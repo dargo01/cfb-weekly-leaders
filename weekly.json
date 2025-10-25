@@ -62,18 +62,6 @@
     },
     {
       "RK": "6",
-      "NAME": "Bear Bachmeier, QB",
-      "TEAM": "BYU",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "34",
-      "YDS": "338",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "164.7"
-    },
-    {
-      "RK": "7",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W28-21atEMU",
@@ -97,7 +85,7 @@
       "RAT": "122.2"
     },
     {
-      "RK": "9",
+      "RK": "8",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "W34-31vs.USF",
@@ -109,7 +97,7 @@
       "RAT": "135.0"
     },
     {
-      "RK": "10",
+      "RK": "9",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
       "RESULT": "W24-21vs.APP",
@@ -119,6 +107,18 @@
       "TD": "3",
       "INT": "1",
       "RAT": "165.2"
+    },
+    {
+      "RK": "10",
+      "NAME": "Haynes King, QB",
+      "TEAM": "GT",
+      "RESULT": "W41-16vs.SYR",
+      "COMP": "25",
+      "ATT": "31",
+      "YDS": "304",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "195.0"
     }
   ],
   "Rushing Leaders": [
