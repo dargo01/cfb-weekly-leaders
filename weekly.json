@@ -17,12 +17,12 @@
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "",
-      "COMP": "25",
-      "ATT": "43",
-      "YDS": "399",
+      "COMP": "26",
+      "ATT": "46",
+      "YDS": "402",
       "TD": "3",
       "INT": "0",
-      "RAT": "154.6"
+      "RAT": "146.9"
     },
     {
       "RK": "3",
@@ -40,13 +40,13 @@
       "RK": "4",
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "31",
-      "ATT": "45",
-      "YDS": "341",
+      "RESULT": "L34-37atRICE",
+      "COMP": "32",
+      "ATT": "48",
+      "YDS": "344",
       "TD": "3",
       "INT": "0",
-      "RAT": "154.5"
+      "RAT": "147.5"
     },
     {
       "RK": "5",
@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Quinton Jackson, RB",
+      "TEAM": "RICE",
+      "RESULT": "W37-34vs.CONN",
+      "CAR": "21",
+      "YDS": "168",
+      "YPC": "8.0",
+      "TD": "3"
+    },
+    {
+      "RK": "2",
       "NAME": "Marcellous Hawkins, RB",
       "TEAM": "VT",
       "RESULT": "W42-34vs.CAL",
@@ -133,7 +143,7 @@
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Kejon Owens, RB",
       "TEAM": "FIU",
       "RESULT": "L26-45vs.KENN",
@@ -143,7 +153,17 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "",
+      "NAME": "Chavon Wright, RB",
+      "TEAM": "NIU",
+      "RESULT": "W21-7vs.BALL",
+      "CAR": "37",
+      "YDS": "166",
+      "YPC": "4.5",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Jeremiah Cobb, RB",
       "TEAM": "AUB",
       "RESULT": "W33-24atARK",
@@ -153,33 +173,13 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Carson Hansen, RB",
       "TEAM": "ISU",
       "RESULT": "",
-      "CAR": "15",
+      "CAR": "16",
       "YDS": "152",
-      "YPC": "10.1",
-      "TD": "2"
-    },
-    {
-      "RK": "5",
-      "NAME": "Chavon Wright, RB",
-      "TEAM": "NIU",
-      "RESULT": "",
-      "CAR": "35",
-      "YDS": "148",
-      "YPC": "4.2",
-      "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Quinton Jackson, RB",
-      "TEAM": "RICE",
-      "RESULT": "",
-      "CAR": "19",
-      "YDS": "143",
-      "YPC": "7.5",
+      "YPC": "9.5",
       "TD": "2"
     },
     {
@@ -278,7 +278,7 @@
       "RK": "6",
       "NAME": "Skyler Bell, WR",
       "TEAM": "CONN",
-      "RESULT": "",
+      "RESULT": "L34-37atRICE",
       "REC": "8",
       "YDS": "158",
       "YPR": "19.8",
