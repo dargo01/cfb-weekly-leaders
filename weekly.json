@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Blake Shapen, QB",
+      "TEAM": "MSST",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "34",
+      "YDS": "351",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "190.3"
+    },
+    {
+      "RK": "5",
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "L34-37atRICE",
@@ -49,7 +61,7 @@
       "RAT": "147.5"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -61,7 +73,7 @@
       "RAT": "135.2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W28-21atEMU",
@@ -85,7 +97,19 @@
       "RAT": "122.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Rocco Becht, QB",
+      "TEAM": "ISU",
+      "RESULT": "L27-41vs.BYU",
+      "COMP": "24",
+      "ATT": "36",
+      "YDS": "311",
+      "TD": "1",
+      "INT": "3",
+      "RAT": "131.7"
+    },
+    {
+      "RK": "10",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "W34-31vs.USF",
@@ -95,35 +119,21 @@
       "TD": "2",
       "INT": "0",
       "RAT": "135.0"
-    },
-    {
-      "RK": "",
-      "NAME": "Bear Bachmeier, QB",
-      "TEAM": "BYU",
-      "RESULT": "",
-      "COMP": "22",
-      "ATT": "35",
-      "YDS": "307",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "155.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Colton Joseph, QB",
-      "TEAM": "ODU",
-      "RESULT": "W24-21vs.APP",
-      "COMP": "21",
-      "ATT": "33",
-      "YDS": "305",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "165.2"
     }
   ],
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "W42-32vs.FAU",
+      "CAR": "21",
+      "YDS": "174",
+      "YPC": "8.3",
+      "TD": "4"
+    },
+    {
+      "RK": "2",
       "NAME": "Quinton Jackson, RB",
       "TEAM": "RICE",
       "RESULT": "W37-34vs.CONN",
@@ -133,7 +143,7 @@
       "TD": "3"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Marcellous Hawkins, RB",
       "TEAM": "VT",
       "RESULT": "W42-34vs.CAL",
@@ -143,7 +153,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Kejon Owens, RB",
       "TEAM": "FIU",
       "RESULT": "L26-45vs.KENN",
@@ -163,16 +173,6 @@
       "TD": "0"
     },
     {
-      "RK": "5",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "CAR": "20",
-      "YDS": "165",
-      "YPC": "8.3",
-      "TD": "4"
-    },
-    {
       "RK": "6",
       "NAME": "Jeremiah Cobb, RB",
       "TEAM": "AUB",
@@ -186,7 +186,7 @@
       "RK": "7",
       "NAME": "Carson Hansen, RB",
       "TEAM": "ISU",
-      "RESULT": "",
+      "RESULT": "L27-41vs.BYU",
       "CAR": "16",
       "YDS": "152",
       "YPC": "9.5",
@@ -196,7 +196,7 @@
       "RK": "8",
       "NAME": "Brandon Chatman, WR",
       "TEAM": "NAVY",
-      "RESULT": "",
+      "RESULT": "W42-32vs.FAU",
       "CAR": "10",
       "YDS": "141",
       "YPC": "14.1",
@@ -216,7 +216,7 @@
       "RK": "10",
       "NAME": "Lucky Sutton, RB",
       "TEAM": "SDSU",
-      "RESULT": "",
+      "RESULT": "W23-0atFRES",
       "CAR": "21",
       "YDS": "131",
       "YPC": "6.2",
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Ryan Wingo, WR",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "169",
+      "YPR": "42.3",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Jayce Brown, WR",
       "TEAM": "KSU",
       "RESULT": "W42-17atKU",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Skyler Bell, WR",
       "TEAM": "CONN",
       "RESULT": "L34-37atRICE",
@@ -285,27 +295,27 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Denzel Boston, WR",
       "TEAM": "WASH",
-      "RESULT": "",
+      "RESULT": "W42-25vs.ILL",
       "REC": "10",
       "YDS": "153",
       "YPR": "15.3",
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Parker Kingston, WR",
       "TEAM": "BYU",
-      "RESULT": "",
+      "RESULT": "W41-27atISU",
       "REC": "7",
       "YDS": "133",
       "YPR": "19.0",
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Isaiah Sategna III, WR",
       "TEAM": "OU",
       "RESULT": "L26-34vs.MISS",
@@ -313,16 +323,6 @@
       "YDS": "131",
       "YPR": "21.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chase Roberts, WR",
-      "TEAM": "BYU",
-      "RESULT": "",
-      "REC": "8",
-      "YDS": "128",
-      "YPR": "16.0",
-      "TD": "0"
     }
   ]
 }
