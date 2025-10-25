@@ -73,7 +73,19 @@
       "RAT": "135.0"
     },
     {
-      "RK": "7",
+      "RK": "",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "26",
+      "ATT": "37",
+      "YDS": "307",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "166.7"
+    },
+    {
+      "RK": "8",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
       "RESULT": "W24-21vs.APP",
@@ -85,7 +97,7 @@
       "RAT": "165.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Haynes King, QB",
       "TEAM": "GT",
       "RESULT": "W41-16vs.SYR",
@@ -97,28 +109,16 @@
       "RAT": "195.0"
     },
     {
-      "RK": "9",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "35",
-      "YDS": "303",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "172.4"
-    },
-    {
       "RK": "10",
-      "NAME": "Keyone Jenkins, QB",
-      "TEAM": "FIU",
-      "RESULT": "L26-45vs.KENN",
-      "COMP": "22",
-      "ATT": "36",
-      "YDS": "296",
-      "TD": "1",
+      "NAME": "Mason Heintschel, QB",
+      "TEAM": "PITT",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "37",
+      "YDS": "300",
+      "TD": "2",
       "INT": "0",
-      "RAT": "139.3"
+      "RAT": "148.1"
     }
   ],
   "Rushing Leaders": [
@@ -167,9 +167,9 @@
       "NAME": "Quinton Jackson, RB",
       "TEAM": "RICE",
       "RESULT": "",
-      "CAR": "12",
+      "CAR": "14",
       "YDS": "127",
-      "YPC": "10.6",
+      "YPC": "9.1",
       "TD": "1"
     },
     {
