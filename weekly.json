@@ -4,13 +4,13 @@
       "RK": "1",
       "NAME": "Drew Mestemaker, QB",
       "TEAM": "UNT",
-      "RESULT": "",
-      "COMP": "33",
-      "ATT": "45",
-      "YDS": "517",
-      "TD": "3",
+      "RESULT": "W54-20atCLT",
+      "COMP": "37",
+      "ATT": "49",
+      "YDS": "608",
+      "TD": "4",
       "INT": "1",
-      "RAT": "187.4"
+      "RAT": "202.6"
     },
     {
       "RK": "2",
@@ -40,13 +40,13 @@
       "RK": "4",
       "NAME": "Grayson Loftis, QB",
       "TEAM": "CLT",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "32",
-      "YDS": "288",
+      "RESULT": "L20-54vs.UNT",
+      "COMP": "20",
+      "ATT": "36",
+      "YDS": "295",
       "TD": "2",
       "INT": "0",
-      "RAT": "152.5"
+      "RAT": "142.7"
     },
     {
       "RK": "5",
@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Jaron-Keawe Sagapolutele, QB",
+      "TEAM": "CAL",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "34",
+      "YDS": "261",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "132.1"
+    },
+    {
+      "RK": "10",
       "NAME": "Cameran Brown, QB",
       "TEAM": "GAST",
       "RESULT": "L31-38vs.USA",
@@ -107,18 +119,6 @@
       "TD": "4",
       "INT": "1",
       "RAT": "152.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "Rodney Tisdale Jr., QB",
-      "TEAM": "WKU",
-      "RESULT": "W28-27atLT",
-      "COMP": "21",
-      "ATT": "34",
-      "YDS": "227",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "121.7"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Marcellous Hawkins, RB",
       "TEAM": "VT",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "117",
-      "YPC": "8.4",
+      "CAR": "20",
+      "YDS": "159",
+      "YPC": "8.0",
       "TD": "0"
     },
     {
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Kyron Drones, QB",
+      "TEAM": "VT",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "111",
+      "YPC": "6.2",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Shomari Lawrence, RB",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -163,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "L31-38vs.USA",
@@ -173,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
       "RESULT": "W28-27atLT",
@@ -183,7 +193,27 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Kendrick Raphael, RB",
+      "TEAM": "CAL",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "71",
+      "YPC": "3.6",
+      "TD": "3"
+    },
+    {
+      "RK": "",
+      "NAME": "Kiefer Sibley, RB",
+      "TEAM": "UNT",
+      "RESULT": "W54-20atCLT",
+      "CAR": "7",
+      "YDS": "71",
+      "YPC": "10.1",
+      "TD": "2"
+    },
+    {
+      "RK": "10",
       "NAME": "Alexander Diggs, RB",
       "TEAM": "KENN",
       "RESULT": "W45-26atFIU",
@@ -191,51 +221,31 @@
       "YDS": "69",
       "YPC": "6.3",
       "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jekail Middlebrook, RB",
-      "TEAM": "MTSU",
-      "RESULT": "L28-31atDEL",
-      "CAR": "11",
-      "YDS": "68",
-      "YPC": "6.2",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Cameran Brown, QB",
-      "TEAM": "GAST",
-      "RESULT": "L31-38vs.USA",
-      "CAR": "10",
-      "YDS": "67",
-      "YPC": "6.7",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chase Belcher, RB",
-      "TEAM": "KENN",
-      "RESULT": "W45-26atFIU",
-      "CAR": "12",
-      "YDS": "65",
-      "YPC": "5.4",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Wyatt Young, WR",
+      "TEAM": "UNT",
+      "RESULT": "W54-20atCLT",
+      "REC": "9",
+      "YDS": "190",
+      "YPR": "21.1",
+      "TD": "1"
+    },
+    {
+      "RK": "2",
       "NAME": "Javen Nicholas, WR",
       "TEAM": "CLT",
-      "RESULT": "",
+      "RESULT": "L20-54vs.UNT",
       "REC": "7",
       "YDS": "187",
       "YPR": "26.7",
       "TD": "2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Jeremy Scott, WR",
       "TEAM": "USA",
       "RESULT": "W38-31atGAST",
@@ -245,20 +255,10 @@
       "TD": "1"
     },
     {
-      "RK": "3",
-      "NAME": "Wyatt Young, WR",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "REC": "8",
-      "YDS": "120",
-      "YPR": "15.0",
-      "TD": "0"
-    },
-    {
       "RK": "4",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
-      "RESULT": "",
+      "RESULT": "W54-20atCLT",
       "REC": "7",
       "YDS": "117",
       "YPR": "16.7",
@@ -268,7 +268,7 @@
       "RK": "5",
       "NAME": "Landon Sides, WR",
       "TEAM": "UNT",
-      "RESULT": "",
+      "RESULT": "W54-20atCLT",
       "REC": "5",
       "YDS": "114",
       "YPR": "22.8",
