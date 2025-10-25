@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Athan Kaliakmanis, QB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "26",
+      "YDS": "359",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "201.8"
+    },
+    {
+      "RK": "3",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
       "RESULT": "L27-28vs.WKU",
@@ -25,19 +37,19 @@
       "RAT": "135.2"
     },
     {
-      "RK": "3",
-      "NAME": "Athan Kaliakmanis, QB",
-      "TEAM": "RUTG",
+      "RK": "4",
+      "NAME": "Parker Navarro, QB",
+      "TEAM": "OHIO",
       "RESULT": "",
-      "COMP": "16",
-      "ATT": "23",
-      "YDS": "303",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "194.6"
+      "COMP": "21",
+      "ATT": "26",
+      "YDS": "300",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "187.7"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Keyone Jenkins, QB",
       "TEAM": "FIU",
       "RESULT": "L26-45vs.KENN",
@@ -49,7 +61,7 @@
       "RAT": "139.3"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Grayson Loftis, QB",
       "TEAM": "CLT",
       "RESULT": "L20-54vs.UNT",
@@ -59,18 +71,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "142.7"
-    },
-    {
-      "RK": "6",
-      "NAME": "Parker Navarro, QB",
-      "TEAM": "OHIO",
-      "RESULT": "",
-      "COMP": "20",
-      "ATT": "24",
-      "YDS": "294",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "197.1"
     },
     {
       "RK": "7",
@@ -157,9 +157,9 @@
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "",
-      "CAR": "16",
-      "YDS": "123",
-      "YPC": "7.7",
+      "CAR": "17",
+      "YDS": "125",
+      "YPC": "7.4",
       "TD": "2"
     },
     {
@@ -167,9 +167,9 @@
       "NAME": "Jeremiah Cobb, RB",
       "TEAM": "AUB",
       "RESULT": "",
-      "CAR": "17",
-      "YDS": "121",
-      "YPC": "7.1",
+      "CAR": "18",
+      "YDS": "122",
+      "YPC": "6.8",
       "TD": "0"
     },
     {
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "CAR": "27",
+      "YDS": "111",
+      "YPC": "4.1",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "",
@@ -193,17 +203,17 @@
       "TD": "2"
     },
     {
-      "RK": "8",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
+      "RK": "9",
+      "NAME": "Emmett Johnson, RB",
+      "TEAM": "NEB",
       "RESULT": "",
-      "CAR": "23",
-      "YDS": "99",
-      "YPC": "4.3",
+      "CAR": "21",
+      "YDS": "98",
+      "YPC": "4.7",
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Shomari Lawrence, RB",
       "TEAM": "MOST",
       "RESULT": "W24-17atNMSU",
@@ -211,16 +221,6 @@
       "YDS": "97",
       "YPC": "4.6",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Emmett Johnson, RB",
-      "TEAM": "NEB",
-      "RESULT": "",
-      "CAR": "20",
-      "YDS": "95",
-      "YPC": "4.8",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -229,9 +229,9 @@
       "NAME": "KJ Duff, WR",
       "TEAM": "RUTG",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "209",
-      "YPR": "41.8",
+      "REC": "6",
+      "YDS": "241",
+      "YPR": "40.2",
       "TD": "1"
     },
     {
