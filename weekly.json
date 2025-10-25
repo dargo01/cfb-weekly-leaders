@@ -17,12 +17,12 @@
       "NAME": "Mason Heintschel, QB",
       "TEAM": "PITT",
       "RESULT": "",
-      "COMP": "24",
-      "ATT": "40",
-      "YDS": "384",
+      "COMP": "25",
+      "ATT": "43",
+      "YDS": "399",
       "TD": "3",
       "INT": "0",
-      "RAT": "165.4"
+      "RAT": "154.6"
     },
     {
       "RK": "3",
@@ -53,12 +53,12 @@
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "",
-      "COMP": "29",
-      "ATT": "41",
-      "YDS": "322",
+      "COMP": "30",
+      "ATT": "44",
+      "YDS": "325",
       "TD": "3",
       "INT": "0",
-      "RAT": "160.8"
+      "RAT": "152.7"
     },
     {
       "RK": "6",
@@ -154,6 +154,26 @@
     },
     {
       "RK": "4",
+      "NAME": "Carson Hansen, RB",
+      "TEAM": "ISU",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "152",
+      "YPC": "10.1",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
+      "NAME": "Brandon Chatman, WR",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "141",
+      "YPC": "14.1",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Kyron Drones, QB",
       "TEAM": "VT",
       "RESULT": "W42-34vs.CAL",
@@ -163,27 +183,37 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "",
       "NAME": "Quinton Jackson, RB",
       "TEAM": "RICE",
       "RESULT": "",
-      "CAR": "16",
-      "YDS": "131",
-      "YPC": "8.2",
+      "CAR": "18",
+      "YDS": "137",
+      "YPC": "7.6",
       "TD": "1"
     },
     {
-      "RK": "",
+      "RK": "8",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "",
-      "CAR": "31",
+      "CAR": "32",
       "YDS": "131",
-      "YPC": "4.2",
+      "YPC": "4.1",
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "9",
+      "NAME": "Lucky Sutton, RB",
+      "TEAM": "SDSU",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "129",
+      "YPC": "6.1",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "L21-28atNEB",
@@ -191,36 +221,6 @@
       "YDS": "125",
       "YPC": "7.4",
       "TD": "2"
-    },
-    {
-      "RK": "8",
-      "NAME": "Emmett Johnson, RB",
-      "TEAM": "NEB",
-      "RESULT": "W28-21vs.NU",
-      "CAR": "27",
-      "YDS": "124",
-      "YPC": "4.6",
-      "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "L31-34atMEM",
-      "CAR": "21",
-      "YDS": "121",
-      "YPC": "5.8",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
-      "RESULT": "W27-24atPUR",
-      "CAR": "29",
-      "YDS": "116",
-      "YPC": "4.0",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
