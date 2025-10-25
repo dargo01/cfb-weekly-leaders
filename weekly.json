@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "165",
+      "YPC": "8.3",
+      "TD": "4"
+    },
+    {
+      "RK": "6",
       "NAME": "Jeremiah Cobb, RB",
       "TEAM": "AUB",
       "RESULT": "W33-24atARK",
@@ -173,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Carson Hansen, RB",
       "TEAM": "ISU",
       "RESULT": "",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Brandon Chatman, WR",
       "TEAM": "NAVY",
       "RESULT": "",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Kyron Drones, QB",
       "TEAM": "VT",
       "RESULT": "W42-34vs.CAL",
@@ -201,16 +211,6 @@
       "YDS": "137",
       "YPC": "6.5",
       "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "CAR": "19",
-      "YDS": "134",
-      "YPC": "7.1",
-      "TD": "3"
     },
     {
       "RK": "10",
