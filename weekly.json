@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Brandon Chatman, WR",
-      "TEAM": "NAVY",
-      "RESULT": "W42-32vs.FAU",
-      "CAR": "10",
-      "YDS": "141",
-      "YPC": "14.1",
-      "TD": "0"
+      "NAME": "Byrd Ficklin, QB",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "151",
+      "YPC": "9.4",
+      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -288,7 +288,7 @@
       "RK": "7",
       "NAME": "Malik McClain, WR",
       "TEAM": "ASU",
-      "RESULT": "",
+      "RESULT": "L16-24vs.HOU",
       "REC": "7",
       "YDS": "159",
       "YPR": "22.7",
