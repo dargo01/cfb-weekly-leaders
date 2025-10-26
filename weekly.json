@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Byrd Ficklin, QB",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "163",
+      "YPC": "9.1",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Jeremiah Cobb, RB",
       "TEAM": "AUB",
       "RESULT": "W33-24atARK",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Justice Haynes, RB",
       "TEAM": "MICH",
       "RESULT": "W31-20atMSU",
@@ -211,16 +221,6 @@
       "YDS": "152",
       "YPC": "9.5",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Byrd Ficklin, QB",
-      "TEAM": "UTAH",
-      "RESULT": "",
-      "CAR": "16",
-      "YDS": "151",
-      "YPC": "9.4",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
