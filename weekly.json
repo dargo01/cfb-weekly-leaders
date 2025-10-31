@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Owen McCown, QB",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "COMP": "30",
+      "ATT": "32",
+      "YDS": "359",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "229.2"
+    },
+    {
+      "RK": "2",
       "NAME": "Alonza Barnett III, QB",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -13,7 +25,7 @@
       "RAT": "252.1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L21-24vs.JXST",
@@ -25,7 +37,7 @@
       "RAT": "105.2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Brad Jackson, QB",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
@@ -37,31 +49,31 @@
       "RAT": "108.2"
     },
     {
-      "RK": "4",
-      "NAME": "Owen McCown, QB",
-      "TEAM": "UTSA",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "19",
-      "YDS": "210",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "239.7"
-    },
-    {
       "RK": "5",
-      "NAME": "Jake Retzlaff, QB",
-      "TEAM": "TULN",
+      "NAME": "Samari Collier, QB",
+      "TEAM": "CCU",
       "RESULT": "",
-      "COMP": "12",
-      "ATT": "24",
-      "YDS": "164",
-      "TD": "1",
+      "COMP": "8",
+      "ATT": "20",
+      "YDS": "196",
+      "TD": "2",
       "INT": "1",
-      "RAT": "112.8"
+      "RAT": "145.3"
     },
     {
       "RK": "6",
+      "NAME": "Jake Retzlaff, QB",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "28",
+      "YDS": "194",
+      "TD": "1",
+      "INT": "2",
+      "RAT": "105.7"
+    },
+    {
+      "RK": "7",
       "NAME": "Jacob Clark, QB",
       "TEAM": "MOST",
       "RESULT": "W28-21vs.FIU",
@@ -71,18 +83,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "134.4"
-    },
-    {
-      "RK": "7",
-      "NAME": "Samari Collier, QB",
-      "TEAM": "CCU",
-      "RESULT": "",
-      "COMP": "6",
-      "ATT": "13",
-      "YDS": "162",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "186.2"
     },
     {
       "RK": "8",
@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Antwan Roberts, RB",
+      "TEAM": "MRSH",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "134",
+      "YPC": "8.9",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Chase Belcher, RB",
       "TEAM": "KENN",
       "RESULT": "W33-20vs.UTEP",
@@ -133,7 +143,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W24-21atMTSU",
@@ -143,17 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
-      "NAME": "Antwan Roberts, RB",
-      "TEAM": "MRSH",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "104",
-      "YPC": "8.7",
-      "TD": "0"
-    },
-    {
-      "RK": "",
+      "RK": "4",
       "NAME": "Shomari Lawrence, RB",
       "TEAM": "MOST",
       "RESULT": "W28-21vs.FIU",
@@ -177,9 +177,9 @@
       "NAME": "Robert Henry Jr., RB",
       "TEAM": "UTSA",
       "RESULT": "",
-      "CAR": "8",
-      "YDS": "78",
-      "YPC": "9.8",
+      "CAR": "15",
+      "YDS": "82",
+      "YPC": "5.5",
       "TD": "0"
     },
     {
@@ -194,32 +194,32 @@
     },
     {
       "RK": "8",
-      "NAME": "Kejon Owens, RB",
-      "TEAM": "FIU",
-      "RESULT": "L21-28atMOST",
-      "CAR": "18",
-      "YDS": "63",
-      "YPC": "3.5",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
       "NAME": "Dominic Knicely, RB",
       "TEAM": "CCU",
       "RESULT": "",
-      "CAR": "2",
-      "YDS": "62",
-      "YPC": "31.0",
+      "CAR": "5",
+      "YDS": "76",
+      "YPC": "15.2",
       "TD": "1"
+    },
+    {
+      "RK": "9",
+      "NAME": "Samari Collier, QB",
+      "TEAM": "CCU",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "75",
+      "YPC": "3.4",
+      "TD": "2"
     },
     {
       "RK": "10",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "",
-      "CAR": "6",
-      "YDS": "58",
-      "YPC": "9.7",
+      "CAR": "7",
+      "YDS": "63",
+      "YPC": "9.0",
       "TD": "1"
     }
   ],
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "David Amador II, WR",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "113",
+      "YPR": "11.3",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Nick DeGennaro, WR",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -245,7 +255,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Mavin Anderson, WR",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
@@ -255,7 +265,17 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "",
+      "NAME": "Devin McCuin, WR",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "96",
+      "YPR": "12.0",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
       "NAME": "Jekail Middlebrook, RB",
       "TEAM": "MTSU",
       "RESULT": "L21-24vs.JXST",
@@ -265,17 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
-      "NAME": "David Amador II, WR",
-      "TEAM": "UTSA",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "71",
-      "YPR": "11.8",
-      "TD": "2"
-    },
-    {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -285,7 +295,17 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "",
+      "NAME": "Omari Hayes, WR",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "69",
+      "YPR": "23.0",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Beau Sparks, WR",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
@@ -295,34 +315,14 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "C'Quan Jnopierre, WR",
-      "TEAM": "FIU",
-      "RESULT": "L21-28atMOST",
-      "REC": "3",
-      "YDS": "57",
-      "YPR": "19.0",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Hunter Tipton, TE",
-      "TEAM": "MTSU",
-      "RESULT": "L21-24vs.JXST",
-      "REC": "5",
-      "YDS": "56",
-      "YPR": "11.2",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "Alex Perry, WR",
-      "TEAM": "FIU",
-      "RESULT": "L21-28atMOST",
+      "NAME": "Anthony Brown-Stephens, WR",
+      "TEAM": "TULN",
+      "RESULT": "",
       "REC": "3",
-      "YDS": "53",
-      "YPR": "17.7",
-      "TD": "1"
+      "YDS": "58",
+      "YPR": "19.3",
+      "TD": "0"
     }
   ]
 }
