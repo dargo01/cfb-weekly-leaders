@@ -4,13 +4,13 @@
       "RK": "1",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
-      "RESULT": "",
-      "COMP": "30",
-      "ATT": "32",
-      "YDS": "359",
+      "RESULT": "W48-26vs.TULN",
+      "COMP": "31",
+      "ATT": "33",
+      "YDS": "370",
       "TD": "4",
       "INT": "0",
-      "RAT": "229.2"
+      "RAT": "228.1"
     },
     {
       "RK": "2",
@@ -52,7 +52,7 @@
       "RK": "5",
       "NAME": "Samari Collier, QB",
       "TEAM": "CCU",
-      "RESULT": "",
+      "RESULT": "W44-27vs.MRSH",
       "COMP": "8",
       "ATT": "20",
       "YDS": "196",
@@ -64,7 +64,7 @@
       "RK": "6",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
-      "RESULT": "",
+      "RESULT": "L26-48atUTSA",
       "COMP": "14",
       "ATT": "28",
       "YDS": "194",
@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Carlos Del Rio-Wilson, QB",
+      "TEAM": "MRSH",
+      "RESULT": "L27-44atCCU",
+      "COMP": "21",
+      "ATT": "36",
+      "YDS": "153",
+      "TD": "1",
+      "INT": "2",
+      "RAT": "92.1"
+    },
+    {
+      "RK": "10",
       "NAME": "Keyone Jenkins, QB",
       "TEAM": "FIU",
       "RESULT": "L21-28atMOST",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "141.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Caden Creel, QB",
-      "TEAM": "JXST",
-      "RESULT": "W24-21atMTSU",
-      "COMP": "13",
-      "ATT": "19",
-      "YDS": "139",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "147.2"
     }
   ],
   "Rushing Leaders": [
@@ -126,7 +126,7 @@
       "RK": "1",
       "NAME": "Antwan Roberts, RB",
       "TEAM": "MRSH",
-      "RESULT": "",
+      "RESULT": "L27-44atCCU",
       "CAR": "15",
       "YDS": "134",
       "YPC": "8.9",
@@ -176,10 +176,10 @@
       "RK": "6",
       "NAME": "Robert Henry Jr., RB",
       "TEAM": "UTSA",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "82",
-      "YPC": "5.5",
+      "RESULT": "W48-26vs.TULN",
+      "CAR": "16",
+      "YDS": "87",
+      "YPC": "5.4",
       "TD": "0"
     },
     {
@@ -196,7 +196,7 @@
       "RK": "8",
       "NAME": "Dominic Knicely, RB",
       "TEAM": "CCU",
-      "RESULT": "",
+      "RESULT": "W44-27vs.MRSH",
       "CAR": "5",
       "YDS": "76",
       "YPC": "15.2",
@@ -206,7 +206,7 @@
       "RK": "9",
       "NAME": "Samari Collier, QB",
       "TEAM": "CCU",
-      "RESULT": "",
+      "RESULT": "W44-27vs.MRSH",
       "CAR": "22",
       "YDS": "75",
       "YPC": "3.4",
@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Jake Retzlaff, QB",
-      "TEAM": "TULN",
-      "RESULT": "",
-      "CAR": "7",
-      "YDS": "63",
-      "YPC": "9.0",
-      "TD": "1"
+      "NAME": "Carlos Del Rio-Wilson, QB",
+      "TEAM": "MRSH",
+      "RESULT": "L27-44atCCU",
+      "CAR": "20",
+      "YDS": "67",
+      "YPC": "3.4",
+      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -238,7 +238,7 @@
       "RK": "2",
       "NAME": "David Amador II, WR",
       "TEAM": "UTSA",
-      "RESULT": "",
+      "RESULT": "W48-26vs.TULN",
       "REC": "10",
       "YDS": "113",
       "YPR": "11.3",
@@ -268,7 +268,7 @@
       "RK": "",
       "NAME": "Devin McCuin, WR",
       "TEAM": "UTSA",
-      "RESULT": "",
+      "RESULT": "W48-26vs.TULN",
       "REC": "8",
       "YDS": "96",
       "YPR": "12.0",
@@ -298,7 +298,7 @@
       "RK": "",
       "NAME": "Omari Hayes, WR",
       "TEAM": "TULN",
-      "RESULT": "",
+      "RESULT": "L26-48atUTSA",
       "REC": "3",
       "YDS": "69",
       "YPR": "23.0",
@@ -306,22 +306,22 @@
     },
     {
       "RK": "9",
+      "NAME": "Patrick Overmyer, TE",
+      "TEAM": "UTSA",
+      "RESULT": "W48-26vs.TULN",
+      "REC": "4",
+      "YDS": "68",
+      "YPR": "17.0",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Beau Sparks, WR",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
       "REC": "4",
       "YDS": "67",
       "YPR": "16.8",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Anthony Brown-Stephens, WR",
-      "TEAM": "TULN",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "58",
-      "YPR": "19.3",
       "TD": "0"
     }
   ]
