@@ -174,22 +174,22 @@
     },
     {
       "RK": "6",
-      "NAME": "Robert Henry Jr., RB",
-      "TEAM": "UTSA",
-      "RESULT": "",
-      "CAR": "8",
-      "YDS": "78",
-      "YPC": "9.8",
-      "TD": "0"
-    },
-    {
-      "RK": "7",
       "NAME": "Skyler Locklear, QB",
       "TEAM": "UTEP",
       "RESULT": "L20-33atKENN",
       "CAR": "23",
       "YDS": "77",
       "YPC": "3.3",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
+      "NAME": "Robert Henry Jr., RB",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "76",
+      "YPC": "9.5",
       "TD": "0"
     },
     {
