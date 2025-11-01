@@ -33,11 +33,23 @@
       "ATT": "31",
       "YDS": "247",
       "TD": "2",
-      "INT": "0",
-      "RAT": "162.4"
+      "INT": "1",
+      "RAT": "156.0"
     },
     {
       "RK": "4",
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "24",
+      "YDS": "241",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "201.9"
+    },
+    {
+      "RK": "5",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L21-24vs.JXST",
@@ -49,7 +61,7 @@
       "RAT": "105.2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Brad Jackson, QB",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
@@ -61,7 +73,7 @@
       "RAT": "108.2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "W38-14atRICE",
@@ -73,7 +85,7 @@
       "RAT": "167.7"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
       "RESULT": "W55-14vs.SHSU",
@@ -85,7 +97,7 @@
       "RAT": "175.5"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Gio Lopez, QB",
       "TEAM": "UNC",
       "RESULT": "W27-10atSYR",
@@ -97,7 +109,7 @@
       "RAT": "209.2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Arch Manning, QB",
       "TEAM": "TEX",
       "RESULT": "",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "221.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Darian Mensah, QB",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "22",
-      "YDS": "198",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "184.2"
     }
   ],
   "Rushing Leaders": [
