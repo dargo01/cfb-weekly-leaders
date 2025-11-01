@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "COMP": "31",
+      "ATT": "36",
+      "YDS": "343",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "193.6"
+    },
+    {
+      "RK": "7",
       "NAME": "Arch Manning, QB",
       "TEAM": "TEX",
       "RESULT": "W34-31vs.VAN",
@@ -73,7 +85,7 @@
       "RAT": "189.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Julian Sayin, QB",
       "TEAM": "OSU",
       "RESULT": "W38-14vs.PSU",
@@ -85,7 +97,7 @@
       "RAT": "259.8"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "L35-45vs.WVU",
@@ -97,28 +109,16 @@
       "RAT": "171.9"
     },
     {
-      "RK": "9",
-      "NAME": "Anthony Colandrea, QB",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "32",
-      "YDS": "306",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "185.3"
-    },
-    {
       "RK": "10",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "",
-      "COMP": "13",
-      "ATT": "18",
-      "YDS": "287",
+      "COMP": "14",
+      "ATT": "19",
+      "YDS": "283",
       "TD": "3",
       "INT": "1",
-      "RAT": "250.0"
+      "RAT": "240.4"
     }
   ],
   "Rushing Leaders": [
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Evan Dickens, RB",
+      "TEAM": "LIB",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "167",
+      "YPC": "11.1",
+      "TD": "4"
+    },
+    {
+      "RK": "5",
       "NAME": "Clay Thevenin, RB",
       "TEAM": "LT",
       "RESULT": "W55-14vs.SHSU",
@@ -163,7 +173,7 @@
       "TD": "3"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Omiri Wiggins, RB",
       "TEAM": "LT",
       "RESULT": "W55-14vs.SHSU",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Antwan Roberts, RB",
       "TEAM": "MRSH",
       "RESULT": "L27-44atCCU",
@@ -183,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Isaac Brown, RB",
       "TEAM": "LOU",
       "RESULT": "",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Al-Jay Henderson, RB",
       "TEAM": "BUF",
       "RESULT": "W28-3atBGSU",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Chase Belcher, RB",
       "TEAM": "KENN",
       "RESULT": "W33-20vs.UTEP",
@@ -211,16 +221,6 @@
       "YDS": "113",
       "YPC": "4.7",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Carson Hansen, RB",
-      "TEAM": "ISU",
-      "RESULT": "L19-24vs.ASU",
-      "CAR": "18",
-      "YDS": "113",
-      "YPC": "6.3",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -296,16 +296,6 @@
     },
     {
       "RK": "8",
-      "NAME": "Damon Bankston, RB",
-      "TEAM": "UNM",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "126",
-      "YPR": "31.5",
-      "TD": "2"
-    },
-    {
-      "RK": "9",
       "NAME": "Carnell Tate, WR",
       "TEAM": "OSU",
       "RESULT": "W38-14vs.PSU",
@@ -315,13 +305,23 @@
       "TD": "1"
     },
     {
-      "RK": "10",
+      "RK": "9",
       "NAME": "Jeremiah Smith, WR",
       "TEAM": "OSU",
       "RESULT": "W38-14vs.PSU",
       "REC": "6",
       "YDS": "123",
       "YPR": "20.5",
+      "TD": "2"
+    },
+    {
+      "RK": "10",
+      "NAME": "Damon Bankston, RB",
+      "TEAM": "UNM",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "122",
+      "YPR": "24.4",
       "TD": "2"
     }
   ]
