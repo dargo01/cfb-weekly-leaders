@@ -134,22 +134,22 @@
     },
     {
       "RK": "2",
+      "NAME": "Evan Dickens, RB",
+      "TEAM": "LIB",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "217",
+      "YPC": "9.9",
+      "TD": "4"
+    },
+    {
+      "RK": "3",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W31-17vs.NAVY",
       "CAR": "33",
       "YDS": "197",
       "YPC": "6.0",
-      "TD": "4"
-    },
-    {
-      "RK": "3",
-      "NAME": "Evan Dickens, RB",
-      "TEAM": "LIB",
-      "RESULT": "",
-      "CAR": "20",
-      "YDS": "193",
-      "YPC": "9.7",
       "TD": "4"
     },
     {
@@ -268,7 +268,7 @@
       "RK": "5",
       "NAME": "Shelton Sampson Jr., WR",
       "TEAM": "UL",
-      "RESULT": "",
+      "RESULT": "W31-22atUSA",
       "REC": "6",
       "YDS": "138",
       "YPR": "23.0",
