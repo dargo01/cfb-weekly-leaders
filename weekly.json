@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Cade Klubnik, QB",
+      "TEAM": "CLEM",
+      "RESULT": "L45-46vs.DUKE",
+      "COMP": "27",
+      "ATT": "36",
+      "YDS": "385",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "183.2"
+    },
+    {
+      "RK": "2",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -13,7 +25,19 @@
       "RAT": "228.1"
     },
     {
-      "RK": "2",
+      "RK": "3",
+      "NAME": "Kevin Jennings, QB",
+      "TEAM": "SMU",
+      "RESULT": "",
+      "COMP": "29",
+      "ATT": "44",
+      "YDS": "365",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "143.1"
+    },
+    {
+      "RK": "",
       "NAME": "Diego Pavia, QB",
       "TEAM": "VAN",
       "RESULT": "L31-34atTEX",
@@ -25,40 +49,16 @@
       "RAT": "177.8"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Darian Mensah, QB",
       "TEAM": "DUKE",
-      "RESULT": "",
+      "RESULT": "W46-45atCLEM",
       "COMP": "27",
       "ATT": "41",
       "YDS": "361",
       "TD": "4",
       "INT": "0",
       "RAT": "172.0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Cade Klubnik, QB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "32",
-      "YDS": "353",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "191.4"
-    },
-    {
-      "RK": "5",
-      "NAME": "Kevin Jennings, QB",
-      "TEAM": "SMU",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "40",
-      "YDS": "343",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "147.8"
     },
     {
       "RK": "6",
@@ -147,9 +147,9 @@
       "NAME": "Jeff Sims, QB",
       "TEAM": "ASU",
       "RESULT": "",
-      "CAR": "16",
-      "YDS": "159",
-      "YPC": "9.9",
+      "CAR": "17",
+      "YDS": "172",
+      "YPC": "10.1",
       "TD": "2"
     },
     {
@@ -226,16 +226,6 @@
   "Receiving Leaders": [
     {
       "RK": "1",
-      "NAME": "Antonio Williams, WR",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "REC": "10",
-      "YDS": "149",
-      "YPR": "14.9",
-      "TD": "1"
-    },
-    {
-      "RK": "2",
       "NAME": "Eli Stowers, TE",
       "TEAM": "VAN",
       "RESULT": "L31-34atTEX",
@@ -243,6 +233,16 @@
       "YDS": "146",
       "YPR": "20.9",
       "TD": "2"
+    },
+    {
+      "RK": "2",
+      "NAME": "Antonio Williams, WR",
+      "TEAM": "CLEM",
+      "RESULT": "L45-46vs.DUKE",
+      "REC": "10",
+      "YDS": "142",
+      "YPR": "14.2",
+      "TD": "1"
     },
     {
       "RK": "3",
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Jordan Hudson, WR",
+      "TEAM": "SMU",
+      "RESULT": "",
+      "REC": "11",
+      "YDS": "136",
+      "YPR": "12.4",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Deondre Johnson, WR",
       "TEAM": "JXST",
       "RESULT": "W24-21atMTSU",
@@ -265,24 +275,14 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Cooper Barkate, WR",
       "TEAM": "DUKE",
-      "RESULT": "",
+      "RESULT": "W46-45atCLEM",
       "REC": "6",
       "YDS": "127",
       "YPR": "21.2",
       "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Jordan Hudson, WR",
-      "TEAM": "SMU",
-      "RESULT": "",
-      "REC": "10",
-      "YDS": "125",
-      "YPR": "12.5",
-      "TD": "0"
     },
     {
       "RK": "7",
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Damon Bankston, RB",
+      "TEAM": "UNM",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "114",
+      "YPR": "57.0",
+      "TD": "2"
+    },
+    {
+      "RK": "10",
       "NAME": "David Amador II, WR",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -313,16 +323,6 @@
       "YDS": "113",
       "YPR": "11.3",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Nik McMillan, WR",
-      "TEAM": "BUF",
-      "RESULT": "W28-3atBGSU",
-      "REC": "8",
-      "YDS": "105",
-      "YPR": "13.1",
-      "TD": "0"
     }
   ]
 }
