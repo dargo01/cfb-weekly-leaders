@@ -64,7 +64,7 @@
       "RK": "6",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
-      "RESULT": "",
+      "RESULT": "W55-14vs.SHSU",
       "COMP": "17",
       "ATT": "21",
       "YDS": "221",
@@ -112,13 +112,13 @@
       "RK": "10",
       "NAME": "Hunter Watson, QB",
       "TEAM": "SHSU",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "31",
-      "YDS": "165",
+      "RESULT": "L14-55atLT",
+      "COMP": "14",
+      "ATT": "33",
+      "YDS": "193",
       "TD": "0",
       "INT": "1",
-      "RAT": "77.0"
+      "RAT": "85.5"
     }
   ],
   "Rushing Leaders": [
@@ -126,17 +126,17 @@
       "RK": "1",
       "NAME": "Elijah Green, RB",
       "TEAM": "SHSU",
-      "RESULT": "",
-      "CAR": "7",
-      "YDS": "177",
-      "YPC": "25.3",
+      "RESULT": "L14-55atLT",
+      "CAR": "10",
+      "YDS": "191",
+      "YPC": "19.1",
       "TD": "2"
     },
     {
       "RK": "2",
       "NAME": "Clay Thevenin, RB",
       "TEAM": "LT",
-      "RESULT": "",
+      "RESULT": "W55-14vs.SHSU",
       "CAR": "11",
       "YDS": "143",
       "YPC": "13.0",
@@ -146,7 +146,7 @@
       "RK": "3",
       "NAME": "Omiri Wiggins, RB",
       "TEAM": "LT",
-      "RESULT": "",
+      "RESULT": "W55-14vs.SHSU",
       "CAR": "14",
       "YDS": "136",
       "YPC": "9.7",
@@ -296,16 +296,26 @@
     },
     {
       "RK": "8",
+      "NAME": "Chris Reed, WR",
+      "TEAM": "SHSU",
+      "RESULT": "L14-55atLT",
+      "REC": "6",
+      "YDS": "79",
+      "YPR": "13.2",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Devin Gandy, WR",
       "TEAM": "LT",
-      "RESULT": "",
+      "RESULT": "W55-14vs.SHSU",
       "REC": "2",
       "YDS": "78",
       "YPR": "39.0",
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -313,16 +323,6 @@
       "YDS": "69",
       "YPR": "34.5",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Omari Hayes, WR",
-      "TEAM": "TULN",
-      "RESULT": "L26-48atUTSA",
-      "REC": "3",
-      "YDS": "69",
-      "YPR": "23.0",
-      "TD": "1"
     }
   ]
 }
