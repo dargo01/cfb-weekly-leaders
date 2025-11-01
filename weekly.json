@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "COMP": "27",
+      "ATT": "32",
+      "YDS": "306",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "185.3"
+    },
+    {
+      "RK": "10",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "250.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Anthony Colandrea, QB",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "COMP": "24",
-      "ATT": "27",
-      "YDS": "276",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "199.2"
     }
   ],
   "Rushing Leaders": [
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Isaac Brown, RB",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "120",
+      "YPC": "8.6",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Al-Jay Henderson, RB",
       "TEAM": "BUF",
       "RESULT": "W28-3atBGSU",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Chase Belcher, RB",
       "TEAM": "KENN",
       "RESULT": "W33-20vs.UTEP",
@@ -211,16 +221,6 @@
       "YDS": "113",
       "YPC": "6.3",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "L17-31atUNT",
-      "CAR": "19",
-      "YDS": "112",
-      "YPC": "5.9",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Shelton Sampson Jr., WR",
+      "TEAM": "UL",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "138",
+      "YPR": "23.0",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
       "NAME": "Jordan Hudson, WR",
       "TEAM": "SMU",
       "RESULT": "W26-20vs.MIA",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Deondre Johnson, WR",
       "TEAM": "JXST",
       "RESULT": "W24-21atMTSU",
@@ -275,7 +285,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Cooper Barkate, WR",
       "TEAM": "DUKE",
       "RESULT": "W46-45atCLEM",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Damon Bankston, RB",
       "TEAM": "UNM",
       "RESULT": "",
@@ -295,7 +305,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Carnell Tate, WR",
       "TEAM": "OSU",
       "RESULT": "W38-14vs.PSU",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jeremiah Smith, WR",
       "TEAM": "OSU",
       "RESULT": "W38-14vs.PSU",
       "REC": "6",
       "YDS": "123",
       "YPR": "20.5",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Shelton Sampson Jr., WR",
-      "TEAM": "UL",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "119",
-      "YPR": "23.8",
       "TD": "2"
     }
   ]
