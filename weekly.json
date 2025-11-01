@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "31",
+      "YDS": "247",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "162.4"
+    },
+    {
+      "RK": "4",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L21-24vs.JXST",
@@ -37,7 +49,7 @@
       "RAT": "105.2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Brad Jackson, QB",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
@@ -49,7 +61,7 @@
       "RAT": "108.2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "W38-14atRICE",
@@ -61,7 +73,7 @@
       "RAT": "167.7"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
       "RESULT": "W55-14vs.SHSU",
@@ -73,7 +85,7 @@
       "RAT": "175.5"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Gio Lopez, QB",
       "TEAM": "UNC",
       "RESULT": "W27-10atSYR",
@@ -85,40 +97,28 @@
       "RAT": "209.2"
     },
     {
-      "RK": "8",
-      "NAME": "Sawyer Robertson, QB",
-      "TEAM": "BAY",
+      "RK": "9",
+      "NAME": "Arch Manning, QB",
+      "TEAM": "TEX",
       "RESULT": "",
-      "COMP": "19",
-      "ATT": "26",
-      "YDS": "212",
+      "COMP": "12",
+      "ATT": "16",
+      "YDS": "200",
       "TD": "2",
       "INT": "0",
-      "RAT": "167.0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Samari Collier, QB",
-      "TEAM": "CCU",
-      "RESULT": "W44-27vs.MRSH",
-      "COMP": "8",
-      "ATT": "20",
-      "YDS": "196",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "145.3"
+      "RAT": "221.3"
     },
     {
       "RK": "10",
-      "NAME": "Jake Retzlaff, QB",
-      "TEAM": "TULN",
-      "RESULT": "L26-48atUTSA",
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
       "COMP": "14",
-      "ATT": "28",
-      "YDS": "194",
-      "TD": "1",
-      "INT": "2",
-      "RAT": "105.7"
+      "ATT": "22",
+      "YDS": "198",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "184.2"
     }
   ],
   "Rushing Leaders": [
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "116",
+      "YPR": "23.2",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "David Amador II, WR",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -245,7 +255,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Nick DeGennaro, WR",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -253,16 +263,6 @@
       "YDS": "101",
       "YPR": "33.7",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Cooper Barkate, WR",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "97",
-      "YPR": "32.3",
-      "TD": "1"
     },
     {
       "RK": "5",
