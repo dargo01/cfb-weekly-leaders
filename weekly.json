@@ -28,7 +28,7 @@
       "RK": "3",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
-      "RESULT": "",
+      "RESULT": "W26-20vs.MIA",
       "COMP": "29",
       "ATT": "44",
       "YDS": "365",
@@ -100,13 +100,13 @@
       "RK": "9",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
-      "RESULT": "",
+      "RESULT": "L20-26atSMU",
       "COMP": "26",
-      "ATT": "37",
+      "ATT": "38",
       "YDS": "274",
       "TD": "2",
-      "INT": "1",
-      "RAT": "144.9"
+      "INT": "2",
+      "RAT": "135.8"
     },
     {
       "RK": "10",
@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Jeff Sims, QB",
+      "TEAM": "ASU",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "198",
+      "YPC": "9.9",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W31-17vs.NAVY",
@@ -133,23 +143,13 @@
       "TD": "4"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Elijah Green, RB",
       "TEAM": "SHSU",
       "RESULT": "L14-55atLT",
       "CAR": "10",
       "YDS": "191",
       "YPC": "19.1",
-      "TD": "2"
-    },
-    {
-      "RK": "3",
-      "NAME": "Jeff Sims, QB",
-      "TEAM": "ASU",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "172",
-      "YPC": "10.1",
       "TD": "2"
     },
     {
@@ -258,7 +258,7 @@
       "RK": "4",
       "NAME": "Jordan Hudson, WR",
       "TEAM": "SMU",
-      "RESULT": "",
+      "RESULT": "W26-20vs.MIA",
       "REC": "11",
       "YDS": "136",
       "YPR": "12.4",
@@ -309,9 +309,9 @@
       "NAME": "Damon Bankston, RB",
       "TEAM": "UNM",
       "RESULT": "",
-      "REC": "2",
+      "REC": "3",
       "YDS": "114",
-      "YPR": "57.0",
+      "YPR": "38.0",
       "TD": "2"
     },
     {
