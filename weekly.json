@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Evan Dickens, RB",
+      "TEAM": "LIB",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "193",
+      "YPC": "9.7",
+      "TD": "4"
+    },
+    {
+      "RK": "4",
       "NAME": "Elijah Green, RB",
       "TEAM": "SHSU",
       "RESULT": "L14-55atLT",
@@ -151,16 +161,6 @@
       "YDS": "191",
       "YPC": "19.1",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Evan Dickens, RB",
-      "TEAM": "LIB",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "183",
-      "YPC": "10.2",
-      "TD": "4"
     },
     {
       "RK": "5",
@@ -193,17 +193,17 @@
       "TD": "0"
     },
     {
-      "RK": "",
+      "RK": "8",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "134",
-      "YPC": "11.2",
+      "CAR": "13",
+      "YDS": "130",
+      "YPC": "10.0",
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "",
       "NAME": "Isaac Brown, RB",
       "TEAM": "LOU",
       "RESULT": "W28-16atVT",
