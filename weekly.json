@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Jack Layne, QB",
+      "TEAM": "UNM",
+      "RESULT": "",
+      "COMP": "12",
+      "ATT": "15",
+      "YDS": "287",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "293.4"
+    },
+    {
+      "RK": "10",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "L20-26atSMU",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "2",
       "RAT": "135.8"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sawyer Robertson, QB",
-      "TEAM": "BAY",
-      "RESULT": "W30-3vs.UCF",
-      "COMP": "29",
-      "ATT": "40",
-      "YDS": "267",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "153.3"
     }
   ],
   "Rushing Leaders": [
@@ -316,12 +316,12 @@
     },
     {
       "RK": "10",
-      "NAME": "David Amador II, WR",
-      "TEAM": "UTSA",
-      "RESULT": "W48-26vs.TULN",
-      "REC": "10",
-      "YDS": "113",
-      "YPR": "11.3",
+      "NAME": "Shelton Sampson Jr., WR",
+      "TEAM": "UL",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "119",
+      "YPR": "23.8",
       "TD": "2"
     }
   ]
