@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Joshisa Trader, WR",
+      "TEAM": "MIA",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "82",
+      "YPR": "20.5",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Demon June, RB",
       "TEAM": "UNC",
       "RESULT": "W27-10atSYR",
@@ -313,16 +323,6 @@
       "YDS": "81",
       "YPR": "40.5",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chris Reed, WR",
-      "TEAM": "SHSU",
-      "RESULT": "L14-55atLT",
-      "REC": "6",
-      "YDS": "79",
-      "YPR": "13.2",
-      "TD": "0"
     }
   ]
 }
