@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "23",
+      "YDS": "316",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "259.8"
+    },
+    {
+      "RK": "3",
       "NAME": "Arch Manning, QB",
       "TEAM": "TEX",
       "RESULT": "",
@@ -23,18 +35,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "197.0"
-    },
-    {
-      "RK": "3",
-      "NAME": "Julian Sayin, QB",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "22",
-      "YDS": "305",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "247.8"
     },
     {
       "RK": "4",
@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "27",
+      "YDS": "257",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "195.5"
+    },
+    {
+      "RK": "7",
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "",
@@ -73,7 +85,7 @@
       "RAT": "166.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "",
@@ -85,7 +97,7 @@
       "RAT": "168.1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L21-24vs.JXST",
@@ -97,28 +109,16 @@
       "RAT": "105.2"
     },
     {
-      "RK": "9",
+      "RK": "",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
       "RESULT": "",
-      "COMP": "19",
-      "ATT": "27",
-      "YDS": "233",
+      "COMP": "20",
+      "ATT": "28",
+      "YDS": "235",
       "TD": "1",
       "INT": "0",
-      "RAT": "155.1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Darian Mensah, QB",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "COMP": "16",
-      "ATT": "25",
-      "YDS": "230",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "194.1"
+      "RAT": "153.7"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "",
-      "CAR": "27",
-      "YDS": "172",
-      "YPC": "6.4",
+      "CAR": "29",
+      "YDS": "176",
+      "YPC": "6.1",
       "TD": "4"
     },
     {
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "127",
+      "YPR": "21.2",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Carnell Tate, WR",
       "TEAM": "OSU",
       "RESULT": "",
@@ -265,17 +275,17 @@
       "TD": "1"
     },
     {
-      "RK": "5",
-      "NAME": "Cooper Barkate, WR",
-      "TEAM": "DUKE",
+      "RK": "6",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "116",
-      "YPR": "23.2",
-      "TD": "1"
+      "REC": "6",
+      "YDS": "123",
+      "YPR": "20.5",
+      "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "David Amador II, WR",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -283,16 +293,6 @@
       "YDS": "113",
       "YPR": "11.3",
       "TD": "2"
-    },
-    {
-      "RK": "7",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "112",
-      "YPR": "22.4",
-      "TD": "1"
     },
     {
       "RK": "8",
