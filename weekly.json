@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Brendon Lewis, QB",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "21",
+      "YDS": "206",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "163.4"
+    },
+    {
+      "RK": "6",
       "NAME": "Samari Collier, QB",
       "TEAM": "CCU",
       "RESULT": "W44-27vs.MRSH",
@@ -61,7 +73,7 @@
       "RAT": "145.3"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "L26-48atUTSA",
@@ -73,7 +85,7 @@
       "RAT": "105.7"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jacob Clark, QB",
       "TEAM": "MOST",
       "RESULT": "W28-21vs.FIU",
@@ -85,7 +97,19 @@
       "RAT": "134.4"
     },
     {
-      "RK": "8",
+      "RK": "",
+      "NAME": "Blake Baker, QB",
+      "TEAM": "LT",
+      "RESULT": "",
+      "COMP": "11",
+      "ATT": "12",
+      "YDS": "163",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "216.6"
+    },
+    {
+      "RK": "10",
       "NAME": "Skyler Locklear, QB",
       "TEAM": "UTEP",
       "RESULT": "L20-33atKENN",
@@ -95,30 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "117.4"
-    },
-    {
-      "RK": "9",
-      "NAME": "Carlos Del Rio-Wilson, QB",
-      "TEAM": "MRSH",
-      "RESULT": "L27-44atCCU",
-      "COMP": "21",
-      "ATT": "36",
-      "YDS": "153",
-      "TD": "1",
-      "INT": "2",
-      "RAT": "92.1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Keyone Jenkins, QB",
-      "TEAM": "FIU",
-      "RESULT": "L21-28atMOST",
-      "COMP": "15",
-      "ATT": "24",
-      "YDS": "147",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "141.5"
     }
   ],
   "Rushing Leaders": [
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Clay Thevenin, RB",
+      "TEAM": "LT",
+      "RESULT": "",
+      "CAR": "7",
+      "YDS": "88",
+      "YPC": "12.6",
+      "TD": "2"
+    },
+    {
+      "RK": "7",
       "NAME": "Robert Henry Jr., RB",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -183,43 +193,33 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Omiri Wiggins, RB",
+      "TEAM": "LT",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "84",
+      "YPC": "9.3",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
+      "NAME": "Demon June, RB",
+      "TEAM": "UNC",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "80",
+      "YPC": "8.9",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Skyler Locklear, QB",
       "TEAM": "UTEP",
       "RESULT": "L20-33atKENN",
       "CAR": "23",
       "YDS": "77",
       "YPC": "3.3",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Dominic Knicely, RB",
-      "TEAM": "CCU",
-      "RESULT": "W44-27vs.MRSH",
-      "CAR": "5",
-      "YDS": "76",
-      "YPC": "15.2",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Samari Collier, QB",
-      "TEAM": "CCU",
-      "RESULT": "W44-27vs.MRSH",
-      "CAR": "22",
-      "YDS": "75",
-      "YPC": "3.4",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Carlos Del Rio-Wilson, QB",
-      "TEAM": "MRSH",
-      "RESULT": "L27-44atCCU",
-      "CAR": "20",
-      "YDS": "67",
-      "YPC": "3.4",
       "TD": "0"
     }
   ],
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Devin Gandy, WR",
+      "TEAM": "LT",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "78",
+      "YPR": "39.0",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Patrick Overmyer, TE",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
       "REC": "4",
       "YDS": "68",
       "YPR": "17.0",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Beau Sparks, WR",
-      "TEAM": "TXST",
-      "RESULT": "L20-52vs.JMU",
-      "REC": "4",
-      "YDS": "67",
-      "YPR": "16.8",
       "TD": "0"
     }
   ]
