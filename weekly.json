@@ -76,7 +76,7 @@
       "RK": "7",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
-      "RESULT": "",
+      "RESULT": "L30-59atLIB",
       "COMP": "29",
       "ATT": "49",
       "YDS": "344",
@@ -136,7 +136,7 @@
       "RK": "2",
       "NAME": "Evan Dickens, RB",
       "TEAM": "LIB",
-      "RESULT": "",
+      "RESULT": "W59-30vs.DEL",
       "CAR": "22",
       "YDS": "217",
       "YPC": "9.9",
@@ -176,7 +176,7 @@
       "RK": "6",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
-      "RESULT": "",
+      "RESULT": "W25-10atBC",
       "CAR": "17",
       "YDS": "136",
       "YPC": "8.0",
@@ -194,6 +194,16 @@
     },
     {
       "RK": "8",
+      "NAME": "J'Koby Williams, RB",
+      "TEAM": "TTU",
+      "RESULT": "W43-20atKSU",
+      "CAR": "17",
+      "YDS": "135",
+      "YPC": "7.9",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Antwan Roberts, RB",
       "TEAM": "MRSH",
       "RESULT": "L27-44atCCU",
@@ -201,16 +211,6 @@
       "YDS": "134",
       "YPC": "8.9",
       "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "J'Koby Williams, RB",
-      "TEAM": "TTU",
-      "RESULT": "",
-      "CAR": "16",
-      "YDS": "133",
-      "YPC": "8.3",
-      "TD": "1"
     },
     {
       "RK": "10",
