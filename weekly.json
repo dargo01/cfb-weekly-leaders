@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "97",
+      "YPR": "32.3",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Mavin Anderson, WR",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
@@ -275,7 +285,17 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Ryan Wingo, WR",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "89",
+      "YPR": "44.5",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Jekail Middlebrook, RB",
       "TEAM": "MTSU",
       "RESULT": "L21-24vs.JXST",
@@ -285,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Demon June, RB",
       "TEAM": "UNC",
       "RESULT": "W27-10atSYR",
@@ -295,33 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Chris Reed, WR",
       "TEAM": "SHSU",
       "RESULT": "L14-55atLT",
       "REC": "6",
       "YDS": "79",
       "YPR": "13.2",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Devin Gandy, WR",
-      "TEAM": "LT",
-      "RESULT": "W55-14vs.SHSU",
-      "REC": "2",
-      "YDS": "78",
-      "YPR": "39.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Wayne Knight, RB",
-      "TEAM": "JMU",
-      "RESULT": "W52-20atTXST",
-      "REC": "2",
-      "YDS": "69",
-      "YPR": "34.5",
       "TD": "0"
     }
   ]
