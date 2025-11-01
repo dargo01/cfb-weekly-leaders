@@ -14,6 +14,30 @@
     },
     {
       "RK": "2",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "20",
+      "YDS": "300",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "244.0"
+    },
+    {
+      "RK": "3",
+      "NAME": "Arch Manning, QB",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "24",
+      "YDS": "287",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "220.9"
+    },
+    {
+      "RK": "4",
       "NAME": "Alonza Barnett III, QB",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -25,31 +49,19 @@
       "RAT": "252.1"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "",
       "COMP": "23",
-      "ATT": "31",
+      "ATT": "30",
       "YDS": "247",
       "TD": "2",
-      "INT": "1",
-      "RAT": "156.0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Darian Mensah, QB",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "24",
-      "YDS": "241",
-      "TD": "4",
       "INT": "0",
-      "RAT": "201.9"
+      "RAT": "161.4"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L21-24vs.JXST",
@@ -61,7 +73,19 @@
       "RAT": "105.2"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "25",
+      "YDS": "230",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "194.1"
+    },
+    {
+      "RK": "",
       "NAME": "Brad Jackson, QB",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
@@ -73,7 +97,7 @@
       "RAT": "108.2"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "W38-14atRICE",
@@ -85,7 +109,7 @@
       "RAT": "167.7"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Blake Baker, QB",
       "TEAM": "LT",
       "RESULT": "W55-14vs.SHSU",
@@ -95,30 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "175.5"
-    },
-    {
-      "RK": "9",
-      "NAME": "Gio Lopez, QB",
-      "TEAM": "UNC",
-      "RESULT": "W27-10atSYR",
-      "COMP": "15",
-      "ATT": "19",
-      "YDS": "216",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "209.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Arch Manning, QB",
-      "TEAM": "TEX",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "16",
-      "YDS": "200",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "221.3"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Caleb Hawkins, RB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "CAR": "23",
+      "YDS": "147",
+      "YPC": "6.4",
+      "TD": "3"
+    },
+    {
+      "RK": "3",
       "NAME": "Clay Thevenin, RB",
       "TEAM": "LT",
       "RESULT": "W55-14vs.SHSU",
@@ -143,7 +153,7 @@
       "TD": "3"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Omiri Wiggins, RB",
       "TEAM": "LT",
       "RESULT": "W55-14vs.SHSU",
@@ -153,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Antwan Roberts, RB",
       "TEAM": "MRSH",
       "RESULT": "L27-44atCCU",
@@ -161,16 +171,6 @@
       "YDS": "134",
       "YPC": "8.9",
       "TD": "0"
-    },
-    {
-      "RK": "5",
-      "NAME": "Caleb Hawkins, RB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "132",
-      "YPC": "7.8",
-      "TD": "3"
     },
     {
       "RK": "6",
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "111",
+      "YPC": "6.2",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W24-21atMTSU",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Shomari Lawrence, RB",
       "TEAM": "MOST",
       "RESULT": "W28-21vs.FIU",
@@ -203,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Demon June, RB",
       "TEAM": "UNC",
       "RESULT": "W27-10atSYR",
@@ -211,21 +221,21 @@
       "YDS": "101",
       "YPC": "7.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Alonza Barnett III, QB",
-      "TEAM": "JMU",
-      "RESULT": "W52-20atTXST",
-      "CAR": "10",
-      "YDS": "98",
-      "YPC": "9.8",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Skyler Bell, WR",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "140",
+      "YPR": "20.0",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
       "NAME": "Deondre Johnson, WR",
       "TEAM": "JXST",
       "RESULT": "W24-21atMTSU",
@@ -235,7 +245,17 @@
       "TD": "2"
     },
     {
-      "RK": "2",
+      "RK": "3",
+      "NAME": "Carnell Tate, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "124",
+      "YPR": "24.8",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Cooper Barkate, WR",
       "TEAM": "DUKE",
       "RESULT": "",
@@ -245,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "David Amador II, WR",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -255,7 +275,27 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "6",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "112",
+      "YPR": "22.4",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Antonio Williams, WR",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "109",
+      "YPR": "18.2",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Nick DeGennaro, WR",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -265,63 +305,23 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "9",
+      "NAME": "Nik McMillan, WR",
+      "TEAM": "BUF",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "99",
+      "YPR": "14.1",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Mavin Anderson, WR",
       "TEAM": "TXST",
       "RESULT": "L20-52vs.JMU",
       "REC": "5",
       "YDS": "96",
       "YPR": "19.2",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Devin McCuin, WR",
-      "TEAM": "UTSA",
-      "RESULT": "W48-26vs.TULN",
-      "REC": "8",
-      "YDS": "96",
-      "YPR": "12.0",
-      "TD": "2"
-    },
-    {
-      "RK": "7",
-      "NAME": "Ryan Wingo, WR",
-      "TEAM": "TEX",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "89",
-      "YPR": "44.5",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jekail Middlebrook, RB",
-      "TEAM": "MTSU",
-      "RESULT": "L21-24vs.JXST",
-      "REC": "6",
-      "YDS": "87",
-      "YPR": "14.5",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Joshisa Trader, WR",
-      "TEAM": "MIA",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "82",
-      "YPR": "20.5",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Demon June, RB",
-      "TEAM": "UNC",
-      "RESULT": "W27-10atSYR",
-      "REC": "2",
-      "YDS": "81",
-      "YPR": "40.5",
       "TD": "1"
     }
   ]
