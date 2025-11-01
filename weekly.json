@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "26",
+      "YDS": "212",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "167.0"
+    },
+    {
+      "RK": "9",
       "NAME": "Samari Collier, QB",
       "TEAM": "CCU",
       "RESULT": "W44-27vs.MRSH",
@@ -97,7 +109,7 @@
       "RAT": "145.3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "L26-48atUTSA",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "2",
       "RAT": "105.7"
-    },
-    {
-      "RK": "10",
-      "NAME": "Hunter Watson, QB",
-      "TEAM": "SHSU",
-      "RESULT": "L14-55atLT",
-      "COMP": "14",
-      "ATT": "33",
-      "YDS": "193",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "85.5"
     }
   ],
   "Rushing Leaders": [
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Caleb Hawkins, RB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "132",
+      "YPC": "7.8",
+      "TD": "3"
+    },
+    {
+      "RK": "6",
       "NAME": "Chase Belcher, RB",
       "TEAM": "KENN",
       "RESULT": "W33-20vs.UTEP",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W24-21atMTSU",
@@ -181,16 +191,6 @@
       "YDS": "105",
       "YPC": "5.0",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Caleb Hawkins, RB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "CAR": "13",
-      "YDS": "105",
-      "YPC": "8.1",
-      "TD": "3"
     },
     {
       "RK": "8",
