@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "23",
+      "YDS": "316",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "259.8"
+    },
+    {
+      "RK": "3",
       "NAME": "Arch Manning, QB",
       "TEAM": "TEX",
       "RESULT": "",
@@ -25,31 +37,7 @@
       "RAT": "197.0"
     },
     {
-      "RK": "3",
-      "NAME": "Julian Sayin, QB",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "22",
-      "YDS": "305",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "247.8"
-    },
-    {
       "RK": "4",
-      "NAME": "Sawyer Robertson, QB",
-      "TEAM": "BAY",
-      "RESULT": "",
-      "COMP": "28",
-      "ATT": "37",
-      "YDS": "296",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "154.3"
-    },
-    {
-      "RK": "5",
       "NAME": "Alonza Barnett III, QB",
       "TEAM": "JMU",
       "RESULT": "W52-20atTXST",
@@ -61,7 +49,31 @@
       "RAT": "252.1"
     },
     {
+      "RK": "5",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "27",
+      "ATT": "37",
+      "YDS": "258",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "142.9"
+    },
+    {
       "RK": "6",
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "27",
+      "YDS": "257",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "195.5"
+    },
+    {
+      "RK": "7",
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "",
@@ -73,7 +85,7 @@
       "RAT": "166.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "",
@@ -85,7 +97,7 @@
       "RAT": "168.1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Nicholas Vattiato, QB",
       "TEAM": "MTSU",
       "RESULT": "L21-24vs.JXST",
@@ -97,28 +109,16 @@
       "RAT": "105.2"
     },
     {
-      "RK": "9",
-      "NAME": "Darian Mensah, QB",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "COMP": "16",
-      "ATT": "25",
-      "YDS": "230",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "194.1"
-    },
-    {
       "RK": "",
-      "NAME": "Brad Jackson, QB",
-      "TEAM": "TXST",
-      "RESULT": "L20-52vs.JMU",
-      "COMP": "18",
-      "ATT": "32",
-      "YDS": "230",
+      "NAME": "Kevin Jennings, QB",
+      "TEAM": "SMU",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "28",
+      "YDS": "235",
       "TD": "1",
-      "INT": "3",
-      "RAT": "108.2"
+      "INT": "0",
+      "RAT": "153.7"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "",
-      "CAR": "24",
-      "YDS": "163",
-      "YPC": "6.8",
+      "CAR": "29",
+      "YDS": "176",
+      "YPC": "6.1",
       "TD": "4"
     },
     {
@@ -197,9 +197,9 @@
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "111",
-      "YPC": "6.2",
+      "CAR": "19",
+      "YDS": "112",
+      "YPC": "5.9",
       "TD": "1"
     },
     {
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "127",
+      "YPR": "21.2",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Carnell Tate, WR",
       "TEAM": "OSU",
       "RESULT": "",
@@ -265,17 +275,17 @@
       "TD": "1"
     },
     {
-      "RK": "5",
-      "NAME": "Cooper Barkate, WR",
-      "TEAM": "DUKE",
+      "RK": "6",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "116",
-      "YPR": "23.2",
-      "TD": "1"
+      "REC": "6",
+      "YDS": "123",
+      "YPR": "20.5",
+      "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "David Amador II, WR",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -283,16 +293,6 @@
       "YDS": "113",
       "YPR": "11.3",
       "TD": "2"
-    },
-    {
-      "RK": "7",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "112",
-      "YPR": "22.4",
-      "TD": "1"
     },
     {
       "RK": "8",
