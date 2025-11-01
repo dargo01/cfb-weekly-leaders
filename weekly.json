@@ -101,24 +101,24 @@
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "",
-      "COMP": "12",
-      "ATT": "15",
+      "COMP": "13",
+      "ATT": "18",
       "YDS": "287",
       "TD": "3",
       "INT": "1",
-      "RAT": "293.4"
+      "RAT": "250.0"
     },
     {
       "RK": "10",
-      "NAME": "Carson Beck, QB",
-      "TEAM": "MIA",
-      "RESULT": "L20-26atSMU",
-      "COMP": "26",
-      "ATT": "38",
-      "YDS": "274",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "COMP": "24",
+      "ATT": "27",
+      "YDS": "276",
       "TD": "2",
-      "INT": "2",
-      "RAT": "135.8"
+      "INT": "0",
+      "RAT": "199.2"
     }
   ],
   "Rushing Leaders": [
@@ -226,6 +226,16 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Skyler Bell, WR",
+      "TEAM": "CONN",
+      "RESULT": "W38-19vs.UAB",
+      "REC": "8",
+      "YDS": "149",
+      "YPR": "18.6",
+      "TD": "3"
+    },
+    {
+      "RK": "2",
       "NAME": "Eli Stowers, TE",
       "TEAM": "VAN",
       "RESULT": "L31-34atTEX",
@@ -235,7 +245,7 @@
       "TD": "2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Antonio Williams, WR",
       "TEAM": "CLEM",
       "RESULT": "L45-46vs.DUKE",
@@ -243,16 +253,6 @@
       "YDS": "142",
       "YPR": "14.2",
       "TD": "1"
-    },
-    {
-      "RK": "3",
-      "NAME": "Skyler Bell, WR",
-      "TEAM": "CONN",
-      "RESULT": "W38-19vs.UAB",
-      "REC": "7",
-      "YDS": "140",
-      "YPR": "20.0",
-      "TD": "2"
     },
     {
       "RK": "4",
