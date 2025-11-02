@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Haynes King, QB",
+      "TEAM": "GT",
+      "RESULT": "L36-48atNCSU",
+      "COMP": "25",
+      "ATT": "35",
+      "YDS": "408",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "182.5"
+    },
+    {
+      "RK": "2",
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "L45-46vs.DUKE",
@@ -13,7 +25,7 @@
       "RAT": "183.2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "L35-40vs.UNM",
@@ -25,7 +37,7 @@
       "RAT": "169.5"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -37,7 +49,7 @@
       "RAT": "228.1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
       "RESULT": "W26-20vs.MIA",
@@ -61,7 +73,7 @@
       "RAT": "177.8"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Darian Mensah, QB",
       "TEAM": "DUKE",
       "RESULT": "W46-45atCLEM",
@@ -73,7 +85,7 @@
       "RAT": "172.0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "L30-59atLIB",
@@ -85,7 +97,7 @@
       "RAT": "127.5"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jack Layne, QB",
       "TEAM": "UNM",
       "RESULT": "W40-35atUNLV",
@@ -97,28 +109,16 @@
       "RAT": "243.7"
     },
     {
-      "RK": "9",
-      "NAME": "Arch Manning, QB",
-      "TEAM": "TEX",
-      "RESULT": "W34-31vs.VAN",
-      "COMP": "25",
-      "ATT": "33",
-      "YDS": "328",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "189.2"
-    },
-    {
       "RK": "10",
-      "NAME": "Julian Sayin, QB",
-      "TEAM": "OSU",
-      "RESULT": "W38-14vs.PSU",
-      "COMP": "20",
-      "ATT": "23",
-      "YDS": "316",
-      "TD": "4",
+      "NAME": "CJ Bailey, QB",
+      "TEAM": "NCSU",
+      "RESULT": "W48-36vs.GT",
+      "COMP": "24",
+      "ATT": "32",
+      "YDS": "340",
+      "TD": "2",
       "INT": "0",
-      "RAT": "259.8"
+      "RAT": "184.9"
     }
   ],
   "Rushing Leaders": [
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Jayden Scott, RB",
+      "TEAM": "NCSU",
+      "RESULT": "W48-36vs.GT",
+      "CAR": "24",
+      "YDS": "196",
+      "YPC": "8.2",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Elijah Green, RB",
       "TEAM": "SHSU",
       "RESULT": "L14-55atLT",
@@ -163,63 +173,53 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
+      "NAME": "Jordan Marshall, RB",
+      "TEAM": "MICH",
+      "RESULT": "W21-16vs.PUR",
+      "CAR": "25",
+      "YDS": "185",
+      "YPC": "7.4",
+      "TD": "3"
+    },
+    {
+      "RK": "7",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "W30-14vs.SC",
+      "CAR": "24",
+      "YDS": "167",
+      "YPC": "7.0",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
+      "NAME": "Emmett Johnson, RB",
+      "TEAM": "NEB",
+      "RESULT": "L17-21vs.USC",
+      "CAR": "29",
+      "YDS": "165",
+      "YPC": "5.7",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
+      "NAME": "Lucky Sutton, RB",
+      "TEAM": "SDSU",
+      "RESULT": "W24-7vs.WYO",
+      "CAR": "28",
+      "YDS": "158",
+      "YPC": "5.6",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Clay Thevenin, RB",
       "TEAM": "LT",
       "RESULT": "W55-14vs.SHSU",
       "CAR": "11",
       "YDS": "143",
       "YPC": "13.0",
-      "TD": "3"
-    },
-    {
-      "RK": "6",
-      "NAME": "Jeremiyah Love, RB",
-      "TEAM": "ND",
-      "RESULT": "W25-10atBC",
-      "CAR": "17",
-      "YDS": "136",
-      "YPC": "8.0",
-      "TD": "2"
-    },
-    {
-      "RK": "",
-      "NAME": "Omiri Wiggins, RB",
-      "TEAM": "LT",
-      "RESULT": "W55-14vs.SHSU",
-      "CAR": "14",
-      "YDS": "136",
-      "YPC": "9.7",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "J'Koby Williams, RB",
-      "TEAM": "TTU",
-      "RESULT": "W43-20atKSU",
-      "CAR": "17",
-      "YDS": "135",
-      "YPC": "7.9",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Antwan Roberts, RB",
-      "TEAM": "MRSH",
-      "RESULT": "L27-44atCCU",
-      "CAR": "15",
-      "YDS": "134",
-      "YPC": "8.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jordan Marshall, RB",
-      "TEAM": "MICH",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "133",
-      "YPC": "7.4",
       "TD": "3"
     }
   ],
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Duce Robinson, WR",
+      "TEAM": "FSU",
+      "RESULT": "W42-7vs.WAKE",
+      "REC": "5",
+      "YDS": "148",
+      "YPR": "29.6",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Eli Stowers, TE",
       "TEAM": "VAN",
       "RESULT": "L31-34atTEX",
@@ -255,7 +265,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Antonio Williams, WR",
       "TEAM": "CLEM",
       "RESULT": "L45-46vs.DUKE",
@@ -265,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Shelton Sampson Jr., WR",
       "TEAM": "UL",
       "RESULT": "W31-22atUSA",
@@ -275,7 +285,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jordan Hudson, WR",
       "TEAM": "SMU",
       "RESULT": "W26-20vs.MIA",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Deondre Johnson, WR",
       "TEAM": "JXST",
       "RESULT": "W24-21atMTSU",
@@ -295,7 +305,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Cooper Barkate, WR",
       "TEAM": "DUKE",
       "RESULT": "W46-45atCLEM",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Carnell Tate, WR",
       "TEAM": "OSU",
       "RESULT": "W38-14vs.PSU",
@@ -313,16 +323,6 @@
       "YDS": "124",
       "YPR": "24.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
-      "RESULT": "W38-14vs.PSU",
-      "REC": "6",
-      "YDS": "123",
-      "YPR": "20.5",
-      "TD": "2"
     }
   ]
 }
