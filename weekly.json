@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "40",
+      "YDS": "458",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "162.7"
+    },
+    {
+      "RK": "2",
       "NAME": "Haynes King, QB",
       "TEAM": "GT",
       "RESULT": "L36-48atNCSU",
@@ -13,7 +25,7 @@
       "RAT": "182.5"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Joey Aguilar, QB",
       "TEAM": "TENN",
       "RESULT": "L27-33vs.OU",
@@ -23,18 +35,6 @@
       "TD": "3",
       "INT": "2",
       "RAT": "150.9"
-    },
-    {
-      "RK": "3",
-      "NAME": "Walker Eget, QB",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "COMP": "16",
-      "ATT": "36",
-      "YDS": "391",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "154.0"
     },
     {
       "RK": "4",
@@ -229,9 +229,9 @@
       "NAME": "Danny Scudero, WR",
       "TEAM": "SJSU",
       "RESULT": "",
-      "REC": "6",
-      "YDS": "212",
-      "YPR": "35.3",
+      "REC": "7",
+      "YDS": "215",
+      "YPR": "30.7",
       "TD": "2"
     },
     {
@@ -308,7 +308,7 @@
       "RK": "9",
       "NAME": "Cyrus Allen, WR",
       "TEAM": "CIN",
-      "RESULT": "",
+      "RESULT": "L14-45atUTAH",
       "REC": "2",
       "YDS": "133",
       "YPR": "66.5",
@@ -318,7 +318,7 @@
       "RK": "10",
       "NAME": "Ryan Davis, WR",
       "TEAM": "UTAH",
-      "RESULT": "",
+      "RESULT": "W45-14vs.CIN",
       "REC": "8",
       "YDS": "132",
       "YPR": "16.5",
