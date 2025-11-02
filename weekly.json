@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "36",
+      "YDS": "391",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "154.0"
+    },
+    {
+      "RK": "4",
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "L45-46vs.DUKE",
@@ -37,7 +49,7 @@
       "RAT": "183.2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "L35-40vs.UNM",
@@ -49,7 +61,7 @@
       "RAT": "169.5"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "W48-26vs.TULN",
@@ -61,7 +73,7 @@
       "RAT": "228.1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
       "RESULT": "W26-20vs.MIA",
@@ -85,7 +97,7 @@
       "RAT": "177.8"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Darian Mensah, QB",
       "TEAM": "DUKE",
       "RESULT": "W46-45atCLEM",
@@ -95,18 +107,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "172.0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Walker Eget, QB",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "32",
-      "YDS": "352",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "156.8"
     },
     {
       "RK": "10",
