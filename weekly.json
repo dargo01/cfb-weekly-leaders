@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "32",
+      "YDS": "352",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "156.8"
+    },
+    {
+      "RK": "10",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "L30-59atLIB",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "127.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jack Layne, QB",
-      "TEAM": "UNM",
-      "RESULT": "W40-35atUNLV",
-      "COMP": "17",
-      "ATT": "22",
-      "YDS": "342",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "243.7"
     }
   ],
   "Rushing Leaders": [
@@ -226,22 +226,22 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Danny Scudero, WR",
+      "TEAM": "SJSU",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "212",
+      "YPR": "35.3",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
       "NAME": "Keagan Johnson, WR",
       "TEAM": "UNM",
       "RESULT": "W40-35atUNLV",
       "REC": "6",
       "YDS": "158",
       "YPR": "26.3",
-      "TD": "1"
-    },
-    {
-      "RK": "2",
-      "NAME": "Danny Scudero, WR",
-      "TEAM": "SJSU",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "150",
-      "YPR": "30.0",
       "TD": "1"
     },
     {
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Deondre Johnson, WR",
-      "TEAM": "JXST",
-      "RESULT": "W24-21atMTSU",
-      "REC": "4",
-      "YDS": "131",
-      "YPR": "32.8",
-      "TD": "2"
+      "NAME": "Ryan Davis, WR",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "132",
+      "YPR": "16.5",
+      "TD": "1"
     }
   ]
 }
