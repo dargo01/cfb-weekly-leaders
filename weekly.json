@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "JC French IV, QB",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "32",
+      "YDS": "306",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "159.4"
+    },
+    {
+      "RK": "3",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L13-17atBALL",
@@ -25,7 +37,19 @@
       "RAT": "121.5"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "COMP": "11",
+      "ATT": "12",
+      "YDS": "208",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "292.3"
+    },
+    {
+      "RK": "5",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -37,7 +61,19 @@
       "RAT": "110.3"
     },
     {
-      "RK": "4",
+      "RK": "6",
+      "NAME": "Owen McCown, QB",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "23",
+      "YDS": "200",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "148.3"
+    },
+    {
+      "RK": "7",
       "NAME": "Ben Finley, QB",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -49,7 +85,7 @@
       "RAT": "175.7"
     },
     {
-      "RK": "5",
+      "RK": "8",
       "NAME": "Dequan Finn, QB",
       "TEAM": "M-OH",
       "RESULT": "L20-24atOHIO",
@@ -61,19 +97,19 @@
       "RAT": "151.6"
     },
     {
-      "RK": "6",
-      "NAME": "JC French IV, QB",
-      "TEAM": "GASO",
+      "RK": "9",
+      "NAME": "AJ Swann, QB",
+      "TEAM": "APP",
       "RESULT": "",
-      "COMP": "12",
-      "ATT": "17",
-      "YDS": "189",
-      "TD": "1",
+      "COMP": "19",
+      "ATT": "29",
+      "YDS": "192",
+      "TD": "0",
       "INT": "0",
-      "RAT": "183.4"
+      "RAT": "121.1"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Kiael Kelly, QB",
       "TEAM": "BALL",
       "RESULT": "W17-13vs.KENT",
@@ -83,42 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "131.5"
-    },
-    {
-      "RK": "8",
-      "NAME": "Owen McCown, QB",
-      "TEAM": "UTSA",
-      "RESULT": "",
-      "COMP": "11",
-      "ATT": "17",
-      "YDS": "133",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "138.1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Josh Holst, QB",
-      "TEAM": "NIU",
-      "RESULT": "L3-42atTOL",
-      "COMP": "5",
-      "ATT": "13",
-      "YDS": "87",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "94.7"
-    },
-    {
-      "RK": "10",
-      "NAME": "AJ Swann, QB",
-      "TEAM": "APP",
-      "RESULT": "",
-      "COMP": "7",
-      "ATT": "13",
-      "YDS": "70",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "99.1"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "109",
+      "YPC": "12.1",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -143,17 +153,17 @@
       "TD": "1"
     },
     {
-      "RK": "3",
-      "NAME": "Byrum Brown, QB",
+      "RK": "4",
+      "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "",
-      "CAR": "6",
-      "YDS": "82",
-      "YPC": "13.7",
-      "TD": "1"
+      "CAR": "7",
+      "YDS": "94",
+      "YPC": "13.4",
+      "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Gavin Garcia, RB",
       "TEAM": "KENT",
       "RESULT": "L13-17atBALL",
@@ -163,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Taven Curry, RB",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -173,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Kiael Kelly, QB",
       "TEAM": "BALL",
       "RESULT": "W17-13vs.KENT",
@@ -183,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Grant Jordan, QB",
       "TEAM": "MASS",
       "RESULT": "L10-44atAKR",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jordan Brunson, RB",
       "TEAM": "M-OH",
       "RESULT": "L20-24atOHIO",
@@ -203,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "D'Shawntae Jones, RB",
       "TEAM": "M-OH",
       "RESULT": "L20-24atOHIO",
@@ -211,21 +221,31 @@
       "YDS": "46",
       "YPC": "7.7",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chip Trayanum, RB",
-      "TEAM": "TOL",
-      "RESULT": "W42-3vs.NIU",
-      "CAR": "11",
-      "YDS": "36",
-      "YPC": "3.3",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Keshaun Singleton, WR",
+      "TEAM": "USF",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "122",
+      "YPR": "30.5",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
+      "NAME": "Marcus Sanders Jr., WR",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "109",
+      "YPR": "21.8",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -235,7 +255,7 @@
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "4",
       "NAME": "Junior Vandeross III, WR",
       "TEAM": "TOL",
       "RESULT": "W42-3vs.NIU",
@@ -245,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Cole Weaver, WR",
       "TEAM": "M-OH",
       "RESULT": "L20-24atOHIO",
@@ -255,17 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
-      "NAME": "Marcus Sanders Jr., WR",
-      "TEAM": "GASO",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "93",
-      "YPR": "31.0",
-      "TD": "1"
-    },
-    {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Rodney Harris II, WR",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -275,7 +285,17 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Camden Brown, WR",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "91",
+      "YPR": "18.2",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Wayne Harris, WR",
       "TEAM": "KENT",
       "RESULT": "L13-17atBALL",
@@ -285,44 +305,24 @@
       "TD": "0"
     },
     {
-      "RK": "7",
-      "NAME": "Rickey Taylor Jr., WR",
-      "TEAM": "NIU",
-      "RESULT": "L3-42atTOL",
-      "REC": "3",
-      "YDS": "69",
-      "YPR": "23.0",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Chip Trayanum, RB",
-      "TEAM": "TOL",
-      "RESULT": "W42-3vs.NIU",
-      "REC": "6",
-      "YDS": "52",
-      "YPR": "8.7",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Dalen Cobb, WR",
-      "TEAM": "GASO",
+      "RK": "9",
+      "NAME": "Houston Thomas, TE",
+      "TEAM": "UTSA",
       "RESULT": "",
-      "REC": "6",
-      "YDS": "52",
-      "YPR": "8.7",
+      "REC": "7",
+      "YDS": "77",
+      "YPR": "11.0",
       "TD": "0"
     },
     {
       "RK": "10",
-      "NAME": "Kam Perry, WR",
-      "TEAM": "M-OH",
-      "RESULT": "L20-24atOHIO",
-      "REC": "3",
-      "YDS": "45",
-      "YPR": "15.0",
-      "TD": "1"
+      "NAME": "Jaden Barnes, WR",
+      "TEAM": "APP",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "74",
+      "YPR": "9.3",
+      "TD": "0"
     }
   ]
 }
