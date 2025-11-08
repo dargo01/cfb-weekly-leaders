@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Elijah Metcalf, WR",
+      "TEAM": "USM",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "144",
+      "YPR": "36.0",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Keshaun Singleton, WR",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -265,7 +275,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Cortez Braham Jr., WR",
       "TEAM": "MEM",
       "RESULT": "L32-38vs.TULN",
@@ -273,16 +283,6 @@
       "YDS": "113",
       "YPR": "10.3",
       "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Elijah Metcalf, WR",
-      "TEAM": "USM",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "110",
-      "YPR": "55.0",
-      "TD": "1"
     },
     {
       "RK": "7",
