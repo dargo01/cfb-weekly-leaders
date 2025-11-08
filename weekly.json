@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "CAR": "33",
+      "YDS": "189",
+      "YPC": "5.7",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Nate Frazier, RB",
       "TEAM": "UGA",
       "RESULT": "W41-21atMSST",
@@ -133,17 +143,17 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Malik Washington, QB",
       "TEAM": "MD",
       "RESULT": "",
-      "CAR": "7",
-      "YDS": "162",
-      "YPC": "23.1",
+      "CAR": "8",
+      "YDS": "164",
+      "YPC": "20.5",
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -151,16 +161,6 @@
       "YDS": "153",
       "YPC": "5.5",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "CAR": "27",
-      "YDS": "135",
-      "YPC": "5.0",
-      "TD": "0"
     },
     {
       "RK": "5",
