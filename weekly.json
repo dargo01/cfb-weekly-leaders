@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Ted Hurst, WR",
+      "TEAM": "GAST",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "129",
+      "YPR": "18.4",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Tre Richardson, WR",
       "TEAM": "VAN",
       "RESULT": "",
@@ -313,16 +323,6 @@
       "YDS": "124",
       "YPR": "41.3",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Corey Rucker, WR",
-      "TEAM": "ARST",
-      "RESULT": "L21-27vs.USM",
-      "REC": "7",
-      "YDS": "123",
-      "YPR": "17.6",
-      "TD": "0"
     }
   ]
 }
