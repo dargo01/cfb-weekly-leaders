@@ -53,12 +53,12 @@
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
       "RESULT": "",
-      "COMP": "19",
-      "ATT": "27",
-      "YDS": "243",
+      "COMP": "21",
+      "ATT": "29",
+      "YDS": "268",
       "TD": "2",
       "INT": "1",
-      "RAT": "163.0"
+      "RAT": "165.9"
     },
     {
       "RK": "6",
@@ -77,15 +77,27 @@
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "",
-      "COMP": "19",
-      "ATT": "30",
-      "YDS": "216",
+      "COMP": "20",
+      "ATT": "31",
+      "YDS": "223",
       "TD": "2",
       "INT": "3",
-      "RAT": "125.8"
+      "RAT": "126.9"
     },
     {
       "RK": "8",
+      "NAME": "Brendon Lewis, QB",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "25",
+      "YDS": "220",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "171.1"
+    },
+    {
+      "RK": "9",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L13-17atBALL",
@@ -97,7 +109,7 @@
       "RAT": "121.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "110.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Owen McCown, QB",
-      "TEAM": "UTSA",
-      "RESULT": "L23-55atUSF",
-      "COMP": "16",
-      "ATT": "23",
-      "YDS": "200",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "148.3"
     }
   ],
   "Rushing Leaders": [
@@ -143,13 +143,13 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "107",
-      "YPC": "7.6",
+      "CAR": "15",
+      "YDS": "109",
+      "YPC": "7.3",
       "TD": "1"
     },
     {
@@ -174,16 +174,6 @@
     },
     {
       "RK": "6",
-      "NAME": "King Miller, RB",
-      "TEAM": "USC",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "95",
-      "YPC": "8.6",
-      "TD": "1"
-    },
-    {
-      "RK": "7",
       "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -193,13 +183,23 @@
       "TD": "2"
     },
     {
+      "RK": "7",
+      "NAME": "King Miller, RB",
+      "TEAM": "USC",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "91",
+      "YPC": "7.6",
+      "TD": "1"
+    },
+    {
       "RK": "8",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "",
-      "CAR": "21",
-      "YDS": "85",
-      "YPC": "4.0",
+      "CAR": "22",
+      "YDS": "82",
+      "YPC": "3.7",
       "TD": "0"
     },
     {
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Makai Lemon, WR",
+      "TEAM": "USC",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "130",
+      "YPR": "16.3",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -245,7 +255,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Keshaun Singleton, WR",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -253,16 +263,6 @@
       "YDS": "122",
       "YPR": "30.5",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Makai Lemon, WR",
-      "TEAM": "USC",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "119",
-      "YPR": "17.0",
-      "TD": "1"
     },
     {
       "RK": "5",
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Jamari Hawkins, WR",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "98",
+      "YPR": "19.6",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -313,16 +323,6 @@
       "YDS": "97",
       "YPR": "16.2",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cole Weaver, WR",
-      "TEAM": "M-OH",
-      "RESULT": "L20-24atOHIO",
-      "REC": "6",
-      "YDS": "94",
-      "YPR": "15.7",
-      "TD": "0"
     }
   ]
 }
