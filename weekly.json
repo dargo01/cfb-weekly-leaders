@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Trinidad Chambliss, QB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "22",
+      "YDS": "236",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "211.0"
+    },
+    {
+      "RK": "9",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "W30-27atUCF",
@@ -97,7 +109,7 @@
       "RAT": "126.9"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L13-17atBALL",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "121.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Parker Navarro, QB",
-      "TEAM": "OHIO",
-      "RESULT": "W24-20vs.M-OH",
-      "COMP": "16",
-      "ATT": "31",
-      "YDS": "201",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "110.3"
     }
   ],
   "Rushing Leaders": [
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Nate Frazier, RB",
+      "TEAM": "UGA",
+      "RESULT": "",
+      "CAR": "7",
+      "YDS": "120",
+      "YPC": "17.1",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "L17-38atUSC",
@@ -153,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "OJ Arnold, RB",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -173,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -193,7 +203,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "W30-27atUCF",
@@ -203,24 +213,14 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "DJ Butler, RB",
-      "TEAM": "HOU",
-      "RESULT": "W30-27atUCF",
-      "CAR": "14",
-      "YDS": "69",
-      "YPC": "4.9",
-      "TD": "0"
-    },
-    {
       "RK": "10",
-      "NAME": "Dean Connors, RB",
-      "TEAM": "HOU",
-      "RESULT": "W30-27atUCF",
-      "CAR": "10",
-      "YDS": "68",
-      "YPC": "6.8",
-      "TD": "0"
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "80",
+      "YPC": "3.8",
+      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -315,13 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "10",
-      "NAME": "Jamari Hawkins, WR",
-      "TEAM": "MEM",
-      "RESULT": "L32-38vs.TULN",
-      "REC": "5",
-      "YDS": "98",
-      "YPR": "19.6",
+      "RK": "",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "101",
+      "YPR": "16.8",
       "TD": "1"
     }
   ]
