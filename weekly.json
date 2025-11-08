@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Trinidad Chambliss, QB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "25",
+      "YDS": "257",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "200.8"
+    },
+    {
+      "RK": "8",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -83,18 +95,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "271.2"
-    },
-    {
-      "RK": "8",
-      "NAME": "Trinidad Chambliss, QB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "COMP": "20",
-      "ATT": "22",
-      "YDS": "236",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "211.0"
     },
     {
       "RK": "9",
@@ -249,9 +249,9 @@
       "NAME": "Elijah Metcalf, WR",
       "TEAM": "USM",
       "RESULT": "",
-      "REC": "4",
-      "YDS": "144",
-      "YPR": "36.0",
+      "REC": "5",
+      "YDS": "143",
+      "YPR": "28.6",
       "TD": "1"
     },
     {
