@@ -30,11 +30,11 @@
       "TEAM": "TULN",
       "RESULT": "",
       "COMP": "16",
-      "ATT": "17",
+      "ATT": "19",
       "YDS": "332",
       "TD": "3",
       "INT": "0",
-      "RAT": "316.4"
+      "RAT": "283.1"
     },
     {
       "RK": "4",
@@ -53,12 +53,12 @@
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
       "RESULT": "",
-      "COMP": "21",
-      "ATT": "29",
-      "YDS": "268",
+      "COMP": "23",
+      "ATT": "31",
+      "YDS": "290",
       "TD": "2",
       "INT": "1",
-      "RAT": "165.9"
+      "RAT": "167.6"
     },
     {
       "RK": "6",
@@ -76,7 +76,7 @@
       "RK": "7",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
-      "RESULT": "",
+      "RESULT": "W30-27atUCF",
       "COMP": "20",
       "ATT": "31",
       "YDS": "223",
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "King Miller, RB",
+      "TEAM": "USC",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "104",
+      "YPC": "8.0",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -183,20 +193,10 @@
       "TD": "2"
     },
     {
-      "RK": "7",
-      "NAME": "King Miller, RB",
-      "TEAM": "USC",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "91",
-      "YPC": "7.6",
-      "TD": "1"
-    },
-    {
       "RK": "8",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
-      "RESULT": "",
+      "RESULT": "W30-27atUCF",
       "CAR": "22",
       "YDS": "82",
       "YPC": "3.7",
@@ -206,7 +206,7 @@
       "RK": "9",
       "NAME": "DJ Butler, RB",
       "TEAM": "HOU",
-      "RESULT": "",
+      "RESULT": "W30-27atUCF",
       "CAR": "14",
       "YDS": "69",
       "YPC": "4.9",
@@ -216,7 +216,7 @@
       "RK": "10",
       "NAME": "Dean Connors, RB",
       "TEAM": "HOU",
-      "RESULT": "",
+      "RESULT": "W30-27atUCF",
       "CAR": "10",
       "YDS": "68",
       "YPC": "6.8",
@@ -239,9 +239,9 @@
       "NAME": "Makai Lemon, WR",
       "TEAM": "USC",
       "RESULT": "",
-      "REC": "8",
-      "YDS": "130",
-      "YPR": "16.3",
+      "REC": "10",
+      "YDS": "152",
+      "YPR": "15.2",
       "TD": "1"
     },
     {
@@ -278,7 +278,7 @@
       "RK": "6",
       "NAME": "Amare Thomas, WR",
       "TEAM": "HOU",
-      "RESULT": "",
+      "RESULT": "W30-27atUCF",
       "REC": "5",
       "YDS": "103",
       "YPR": "20.6",
