@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "CAR": "24",
+      "YDS": "126",
+      "YPC": "5.3",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Antwan Roberts, RB",
       "TEAM": "MRSH",
       "RESULT": "L23-35vs.JMU",
@@ -203,23 +213,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "W14-13vs.TEM",
       "CAR": "36",
       "YDS": "118",
       "YPC": "3.3",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Caleb Komolafe, RB",
-      "TEAM": "NU",
-      "RESULT": "L17-38atUSC",
-      "CAR": "17",
-      "YDS": "118",
-      "YPC": "6.9",
       "TD": "1"
     }
   ],
