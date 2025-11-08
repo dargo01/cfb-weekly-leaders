@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Jaylen Raynor, QB",
+      "TEAM": "ARST",
+      "RESULT": "",
+      "COMP": "36",
+      "ATT": "45",
+      "YDS": "308",
+      "TD": "2",
+      "INT": "3",
+      "RAT": "138.8"
+    },
+    {
+      "RK": "9",
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
       "RESULT": "W38-17vs.NU",
@@ -100,25 +112,13 @@
       "RK": "",
       "NAME": "Julian Lewis, QB",
       "TEAM": "COLO",
-      "RESULT": "",
+      "RESULT": "L22-29atWVU",
       "COMP": "22",
       "ATT": "35",
       "YDS": "299",
       "TD": "2",
       "INT": "0",
       "RAT": "153.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jaylen Raynor, QB",
-      "TEAM": "ARST",
-      "RESULT": "",
-      "COMP": "33",
-      "ATT": "42",
-      "YDS": "285",
-      "TD": "2",
-      "INT": "3",
-      "RAT": "137.0"
     }
   ],
   "Rushing Leaders": [
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Malik Washington, QB",
+      "TEAM": "MD",
+      "RESULT": "",
+      "CAR": "4",
+      "YDS": "135",
+      "YPC": "33.8",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "T.J. Harden, RB",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -153,7 +163,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "King Miller, RB",
       "TEAM": "USC",
       "RESULT": "W38-17vs.NU",
@@ -163,10 +173,10 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Antwan Roberts, RB",
       "TEAM": "MRSH",
-      "RESULT": "",
+      "RESULT": "L23-35vs.JMU",
       "CAR": "20",
       "YDS": "121",
       "YPC": "6.1",
@@ -176,14 +186,14 @@
       "RK": "",
       "NAME": "Cameron Dickey, RB",
       "TEAM": "TTU",
-      "RESULT": "",
+      "RESULT": "W29-7vs.BYU",
       "CAR": "23",
       "YDS": "121",
       "YPC": "5.3",
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "W14-13vs.TEM",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -211,16 +221,6 @@
       "YDS": "109",
       "YPC": "12.1",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Austyn Dendy, RB",
-      "TEAM": "BGSU",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "107",
-      "YPC": "5.9",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -278,7 +278,7 @@
       "RK": "6",
       "NAME": "Omarion Miller, WR",
       "TEAM": "COLO",
-      "RESULT": "",
+      "RESULT": "L22-29atWVU",
       "REC": "6",
       "YDS": "131",
       "YPR": "21.8",
@@ -306,22 +306,22 @@
     },
     {
       "RK": "9",
+      "NAME": "Charlie Becker, WR",
+      "TEAM": "IU",
+      "RESULT": "W27-24atPSU",
+      "REC": "7",
+      "YDS": "118",
+      "YPR": "16.9",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Cortez Braham Jr., WR",
       "TEAM": "MEM",
       "RESULT": "L32-38vs.TULN",
       "REC": "11",
       "YDS": "113",
       "YPR": "10.3",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Marcel Williams, WR",
-      "TEAM": "AKR",
-      "RESULT": "W44-10vs.MASS",
-      "REC": "4",
-      "YDS": "104",
-      "YPR": "26.0",
       "TD": "0"
     }
   ]
