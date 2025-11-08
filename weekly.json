@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Nick Minicucci, QB",
+      "TEAM": "DEL",
+      "RESULT": "",
+      "COMP": "26",
+      "ATT": "52",
+      "YDS": "304",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "104.1"
+    },
+    {
+      "RK": "10",
       "NAME": "Julian Sayin, QB",
       "TEAM": "OSU",
       "RESULT": "W34-10atPUR",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "162.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jayden Maiava, QB",
-      "TEAM": "USC",
-      "RESULT": "W38-17vs.NU",
-      "COMP": "24",
-      "ATT": "33",
-      "YDS": "299",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "162.8"
     }
   ],
   "Rushing Leaders": [
@@ -164,6 +164,26 @@
     },
     {
       "RK": "5",
+      "NAME": "Caden Creel, QB",
+      "TEAM": "JXST",
+      "RESULT": "W30-27atUTEP",
+      "CAR": "13",
+      "YDS": "134",
+      "YPC": "10.3",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
+      "NAME": "Jamal Roberts, RB",
+      "TEAM": "MIZ",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "131",
+      "YPC": "8.2",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "T.J. Harden, RB",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -173,7 +193,17 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "8",
+      "NAME": "Cam Cook, RB",
+      "TEAM": "JXST",
+      "RESULT": "W30-27atUTEP",
+      "CAR": "19",
+      "YDS": "127",
+      "YPC": "6.7",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Evan Dickens, RB",
       "TEAM": "LIB",
       "RESULT": "L17-21vs.MOST",
@@ -191,36 +221,6 @@
       "YDS": "127",
       "YPC": "8.5",
       "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Cam Cook, RB",
-      "TEAM": "JXST",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "125",
-      "YPC": "6.9",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Samari Collier, QB",
-      "TEAM": "CCU",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "124",
-      "YPC": "13.8",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Antwan Roberts, RB",
-      "TEAM": "MRSH",
-      "RESULT": "L23-35vs.JMU",
-      "CAR": "20",
-      "YDS": "121",
-      "YPC": "6.1",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -228,7 +228,7 @@
       "RK": "1",
       "NAME": "Wondame Davis Jr., WR",
       "TEAM": "UTEP",
-      "RESULT": "",
+      "RESULT": "L27-30vs.JXST",
       "REC": "5",
       "YDS": "166",
       "YPR": "33.2",
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Tre Richardson, WR",
+      "TEAM": "VAN",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "124",
+      "YPR": "41.3",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Corey Rucker, WR",
       "TEAM": "ARST",
       "RESULT": "L21-27vs.USM",
@@ -313,16 +323,6 @@
       "YDS": "123",
       "YPR": "17.6",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Keshaun Singleton, WR",
-      "TEAM": "USF",
-      "RESULT": "W55-23vs.UTSA",
-      "REC": "4",
-      "YDS": "122",
-      "YPR": "30.5",
-      "TD": "2"
     }
   ]
 }
