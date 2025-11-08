@@ -166,7 +166,7 @@
       "RK": "5",
       "NAME": "Evan Dickens, RB",
       "TEAM": "LIB",
-      "RESULT": "",
+      "RESULT": "L17-21vs.MOST",
       "CAR": "28",
       "YDS": "127",
       "YPC": "4.5",
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Wondame Davis Jr., WR",
+      "TEAM": "UTEP",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "128",
+      "YPR": "42.7",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Corey Rucker, WR",
       "TEAM": "ARST",
       "RESULT": "L21-27vs.USM",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Keshaun Singleton, WR",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -313,16 +323,6 @@
       "YDS": "122",
       "YPR": "30.5",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Charlie Becker, WR",
-      "TEAM": "IU",
-      "RESULT": "W27-24atPSU",
-      "REC": "7",
-      "YDS": "118",
-      "YPR": "16.9",
-      "TD": "0"
     }
   ]
 }
