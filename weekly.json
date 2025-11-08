@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Malik Washington, QB",
+      "TEAM": "MD",
+      "RESULT": "",
+      "CAR": "7",
+      "YDS": "162",
+      "YPC": "23.1",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -143,17 +153,17 @@
       "TD": "2"
     },
     {
-      "RK": "3",
-      "NAME": "Malik Washington, QB",
-      "TEAM": "MD",
+      "RK": "4",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
       "RESULT": "",
-      "CAR": "5",
-      "YDS": "141",
-      "YPC": "28.2",
-      "TD": "1"
+      "CAR": "27",
+      "YDS": "135",
+      "YPC": "5.0",
+      "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "T.J. Harden, RB",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -163,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Evan Dickens, RB",
       "TEAM": "LIB",
       "RESULT": "L17-21vs.MOST",
@@ -181,16 +191,6 @@
       "YDS": "127",
       "YPC": "8.5",
       "TD": "1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "CAR": "24",
-      "YDS": "126",
-      "YPC": "5.3",
-      "TD": "0"
     },
     {
       "RK": "8",
