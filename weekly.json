@@ -126,9 +126,9 @@
       "RK": "1",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
-      "RESULT": "",
+      "RESULT": "W35-20vs.MD",
       "CAR": "41",
-      "YDS": "242",
+      "YDS": "240",
       "YPC": "5.9",
       "TD": "1"
     },
@@ -146,7 +146,7 @@
       "RK": "3",
       "NAME": "Malik Washington, QB",
       "TEAM": "MD",
-      "RESULT": "",
+      "RESULT": "L20-35atRUTG",
       "CAR": "8",
       "YDS": "164",
       "YPC": "20.5",
@@ -194,6 +194,26 @@
     },
     {
       "RK": "8",
+      "NAME": "Cam Cook, RB",
+      "TEAM": "JXST",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "125",
+      "YPC": "6.9",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
+      "NAME": "Samari Collier, QB",
+      "TEAM": "CCU",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "124",
+      "YPC": "13.8",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Antwan Roberts, RB",
       "TEAM": "MRSH",
       "RESULT": "L23-35vs.JMU",
@@ -201,31 +221,21 @@
       "YDS": "121",
       "YPC": "6.1",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Cameron Dickey, RB",
-      "TEAM": "TTU",
-      "RESULT": "W29-7vs.BYU",
-      "CAR": "23",
-      "YDS": "121",
-      "YPC": "5.3",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "W14-13vs.TEM",
-      "CAR": "36",
-      "YDS": "118",
-      "YPC": "3.3",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Wondame Davis Jr., WR",
+      "TEAM": "UTEP",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "166",
+      "YPR": "33.2",
+      "TD": "1"
+    },
+    {
+      "RK": "2",
       "NAME": "Yamir Knight, WR",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -235,7 +245,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Makai Lemon, WR",
       "TEAM": "USC",
       "RESULT": "W38-17vs.NU",
@@ -245,7 +255,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Jaden Barnes, WR",
       "TEAM": "APP",
       "RESULT": "L23-25vs.GASO",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Elijah Metcalf, WR",
       "TEAM": "USM",
       "RESULT": "W27-21atARST",
@@ -265,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jeremiah Smith, WR",
       "TEAM": "OSU",
       "RESULT": "W34-10atPUR",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Omarion Miller, WR",
       "TEAM": "COLO",
       "RESULT": "L22-29atWVU",
@@ -285,23 +295,13 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
       "REC": "6",
       "YDS": "127",
       "YPR": "21.2",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Wondame Davis Jr., WR",
-      "TEAM": "UTEP",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "127",
-      "YPR": "31.8",
       "TD": "1"
     },
     {
