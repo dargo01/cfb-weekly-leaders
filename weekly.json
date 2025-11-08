@@ -52,7 +52,7 @@
       "RK": "5",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
-      "RESULT": "",
+      "RESULT": "W45-13atBC",
       "COMP": "16",
       "ATT": "32",
       "YDS": "326",
@@ -97,28 +97,28 @@
       "RAT": "162.8"
     },
     {
-      "RK": "9",
-      "NAME": "Gunner Stockton, QB",
-      "TEAM": "UGA",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "29",
-      "YDS": "264",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "172.7"
-    },
-    {
-      "RK": "10",
+      "RK": "",
       "NAME": "Julian Lewis, QB",
       "TEAM": "COLO",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "29",
-      "YDS": "249",
+      "COMP": "22",
+      "ATT": "35",
+      "YDS": "299",
       "TD": "2",
       "INT": "0",
       "RAT": "153.5"
+    },
+    {
+      "RK": "10",
+      "NAME": "Jaylen Raynor, QB",
+      "TEAM": "ARST",
+      "RESULT": "",
+      "COMP": "33",
+      "ATT": "42",
+      "YDS": "285",
+      "TD": "2",
+      "INT": "3",
+      "RAT": "137.0"
     }
   ],
   "Rushing Leaders": [
@@ -126,7 +126,7 @@
       "RK": "1",
       "NAME": "Nate Frazier, RB",
       "TEAM": "UGA",
-      "RESULT": "",
+      "RESULT": "W41-21atMSST",
       "CAR": "12",
       "YDS": "181",
       "YPC": "15.1",
@@ -146,7 +146,7 @@
       "RK": "3",
       "NAME": "T.J. Harden, RB",
       "TEAM": "SMU",
-      "RESULT": "",
+      "RESULT": "W45-13atBC",
       "CAR": "16",
       "YDS": "130",
       "YPC": "8.1",
@@ -164,6 +164,26 @@
     },
     {
       "RK": "5",
+      "NAME": "Antwan Roberts, RB",
+      "TEAM": "MRSH",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "121",
+      "YPC": "6.1",
+      "TD": "1"
+    },
+    {
+      "RK": "",
+      "NAME": "Cameron Dickey, RB",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "CAR": "23",
+      "YDS": "121",
+      "YPC": "5.3",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "W14-13vs.TEM",
@@ -183,26 +203,6 @@
       "TD": "1"
     },
     {
-      "RK": "7",
-      "NAME": "Antwan Roberts, RB",
-      "TEAM": "MRSH",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "114",
-      "YPC": "6.7",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Cameron Dickey, RB",
-      "TEAM": "TTU",
-      "RESULT": "",
-      "CAR": "20",
-      "YDS": "111",
-      "YPC": "5.6",
-      "TD": "1"
-    },
-    {
       "RK": "9",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "OJ Arnold, RB",
-      "TEAM": "GASO",
-      "RESULT": "W25-23atAPP",
-      "CAR": "20",
-      "YDS": "105",
-      "YPC": "5.3",
-      "TD": "0"
+      "NAME": "Austyn Dendy, RB",
+      "TEAM": "BGSU",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "107",
+      "YPC": "5.9",
+      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -228,7 +228,7 @@
       "RK": "1",
       "NAME": "Yamir Knight, WR",
       "TEAM": "SMU",
-      "RESULT": "",
+      "RESULT": "W45-13atBC",
       "REC": "7",
       "YDS": "162",
       "YPR": "23.1",
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "137",
+      "YPR": "13.7",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Omarion Miller, WR",
       "TEAM": "COLO",
       "RESULT": "",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Keshaun Singleton, WR",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -293,16 +303,6 @@
       "YDS": "122",
       "YPR": "30.5",
       "TD": "2"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "REC": "8",
-      "YDS": "114",
-      "YPR": "14.3",
-      "TD": "1"
     },
     {
       "RK": "9",
