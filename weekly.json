@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Elijah Metcalf, WR",
+      "TEAM": "USM",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "110",
+      "YPR": "55.0",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Amare Thomas, WR",
       "TEAM": "HOU",
       "RESULT": "W30-27atUCF",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Bryce Bohanon, WR",
       "TEAM": "TULN",
       "RESULT": "W38-32atMEM",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jamari Hawkins, WR",
       "TEAM": "MEM",
       "RESULT": "L32-38vs.TULN",
@@ -313,16 +323,6 @@
       "YDS": "98",
       "YPR": "19.6",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Camden Brown, WR",
-      "TEAM": "GASO",
-      "RESULT": "W25-23atAPP",
-      "REC": "6",
-      "YDS": "97",
-      "YPR": "16.2",
-      "TD": "0"
     }
   ]
 }
