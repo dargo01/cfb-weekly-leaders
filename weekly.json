@@ -38,18 +38,30 @@
     },
     {
       "RK": "4",
+      "NAME": "Trinidad Chambliss, QB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "COMP": "27",
+      "ATT": "30",
+      "YDS": "326",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "203.3"
+    },
+    {
+      "RK": "",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
       "RESULT": "",
       "COMP": "16",
-      "ATT": "31",
+      "ATT": "32",
       "YDS": "326",
       "TD": "3",
       "INT": "1",
-      "RAT": "165.4"
+      "RAT": "160.3"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "L32-38vs.TULN",
@@ -61,7 +73,7 @@
       "RAT": "177.1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W42-3vs.NIU",
@@ -73,7 +85,7 @@
       "RAT": "185.7"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
       "RESULT": "W38-17vs.NU",
@@ -85,28 +97,16 @@
       "RAT": "162.8"
     },
     {
-      "RK": "8",
-      "NAME": "Trinidad Chambliss, QB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "28",
-      "YDS": "280",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "196.9"
-    },
-    {
       "RK": "9",
       "NAME": "Gunner Stockton, QB",
       "TEAM": "UGA",
       "RESULT": "",
-      "COMP": "16",
-      "ATT": "25",
-      "YDS": "255",
+      "COMP": "18",
+      "ATT": "28",
+      "YDS": "264",
       "TD": "3",
       "INT": "0",
-      "RAT": "189.3"
+      "RAT": "178.9"
     },
     {
       "RK": "10",
@@ -114,16 +114,26 @@
       "TEAM": "COLO",
       "RESULT": "",
       "COMP": "16",
-      "ATT": "26",
+      "ATT": "27",
       "YDS": "241",
       "TD": "2",
       "INT": "0",
-      "RAT": "164.8"
+      "RAT": "158.7"
     }
   ],
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Nate Frazier, RB",
+      "TEAM": "UGA",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "174",
+      "YPC": "15.8",
+      "TD": "1"
+    },
+    {
+      "RK": "2",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -133,17 +143,17 @@
       "TD": "2"
     },
     {
-      "RK": "2",
-      "NAME": "Nate Frazier, RB",
-      "TEAM": "UGA",
+      "RK": "3",
+      "NAME": "T.J. Harden, RB",
+      "TEAM": "SMU",
       "RESULT": "",
-      "CAR": "8",
-      "YDS": "133",
-      "YPC": "16.6",
-      "TD": "1"
+      "CAR": "15",
+      "YDS": "130",
+      "YPC": "8.7",
+      "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "King Miller, RB",
       "TEAM": "USC",
       "RESULT": "W38-17vs.NU",
@@ -153,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "L17-38atUSC",
@@ -163,7 +173,37 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
+      "NAME": "Antwan Roberts, RB",
+      "TEAM": "MRSH",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "114",
+      "YPC": "6.7",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Cameron Dickey, RB",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "111",
+      "YPC": "5.6",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "34",
+      "YDS": "110",
+      "YPC": "3.2",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -173,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "10",
       "NAME": "OJ Arnold, RB",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -181,46 +221,6 @@
       "YDS": "105",
       "YPC": "5.3",
       "TD": "0"
-    },
-    {
-      "RK": "7",
-      "NAME": "Antwan Roberts, RB",
-      "TEAM": "MRSH",
-      "RESULT": "",
-      "CAR": "14",
-      "YDS": "103",
-      "YPC": "7.4",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Sieh Bangura, RB",
-      "TEAM": "OHIO",
-      "RESULT": "W24-20vs.M-OH",
-      "CAR": "17",
-      "YDS": "102",
-      "YPC": "6.0",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Cameron Dickey, RB",
-      "TEAM": "TTU",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "99",
-      "YPC": "5.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "",
-      "CAR": "28",
-      "YDS": "97",
-      "YPC": "3.5",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
