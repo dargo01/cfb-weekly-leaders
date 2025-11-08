@@ -30,14 +30,26 @@
       "TEAM": "TULN",
       "RESULT": "",
       "COMP": "16",
-      "ATT": "19",
+      "ATT": "23",
       "YDS": "332",
       "TD": "3",
       "INT": "0",
-      "RAT": "283.1"
+      "RAT": "233.9"
     },
     {
       "RK": "4",
+      "NAME": "Brendon Lewis, QB",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "COMP": "29",
+      "ATT": "34",
+      "YDS": "317",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "177.1"
+    },
+    {
+      "RK": "5",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W42-3vs.NIU",
@@ -49,19 +61,19 @@
       "RAT": "185.7"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "31",
-      "YDS": "290",
+      "RESULT": "W38-17vs.NU",
+      "COMP": "24",
+      "ATT": "33",
+      "YDS": "299",
       "TD": "2",
       "INT": "1",
-      "RAT": "167.6"
+      "RAT": "162.8"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -73,7 +85,7 @@
       "RAT": "271.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Conner Weigman, QB",
       "TEAM": "HOU",
       "RESULT": "W30-27atUCF",
@@ -83,18 +95,6 @@
       "TD": "2",
       "INT": "3",
       "RAT": "126.9"
-    },
-    {
-      "RK": "8",
-      "NAME": "Brendon Lewis, QB",
-      "TEAM": "MEM",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "25",
-      "YDS": "220",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "171.1"
     },
     {
       "RK": "9",
@@ -134,6 +134,26 @@
     },
     {
       "RK": "2",
+      "NAME": "King Miller, RB",
+      "TEAM": "USC",
+      "RESULT": "W38-17vs.NU",
+      "CAR": "15",
+      "YDS": "127",
+      "YPC": "8.5",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
+      "NAME": "Caleb Komolafe, RB",
+      "TEAM": "NU",
+      "RESULT": "L17-38atUSC",
+      "CAR": "17",
+      "YDS": "118",
+      "YPC": "6.9",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -143,17 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "",
-      "NAME": "Caleb Komolafe, RB",
-      "TEAM": "NU",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "109",
-      "YPC": "7.3",
-      "TD": "1"
-    },
-    {
-      "RK": "4",
+      "RK": "5",
       "NAME": "OJ Arnold, RB",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -161,16 +171,6 @@
       "YDS": "105",
       "YPC": "5.3",
       "TD": "0"
-    },
-    {
-      "RK": "5",
-      "NAME": "King Miller, RB",
-      "TEAM": "USC",
-      "RESULT": "",
-      "CAR": "13",
-      "YDS": "104",
-      "YPC": "8.0",
-      "TD": "1"
     },
     {
       "RK": "6",
@@ -226,22 +226,22 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Makai Lemon, WR",
+      "TEAM": "USC",
+      "RESULT": "W38-17vs.NU",
+      "REC": "11",
+      "YDS": "161",
+      "YPR": "14.6",
+      "TD": "1"
+    },
+    {
+      "RK": "2",
       "NAME": "Jaden Barnes, WR",
       "TEAM": "APP",
       "RESULT": "L23-25vs.GASO",
       "REC": "13",
       "YDS": "160",
       "YPR": "12.3",
-      "TD": "1"
-    },
-    {
-      "RK": "2",
-      "NAME": "Makai Lemon, WR",
-      "TEAM": "USC",
-      "RESULT": "",
-      "REC": "10",
-      "YDS": "152",
-      "YPR": "15.2",
       "TD": "1"
     },
     {
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Cortez Braham Jr., WR",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "REC": "11",
+      "YDS": "113",
+      "YPR": "10.3",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Amare Thomas, WR",
       "TEAM": "HOU",
       "RESULT": "W30-27atUCF",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Bryce Bohanon, WR",
       "TEAM": "TULN",
       "RESULT": "",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jamari Hawkins, WR",
       "TEAM": "MEM",
       "RESULT": "",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -313,16 +323,6 @@
       "YDS": "97",
       "YPR": "16.2",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Junior Vandeross III, WR",
-      "TEAM": "TOL",
-      "RESULT": "W42-3vs.NIU",
-      "REC": "6",
-      "YDS": "97",
-      "YPR": "16.2",
-      "TD": "1"
     }
   ]
 }
