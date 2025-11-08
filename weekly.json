@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Kevin Jennings, QB",
+      "TEAM": "SMU",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "31",
+      "YDS": "326",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "165.4"
+    },
+    {
+      "RK": "5",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "L32-38vs.TULN",
@@ -49,7 +61,7 @@
       "RAT": "177.1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W42-3vs.NIU",
@@ -61,7 +73,7 @@
       "RAT": "185.7"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
       "RESULT": "W38-17vs.NU",
@@ -71,18 +83,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "162.8"
-    },
-    {
-      "RK": "7",
-      "NAME": "Kevin Jennings, QB",
-      "TEAM": "SMU",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "30",
-      "YDS": "289",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "146.3"
     },
     {
       "RK": "8",
@@ -101,24 +101,24 @@
       "NAME": "Gunner Stockton, QB",
       "TEAM": "UGA",
       "RESULT": "",
-      "COMP": "15",
-      "ATT": "22",
-      "YDS": "251",
+      "COMP": "16",
+      "ATT": "25",
+      "YDS": "255",
       "TD": "3",
       "INT": "0",
-      "RAT": "209.0"
+      "RAT": "189.3"
     },
     {
       "RK": "10",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "W55-23vs.UTSA",
-      "COMP": "14",
-      "ATT": "15",
-      "YDS": "239",
+      "NAME": "Julian Lewis, QB",
+      "TEAM": "COLO",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "26",
+      "YDS": "241",
       "TD": "2",
       "INT": "0",
-      "RAT": "271.2"
+      "RAT": "164.8"
     }
   ],
   "Rushing Leaders": [
@@ -134,22 +134,22 @@
     },
     {
       "RK": "2",
+      "NAME": "Nate Frazier, RB",
+      "TEAM": "UGA",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "133",
+      "YPC": "16.6",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "King Miller, RB",
       "TEAM": "USC",
       "RESULT": "W38-17vs.NU",
       "CAR": "15",
       "YDS": "127",
       "YPC": "8.5",
-      "TD": "1"
-    },
-    {
-      "RK": "3",
-      "NAME": "Nate Frazier, RB",
-      "TEAM": "UGA",
-      "RESULT": "",
-      "CAR": "7",
-      "YDS": "120",
-      "YPC": "17.1",
       "TD": "1"
     },
     {
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Antwan Roberts, RB",
+      "TEAM": "MRSH",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "103",
+      "YPC": "7.4",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -193,34 +203,24 @@
       "TD": "1"
     },
     {
-      "RK": "8",
-      "NAME": "Nykahi Davenport, RB",
-      "TEAM": "USF",
-      "RESULT": "W55-23vs.UTSA",
-      "CAR": "7",
-      "YDS": "94",
-      "YPC": "13.4",
-      "TD": "2"
+      "RK": "9",
+      "NAME": "Cameron Dickey, RB",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "99",
+      "YPC": "5.5",
+      "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "",
-      "CAR": "25",
-      "YDS": "90",
-      "YPC": "3.6",
+      "CAR": "28",
+      "YDS": "97",
+      "YPC": "3.5",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Austyn Dendy, RB",
-      "TEAM": "BGSU",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "90",
-      "YPC": "8.2",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "109",
+      "YPR": "15.6",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -313,16 +323,6 @@
       "YDS": "104",
       "YPR": "26.0",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Amare Thomas, WR",
-      "TEAM": "HOU",
-      "RESULT": "W30-27atUCF",
-      "REC": "5",
-      "YDS": "103",
-      "YPR": "20.6",
-      "TD": "1"
     }
   ]
 }
