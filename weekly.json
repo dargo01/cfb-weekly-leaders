@@ -127,8 +127,8 @@
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "",
-      "CAR": "37",
-      "YDS": "218",
+      "CAR": "41",
+      "YDS": "242",
       "YPC": "5.9",
       "TD": "1"
     },
@@ -286,22 +286,22 @@
     },
     {
       "RK": "7",
-      "NAME": "Wondame Davis Jr., WR",
-      "TEAM": "UTEP",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "128",
-      "YPR": "42.7",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
       "REC": "6",
       "YDS": "127",
       "YPR": "21.2",
+      "TD": "1"
+    },
+    {
+      "RK": "",
+      "NAME": "Wondame Davis Jr., WR",
+      "TEAM": "UTEP",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "127",
+      "YPR": "31.8",
       "TD": "1"
     },
     {
