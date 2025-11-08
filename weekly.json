@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Jaylen Raynor, QB",
+      "TEAM": "ARST",
+      "RESULT": "L21-27vs.USM",
+      "COMP": "37",
+      "ATT": "48",
+      "YDS": "331",
+      "TD": "2",
+      "INT": "4",
+      "RAT": "132.1"
+    },
+    {
+      "RK": "6",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -61,7 +73,7 @@
       "RAT": "160.3"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "L32-38vs.TULN",
@@ -73,7 +85,7 @@
       "RAT": "177.1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W42-3vs.NIU",
@@ -85,19 +97,19 @@
       "RAT": "185.7"
     },
     {
-      "RK": "8",
-      "NAME": "Jaylen Raynor, QB",
-      "TEAM": "ARST",
+      "RK": "9",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
       "RESULT": "",
-      "COMP": "36",
-      "ATT": "45",
-      "YDS": "308",
-      "TD": "2",
-      "INT": "3",
-      "RAT": "138.8"
+      "COMP": "27",
+      "ATT": "33",
+      "YDS": "303",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "162.9"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jayden Maiava, QB",
       "TEAM": "USC",
       "RESULT": "W38-17vs.NU",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "162.8"
-    },
-    {
-      "RK": "",
-      "NAME": "Julian Lewis, QB",
-      "TEAM": "COLO",
-      "RESULT": "L22-29atWVU",
-      "COMP": "22",
-      "ATT": "35",
-      "YDS": "299",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "153.5"
     }
   ],
   "Rushing Leaders": [
@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "W55-23vs.UTSA",
-      "CAR": "9",
-      "YDS": "109",
-      "YPC": "12.1",
-      "TD": "1"
+      "NAME": "Austyn Dendy, RB",
+      "TEAM": "BGSU",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "113",
+      "YPC": "5.4",
+      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -258,7 +258,7 @@
       "RK": "4",
       "NAME": "Elijah Metcalf, WR",
       "TEAM": "USM",
-      "RESULT": "",
+      "RESULT": "W27-21atARST",
       "REC": "5",
       "YDS": "143",
       "YPR": "28.6",
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Corey Rucker, WR",
+      "TEAM": "ARST",
+      "RESULT": "L21-27vs.USM",
+      "REC": "7",
+      "YDS": "123",
+      "YPR": "17.6",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Keshaun Singleton, WR",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -305,23 +315,13 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Charlie Becker, WR",
       "TEAM": "IU",
       "RESULT": "W27-24atPSU",
       "REC": "7",
       "YDS": "118",
       "YPR": "16.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cortez Braham Jr., WR",
-      "TEAM": "MEM",
-      "RESULT": "L32-38vs.TULN",
-      "REC": "11",
-      "YDS": "113",
-      "YPR": "10.3",
       "TD": "0"
     }
   ]
