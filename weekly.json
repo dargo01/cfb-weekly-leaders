@@ -100,7 +100,7 @@
       "RK": "9",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
-      "RESULT": "",
+      "RESULT": "W25-24vs.LT",
       "COMP": "26",
       "ATT": "52",
       "YDS": "304",
@@ -174,16 +174,6 @@
     },
     {
       "RK": "6",
-      "NAME": "Jamal Roberts, RB",
-      "TEAM": "MIZ",
-      "RESULT": "",
-      "CAR": "16",
-      "YDS": "131",
-      "YPC": "8.2",
-      "TD": "1"
-    },
-    {
-      "RK": "7",
       "NAME": "T.J. Harden, RB",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -193,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "7",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W30-27atUTEP",
@@ -220,6 +210,16 @@
       "CAR": "15",
       "YDS": "127",
       "YPC": "8.5",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
+      "NAME": "Samari Collier, QB",
+      "TEAM": "CCU",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "124",
+      "YPC": "13.8",
       "TD": "1"
     }
   ],
