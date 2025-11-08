@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Jake Retzlaff, QB",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "17",
+      "YDS": "332",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "316.4"
+    },
+    {
+      "RK": "4",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W42-3vs.NIU",
@@ -37,19 +49,19 @@
       "RAT": "185.7"
     },
     {
-      "RK": "4",
-      "NAME": "Jake Retzlaff, QB",
-      "TEAM": "TULN",
+      "RK": "5",
+      "NAME": "Jayden Maiava, QB",
+      "TEAM": "USC",
       "RESULT": "",
-      "COMP": "14",
-      "ATT": "15",
-      "YDS": "284",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "318.4"
+      "COMP": "19",
+      "ATT": "27",
+      "YDS": "243",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "163.0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -61,7 +73,19 @@
       "RAT": "271.2"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Conner Weigman, QB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "30",
+      "YDS": "216",
+      "TD": "2",
+      "INT": "3",
+      "RAT": "125.8"
+    },
+    {
+      "RK": "8",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L13-17atBALL",
@@ -73,19 +97,7 @@
       "RAT": "121.5"
     },
     {
-      "RK": "7",
-      "NAME": "Conner Weigman, QB",
-      "TEAM": "HOU",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "27",
-      "YDS": "205",
-      "TD": "2",
-      "INT": "3",
-      "RAT": "129.0"
-    },
-    {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -97,7 +109,7 @@
       "RAT": "110.3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "L23-55atUSF",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "148.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Ben Finley, QB",
-      "TEAM": "AKR",
-      "RESULT": "W44-10vs.MASS",
-      "COMP": "12",
-      "ATT": "20",
-      "YDS": "197",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "175.7"
     }
   ],
   "Rushing Leaders": [
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Caleb Komolafe, RB",
+      "TEAM": "NU",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "107",
+      "YPC": "7.6",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "OJ Arnold, RB",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -153,7 +163,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W24-20vs.M-OH",
@@ -163,7 +173,17 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
+      "NAME": "King Miller, RB",
+      "TEAM": "USC",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "95",
+      "YPC": "8.6",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Nykahi Davenport, RB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -173,53 +193,33 @@
       "TD": "2"
     },
     {
-      "RK": "6",
-      "NAME": "King Miller, RB",
-      "TEAM": "USC",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "90",
-      "YPC": "10.0",
-      "TD": "1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Caleb Komolafe, RB",
-      "TEAM": "NU",
-      "RESULT": "",
-      "CAR": "10",
-      "YDS": "77",
-      "YPC": "7.7",
-      "TD": "1"
-    },
-    {
       "RK": "8",
-      "NAME": "Gavin Garcia, RB",
-      "TEAM": "KENT",
-      "RESULT": "L13-17atBALL",
-      "CAR": "12",
-      "YDS": "59",
-      "YPC": "4.9",
+      "NAME": "Conner Weigman, QB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "CAR": "21",
+      "YDS": "85",
+      "YPC": "4.0",
       "TD": "0"
     },
     {
       "RK": "9",
-      "NAME": "Jaden Nixon, RB",
-      "TEAM": "UCF",
+      "NAME": "DJ Butler, RB",
+      "TEAM": "HOU",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "56",
-      "YPC": "6.2",
-      "TD": "1"
+      "CAR": "14",
+      "YDS": "69",
+      "YPC": "4.9",
+      "TD": "0"
     },
     {
       "RK": "10",
-      "NAME": "Taven Curry, RB",
-      "TEAM": "AKR",
-      "RESULT": "W44-10vs.MASS",
-      "CAR": "8",
-      "YDS": "55",
-      "YPC": "6.9",
+      "NAME": "Dean Connors, RB",
+      "TEAM": "HOU",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "68",
+      "YPC": "6.8",
       "TD": "0"
     }
   ],
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Makai Lemon, WR",
+      "TEAM": "USC",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "119",
+      "YPR": "17.0",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Amare Thomas, WR",
       "TEAM": "HOU",
       "RESULT": "",
@@ -275,7 +285,17 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Bryce Bohanon, WR",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "101",
+      "YPR": "25.3",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
@@ -295,33 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Cole Weaver, WR",
       "TEAM": "M-OH",
       "RESULT": "L20-24atOHIO",
       "REC": "6",
       "YDS": "94",
       "YPR": "15.7",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Rodney Harris II, WR",
-      "TEAM": "OHIO",
-      "RESULT": "W24-20vs.M-OH",
-      "REC": "5",
-      "YDS": "92",
-      "YPR": "18.4",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Wayne Harris, WR",
-      "TEAM": "KENT",
-      "RESULT": "L13-17atBALL",
-      "REC": "5",
-      "YDS": "87",
-      "YPR": "17.4",
       "TD": "0"
     }
   ]
