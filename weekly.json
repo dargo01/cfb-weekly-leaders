@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Jake Retzlaff, QB",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "15",
+      "YDS": "284",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "318.4"
+    },
+    {
+      "RK": "5",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W55-23vs.UTSA",
@@ -49,7 +61,7 @@
       "RAT": "271.2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L13-17atBALL",
@@ -59,18 +71,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "121.5"
-    },
-    {
-      "RK": "6",
-      "NAME": "Jake Retzlaff, QB",
-      "TEAM": "TULN",
-      "RESULT": "",
-      "COMP": "8",
-      "ATT": "8",
-      "YDS": "210",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "403.0"
     },
     {
       "RK": "7",
@@ -177,19 +177,19 @@
       "NAME": "King Miller, RB",
       "TEAM": "USC",
       "RESULT": "",
-      "CAR": "8",
-      "YDS": "78",
-      "YPC": "9.8",
-      "TD": "0"
+      "CAR": "9",
+      "YDS": "90",
+      "YPC": "10.0",
+      "TD": "1"
     },
     {
       "RK": "7",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "73",
-      "YPC": "8.1",
+      "CAR": "10",
+      "YDS": "77",
+      "YPC": "7.7",
       "TD": "1"
     },
     {
@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Kiael Kelly, QB",
-      "TEAM": "BALL",
-      "RESULT": "W17-13vs.KENT",
-      "CAR": "21",
-      "YDS": "53",
-      "YPC": "2.5",
-      "TD": "0"
+      "NAME": "Jaden Nixon, RB",
+      "TEAM": "UCF",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "54",
+      "YPC": "6.8",
+      "TD": "1"
     }
   ],
   "Receiving Leaders": [
