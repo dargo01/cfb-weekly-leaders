@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Trinidad Chambliss, QB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "COMP": "29",
+      "ATT": "33",
+      "YDS": "333",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "202.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "W38-32atMEM",
@@ -37,19 +49,7 @@
       "RAT": "233.9"
     },
     {
-      "RK": "4",
-      "NAME": "Trinidad Chambliss, QB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "30",
-      "YDS": "326",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "203.3"
-    },
-    {
-      "RK": "",
+      "RK": "5",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
       "RESULT": "",
@@ -102,23 +102,23 @@
       "TEAM": "UGA",
       "RESULT": "",
       "COMP": "18",
-      "ATT": "28",
+      "ATT": "29",
       "YDS": "264",
       "TD": "3",
       "INT": "0",
-      "RAT": "178.9"
+      "RAT": "172.7"
     },
     {
       "RK": "10",
       "NAME": "Julian Lewis, QB",
       "TEAM": "COLO",
       "RESULT": "",
-      "COMP": "16",
-      "ATT": "27",
-      "YDS": "241",
+      "COMP": "17",
+      "ATT": "29",
+      "YDS": "249",
       "TD": "2",
       "INT": "0",
-      "RAT": "158.7"
+      "RAT": "153.5"
     }
   ],
   "Rushing Leaders": [
@@ -127,9 +127,9 @@
       "NAME": "Nate Frazier, RB",
       "TEAM": "UGA",
       "RESULT": "",
-      "CAR": "11",
-      "YDS": "174",
-      "YPC": "15.8",
+      "CAR": "12",
+      "YDS": "181",
+      "YPC": "15.1",
       "TD": "1"
     },
     {
@@ -147,9 +147,9 @@
       "NAME": "T.J. Harden, RB",
       "TEAM": "SMU",
       "RESULT": "",
-      "CAR": "15",
+      "CAR": "16",
       "YDS": "130",
-      "YPC": "8.7",
+      "YPC": "8.1",
       "TD": "0"
     },
     {
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "W14-13vs.TEM",
+      "CAR": "36",
+      "YDS": "118",
+      "YPC": "3.3",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "L17-38atUSC",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Antwan Roberts, RB",
       "TEAM": "MRSH",
       "RESULT": "",
@@ -183,23 +193,13 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Cameron Dickey, RB",
       "TEAM": "TTU",
       "RESULT": "",
       "CAR": "20",
       "YDS": "111",
       "YPC": "5.6",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "",
-      "CAR": "34",
-      "YDS": "110",
-      "YPC": "3.2",
       "TD": "1"
     },
     {
@@ -266,22 +266,22 @@
     },
     {
       "RK": "5",
+      "NAME": "Omarion Miller, WR",
+      "TEAM": "COLO",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "131",
+      "YPR": "21.8",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Marcus Sanders Jr., WR",
       "TEAM": "GASO",
       "RESULT": "W25-23atAPP",
       "REC": "6",
       "YDS": "127",
       "YPR": "21.2",
-      "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Omarion Miller, WR",
-      "TEAM": "COLO",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "123",
-      "YPR": "24.6",
       "TD": "1"
     },
     {
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "114",
+      "YPR": "14.3",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Cortez Braham Jr., WR",
       "TEAM": "MEM",
       "RESULT": "L32-38vs.TULN",
@@ -303,16 +313,6 @@
       "YDS": "113",
       "YPR": "10.3",
       "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "109",
-      "YPR": "15.6",
-      "TD": "1"
     },
     {
       "RK": "10",
