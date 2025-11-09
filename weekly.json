@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Walker Eget, QB",
+      "TEAM": "SJSU",
+      "RESULT": "L16-26vs.AF",
+      "COMP": "27",
+      "ATT": "42",
+      "YDS": "334",
+      "TD": "0",
+      "INT": "2",
+      "RAT": "121.6"
+    },
+    {
+      "RK": "7",
       "NAME": "Trinidad Chambliss, QB",
       "TEAM": "MISS",
       "RESULT": "W49-0vs.CIT",
@@ -73,7 +85,7 @@
       "RAT": "202.6"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "W38-32atMEM",
@@ -85,7 +97,7 @@
       "RAT": "233.9"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jaylen Raynor, QB",
       "TEAM": "ARST",
       "RESULT": "L21-27vs.USM",
@@ -97,7 +109,7 @@
       "RAT": "132.1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Kevin Jennings, QB",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "160.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Josh Hoover, QB",
-      "TEAM": "TCU",
-      "RESULT": "L17-20vs.ISU",
-      "COMP": "34",
-      "ATT": "50",
-      "YDS": "319",
-      "TD": "1",
-      "INT": "2",
-      "RAT": "120.2"
     }
   ],
   "Rushing Leaders": [
@@ -194,6 +194,16 @@
     },
     {
       "RK": "",
+      "NAME": "Keyjuan Brown, RB",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "127",
+      "YPC": "9.8",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Evan Dickens, RB",
       "TEAM": "LIB",
       "RESULT": "L17-21vs.MOST",
@@ -210,16 +220,6 @@
       "CAR": "15",
       "YDS": "127",
       "YPC": "8.5",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Samari Collier, QB",
-      "TEAM": "CCU",
-      "RESULT": "W40-27vs.GAST",
-      "CAR": "10",
-      "YDS": "123",
-      "YPC": "12.3",
       "TD": "1"
     }
   ],
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Leland Smith, WR",
+      "TEAM": "SJSU",
+      "RESULT": "L16-26vs.AF",
+      "REC": "9",
+      "YDS": "144",
+      "YPR": "16.0",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Elijah Metcalf, WR",
       "TEAM": "USM",
       "RESULT": "W27-21atARST",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jeremiah Smith, WR",
       "TEAM": "OSU",
       "RESULT": "W34-10atPUR",
       "REC": "10",
       "YDS": "137",
       "YPR": "13.7",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Omarion Miller, WR",
-      "TEAM": "COLO",
-      "RESULT": "L22-29atWVU",
-      "REC": "6",
-      "YDS": "131",
-      "YPR": "21.8",
       "TD": "1"
     }
   ]
