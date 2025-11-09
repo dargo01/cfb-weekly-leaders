@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Anthony Hankerson, RB",
+      "TEAM": "ORST",
+      "RESULT": "L17-21vs.SHSU",
+      "CAR": "33",
+      "YDS": "166",
+      "YPC": "5.0",
+      "TD": "2"
+    },
+    {
+      "RK": "4",
       "NAME": "Malik Washington, QB",
       "TEAM": "MD",
       "RESULT": "L20-35atRUTG",
@@ -153,22 +163,12 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "W44-10vs.MASS",
       "CAR": "28",
       "YDS": "153",
-      "YPC": "5.5",
-      "TD": "2"
-    },
-    {
-      "RK": "5",
-      "NAME": "Anthony Hankerson, RB",
-      "TEAM": "ORST",
-      "RESULT": "",
-      "CAR": "26",
-      "YDS": "142",
       "YPC": "5.5",
       "TD": "2"
     },
