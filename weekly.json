@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Jai'Den Thomas, RB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "CAR": "7",
+      "YDS": "131",
+      "YPC": "18.7",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "T.J. Harden, RB",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W30-27atUTEP",
@@ -210,16 +220,6 @@
       "CAR": "28",
       "YDS": "127",
       "YPC": "4.5",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "King Miller, RB",
-      "TEAM": "USC",
-      "RESULT": "W38-17vs.NU",
-      "CAR": "15",
-      "YDS": "127",
-      "YPC": "8.5",
       "TD": "1"
     }
   ],
