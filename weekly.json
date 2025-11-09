@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Keyjuan Brown, RB",
+      "TEAM": "LOU",
+      "RESULT": "L26-29vs.CAL",
+      "CAR": "14",
+      "YDS": "136",
+      "YPC": "9.7",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "W30-27atUTEP",
@@ -173,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "T.J. Harden, RB",
       "TEAM": "SMU",
       "RESULT": "W45-13atBC",
@@ -183,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "W30-27atUTEP",
@@ -191,16 +201,6 @@
       "YDS": "127",
       "YPC": "6.7",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Keyjuan Brown, RB",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "CAR": "13",
-      "YDS": "127",
-      "YPC": "9.8",
-      "TD": "0"
     },
     {
       "RK": "",
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Jacob De Jesus, WR",
+      "TEAM": "CAL",
+      "RESULT": "W29-26atLOU",
+      "REC": "15",
+      "YDS": "155",
+      "YPR": "10.3",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Leland Smith, WR",
       "TEAM": "SJSU",
       "RESULT": "L16-26vs.AF",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Elijah Metcalf, WR",
       "TEAM": "USM",
       "RESULT": "W27-21atARST",
@@ -312,16 +322,6 @@
       "REC": "10",
       "YDS": "143",
       "YPR": "14.3",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
-      "RESULT": "W34-10atPUR",
-      "REC": "10",
-      "YDS": "137",
-      "YPR": "13.7",
       "TD": "1"
     }
   ]
