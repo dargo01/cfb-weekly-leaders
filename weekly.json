@@ -73,16 +73,16 @@
       "RAT": "45.6"
     },
     {
-      "RK": "7",
+      "RK": "",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
-      "RESULT": "",
-      "COMP": "9",
-      "ATT": "19",
-      "YDS": "146",
+      "RESULT": "W33-0vs.TROY",
+      "COMP": "10",
+      "ATT": "20",
+      "YDS": "147",
       "TD": "1",
       "INT": "0",
-      "RAT": "129.3"
+      "RAT": "128.2"
     },
     {
       "RK": "8",
@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "AJ Hairston, QB",
-      "TEAM": "MASS",
-      "RESULT": "L3-45vs.NIU",
-      "COMP": "13",
+      "NAME": "Goose Crowder, QB",
+      "TEAM": "TROY",
+      "RESULT": "L0-33atODU",
+      "COMP": "11",
       "ATT": "21",
-      "YDS": "91",
+      "YDS": "98",
       "TD": "0",
-      "INT": "0",
-      "RAT": "98.3"
+      "INT": "1",
+      "RAT": "82.1"
     }
   ],
   "Rushing Leaders": [
@@ -126,7 +126,7 @@
       "RK": "1",
       "NAME": "Devin Roche, RB",
       "TEAM": "ODU",
-      "RESULT": "",
+      "RESULT": "W33-0vs.TROY",
       "CAR": "16",
       "YDS": "145",
       "YPC": "9.1",
@@ -173,7 +173,17 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "",
+      "NAME": "Trequan Jones, RB",
+      "TEAM": "ODU",
+      "RESULT": "W33-0vs.TROY",
+      "CAR": "9",
+      "YDS": "96",
+      "YPC": "10.7",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W17-13vs.OHIO",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "W24-3atM-OH",
@@ -193,33 +203,23 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "89",
-      "YPC": "7.4",
+      "RESULT": "W33-0vs.TROY",
+      "CAR": "13",
+      "YDS": "90",
+      "YPC": "6.9",
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "W45-3atMASS",
       "CAR": "12",
       "YDS": "86",
       "YPC": "7.2",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jalen Buckley, RB",
-      "TEAM": "WMU",
-      "RESULT": "W17-13vs.OHIO",
-      "CAR": "14",
-      "YDS": "82",
-      "YPC": "5.9",
       "TD": "1"
     }
   ],
@@ -258,7 +258,7 @@
       "RK": "4",
       "NAME": "Tre' Brown III, WR",
       "TEAM": "ODU",
-      "RESULT": "",
+      "RESULT": "W33-0vs.TROY",
       "REC": "5",
       "YDS": "112",
       "YPR": "22.4",
