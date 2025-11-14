@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Colton Joseph, QB",
+      "TEAM": "ODU",
+      "RESULT": "",
+      "COMP": "9",
+      "ATT": "19",
+      "YDS": "146",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "129.3"
+    },
+    {
+      "RK": "8",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W17-13vs.OHIO",
@@ -83,18 +95,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "139.9"
-    },
-    {
-      "RK": "8",
-      "NAME": "Colton Joseph, QB",
-      "TEAM": "ODU",
-      "RESULT": "",
-      "COMP": "6",
-      "ATT": "12",
-      "YDS": "118",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "160.1"
     },
     {
       "RK": "9",
@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Devin Roche, RB",
+      "TEAM": "ODU",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "145",
+      "YPC": "9.1",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -133,7 +143,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Jalen Macon, QB",
       "TEAM": "NIU",
       "RESULT": "W45-3atMASS",
@@ -143,7 +153,7 @@
       "TD": "3"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -153,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "L35-42vs.KENT",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W17-13vs.OHIO",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "W24-3atM-OH",
@@ -183,7 +193,17 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Colton Joseph, QB",
+      "TEAM": "ODU",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "89",
+      "YPC": "7.4",
+      "TD": "2"
+    },
+    {
+      "RK": "9",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "W45-3atMASS",
@@ -193,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "W17-13vs.OHIO",
@@ -201,26 +221,6 @@
       "YDS": "82",
       "YPC": "5.9",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Colton Joseph, QB",
-      "TEAM": "ODU",
-      "RESULT": "",
-      "CAR": "8",
-      "YDS": "67",
-      "YPC": "8.4",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Trey Cornist, RB",
-      "TEAM": "CMU",
-      "RESULT": "W38-19vs.BUF",
-      "CAR": "10",
-      "YDS": "62",
-      "YPC": "6.2",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Tre' Brown III, WR",
+      "TEAM": "ODU",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "112",
+      "YPR": "22.4",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Jasaiah Gathings, WR",
       "TEAM": "BUF",
       "RESULT": "L19-38atCMU",
@@ -273,16 +283,6 @@
       "YDS": "85",
       "YPR": "17.0",
       "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Tre' Brown III, WR",
-      "TEAM": "ODU",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "84",
-      "YPR": "42.0",
-      "TD": "0"
     },
     {
       "RK": "7",
