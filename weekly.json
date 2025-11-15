@@ -50,18 +50,6 @@
     },
     {
       "RK": "5",
-      "NAME": "Fernando Mendoza, QB",
-      "TEAM": "IU",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "19",
-      "YDS": "242",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "248.6"
-    },
-    {
-      "RK": "6",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "",
@@ -71,6 +59,18 @@
       "TD": "1",
       "INT": "1",
       "RAT": "129.2"
+    },
+    {
+      "RK": "6",
+      "NAME": "Fernando Mendoza, QB",
+      "TEAM": "IU",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "18",
+      "YDS": "228",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "250.3"
     },
     {
       "RK": "7",
@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Marcel Reed, QB",
-      "TEAM": "TA&M",
+      "NAME": "Noah Kim, QB",
+      "TEAM": "EMU",
       "RESULT": "",
-      "COMP": "10",
+      "COMP": "16",
       "ATT": "25",
-      "YDS": "197",
+      "YDS": "191",
       "TD": "1",
       "INT": "2",
-      "RAT": "103.4"
+      "RAT": "125.4"
     }
   ],
   "Rushing Leaders": [
