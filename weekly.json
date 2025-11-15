@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "L38-41atNAVY",
+      "COMP": "23",
+      "ATT": "32",
+      "YDS": "327",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "172.1"
+    },
+    {
+      "RK": "4",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "W42-35atAKR",
@@ -35,18 +47,6 @@
       "TD": "5",
       "INT": "0",
       "RAT": "240.5"
-    },
-    {
-      "RK": "4",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "L38-41atNAVY",
-      "COMP": "22",
-      "ATT": "31",
-      "YDS": "308",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "169.3"
     },
     {
       "RK": "5",
@@ -100,7 +100,7 @@
       "RK": "9",
       "NAME": "Bryce Underwood, QB",
       "TEAM": "MICH",
-      "RESULT": "",
+      "RESULT": "W24-22atNU",
       "COMP": "21",
       "ATT": "32",
       "YDS": "280",
@@ -137,13 +137,23 @@
       "NAME": "Dominic Richardson, RB",
       "TEAM": "TLSA",
       "RESULT": "",
-      "CAR": "21",
-      "YDS": "152",
-      "YPC": "7.2",
+      "CAR": "27",
+      "YDS": "166",
+      "YPC": "6.1",
       "TD": "1"
     },
     {
       "RK": "3",
+      "NAME": "Cam Edwards, RB",
+      "TEAM": "CONN",
+      "RESULT": "W26-16vs.AF",
+      "CAR": "24",
+      "YDS": "165",
+      "YPC": "6.9",
+      "TD": "2"
+    },
+    {
+      "RK": "4",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
       "RESULT": "W37-15atPITT",
@@ -153,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Devin Roche, RB",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -163,27 +173,27 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "",
-      "CAR": "11",
-      "YDS": "143",
-      "YPC": "13.0",
+      "CAR": "12",
+      "YDS": "144",
+      "YPC": "12.0",
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jordan Marshall, RB",
       "TEAM": "MICH",
-      "RESULT": "",
+      "RESULT": "W24-22atNU",
       "CAR": "19",
       "YDS": "142",
       "YPC": "7.5",
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "L38-41atNAVY",
@@ -193,7 +203,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Keyjuan Brown, RB",
       "TEAM": "LOU",
       "RESULT": "L19-20vs.CLEM",
@@ -203,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Alex Tecza, RB",
       "TEAM": "NAVY",
       "RESULT": "W41-38vs.USF",
@@ -211,16 +221,6 @@
       "YDS": "126",
       "YPC": "10.5",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Tawee Walker, RB",
-      "TEAM": "CIN",
-      "RESULT": "L24-30vs.ARIZ",
-      "CAR": "12",
-      "YDS": "119",
-      "YPC": "9.9",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -238,7 +238,7 @@
       "RK": "2",
       "NAME": "Andrew Marsh, WR",
       "TEAM": "MICH",
-      "RESULT": "",
+      "RESULT": "W24-22atNU",
       "REC": "12",
       "YDS": "189",
       "YPR": "15.8",
