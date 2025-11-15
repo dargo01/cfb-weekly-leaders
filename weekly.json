@@ -26,18 +26,6 @@
     },
     {
       "RK": "3",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "L38-41atNAVY",
-      "COMP": "23",
-      "ATT": "32",
-      "YDS": "327",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "172.1"
-    },
-    {
-      "RK": "4",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "W42-35atAKR",
@@ -47,6 +35,18 @@
       "TD": "5",
       "INT": "0",
       "RAT": "240.5"
+    },
+    {
+      "RK": "4",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "L38-41atNAVY",
+      "COMP": "22",
+      "ATT": "31",
+      "YDS": "308",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "169.3"
     },
     {
       "RK": "5",
@@ -134,16 +134,6 @@
     },
     {
       "RK": "2",
-      "NAME": "Cam Edwards, RB",
-      "TEAM": "CONN",
-      "RESULT": "W26-16vs.AF",
-      "CAR": "24",
-      "YDS": "165",
-      "YPC": "6.9",
-      "TD": "2"
-    },
-    {
-      "RK": "3",
       "NAME": "Dominic Richardson, RB",
       "TEAM": "TLSA",
       "RESULT": "",
@@ -153,7 +143,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "3",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
       "RESULT": "W37-15atPITT",
@@ -163,7 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "4",
       "NAME": "Devin Roche, RB",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -173,7 +163,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "5",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "",
@@ -183,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "6",
       "NAME": "Jordan Marshall, RB",
       "TEAM": "MICH",
       "RESULT": "",
@@ -193,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "7",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "L38-41atNAVY",
@@ -203,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "8",
       "NAME": "Keyjuan Brown, RB",
       "TEAM": "LOU",
       "RESULT": "L19-20vs.CLEM",
@@ -213,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "10",
+      "RK": "9",
       "NAME": "Alex Tecza, RB",
       "TEAM": "NAVY",
       "RESULT": "W41-38vs.USF",
@@ -221,6 +211,16 @@
       "YDS": "126",
       "YPC": "10.5",
       "TD": "1"
+    },
+    {
+      "RK": "10",
+      "NAME": "Tawee Walker, RB",
+      "TEAM": "CIN",
+      "RESULT": "L24-30vs.ARIZ",
+      "CAR": "12",
+      "YDS": "119",
+      "YPC": "9.9",
+      "TD": "0"
     }
   ],
   "Receiving Leaders": [
