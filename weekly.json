@@ -50,6 +50,42 @@
     },
     {
       "RK": "5",
+      "NAME": "Dante Moore, QB",
+      "TEAM": "ORE",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "20",
+      "YDS": "200",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "190.5"
+    },
+    {
+      "RK": "6",
+      "NAME": "Cade Klubnik, QB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "32",
+      "YDS": "183",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "113.7"
+    },
+    {
+      "RK": "7",
+      "NAME": "Miller Moss, QB",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "22",
+      "YDS": "178",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "140.7"
+    },
+    {
+      "RK": "8",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W24-3atM-OH",
@@ -61,7 +97,7 @@
       "RAT": "112.2"
     },
     {
-      "RK": "6",
+      "RK": "9",
       "NAME": "Henry Hesson, QB",
       "TEAM": "M-OH",
       "RESULT": "L3-24vs.TOL",
@@ -83,42 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "128.2"
-    },
-    {
-      "RK": "8",
-      "NAME": "Cade Klubnik, QB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "COMP": "16",
-      "ATT": "25",
-      "YDS": "131",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "108.0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Broc Lowry, QB",
-      "TEAM": "WMU",
-      "RESULT": "W17-13vs.OHIO",
-      "COMP": "9",
-      "ATT": "14",
-      "YDS": "126",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "139.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "Miller Moss, QB",
-      "TEAM": "LOU",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "19",
-      "YDS": "124",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "128.5"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Keyjuan Brown, RB",
       "TEAM": "LOU",
       "RESULT": "",
-      "CAR": "13",
-      "YDS": "132",
-      "YPC": "10.2",
+      "CAR": "14",
+      "YDS": "137",
+      "YPC": "9.8",
       "TD": "0"
     },
     {
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Adam Randall, RB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "102",
+      "YPC": "8.5",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
       "NAME": "Jalen Macon, QB",
       "TEAM": "NIU",
       "RESULT": "W45-3atMASS",
@@ -163,7 +173,7 @@
       "TD": "3"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "L35-42vs.KENT",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W17-13vs.OHIO",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "W24-3atM-OH",
@@ -211,16 +221,6 @@
       "YDS": "91",
       "YPC": "4.3",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Colton Joseph, QB",
-      "TEAM": "ODU",
-      "RESULT": "W33-0vs.TROY",
-      "CAR": "13",
-      "YDS": "90",
-      "YPC": "6.9",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "T.J. Moore, WR",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "68",
+      "YPR": "11.3",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Israel Polk, WR",
       "TEAM": "AKR",
       "RESULT": "L35-42vs.KENT",
@@ -313,16 +323,6 @@
       "YDS": "67",
       "YPR": "16.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jacquon Gibson, WR",
-      "TEAM": "MASS",
-      "RESULT": "L3-45vs.NIU",
-      "REC": "6",
-      "YDS": "64",
-      "YPR": "10.7",
-      "TD": "0"
     }
   ]
 }
