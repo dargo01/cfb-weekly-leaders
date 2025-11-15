@@ -4,7 +4,7 @@
       "RK": "1",
       "NAME": "Marcel Reed, QB",
       "TEAM": "TA&M",
-      "RESULT": "",
+      "RESULT": "W31-30vs.SC",
       "COMP": "22",
       "ATT": "39",
       "YDS": "439",
@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "L38-41atNAVY",
+      "COMP": "23",
+      "ATT": "32",
+      "YDS": "327",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "172.1"
+    },
+    {
+      "RK": "4",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "W42-35atAKR",
@@ -35,18 +47,6 @@
       "TD": "5",
       "INT": "0",
       "RAT": "240.5"
-    },
-    {
-      "RK": "4",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "COMP": "22",
-      "ATT": "31",
-      "YDS": "308",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "169.3"
     },
     {
       "RK": "5",
@@ -101,12 +101,12 @@
       "NAME": "Bryce Underwood, QB",
       "TEAM": "MICH",
       "RESULT": "",
-      "COMP": "19",
-      "ATT": "28",
-      "YDS": "257",
+      "COMP": "21",
+      "ATT": "32",
+      "YDS": "280",
       "TD": "0",
       "INT": "2",
-      "RAT": "130.7"
+      "RAT": "126.6"
     },
     {
       "RK": "10",
@@ -134,26 +134,36 @@
     },
     {
       "RK": "2",
+      "NAME": "Cam Edwards, RB",
+      "TEAM": "CONN",
+      "RESULT": "W26-16vs.AF",
+      "CAR": "24",
+      "YDS": "165",
+      "YPC": "6.9",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Dominic Richardson, RB",
       "TEAM": "TLSA",
       "RESULT": "",
-      "CAR": "19",
-      "YDS": "147",
-      "YPC": "7.7",
+      "CAR": "21",
+      "YDS": "152",
+      "YPC": "7.2",
       "TD": "1"
     },
     {
-      "RK": "",
+      "RK": "4",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
-      "RESULT": "",
+      "RESULT": "W37-15atPITT",
       "CAR": "23",
       "YDS": "147",
       "YPC": "6.4",
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Devin Roche, RB",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -163,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jordan Marshall, RB",
       "TEAM": "MICH",
       "RESULT": "",
@@ -183,17 +193,17 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
-      "RESULT": "",
+      "RESULT": "L38-41atNAVY",
       "CAR": "17",
       "YDS": "136",
       "YPC": "8.0",
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Keyjuan Brown, RB",
       "TEAM": "LOU",
       "RESULT": "L19-20vs.CLEM",
@@ -203,24 +213,14 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Alex Tecza, RB",
       "TEAM": "NAVY",
-      "RESULT": "",
+      "RESULT": "W41-38vs.USF",
       "CAR": "12",
       "YDS": "126",
       "YPC": "10.5",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Tawee Walker, RB",
-      "TEAM": "CIN",
-      "RESULT": "L24-30vs.ARIZ",
-      "CAR": "12",
-      "YDS": "119",
-      "YPC": "9.9",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -239,16 +239,16 @@
       "NAME": "Andrew Marsh, WR",
       "TEAM": "MICH",
       "RESULT": "",
-      "REC": "11",
-      "YDS": "168",
-      "YPR": "15.3",
+      "REC": "12",
+      "YDS": "189",
+      "YPR": "15.8",
       "TD": "0"
     },
     {
       "RK": "3",
       "NAME": "KC Concepcion, WR",
       "TEAM": "TA&M",
-      "RESULT": "",
+      "RESULT": "W31-30vs.SC",
       "REC": "7",
       "YDS": "158",
       "YPR": "22.6",
@@ -258,7 +258,7 @@
       "RK": "4",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
-      "RESULT": "",
+      "RESULT": "W41-38vs.USF",
       "REC": "5",
       "YDS": "146",
       "YPR": "29.2",
@@ -268,7 +268,7 @@
       "RK": "5",
       "NAME": "Ashton Bethel-Roman, WR",
       "TEAM": "TA&M",
-      "RESULT": "",
+      "RESULT": "W31-30vs.SC",
       "REC": "4",
       "YDS": "139",
       "YPR": "34.8",
