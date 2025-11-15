@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Cade Klubnik, QB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "25",
+      "YDS": "131",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "108.0"
+    },
+    {
+      "RK": "9",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W17-13vs.OHIO",
@@ -97,28 +109,16 @@
       "RAT": "139.9"
     },
     {
-      "RK": "9",
-      "NAME": "Brandon Rose, QB",
-      "TEAM": "MASS",
-      "RESULT": "L3-45vs.NIU",
-      "COMP": "11",
-      "ATT": "20",
-      "YDS": "101",
+      "RK": "10",
+      "NAME": "Miller Moss, QB",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "19",
+      "YDS": "124",
       "TD": "0",
       "INT": "0",
-      "RAT": "97.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Goose Crowder, QB",
-      "TEAM": "TROY",
-      "RESULT": "L0-33atODU",
-      "COMP": "11",
-      "ATT": "21",
-      "YDS": "98",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "82.1"
+      "RAT": "128.5"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Keyjuan Brown, RB",
+      "TEAM": "LOU",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "132",
+      "YPC": "10.2",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -143,7 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Jalen Macon, QB",
       "TEAM": "NIU",
       "RESULT": "W45-3atMASS",
@@ -153,7 +163,7 @@
       "TD": "3"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "L35-42vs.KENT",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W17-13vs.OHIO",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "W24-3atM-OH",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -211,16 +221,6 @@
       "YDS": "90",
       "YPC": "6.9",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chavon Wright, RB",
-      "TEAM": "NIU",
-      "RESULT": "W45-3atMASS",
-      "CAR": "12",
-      "YDS": "86",
-      "YPC": "7.2",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
