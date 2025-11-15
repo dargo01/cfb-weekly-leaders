@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Owen McCown, QB",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "19",
+      "YDS": "190",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "159.3"
+    },
+    {
+      "RK": "8",
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "W20-19atLOU",
@@ -85,7 +97,19 @@
       "RAT": "110.9"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Noah Kim, QB",
+      "TEAM": "EMU",
+      "RESULT": "",
+      "COMP": "12",
+      "ATT": "19",
+      "YDS": "174",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "146.9"
+    },
+    {
+      "RK": "10",
       "NAME": "Tucker Gleason, QB",
       "TEAM": "TOL",
       "RESULT": "W24-3atM-OH",
@@ -95,30 +119,6 @@
       "TD": "2",
       "INT": "2",
       "RAT": "112.2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Henry Hesson, QB",
-      "TEAM": "M-OH",
-      "RESULT": "L3-24vs.TOL",
-      "COMP": "11",
-      "ATT": "38",
-      "YDS": "147",
-      "TD": "0",
-      "INT": "3",
-      "RAT": "45.6"
-    },
-    {
-      "RK": "",
-      "NAME": "Colton Joseph, QB",
-      "TEAM": "ODU",
-      "RESULT": "W33-0vs.TROY",
-      "COMP": "10",
-      "ATT": "20",
-      "YDS": "147",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "128.2"
     }
   ],
   "Rushing Leaders": [
@@ -144,6 +144,26 @@
     },
     {
       "RK": "3",
+      "NAME": "Tawee Walker, RB",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "CAR": "6",
+      "YDS": "108",
+      "YPC": "18.0",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
+      "NAME": "Alex Tecza, RB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "5",
+      "YDS": "106",
+      "YPC": "21.2",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -161,26 +181,6 @@
       "YDS": "105",
       "YPC": "7.0",
       "TD": "2"
-    },
-    {
-      "RK": "5",
-      "NAME": "Tawee Walker, RB",
-      "TEAM": "CIN",
-      "RESULT": "",
-      "CAR": "4",
-      "YDS": "104",
-      "YPC": "26.0",
-      "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Alex Tecza, RB",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "CAR": "4",
-      "YDS": "103",
-      "YPC": "25.8",
-      "TD": "1"
     },
     {
       "RK": "7",
@@ -286,6 +286,26 @@
     },
     {
       "RK": "7",
+      "NAME": "Devin McCuin, WR",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "94",
+      "YPR": "15.7",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
+      "NAME": "Jamarien Wheeler, WR",
+      "TEAM": "EMU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "93",
+      "YPR": "23.3",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "",
@@ -295,33 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Jasaiah Gathings, WR",
       "TEAM": "BUF",
       "RESULT": "L19-38atCMU",
       "REC": "6",
       "YDS": "85",
       "YPR": "14.2",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Tommy McIntosh, WR",
-      "TEAM": "CMU",
-      "RESULT": "W38-19vs.BUF",
-      "REC": "5",
-      "YDS": "85",
-      "YPR": "17.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "KC Concepcion, WR",
-      "TEAM": "TA&M",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "83",
-      "YPR": "41.5",
       "TD": "0"
     }
   ]
