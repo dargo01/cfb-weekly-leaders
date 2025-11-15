@@ -77,15 +77,27 @@
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "",
-      "COMP": "13",
-      "ATT": "19",
-      "YDS": "190",
+      "COMP": "15",
+      "ATT": "24",
+      "YDS": "205",
       "TD": "1",
       "INT": "1",
-      "RAT": "159.3"
+      "RAT": "139.7"
     },
     {
       "RK": "8",
+      "NAME": "Fernando Mendoza, QB",
+      "TEAM": "IU",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "16",
+      "YDS": "194",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "230.6"
+    },
+    {
+      "RK": "9",
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "W20-19atLOU",
@@ -97,28 +109,16 @@
       "RAT": "110.9"
     },
     {
-      "RK": "9",
-      "NAME": "Noah Kim, QB",
-      "TEAM": "EMU",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "19",
-      "YDS": "174",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "146.9"
-    },
-    {
       "RK": "10",
-      "NAME": "Tucker Gleason, QB",
-      "TEAM": "TOL",
-      "RESULT": "W24-3atM-OH",
-      "COMP": "18",
-      "ATT": "31",
-      "YDS": "169",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "112.2"
+      "NAME": "Bryce Underwood, QB",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "20",
+      "YDS": "185",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "152.7"
     }
   ],
   "Rushing Leaders": [
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Andrew Marsh, WR",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "REC": "9",
+      "YDS": "135",
+      "YPR": "15.0",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L19-38atCMU",
@@ -245,7 +255,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Langston Lewis, WR",
       "TEAM": "CMU",
       "RESULT": "W38-19vs.BUF",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Tre' Brown III, WR",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -265,17 +275,27 @@
       "TD": "0"
     },
     {
-      "RK": "5",
-      "NAME": "Andrew Marsh, WR",
-      "TEAM": "MICH",
+      "RK": "6",
+      "NAME": "Charlie Becker, WR",
+      "TEAM": "IU",
       "RESULT": "",
-      "REC": "6",
-      "YDS": "104",
-      "YPR": "17.3",
+      "REC": "5",
+      "YDS": "108",
+      "YPR": "21.6",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Eli Heidenreich, WR",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "107",
+      "YPR": "35.7",
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Kenyon Sadiq, TE",
       "TEAM": "ORE",
       "RESULT": "W42-13vs.MINN",
@@ -285,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Devin McCuin, WR",
       "TEAM": "UTSA",
       "RESULT": "",
@@ -295,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Jamarien Wheeler, WR",
       "TEAM": "EMU",
       "RESULT": "",
@@ -303,26 +323,6 @@
       "YDS": "93",
       "YPR": "23.3",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Eli Heidenreich, WR",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "92",
-      "YPR": "46.0",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jasaiah Gathings, WR",
-      "TEAM": "BUF",
-      "RESULT": "L19-38atCMU",
-      "REC": "6",
-      "YDS": "85",
-      "YPR": "14.2",
-      "TD": "0"
     }
   ]
 }
