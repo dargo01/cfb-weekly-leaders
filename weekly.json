@@ -98,27 +98,27 @@
     },
     {
       "RK": "9",
-      "NAME": "Fernando Mendoza, QB",
-      "TEAM": "IU",
-      "RESULT": "W31-7vs.WIS",
-      "COMP": "22",
-      "ATT": "24",
-      "YDS": "299",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "251.3"
+      "NAME": "Chandler Morris, QB",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "30",
+      "YDS": "305",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "170.7"
     },
     {
       "RK": "10",
-      "NAME": "Drew Mestemaker, QB",
-      "TEAM": "UNT",
-      "RESULT": "W53-24atUAB",
-      "COMP": "18",
-      "ATT": "25",
-      "YDS": "298",
+      "NAME": "Roman Gagliano, QB",
+      "TEAM": "MTSU",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "27",
+      "YDS": "304",
       "TD": "2",
       "INT": "0",
-      "RAT": "198.5"
+      "RAT": "189.4"
     }
   ],
   "Rushing Leaders": [
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Trell Harris, WR",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "161",
+      "YPR": "20.1",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "KC Concepcion, WR",
       "TEAM": "TA&M",
       "RESULT": "W31-30vs.SC",
@@ -255,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "W41-38vs.USF",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Wyatt Young, WR",
       "TEAM": "UNT",
       "RESULT": "W53-24atUAB",
@@ -275,17 +285,27 @@
       "TD": "1"
     },
     {
-      "RK": "6",
-      "NAME": "Trell Harris, WR",
-      "TEAM": "UVA",
+      "RK": "7",
+      "NAME": "Reed Harris, WR",
+      "TEAM": "BC",
       "RESULT": "",
-      "REC": "7",
-      "YDS": "141",
-      "YPR": "20.1",
-      "TD": "0"
+      "REC": "5",
+      "YDS": "142",
+      "YPR": "28.4",
+      "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Makai Lemon, WR",
+      "TEAM": "USC",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "139",
+      "YPR": "17.4",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Ashton Bethel-Roman, WR",
       "TEAM": "TA&M",
       "RESULT": "W31-30vs.SC",
@@ -295,33 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Jamarien Wheeler, WR",
       "TEAM": "EMU",
       "RESULT": "W24-9atBALL",
       "REC": "6",
       "YDS": "131",
       "YPR": "21.8",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Makai Lemon, WR",
-      "TEAM": "USC",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "127",
-      "YPR": "18.1",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Brandon Hawkins Jr., WR",
-      "TEAM": "UAB",
-      "RESULT": "L24-53vs.UNT",
-      "REC": "6",
-      "YDS": "127",
-      "YPR": "21.2",
       "TD": "1"
     }
   ]
