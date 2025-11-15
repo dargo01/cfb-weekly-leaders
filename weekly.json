@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Haynes King, QB",
+      "TEAM": "GT",
+      "RESULT": "",
+      "COMP": "26",
+      "ATT": "34",
+      "YDS": "371",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "177.8"
+    },
+    {
+      "RK": "",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
       "RESULT": "",
@@ -35,18 +47,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "166.0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Haynes King, QB",
-      "TEAM": "GT",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "33",
-      "YDS": "354",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "175.9"
     },
     {
       "RK": "5",
