@@ -62,27 +62,27 @@
     },
     {
       "RK": "6",
-      "NAME": "Cade Klubnik, QB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "COMP": "21",
-      "ATT": "32",
-      "YDS": "183",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "113.7"
-    },
-    {
-      "RK": "7",
       "NAME": "Miller Moss, QB",
       "TEAM": "LOU",
       "RESULT": "",
-      "COMP": "16",
-      "ATT": "22",
-      "YDS": "178",
+      "COMP": "17",
+      "ATT": "23",
+      "YDS": "192",
       "TD": "0",
       "INT": "0",
-      "RAT": "140.7"
+      "RAT": "144.0"
+    },
+    {
+      "RK": "7",
+      "NAME": "Cade Klubnik, QB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "34",
+      "YDS": "187",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "110.9"
     },
     {
       "RK": "8",
@@ -137,13 +137,23 @@
       "NAME": "Keyjuan Brown, RB",
       "TEAM": "LOU",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "137",
-      "YPC": "9.8",
+      "CAR": "15",
+      "YDS": "135",
+      "YPC": "9.0",
       "TD": "0"
     },
     {
       "RK": "3",
+      "NAME": "Adam Randall, RB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "106",
+      "YPC": "7.6",
+      "TD": "2"
+    },
+    {
+      "RK": "4",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -151,16 +161,6 @@
       "YDS": "105",
       "YPC": "5.8",
       "TD": "1"
-    },
-    {
-      "RK": "4",
-      "NAME": "Adam Randall, RB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "102",
-      "YPC": "8.5",
-      "TD": "2"
     },
     {
       "RK": "5",
