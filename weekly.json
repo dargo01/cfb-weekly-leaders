@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Marcel Reed, QB",
+      "TEAM": "TA&M",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "39",
+      "YDS": "439",
+      "TD": "3",
+      "INT": "2",
+      "RAT": "166.1"
+    },
+    {
+      "RK": "2",
       "NAME": "Ben Finley, QB",
       "TEAM": "AKR",
       "RESULT": "L35-42vs.KENT",
@@ -11,18 +23,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "128.0"
-    },
-    {
-      "RK": "2",
-      "NAME": "Marcel Reed, QB",
-      "TEAM": "TA&M",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "36",
-      "YDS": "415",
-      "TD": "3",
-      "INT": "2",
-      "RAT": "166.0"
     },
     {
       "RK": "3",
@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "31",
+      "YDS": "308",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "169.3"
+    },
+    {
+      "RK": "5",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "W28-7atCLT",
@@ -61,7 +73,7 @@
       "RAT": "197.7"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Fernando Mendoza, QB",
       "TEAM": "IU",
       "RESULT": "W31-7vs.WIS",
@@ -73,19 +85,31 @@
       "RAT": "251.3"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Noah Fifita, QB",
       "TEAM": "ARIZ",
-      "RESULT": "",
-      "COMP": "22",
-      "ATT": "30",
-      "YDS": "290",
+      "RESULT": "W30-24atCIN",
+      "COMP": "23",
+      "ATT": "31",
+      "YDS": "294",
       "TD": "1",
       "INT": "0",
-      "RAT": "165.5"
+      "RAT": "164.5"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Bryce Underwood, QB",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "28",
+      "YDS": "257",
+      "TD": "0",
+      "INT": "2",
+      "RAT": "130.7"
+    },
+    {
+      "RK": "10",
       "NAME": "Joe Labas, QB",
       "TEAM": "CMU",
       "RESULT": "W38-19vs.BUF",
@@ -95,30 +119,6 @@
       "TD": "2",
       "INT": "2",
       "RAT": "172.3"
-    },
-    {
-      "RK": "9",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "28",
-      "YDS": "243",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "145.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Bryce Underwood, QB",
-      "TEAM": "MICH",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "26",
-      "YDS": "237",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "138.1"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Dominic Richardson, RB",
+      "TEAM": "TLSA",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "147",
+      "YPC": "7.7",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
       "RESULT": "",
@@ -143,7 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Devin Roche, RB",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -153,17 +163,37 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "",
-      "CAR": "10",
-      "YDS": "137",
-      "YPC": "13.7",
+      "CAR": "11",
+      "YDS": "143",
+      "YPC": "13.0",
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
+      "NAME": "Jordan Marshall, RB",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "142",
+      "YPC": "7.5",
+      "TD": "2"
+    },
+    {
+      "RK": "7",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "136",
+      "YPC": "8.0",
+      "TD": "2"
+    },
+    {
+      "RK": "8",
       "NAME": "Keyjuan Brown, RB",
       "TEAM": "LOU",
       "RESULT": "L19-20vs.CLEM",
@@ -173,54 +203,24 @@
       "TD": "0"
     },
     {
-      "RK": "6",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "128",
-      "YPC": "8.5",
-      "TD": "2"
-    },
-    {
-      "RK": "7",
-      "NAME": "Tawee Walker, RB",
-      "TEAM": "CIN",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "119",
-      "YPC": "9.9",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Jordan Marshall, RB",
-      "TEAM": "MICH",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "114",
-      "YPC": "6.7",
-      "TD": "2"
-    },
-    {
-      "RK": "",
+      "RK": "9",
       "NAME": "Alex Tecza, RB",
       "TEAM": "NAVY",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "114",
-      "YPC": "12.7",
+      "CAR": "12",
+      "YDS": "126",
+      "YPC": "10.5",
       "TD": "1"
     },
     {
       "RK": "10",
-      "NAME": "Parker Navarro, QB",
-      "TEAM": "OHIO",
-      "RESULT": "L13-17atWMU",
-      "CAR": "18",
-      "YDS": "105",
-      "YPC": "5.8",
-      "TD": "1"
+      "NAME": "Tawee Walker, RB",
+      "TEAM": "CIN",
+      "RESULT": "L24-30vs.ARIZ",
+      "CAR": "12",
+      "YDS": "119",
+      "YPC": "9.9",
+      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -239,29 +239,29 @@
       "NAME": "Andrew Marsh, WR",
       "TEAM": "MICH",
       "RESULT": "",
-      "REC": "10",
-      "YDS": "148",
-      "YPR": "14.8",
+      "REC": "11",
+      "YDS": "168",
+      "YPR": "15.3",
       "TD": "0"
     },
     {
       "RK": "3",
+      "NAME": "KC Concepcion, WR",
+      "TEAM": "TA&M",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "158",
+      "YPR": "22.6",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "",
       "REC": "5",
       "YDS": "146",
       "YPR": "29.2",
-      "TD": "0"
-    },
-    {
-      "RK": "4",
-      "NAME": "KC Concepcion, WR",
-      "TEAM": "TA&M",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "144",
-      "YPR": "24.0",
       "TD": "0"
     },
     {
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Kris Hutson, WR",
+      "TEAM": "ARIZ",
+      "RESULT": "W30-24atCIN",
+      "REC": "8",
+      "YDS": "123",
+      "YPR": "15.4",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L19-38atCMU",
@@ -293,16 +303,6 @@
       "YDS": "122",
       "YPR": "17.4",
       "TD": "2"
-    },
-    {
-      "RK": "8",
-      "NAME": "Kris Hutson, WR",
-      "TEAM": "ARIZ",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "119",
-      "YPR": "17.0",
-      "TD": "0"
     },
     {
       "RK": "9",
