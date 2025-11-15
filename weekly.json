@@ -124,6 +124,16 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Caleb Hawkins, RB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "CAR": "26",
+      "YDS": "186",
+      "YPC": "7.2",
+      "TD": "5"
+    },
+    {
+      "RK": "2",
       "NAME": "Will Henderson III, RB",
       "TEAM": "UTSA",
       "RESULT": "W28-7atCLT",
@@ -133,7 +143,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Dominic Richardson, RB",
       "TEAM": "TLSA",
       "RESULT": "W31-14vs.ORST",
@@ -143,7 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Cam Edwards, RB",
       "TEAM": "CONN",
       "RESULT": "W26-16vs.AF",
@@ -153,7 +163,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "",
@@ -163,17 +173,17 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jevon Jackson, RB",
       "TEAM": "UAB",
       "RESULT": "",
-      "CAR": "15",
-      "YDS": "149",
+      "CAR": "16",
+      "YDS": "159",
       "YPC": "9.9",
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
       "RESULT": "W37-15atPITT",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Devin Roche, RB",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jordan Marshall, RB",
       "TEAM": "MICH",
       "RESULT": "W24-22atNU",
@@ -203,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "L38-41atNAVY",
@@ -211,16 +221,6 @@
       "YDS": "136",
       "YPC": "8.0",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Keyjuan Brown, RB",
-      "TEAM": "LOU",
-      "RESULT": "L19-20vs.CLEM",
-      "CAR": "15",
-      "YDS": "135",
-      "YPC": "9.0",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -266,22 +266,22 @@
     },
     {
       "RK": "5",
+      "NAME": "Wyatt Young, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "143",
+      "YPR": "17.9",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Ashton Bethel-Roman, WR",
       "TEAM": "TA&M",
       "RESULT": "W31-30vs.SC",
       "REC": "4",
       "YDS": "139",
       "YPR": "34.8",
-      "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Wyatt Young, WR",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "135",
-      "YPR": "19.3",
       "TD": "1"
     },
     {
@@ -296,6 +296,26 @@
     },
     {
       "RK": "8",
+      "NAME": "Brandon Hawkins Jr., WR",
+      "TEAM": "UAB",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "127",
+      "YPR": "21.2",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
+      "NAME": "Reed Harris, WR",
+      "TEAM": "BC",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "124",
+      "YPR": "31.0",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Kendrick Law, WR",
       "TEAM": "UK",
       "RESULT": "W42-10vs.TNTC",
@@ -303,26 +323,6 @@
       "YDS": "124",
       "YPR": "11.3",
       "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Kris Hutson, WR",
-      "TEAM": "ARIZ",
-      "RESULT": "W30-24atCIN",
-      "REC": "8",
-      "YDS": "123",
-      "YPR": "15.4",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Nik McMillan, WR",
-      "TEAM": "BUF",
-      "RESULT": "L19-38atCMU",
-      "REC": "7",
-      "YDS": "122",
-      "YPR": "17.4",
-      "TD": "2"
     }
   ]
 }
