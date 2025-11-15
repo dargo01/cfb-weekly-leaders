@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Carlos Del Rio-Wilson, QB",
+      "TEAM": "MRSH",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "27",
+      "YDS": "321",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "218.0"
+    },
+    {
+      "RK": "6",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "W42-35atAKR",
@@ -61,7 +73,7 @@
       "RAT": "240.5"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "W28-7atCLT",
@@ -85,7 +97,7 @@
       "RAT": "197.7"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Fernando Mendoza, QB",
       "TEAM": "IU",
       "RESULT": "W31-7vs.WIS",
@@ -97,7 +109,7 @@
       "RAT": "251.3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Noah Fifita, QB",
       "TEAM": "ARIZ",
       "RESULT": "W30-24atCIN",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "164.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Bryce Underwood, QB",
-      "TEAM": "MICH",
-      "RESULT": "W24-22atNU",
-      "COMP": "21",
-      "ATT": "32",
-      "YDS": "280",
-      "TD": "0",
-      "INT": "2",
-      "RAT": "126.6"
     }
   ],
   "Rushing Leaders": [
