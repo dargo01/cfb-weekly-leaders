@@ -144,16 +144,6 @@
     },
     {
       "RK": "3",
-      "NAME": "Adam Randall, RB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "CAR": "14",
-      "YDS": "106",
-      "YPC": "7.6",
-      "TD": "2"
-    },
-    {
-      "RK": "4",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -161,6 +151,16 @@
       "YDS": "105",
       "YPC": "5.8",
       "TD": "1"
+    },
+    {
+      "RK": "4",
+      "NAME": "Adam Randall, RB",
+      "TEAM": "CLEM",
+      "RESULT": "",
+      "CAR": "13",
+      "YDS": "102",
+      "YPC": "7.8",
+      "TD": "2"
     },
     {
       "RK": "5",
