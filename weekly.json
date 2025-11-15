@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Tawee Walker, RB",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "CAR": "4",
+      "YDS": "104",
+      "YPC": "26.0",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Alex Tecza, RB",
       "TEAM": "NAVY",
       "RESULT": "",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jalen Macon, QB",
       "TEAM": "NIU",
       "RESULT": "W45-3atMASS",
@@ -181,16 +191,6 @@
       "YDS": "98",
       "YPC": "8.2",
       "TD": "3"
-    },
-    {
-      "RK": "",
-      "NAME": "Tawee Walker, RB",
-      "TEAM": "CIN",
-      "RESULT": "",
-      "CAR": "3",
-      "YDS": "98",
-      "YPC": "32.7",
-      "TD": "0"
     },
     {
       "RK": "8",
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Andrew Marsh, WR",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "104",
+      "YPR": "17.3",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Kenyon Sadiq, TE",
       "TEAM": "ORE",
       "RESULT": "W42-13vs.MINN",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jasaiah Gathings, WR",
       "TEAM": "BUF",
       "RESULT": "L19-38atCMU",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "KC Concepcion, WR",
       "TEAM": "TA&M",
       "RESULT": "",
       "REC": "2",
       "YDS": "83",
       "YPR": "41.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chris Bell, WR",
-      "TEAM": "LOU",
-      "RESULT": "L19-20vs.CLEM",
-      "REC": "5",
-      "YDS": "79",
-      "YPR": "15.8",
       "TD": "0"
     }
   ]
