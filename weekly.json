@@ -17,12 +17,12 @@
       "NAME": "Marcel Reed, QB",
       "TEAM": "TA&M",
       "RESULT": "",
-      "COMP": "15",
-      "ATT": "31",
-      "YDS": "344",
+      "COMP": "19",
+      "ATT": "36",
+      "YDS": "415",
       "TD": "3",
       "INT": "2",
-      "RAT": "160.6"
+      "RAT": "166.0"
     },
     {
       "RK": "3",
@@ -40,7 +40,7 @@
       "RK": "4",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
-      "RESULT": "",
+      "RESULT": "W28-7atCLT",
       "COMP": "24",
       "ATT": "37",
       "YDS": "306",
@@ -77,12 +77,12 @@
       "NAME": "Noah Fifita, QB",
       "TEAM": "ARIZ",
       "RESULT": "",
-      "COMP": "20",
-      "ATT": "28",
-      "YDS": "271",
+      "COMP": "22",
+      "ATT": "30",
+      "YDS": "290",
       "TD": "1",
       "INT": "0",
-      "RAT": "164.5"
+      "RAT": "165.5"
     },
     {
       "RK": "8",
@@ -98,27 +98,27 @@
     },
     {
       "RK": "9",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "28",
+      "YDS": "243",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "145.4"
+    },
+    {
+      "RK": "10",
       "NAME": "Bryce Underwood, QB",
       "TEAM": "MICH",
       "RESULT": "",
       "COMP": "18",
-      "ATT": "24",
+      "ATT": "26",
       "YDS": "237",
       "TD": "0",
-      "INT": "0",
-      "RAT": "158.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Noah Kim, QB",
-      "TEAM": "EMU",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "28",
-      "YDS": "229",
-      "TD": "1",
-      "INT": "2",
-      "RAT": "130.5"
+      "INT": "1",
+      "RAT": "138.1"
     }
   ],
   "Rushing Leaders": [
@@ -126,7 +126,7 @@
       "RK": "1",
       "NAME": "Will Henderson III, RB",
       "TEAM": "UTSA",
-      "RESULT": "",
+      "RESULT": "W28-7atCLT",
       "CAR": "19",
       "YDS": "185",
       "YPC": "9.7",
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Jeremiyah Love, RB",
+      "TEAM": "ND",
+      "RESULT": "",
+      "CAR": "23",
+      "YDS": "147",
+      "YPC": "6.4",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Devin Roche, RB",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -143,7 +153,17 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Jordon Simmons, RB",
+      "TEAM": "GAST",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "137",
+      "YPC": "13.7",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Keyjuan Brown, RB",
       "TEAM": "LOU",
       "RESULT": "L19-20vs.CLEM",
@@ -153,47 +173,37 @@
       "TD": "0"
     },
     {
-      "RK": "4",
-      "NAME": "Jeremiyah Love, RB",
-      "TEAM": "ND",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "131",
-      "YPC": "7.7",
-      "TD": "1"
-    },
-    {
-      "RK": "5",
-      "NAME": "Jordon Simmons, RB",
-      "TEAM": "GAST",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "127",
-      "YPC": "14.1",
-      "TD": "1"
-    },
-    {
       "RK": "6",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "",
-      "CAR": "13",
-      "YDS": "115",
-      "YPC": "8.8",
+      "CAR": "15",
+      "YDS": "128",
+      "YPC": "8.5",
       "TD": "2"
     },
     {
-      "RK": "",
+      "RK": "7",
       "NAME": "Tawee Walker, RB",
       "TEAM": "CIN",
       "RESULT": "",
-      "CAR": "11",
-      "YDS": "115",
-      "YPC": "10.5",
+      "CAR": "12",
+      "YDS": "119",
+      "YPC": "9.9",
       "TD": "0"
     },
     {
       "RK": "8",
+      "NAME": "Jordan Marshall, RB",
+      "TEAM": "MICH",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "114",
+      "YPC": "6.7",
+      "TD": "2"
+    },
+    {
+      "RK": "",
       "NAME": "Alex Tecza, RB",
       "TEAM": "NAVY",
       "RESULT": "",
@@ -201,16 +211,6 @@
       "YDS": "114",
       "YPC": "12.7",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jordan Marshall, RB",
-      "TEAM": "MICH",
-      "RESULT": "",
-      "CAR": "16",
-      "YDS": "113",
-      "YPC": "7.1",
-      "TD": "2"
     },
     {
       "RK": "10",
@@ -246,26 +246,46 @@
     },
     {
       "RK": "3",
+      "NAME": "Eli Heidenreich, WR",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "146",
+      "YPR": "29.2",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
+      "NAME": "KC Concepcion, WR",
+      "TEAM": "TA&M",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "144",
+      "YPR": "24.0",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
+      "NAME": "Ashton Bethel-Roman, WR",
+      "TEAM": "TA&M",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "139",
+      "YPR": "34.8",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Jamarien Wheeler, WR",
       "TEAM": "EMU",
-      "RESULT": "",
+      "RESULT": "W24-9atBALL",
       "REC": "6",
       "YDS": "131",
       "YPR": "21.8",
       "TD": "1"
     },
     {
-      "RK": "4",
-      "NAME": "Ashton Bethel-Roman, WR",
-      "TEAM": "TA&M",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "124",
-      "YPR": "41.3",
-      "TD": "1"
-    },
-    {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L19-38atCMU",
@@ -275,7 +295,17 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "8",
+      "NAME": "Kris Hutson, WR",
+      "TEAM": "ARIZ",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "119",
+      "YPR": "17.0",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Langston Lewis, WR",
       "TEAM": "CMU",
       "RESULT": "W38-19vs.BUF",
@@ -285,43 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "7",
-      "NAME": "Kris Hutson, WR",
-      "TEAM": "ARIZ",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "113",
-      "YPR": "18.8",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Tre' Brown III, WR",
-      "TEAM": "ODU",
-      "RESULT": "W33-0vs.TROY",
-      "REC": "5",
-      "YDS": "112",
-      "YPR": "22.4",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Charlie Becker, WR",
-      "TEAM": "IU",
-      "RESULT": "W31-7vs.WIS",
-      "REC": "5",
-      "YDS": "108",
-      "YPR": "21.6",
-      "TD": "1"
-    },
-    {
       "RK": "10",
-      "NAME": "Eli Heidenreich, WR",
-      "TEAM": "NAVY",
+      "NAME": "Wyatt Young, WR",
+      "TEAM": "UNT",
       "RESULT": "",
-      "REC": "3",
-      "YDS": "107",
-      "YPR": "35.7",
+      "REC": "5",
+      "YDS": "115",
+      "YPR": "23.0",
       "TD": "0"
     }
   ]
