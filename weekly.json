@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Owen McCown, QB",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "29",
+      "YDS": "217",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "126.0"
+    },
+    {
+      "RK": "6",
       "NAME": "Miller Moss, QB",
       "TEAM": "LOU",
       "RESULT": "L19-20vs.CLEM",
@@ -61,7 +73,7 @@
       "RAT": "136.3"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L19-38atCMU",
@@ -73,28 +85,16 @@
       "RAT": "105.4"
     },
     {
-      "RK": "7",
-      "NAME": "Owen McCown, QB",
-      "TEAM": "UTSA",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "24",
-      "YDS": "205",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "139.7"
-    },
-    {
       "RK": "8",
       "NAME": "Fernando Mendoza, QB",
       "TEAM": "IU",
       "RESULT": "",
-      "COMP": "13",
-      "ATT": "15",
-      "YDS": "192",
-      "TD": "1",
+      "COMP": "14",
+      "ATT": "16",
+      "YDS": "194",
+      "TD": "2",
       "INT": "0",
-      "RAT": "216.2"
+      "RAT": "230.6"
     },
     {
       "RK": "9",
@@ -114,11 +114,11 @@
       "TEAM": "MICH",
       "RESULT": "",
       "COMP": "15",
-      "ATT": "19",
+      "ATT": "20",
       "YDS": "185",
       "TD": "0",
       "INT": "0",
-      "RAT": "160.7"
+      "RAT": "152.7"
     }
   ],
   "Rushing Leaders": [
@@ -296,22 +296,22 @@
     },
     {
       "RK": "8",
+      "NAME": "Devin McCuin, WR",
+      "TEAM": "UTSA",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "100",
+      "YPR": "14.3",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Kenyon Sadiq, TE",
       "TEAM": "ORE",
       "RESULT": "W42-13vs.MINN",
       "REC": "8",
       "YDS": "96",
       "YPR": "12.0",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Devin McCuin, WR",
-      "TEAM": "UTSA",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "94",
-      "YPR": "15.7",
       "TD": "1"
     },
     {
