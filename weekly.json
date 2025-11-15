@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Alex Tecza, RB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "4",
+      "YDS": "103",
+      "YPC": "25.8",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Jalen Macon, QB",
       "TEAM": "NIU",
       "RESULT": "W45-3atMASS",
@@ -173,7 +183,17 @@
       "TD": "3"
     },
     {
-      "RK": "6",
+      "RK": "",
+      "NAME": "Tawee Walker, RB",
+      "TEAM": "CIN",
+      "RESULT": "",
+      "CAR": "3",
+      "YDS": "98",
+      "YPC": "32.7",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "L13-17atWMU",
@@ -183,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "L35-42vs.KENT",
@@ -200,26 +220,6 @@
       "CAR": "9",
       "YDS": "96",
       "YPC": "10.7",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Broc Lowry, QB",
-      "TEAM": "WMU",
-      "RESULT": "W17-13vs.OHIO",
-      "CAR": "18",
-      "YDS": "92",
-      "YPC": "5.1",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Chip Trayanum, RB",
-      "TEAM": "TOL",
-      "RESULT": "W24-3atM-OH",
-      "CAR": "21",
-      "YDS": "91",
-      "YPC": "4.3",
       "TD": "1"
     }
   ],
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Eli Heidenreich, WR",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "92",
+      "YPR": "46.0",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Jasaiah Gathings, WR",
       "TEAM": "BUF",
       "RESULT": "L19-38atCMU",
@@ -295,33 +305,23 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "KC Concepcion, WR",
+      "TEAM": "TA&M",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "83",
+      "YPR": "41.5",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Chris Bell, WR",
       "TEAM": "LOU",
       "RESULT": "L19-20vs.CLEM",
       "REC": "5",
       "YDS": "79",
       "YPR": "15.8",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Dashawn Martin, WR",
-      "TEAM": "KENT",
-      "RESULT": "W42-35atAKR",
-      "REC": "4",
-      "YDS": "71",
-      "YPR": "17.8",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kam Perry, WR",
-      "TEAM": "M-OH",
-      "RESULT": "L3-24vs.TOL",
-      "REC": "4",
-      "YDS": "69",
-      "YPR": "17.3",
       "TD": "0"
     }
   ]
