@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Haynes King, QB",
+      "TEAM": "GT",
+      "RESULT": "",
+      "COMP": "25",
+      "ATT": "33",
+      "YDS": "354",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "175.9"
+    },
+    {
+      "RK": "5",
       "NAME": "Scotty Fox Jr., QB",
       "TEAM": "WVU",
       "RESULT": "L23-25atASU",
@@ -49,31 +61,31 @@
       "RAT": "171.8"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Roman Gagliano, QB",
       "TEAM": "MTSU",
       "RESULT": "",
       "COMP": "22",
-      "ATT": "33",
+      "ATT": "36",
       "YDS": "347",
       "TD": "2",
       "INT": "0",
-      "RAT": "175.0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Haynes King, QB",
-      "TEAM": "GT",
-      "RESULT": "",
-      "COMP": "24",
-      "ATT": "31",
-      "YDS": "346",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "181.8"
+      "RAT": "160.4"
     },
     {
       "RK": "7",
+      "NAME": "Dylan Lonergan, QB",
+      "TEAM": "BC",
+      "RESULT": "",
+      "COMP": "25",
+      "ATT": "38",
+      "YDS": "338",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "157.9"
+    },
+    {
+      "RK": "8",
       "NAME": "Jacob Clark, QB",
       "TEAM": "MOST",
       "RESULT": "W38-24vs.UTEP",
@@ -85,7 +97,7 @@
       "RAT": "181.8"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "L38-41atNAVY",
@@ -97,7 +109,7 @@
       "RAT": "172.1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Carlos Del Rio-Wilson, QB",
       "TEAM": "MRSH",
       "RESULT": "W30-18atGAST",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "218.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Dru DeShields, QB",
-      "TEAM": "KENT",
-      "RESULT": "W42-35atAKR",
-      "COMP": "17",
-      "ATT": "25",
-      "YDS": "317",
-      "TD": "5",
-      "INT": "0",
-      "RAT": "240.5"
     }
   ],
   "Rushing Leaders": [
@@ -146,7 +146,7 @@
       "RK": "3",
       "NAME": "Kaytron Allen, RB",
       "TEAM": "PSU",
-      "RESULT": "",
+      "RESULT": "W28-10atMSU",
       "CAR": "25",
       "YDS": "181",
       "YPC": "7.2",
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Makai Lemon, WR",
+      "TEAM": "USC",
+      "RESULT": "W26-21vs.IOWA",
+      "REC": "10",
+      "YDS": "153",
+      "YPR": "15.3",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "W41-38vs.USF",
@@ -273,16 +283,6 @@
       "YDS": "146",
       "YPR": "29.2",
       "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Makai Lemon, WR",
-      "TEAM": "USC",
-      "RESULT": "",
-      "REC": "9",
-      "YDS": "144",
-      "YPR": "16.0",
-      "TD": "1"
     },
     {
       "RK": "7",
