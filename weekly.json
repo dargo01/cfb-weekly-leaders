@@ -124,22 +124,22 @@
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Ahmad Hardy, RB",
+      "TEAM": "MIZ",
+      "RESULT": "W49-27vs.MSST",
+      "CAR": "25",
+      "YDS": "300",
+      "YPC": "12.0",
+      "TD": "3"
+    },
+    {
+      "RK": "2",
       "NAME": "OJ Arnold, RB",
       "TEAM": "GASO",
       "RESULT": "W45-40vs.CCU",
       "CAR": "21",
       "YDS": "267",
       "YPC": "12.7",
-      "TD": "2"
-    },
-    {
-      "RK": "2",
-      "NAME": "Ahmad Hardy, RB",
-      "TEAM": "MIZ",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "225",
-      "YPC": "12.5",
       "TD": "2"
     },
     {
