@@ -26,9 +26,33 @@
     },
     {
       "RK": "3",
+      "NAME": "Roman Gagliano, QB",
+      "TEAM": "MTSU",
+      "RESULT": "L26-42atWKU",
+      "COMP": "25",
+      "ATT": "42",
+      "YDS": "389",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "153.0"
+    },
+    {
+      "RK": "4",
+      "NAME": "Caden Veltkamp, QB",
+      "TEAM": "FAU",
+      "RESULT": "L24-35atTULN",
+      "COMP": "39",
+      "ATT": "57",
+      "YDS": "375",
+      "TD": "2",
+      "INT": "3",
+      "RAT": "124.7"
+    },
+    {
+      "RK": "5",
       "NAME": "Haynes King, QB",
       "TEAM": "GT",
-      "RESULT": "",
+      "RESULT": "W36-34atBC",
       "COMP": "26",
       "ATT": "34",
       "YDS": "371",
@@ -40,7 +64,7 @@
       "RK": "",
       "NAME": "Rodney Tisdale Jr., QB",
       "TEAM": "WKU",
-      "RESULT": "",
+      "RESULT": "W42-26vs.MTSU",
       "COMP": "29",
       "ATT": "41",
       "YDS": "371",
@@ -49,7 +73,19 @@
       "RAT": "166.0"
     },
     {
-      "RK": "5",
+      "RK": "7",
+      "NAME": "Dylan Lonergan, QB",
+      "TEAM": "BC",
+      "RESULT": "L34-36vs.GT",
+      "COMP": "26",
+      "ATT": "40",
+      "YDS": "362",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "157.5"
+    },
+    {
+      "RK": "8",
       "NAME": "Scotty Fox Jr., QB",
       "TEAM": "WVU",
       "RESULT": "L23-25atASU",
@@ -61,31 +97,19 @@
       "RAT": "171.8"
     },
     {
-      "RK": "6",
-      "NAME": "Roman Gagliano, QB",
-      "TEAM": "MTSU",
-      "RESULT": "",
-      "COMP": "22",
-      "ATT": "36",
-      "YDS": "347",
-      "TD": "2",
+      "RK": "9",
+      "NAME": "Katin Houser, QB",
+      "TEAM": "ECU",
+      "RESULT": "W31-27vs.MEM",
+      "COMP": "23",
+      "ATT": "34",
+      "YDS": "332",
+      "TD": "1",
       "INT": "0",
-      "RAT": "160.4"
+      "RAT": "159.4"
     },
     {
-      "RK": "7",
-      "NAME": "Dylan Lonergan, QB",
-      "TEAM": "BC",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "38",
-      "YDS": "338",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "157.9"
-    },
-    {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Jacob Clark, QB",
       "TEAM": "MOST",
       "RESULT": "W38-24vs.UTEP",
@@ -95,30 +119,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "181.8"
-    },
-    {
-      "RK": "9",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
-      "RESULT": "L38-41atNAVY",
-      "COMP": "23",
-      "ATT": "32",
-      "YDS": "327",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "172.1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Carlos Del Rio-Wilson, QB",
-      "TEAM": "MRSH",
-      "RESULT": "W30-18atGAST",
-      "COMP": "22",
-      "ATT": "27",
-      "YDS": "321",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "218.0"
     }
   ],
   "Rushing Leaders": [
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "OJ Arnold, RB",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "164",
+      "YPC": "13.7",
+      "TD": "2"
+    },
+    {
+      "RK": "",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "L18-30vs.MRSH",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jevon Jackson, RB",
       "TEAM": "UAB",
       "RESULT": "L24-53vs.UNT",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
       "RESULT": "W37-15atPITT",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Devin Roche, RB",
       "TEAM": "ODU",
       "RESULT": "W33-0vs.TROY",
@@ -211,16 +221,6 @@
       "YDS": "145",
       "YPC": "9.1",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jordan Marshall, RB",
-      "TEAM": "MICH",
-      "RESULT": "W24-22atNU",
-      "CAR": "19",
-      "YDS": "142",
-      "YPC": "7.5",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -248,7 +248,7 @@
       "RK": "3",
       "NAME": "Trell Harris, WR",
       "TEAM": "UVA",
-      "RESULT": "",
+      "RESULT": "W34-17atDUKE",
       "REC": "8",
       "YDS": "161",
       "YPR": "20.1",
@@ -298,7 +298,7 @@
       "RK": "8",
       "NAME": "Reed Harris, WR",
       "TEAM": "BC",
-      "RESULT": "",
+      "RESULT": "L34-36vs.GT",
       "REC": "5",
       "YDS": "142",
       "YPR": "28.4",
@@ -318,7 +318,7 @@
       "RK": "10",
       "NAME": "Matthew Henry, WR",
       "TEAM": "WKU",
-      "RESULT": "",
+      "RESULT": "W42-26vs.MTSU",
       "REC": "7",
       "YDS": "135",
       "YPR": "19.3",
