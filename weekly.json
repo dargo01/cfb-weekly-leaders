@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "47",
+      "YDS": "370",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "120.6"
+    },
+    {
+      "RK": "8",
       "NAME": "Dylan Lonergan, QB",
       "TEAM": "BC",
       "RESULT": "L34-36vs.GT",
@@ -83,18 +95,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "157.5"
-    },
-    {
-      "RK": "8",
-      "NAME": "Sawyer Robertson, QB",
-      "TEAM": "BAY",
-      "RESULT": "",
-      "COMP": "22",
-      "ATT": "45",
-      "YDS": "354",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "120.8"
     },
     {
       "RK": "9",
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Josh Cameron, WR",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "140",
+      "YPR": "14.0",
+      "TD": "2"
+    },
+    {
+      "RK": "10",
       "NAME": "Ashton Bethel-Roman, WR",
       "TEAM": "TA&M",
       "RESULT": "W31-30vs.SC",
@@ -313,16 +323,6 @@
       "YDS": "139",
       "YPR": "34.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sean Wilson, WR",
-      "TEAM": "DEL",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "136",
-      "YPR": "19.4",
-      "TD": "0"
     }
   ]
 }
