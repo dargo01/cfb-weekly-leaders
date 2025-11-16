@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "45",
+      "YDS": "354",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "120.8"
+    },
+    {
+      "RK": "9",
       "NAME": "Scotty Fox Jr., QB",
       "TEAM": "WVU",
       "RESULT": "L23-25atASU",
@@ -97,7 +109,7 @@
       "RAT": "171.8"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Katin Houser, QB",
       "TEAM": "ECU",
       "RESULT": "W31-27vs.MEM",
@@ -107,23 +119,31 @@
       "TD": "1",
       "INT": "0",
       "RAT": "159.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jacob Clark, QB",
-      "TEAM": "MOST",
-      "RESULT": "W38-24vs.UTEP",
-      "COMP": "30",
-      "ATT": "39",
-      "YDS": "330",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "181.8"
     }
   ],
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "OJ Arnold, RB",
+      "TEAM": "GASO",
+      "RESULT": "W45-40vs.CCU",
+      "CAR": "21",
+      "YDS": "267",
+      "YPC": "12.7",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "29",
+      "YDS": "217",
+      "YPC": "7.5",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W53-24atUAB",
@@ -133,7 +153,7 @@
       "TD": "5"
     },
     {
-      "RK": "2",
+      "RK": "4",
       "NAME": "Will Henderson III, RB",
       "TEAM": "UTSA",
       "RESULT": "W28-7atCLT",
@@ -143,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Kaytron Allen, RB",
       "TEAM": "PSU",
       "RESULT": "W28-10atMSU",
@@ -153,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Dominic Richardson, RB",
       "TEAM": "TLSA",
       "RESULT": "W31-14vs.ORST",
@@ -163,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Cam Edwards, RB",
       "TEAM": "CONN",
       "RESULT": "W26-16vs.AF",
@@ -173,17 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
-      "NAME": "OJ Arnold, RB",
-      "TEAM": "GASO",
-      "RESULT": "",
-      "CAR": "12",
-      "YDS": "164",
-      "YPC": "13.7",
-      "TD": "2"
-    },
-    {
-      "RK": "",
+      "RK": "8",
       "NAME": "Jordon Simmons, RB",
       "TEAM": "GAST",
       "RESULT": "L18-30vs.MRSH",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jevon Jackson, RB",
       "TEAM": "UAB",
       "RESULT": "L24-53vs.UNT",
@@ -203,24 +213,14 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Jeremiyah Love, RB",
-      "TEAM": "ND",
-      "RESULT": "W37-15atPITT",
-      "CAR": "23",
-      "YDS": "147",
-      "YPC": "6.4",
-      "TD": "1"
-    },
-    {
       "RK": "10",
-      "NAME": "Devin Roche, RB",
-      "TEAM": "ODU",
-      "RESULT": "W33-0vs.TROY",
-      "CAR": "16",
-      "YDS": "145",
-      "YPC": "9.1",
-      "TD": "0"
+      "NAME": "Byrd Ficklin, QB",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "CAR": "5",
+      "YDS": "156",
+      "YPC": "31.2",
+      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Matthew Henry, WR",
-      "TEAM": "WKU",
-      "RESULT": "W42-26vs.MTSU",
+      "NAME": "Sean Wilson, WR",
+      "TEAM": "DEL",
+      "RESULT": "",
       "REC": "7",
-      "YDS": "135",
-      "YPR": "19.3",
-      "TD": "1"
+      "YDS": "136",
+      "YPR": "19.4",
+      "TD": "0"
     }
   ]
 }
