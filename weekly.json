@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Jaylen Raynor, QB",
+      "TEAM": "ARST",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "29",
+      "YDS": "186",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "115.9"
+    },
+    {
+      "RK": "3",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L16-28vs.CMU",
@@ -37,7 +49,7 @@
       "RAT": "138.4"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Ben Finley, QB",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -47,18 +59,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "96.5"
-    },
-    {
-      "RK": "5",
-      "NAME": "Jaylen Raynor, QB",
-      "TEAM": "ARST",
-      "RESULT": "",
-      "COMP": "13",
-      "ATT": "21",
-      "YDS": "148",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "121.1"
     },
     {
       "RK": "6",
@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Lunch Winfield, QB",
+      "TEAM": "UL",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "22",
+      "YDS": "134",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "123.9"
+    },
+    {
+      "RK": "8",
       "NAME": "Joe Labas, QB",
       "TEAM": "CMU",
       "RESULT": "W28-16atKENT",
@@ -83,18 +95,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "128.8"
-    },
-    {
-      "RK": "8",
-      "NAME": "Lunch Winfield, QB",
-      "TEAM": "UL",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "17",
-      "YDS": "107",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "123.5"
     },
     {
       "RK": "9",
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Corey Rucker, WR",
+      "TEAM": "ARST",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "84",
+      "YPR": "14.0",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Cole Weaver, WR",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Kam Perry, WR",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
@@ -273,16 +283,6 @@
       "YDS": "76",
       "YPR": "19.0",
       "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Corey Rucker, WR",
-      "TEAM": "ARST",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "75",
-      "YPR": "15.0",
-      "TD": "0"
     },
     {
       "RK": "7",
