@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Jaylen Raynor, QB",
+      "TEAM": "ARST",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "21",
+      "YDS": "148",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "121.1"
+    },
+    {
+      "RK": "6",
       "NAME": "Hunter Najm, QB",
       "TEAM": "BGSU",
       "RESULT": "L16-19vs.AKR",
@@ -61,7 +73,7 @@
       "RAT": "76.5"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Joe Labas, QB",
       "TEAM": "CMU",
       "RESULT": "W28-16atKENT",
@@ -73,7 +85,19 @@
       "RAT": "128.8"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Lunch Winfield, QB",
+      "TEAM": "UL",
+      "RESULT": "",
+      "COMP": "12",
+      "ATT": "17",
+      "YDS": "107",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "123.5"
+    },
+    {
+      "RK": "9",
       "NAME": "Brady Davidson, QB",
       "TEAM": "NIU",
       "RESULT": "L19-35vs.WMU",
@@ -85,19 +109,7 @@
       "RAT": "180.4"
     },
     {
-      "RK": "8",
-      "NAME": "Jaylen Raynor, QB",
-      "TEAM": "ARST",
-      "RESULT": "",
-      "COMP": "6",
-      "ATT": "9",
-      "YDS": "68",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "130.1"
-    },
-    {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Grant Jordan, QB",
       "TEAM": "MASS",
       "RESULT": "L14-42atOHIO",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "76.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Lunch Winfield, QB",
-      "TEAM": "UL",
-      "RESULT": "",
-      "COMP": "5",
-      "ATT": "8",
-      "YDS": "53",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "118.1"
     }
   ],
   "Rushing Leaders": [
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Corey Rucker, WR",
+      "TEAM": "ARST",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "75",
+      "YPR": "15.0",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jyrin Johnson, TE",
       "TEAM": "BGSU",
       "RESULT": "L16-19vs.AKR",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Wayne Harris, WR",
       "TEAM": "KENT",
       "RESULT": "L16-28vs.CMU",
@@ -305,17 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
-      "NAME": "Corey Rucker, WR",
-      "TEAM": "ARST",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "53",
-      "YPR": "17.7",
-      "TD": "0"
-    },
-    {
-      "RK": "",
+      "RK": "10",
       "NAME": "Rickey Taylor Jr., WR",
       "TEAM": "NIU",
       "RESULT": "L19-35vs.WMU",
