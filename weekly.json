@@ -62,18 +62,6 @@
     },
     {
       "RK": "6",
-      "NAME": "Lunch Winfield, QB",
-      "TEAM": "UL",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "24",
-      "YDS": "141",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "120.2"
-    },
-    {
-      "RK": "7",
       "NAME": "Hunter Najm, QB",
       "TEAM": "BGSU",
       "RESULT": "L16-19vs.AKR",
@@ -83,6 +71,18 @@
       "TD": "1",
       "INT": "2",
       "RAT": "76.5"
+    },
+    {
+      "RK": "7",
+      "NAME": "Lunch Winfield, QB",
+      "TEAM": "UL",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "22",
+      "YDS": "134",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "123.9"
     },
     {
       "RK": "8",
