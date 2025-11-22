@@ -2,54 +2,66 @@
   "Passing Leaders": [
     {
       "RK": "1",
-      "NAME": "Caden Veltkamp, QB",
-      "TEAM": "FAU",
-      "RESULT": "",
-      "COMP": "38",
-      "ATT": "50",
-      "YDS": "418",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "155.4"
-    },
-    {
-      "RK": "2",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "34",
-      "YDS": "398",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "206.9"
-    },
-    {
-      "RK": "3",
       "NAME": "Diego Pavia, QB",
       "TEAM": "VAN",
       "RESULT": "",
-      "COMP": "29",
-      "ATT": "34",
-      "YDS": "379",
+      "COMP": "31",
+      "ATT": "36",
+      "YDS": "448",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "227.3"
+    },
+    {
+      "RK": "2",
+      "NAME": "Caden Veltkamp, QB",
+      "TEAM": "FAU",
+      "RESULT": "",
+      "COMP": "40",
+      "ATT": "53",
+      "YDS": "438",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "153.6"
+    },
+    {
+      "RK": "3",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "28",
+      "ATT": "36",
+      "YDS": "403",
       "TD": "3",
       "INT": "0",
-      "RAT": "208.0"
+      "RAT": "199.3"
     },
     {
       "RK": "4",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
+      "NAME": "Arch Manning, QB",
+      "TEAM": "TEX",
       "RESULT": "",
       "COMP": "16",
-      "ATT": "21",
-      "YDS": "326",
+      "ATT": "27",
+      "YDS": "359",
       "TD": "3",
       "INT": "0",
-      "RAT": "253.7"
+      "RAT": "207.6"
     },
     {
       "RK": "5",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "23",
+      "YDS": "344",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "246.9"
+    },
+    {
+      "RK": "6",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "W34-17atVT",
@@ -61,7 +73,7 @@
       "RAT": "209.6"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Preston Stone, QB",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
@@ -71,18 +83,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "190.7"
-    },
-    {
-      "RK": "7",
-      "NAME": "Arch Manning, QB",
-      "TEAM": "TEX",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "24",
-      "YDS": "304",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "206.0"
     },
     {
       "RK": "8",
@@ -127,9 +127,9 @@
       "NAME": "Joe Jackson, RB",
       "TEAM": "KSU",
       "RESULT": "",
-      "CAR": "10",
-      "YDS": "236",
-      "YPC": "23.6",
+      "CAR": "11",
+      "YDS": "241",
+      "YPC": "21.9",
       "TD": "2"
     },
     {
@@ -239,13 +239,23 @@
       "NAME": "Mudia Reuben, WR",
       "TEAM": "USF",
       "RESULT": "",
-      "REC": "4",
-      "YDS": "164",
-      "YPR": "41.0",
+      "REC": "5",
+      "YDS": "174",
+      "YPR": "34.8",
       "TD": "2"
     },
     {
       "RK": "3",
+      "NAME": "Dominique Henry, WR",
+      "TEAM": "FAU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "157",
+      "YPR": "22.4",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Malcolm Simmons, WR",
       "TEAM": "AUB",
       "RESULT": "W62-17vs.MER",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Malachi Toney, WR",
       "TEAM": "MIA",
       "RESULT": "W34-17atVT",
@@ -275,7 +285,17 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "",
+      "NAME": "Iverson Hooks, WR",
+      "TEAM": "UAB",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "146",
+      "YPR": "14.6",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Tre Richardson, WR",
       "TEAM": "VAN",
       "RESULT": "",
@@ -285,17 +305,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
-      "NAME": "Dominique Henry, WR",
-      "TEAM": "FAU",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "137",
-      "YPR": "27.4",
-      "TD": "1"
-    },
-    {
-      "RK": "",
+      "RK": "9",
       "NAME": "Tanook Hines, WR",
       "TEAM": "USC",
       "RESULT": "",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Demarcus Lacey, WR",
       "TEAM": "MRSH",
       "RESULT": "L24-26atAPP",
@@ -313,16 +323,6 @@
       "YDS": "134",
       "YPR": "11.2",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kris Hutson, WR",
-      "TEAM": "ARIZ",
-      "RESULT": "W41-17vs.BAY",
-      "REC": "9",
-      "YDS": "133",
-      "YPR": "14.8",
-      "TD": "1"
     }
   ]
 }
