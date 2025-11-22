@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "CJ Bailey, QB",
+      "TEAM": "NCSU",
+      "RESULT": "",
+      "COMP": "9",
+      "ATT": "12",
+      "YDS": "83",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "160.6"
+    },
+    {
+      "RK": "10",
       "NAME": "Brady Davidson, QB",
       "TEAM": "NIU",
       "RESULT": "L19-35vs.WMU",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "180.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Grant Jordan, QB",
-      "TEAM": "MASS",
-      "RESULT": "L14-42atOHIO",
-      "COMP": "10",
-      "ATT": "21",
-      "YDS": "56",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "76.2"
     }
   ],
   "Rushing Leaders": [
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Rickey Taylor Jr., WR",
-      "TEAM": "NIU",
-      "RESULT": "L19-35vs.WMU",
-      "REC": "3",
-      "YDS": "53",
-      "YPR": "17.7",
-      "TD": "1"
+      "NAME": "Justin Joly, TE",
+      "TEAM": "NCSU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "54",
+      "YPR": "13.5",
+      "TD": "0"
     }
   ]
 }
