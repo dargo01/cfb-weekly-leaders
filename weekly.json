@@ -29,12 +29,12 @@
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "21",
-      "YDS": "216",
+      "COMP": "18",
+      "ATT": "23",
+      "YDS": "228",
       "TD": "2",
       "INT": "0",
-      "RAT": "198.8"
+      "RAT": "190.2"
     },
     {
       "RK": "4",
@@ -276,22 +276,22 @@
     },
     {
       "RK": "6",
+      "NAME": "Jackson Harris, WR",
+      "TEAM": "HAW",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "79",
+      "YPR": "26.3",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Kam Perry, WR",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
       "REC": "4",
       "YDS": "76",
       "YPR": "19.0",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Jackson Harris, WR",
-      "TEAM": "HAW",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "76",
-      "YPR": "38.0",
       "TD": "1"
     },
     {
