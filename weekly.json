@@ -2,6 +2,30 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "29",
+      "YDS": "357",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "216.9"
+    },
+    {
+      "RK": "2",
+      "NAME": "Caden Veltkamp, QB",
+      "TEAM": "FAU",
+      "RESULT": "",
+      "COMP": "28",
+      "ATT": "36",
+      "YDS": "325",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "157.2"
+    },
+    {
+      "RK": "3",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "W34-17atVT",
@@ -13,7 +37,7 @@
       "RAT": "209.6"
     },
     {
-      "RK": "2",
+      "RK": "4",
       "NAME": "Preston Stone, QB",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
@@ -25,7 +49,7 @@
       "RAT": "190.7"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -49,7 +73,7 @@
       "RAT": "173.9"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Robby Ashford, QB",
       "TEAM": "WAKE",
       "RESULT": "W52-14vs.DEL",
@@ -61,19 +85,7 @@
       "RAT": "215.6"
     },
     {
-      "RK": "6",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "23",
-      "YDS": "280",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "219.2"
-    },
-    {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Diego Pavia, QB",
       "TEAM": "VAN",
       "RESULT": "",
@@ -85,7 +97,7 @@
       "RAT": "218.3"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Baylor Hayes, QB",
       "TEAM": "TLSA",
       "RESULT": "W26-25atARMY",
@@ -97,7 +109,7 @@
       "RAT": "147.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Drake Lindsey, QB",
       "TEAM": "MINN",
       "RESULT": "L35-38atNU",
@@ -107,18 +119,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "184.6"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jaylen Raynor, QB",
-      "TEAM": "ARST",
-      "RESULT": "L30-34vs.UL",
-      "COMP": "25",
-      "ATT": "43",
-      "YDS": "256",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "108.1"
     }
   ],
   "Rushing Leaders": [
@@ -157,13 +157,43 @@
       "NAME": "Evan Dickens, RB",
       "TEAM": "LIB",
       "RESULT": "",
-      "CAR": "22",
-      "YDS": "172",
+      "CAR": "23",
+      "YDS": "180",
       "YPC": "7.8",
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "",
+      "NAME": "Ashten Emory, RB",
+      "TEAM": "UTEP",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "180",
+      "YPC": "12.0",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
+      "NAME": "Jaquari Lewis, RB",
+      "TEAM": "APP",
+      "RESULT": "",
+      "CAR": "33",
+      "YDS": "175",
+      "YPC": "5.3",
+      "TD": "2"
+    },
+    {
+      "RK": "7",
+      "NAME": "Jeremiyah Love, RB",
+      "TEAM": "ND",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "171",
+      "YPC": "21.4",
+      "TD": "3"
+    },
+    {
+      "RK": "8",
       "NAME": "Deuce Knight, QB",
       "TEAM": "AUB",
       "RESULT": "W62-17vs.MER",
@@ -173,7 +203,7 @@
       "TD": "4"
     },
     {
-      "RK": "6",
+      "RK": "9",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L25-26vs.TLSA",
@@ -183,44 +213,14 @@
       "TD": "3"
     },
     {
-      "RK": "7",
-      "NAME": "Jaquari Lewis, RB",
-      "TEAM": "APP",
-      "RESULT": "",
-      "CAR": "28",
-      "YDS": "153",
-      "YPC": "5.5",
-      "TD": "2"
-    },
-    {
-      "RK": "8",
-      "NAME": "Ashten Emory, RB",
-      "TEAM": "UTEP",
-      "RESULT": "",
-      "CAR": "13",
-      "YDS": "150",
-      "YPC": "11.5",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Joe Jackson, RB",
       "TEAM": "KSU",
       "RESULT": "",
-      "CAR": "7",
-      "YDS": "144",
-      "YPC": "20.6",
+      "CAR": "8",
+      "YDS": "149",
+      "YPC": "18.6",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jalen Buckley, RB",
-      "TEAM": "WMU",
-      "RESULT": "W35-19atNIU",
-      "CAR": "24",
-      "YDS": "133",
-      "YPC": "5.5",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -276,6 +276,26 @@
     },
     {
       "RK": "6",
+      "NAME": "Tanook Hines, WR",
+      "TEAM": "USC",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "137",
+      "YPR": "27.4",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
+      "NAME": "Demarcus Lacey, WR",
+      "TEAM": "MRSH",
+      "RESULT": "",
+      "REC": "12",
+      "YDS": "134",
+      "YPR": "11.2",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Kris Hutson, WR",
       "TEAM": "ARIZ",
       "RESULT": "W41-17vs.BAY",
@@ -285,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Junior Vandeross III, WR",
       "TEAM": "TOL",
       "RESULT": "W38-9vs.BALL",
@@ -302,26 +322,6 @@
       "REC": "7",
       "YDS": "127",
       "YPR": "18.1",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Demarcus Lacey, WR",
-      "TEAM": "MRSH",
-      "RESULT": "",
-      "REC": "11",
-      "YDS": "124",
-      "YPR": "11.3",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Corey Rucker, WR",
-      "TEAM": "ARST",
-      "RESULT": "L30-34vs.UL",
-      "REC": "8",
-      "YDS": "120",
-      "YPR": "15.0",
       "TD": "0"
     }
   ]
