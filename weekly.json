@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "21",
+      "YDS": "216",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "198.8"
+    },
+    {
+      "RK": "4",
       "NAME": "Tommy Castellanos, QB",
       "TEAM": "FSU",
       "RESULT": "L11-21atNCSU",
@@ -35,18 +47,6 @@
       "TD": "1",
       "INT": "2",
       "RAT": "101.1"
-    },
-    {
-      "RK": "4",
-      "NAME": "Anthony Colandrea, QB",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "19",
-      "YDS": "201",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "202.6"
     },
     {
       "RK": "5",
