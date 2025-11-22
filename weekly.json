@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Amari Daniels, RB",
+      "TEAM": "TA&M",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "106",
+      "YPC": "11.8",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Devin Miles, RB",
       "TEAM": "WMU",
       "RESULT": "W35-19atNIU",
@@ -173,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W35-19atNIU",
@@ -183,7 +193,7 @@
       "TD": "3"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "L19-35vs.WMU",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Lunch Winfield, QB",
       "TEAM": "UL",
       "RESULT": "W34-30atARST",
@@ -203,23 +213,13 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jordan Gant, RB",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
       "CAR": "22",
       "YDS": "86",
       "YPC": "3.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Hollywood Smothers, RB",
-      "TEAM": "NCSU",
-      "RESULT": "W21-11vs.FSU",
-      "CAR": "21",
-      "YDS": "84",
-      "YPC": "4.0",
       "TD": "0"
     }
   ],
