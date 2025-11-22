@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Tommy Castellanos, QB",
+      "TEAM": "FSU",
+      "RESULT": "L11-21atNCSU",
+      "COMP": "16",
+      "ATT": "32",
+      "YDS": "203",
+      "TD": "1",
+      "INT": "2",
+      "RAT": "101.1"
+    },
+    {
+      "RK": "4",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L16-28vs.CMU",
@@ -49,7 +61,7 @@
       "RAT": "138.4"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Ben Finley, QB",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -61,22 +73,22 @@
       "RAT": "96.5"
     },
     {
-      "RK": "6",
-      "NAME": "Tommy Castellanos, QB",
-      "TEAM": "FSU",
+      "RK": "7",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
       "RESULT": "",
-      "COMP": "15",
-      "ATT": "28",
-      "YDS": "172",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "109.8"
+      "COMP": "11",
+      "ATT": "14",
+      "YDS": "168",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "226.5"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "CJ Bailey, QB",
       "TEAM": "NCSU",
-      "RESULT": "",
+      "RESULT": "W21-11vs.FSU",
       "COMP": "18",
       "ATT": "25",
       "YDS": "152",
@@ -85,7 +97,7 @@
       "RAT": "149.5"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Lunch Winfield, QB",
       "TEAM": "UL",
       "RESULT": "W34-30atARST",
@@ -97,7 +109,7 @@
       "RAT": "121.4"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Hunter Najm, QB",
       "TEAM": "BGSU",
       "RESULT": "L16-19vs.AKR",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "2",
       "RAT": "76.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Joe Labas, QB",
-      "TEAM": "CMU",
-      "RESULT": "W28-16atKENT",
-      "COMP": "11",
-      "ATT": "20",
-      "YDS": "121",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "128.8"
     }
   ],
   "Rushing Leaders": [
@@ -214,13 +214,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Duncan Brune, RB",
-      "TEAM": "OHIO",
-      "RESULT": "W42-14vs.MASS",
-      "CAR": "14",
+      "NAME": "Hollywood Smothers, RB",
+      "TEAM": "NCSU",
+      "RESULT": "W21-11vs.FSU",
+      "CAR": "21",
       "YDS": "84",
-      "YPC": "6.0",
-      "TD": "2"
+      "YPC": "4.0",
+      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Taeshaun Lyons, WR",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "75",
+      "YPR": "37.5",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -308,20 +318,10 @@
       "RK": "",
       "NAME": "Duce Robinson, WR",
       "TEAM": "FSU",
-      "RESULT": "",
+      "RESULT": "L11-21atNCSU",
       "REC": "4",
       "YDS": "74",
       "YPR": "18.5",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Justin Joly, TE",
-      "TEAM": "NCSU",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "66",
-      "YPR": "13.2",
       "TD": "1"
     }
   ]
