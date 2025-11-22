@@ -86,6 +86,30 @@
     },
     {
       "RK": "8",
+      "NAME": "Rocco Becht, QB",
+      "TEAM": "ISU",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "17",
+      "YDS": "181",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "210.6"
+    },
+    {
+      "RK": "9",
+      "NAME": "Robby Ashford, QB",
+      "TEAM": "WAKE",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "20",
+      "YDS": "180",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "147.1"
+    },
+    {
+      "RK": "10",
       "NAME": "Ben Finley, QB",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -95,30 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "96.5"
-    },
-    {
-      "RK": "9",
-      "NAME": "Kevin Jennings, QB",
-      "TEAM": "SMU",
-      "RESULT": "",
-      "COMP": "16",
-      "ATT": "18",
-      "YDS": "168",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "204.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Micah Alejado, QB",
-      "TEAM": "HAW",
-      "RESULT": "L10-38atUNLV",
-      "COMP": "15",
-      "ATT": "24",
-      "YDS": "163",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "125.0"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "135",
+      "YPC": "6.1",
+      "TD": "3"
+    },
+    {
+      "RK": "3",
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "W35-19atNIU",
@@ -143,7 +153,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Jordan Brunson, RB",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
@@ -151,16 +161,6 @@
       "YDS": "123",
       "YPC": "7.7",
       "TD": "0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "",
-      "CAR": "18",
-      "YDS": "122",
-      "YPC": "6.8",
-      "TD": "3"
     },
     {
       "RK": "5",
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Carlos Hernandez, WR",
+      "TEAM": "WAKE",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "104",
+      "YPR": "26.0",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Malachi Toney, WR",
       "TEAM": "MIA",
       "RESULT": "",
@@ -265,23 +275,13 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Isaiah Sategna III, WR",
       "TEAM": "OU",
       "RESULT": "",
       "REC": "2",
       "YDS": "94",
       "YPR": "47.0",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Carlos Hernandez, WR",
-      "TEAM": "WAKE",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "94",
-      "YPR": "31.3",
       "TD": "1"
     },
     {
