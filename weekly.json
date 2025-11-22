@@ -62,6 +62,30 @@
     },
     {
       "RK": "6",
+      "NAME": "Tommy Castellanos, QB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "27",
+      "YDS": "172",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "113.9"
+    },
+    {
+      "RK": "7",
+      "NAME": "CJ Bailey, QB",
+      "TEAM": "NCSU",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "25",
+      "YDS": "152",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "149.5"
+    },
+    {
+      "RK": "8",
       "NAME": "Lunch Winfield, QB",
       "TEAM": "UL",
       "RESULT": "W34-30atARST",
@@ -73,19 +97,7 @@
       "RAT": "121.4"
     },
     {
-      "RK": "7",
-      "NAME": "Tommy Castellanos, QB",
-      "TEAM": "FSU",
-      "RESULT": "",
-      "COMP": "13",
-      "ATT": "25",
-      "YDS": "141",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "104.6"
-    },
-    {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Hunter Najm, QB",
       "TEAM": "BGSU",
       "RESULT": "L16-19vs.AKR",
@@ -97,7 +109,7 @@
       "RAT": "76.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Joe Labas, QB",
       "TEAM": "CMU",
       "RESULT": "W28-16atKENT",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "128.8"
-    },
-    {
-      "RK": "10",
-      "NAME": "CJ Bailey, QB",
-      "TEAM": "NCSU",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "18",
-      "YDS": "119",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "151.6"
     }
   ],
   "Rushing Leaders": [
@@ -285,7 +285,17 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "",
+      "NAME": "Jackson Harris, WR",
+      "TEAM": "HAW",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "76",
+      "YPR": "38.0",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -295,34 +305,24 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Jyrin Johnson, TE",
-      "TEAM": "BGSU",
-      "RESULT": "L16-19vs.AKR",
-      "REC": "3",
-      "YDS": "63",
-      "YPR": "21.0",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Wayne Harris, WR",
-      "TEAM": "KENT",
-      "RESULT": "L16-28vs.CMU",
-      "REC": "3",
-      "YDS": "56",
-      "YPR": "18.7",
-      "TD": "0"
+      "RK": "",
+      "NAME": "Duce Robinson, WR",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "74",
+      "YPR": "18.5",
+      "TD": "1"
     },
     {
       "RK": "10",
       "NAME": "Justin Joly, TE",
       "TEAM": "NCSU",
       "RESULT": "",
-      "REC": "4",
-      "YDS": "54",
-      "YPR": "13.5",
-      "TD": "0"
+      "REC": "5",
+      "YDS": "66",
+      "YPR": "13.2",
+      "TD": "1"
     }
   ]
 }
