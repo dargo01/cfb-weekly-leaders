@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "17",
+      "YDS": "182",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "205.2"
+    },
+    {
+      "RK": "7",
       "NAME": "Ben Finley, QB",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -71,18 +83,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "96.5"
-    },
-    {
-      "RK": "7",
-      "NAME": "Anthony Colandrea, QB",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "COMP": "11",
-      "ATT": "14",
-      "YDS": "168",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "226.5"
     },
     {
       "RK": "8",
