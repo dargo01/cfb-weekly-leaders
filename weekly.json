@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "22",
+      "YDS": "274",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "207.4"
+    },
+    {
+      "RK": "7",
       "NAME": "Baylor Hayes, QB",
       "TEAM": "TLSA",
       "RESULT": "W26-25atARMY",
@@ -73,7 +85,7 @@
       "RAT": "147.5"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Drake Lindsey, QB",
       "TEAM": "MINN",
       "RESULT": "L35-38atNU",
@@ -85,7 +97,7 @@
       "RAT": "184.6"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jaylen Raynor, QB",
       "TEAM": "ARST",
       "RESULT": "L30-34vs.UL",
@@ -97,7 +109,7 @@
       "RAT": "108.1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "W38-10vs.HAW",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "200.6"
-    },
-    {
-      "RK": "10",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "20",
-      "YDS": "251",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "213.4"
     }
   ],
   "Rushing Leaders": [
@@ -157,9 +157,9 @@
       "NAME": "Deuce Knight, QB",
       "TEAM": "AUB",
       "RESULT": "",
-      "CAR": "8",
-      "YDS": "167",
-      "YPC": "20.9",
+      "CAR": "9",
+      "YDS": "162",
+      "YPC": "18.0",
       "TD": "4"
     },
     {
@@ -174,16 +174,26 @@
     },
     {
       "RK": "6",
-      "NAME": "Jaquari Lewis, RB",
-      "TEAM": "APP",
+      "NAME": "Evan Dickens, RB",
+      "TEAM": "LIB",
       "RESULT": "",
-      "CAR": "22",
-      "YDS": "139",
-      "YPC": "6.3",
+      "CAR": "19",
+      "YDS": "147",
+      "YPC": "7.7",
       "TD": "2"
     },
     {
       "RK": "7",
+      "NAME": "Jaquari Lewis, RB",
+      "TEAM": "APP",
+      "RESULT": "",
+      "CAR": "24",
+      "YDS": "143",
+      "YPC": "6.0",
+      "TD": "2"
+    },
+    {
+      "RK": "8",
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "W35-19atNIU",
@@ -193,7 +203,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
@@ -203,23 +213,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "",
       "CAR": "15",
       "YDS": "128",
       "YPC": "8.5",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Wayne Knight, RB",
-      "TEAM": "JMU",
-      "RESULT": "W24-20vs.WSU",
-      "CAR": "15",
-      "YDS": "126",
-      "YPC": "8.4",
       "TD": "1"
     }
   ],
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Junior Vandeross III, WR",
+      "TEAM": "TOL",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "127",
+      "YPR": "18.1",
+      "TD": "2"
+    },
+    {
+      "RK": "",
       "NAME": "Hayden Eligon II, WR",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Corey Rucker, WR",
       "TEAM": "ARST",
       "RESULT": "L30-34vs.UL",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jayden Sellers, WR",
       "TEAM": "SC",
       "RESULT": "",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Kevin Coleman Jr., WR",
       "TEAM": "MIZ",
       "RESULT": "L6-17atOU",
@@ -313,16 +323,6 @@
       "YDS": "115",
       "YPR": "16.4",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Victor Snow, WR",
-      "TEAM": "BUF",
-      "RESULT": "L20-37vs.M-OH",
-      "REC": "9",
-      "YDS": "111",
-      "YPR": "12.3",
-      "TD": "1"
     }
   ]
 }
