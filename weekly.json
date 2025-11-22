@@ -101,24 +101,24 @@
       "NAME": "CJ Bailey, QB",
       "TEAM": "NCSU",
       "RESULT": "",
-      "COMP": "9",
-      "ATT": "12",
-      "YDS": "83",
+      "COMP": "13",
+      "ATT": "17",
+      "YDS": "120",
       "TD": "1",
       "INT": "0",
-      "RAT": "160.6"
+      "RAT": "155.2"
     },
     {
       "RK": "10",
-      "NAME": "Brady Davidson, QB",
-      "TEAM": "NIU",
-      "RESULT": "L19-35vs.WMU",
-      "COMP": "5",
-      "ATT": "8",
-      "YDS": "73",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "180.4"
+      "NAME": "Tommy Castellanos, QB",
+      "TEAM": "FSU",
+      "RESULT": "",
+      "COMP": "8",
+      "ATT": "20",
+      "YDS": "79",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "63.2"
     }
   ],
   "Rushing Leaders": [
