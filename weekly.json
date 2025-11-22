@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "18",
+      "YDS": "193",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "204.5"
+    },
+    {
+      "RK": "5",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L16-28vs.CMU",
@@ -59,18 +71,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "138.4"
-    },
-    {
-      "RK": "6",
-      "NAME": "Anthony Colandrea, QB",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "COMP": "13",
-      "ATT": "17",
-      "YDS": "182",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "205.2"
     },
     {
       "RK": "7",
