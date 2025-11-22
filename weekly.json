@@ -28,13 +28,13 @@
       "RK": "3",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "23",
-      "YDS": "228",
-      "TD": "2",
+      "RESULT": "W38-10vs.HAW",
+      "COMP": "21",
+      "ATT": "26",
+      "YDS": "253",
+      "TD": "3",
       "INT": "0",
-      "RAT": "190.2"
+      "RAT": "200.6"
     },
     {
       "RK": "4",
@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Micah Alejado, QB",
+      "TEAM": "HAW",
+      "RESULT": "L10-38atUNLV",
+      "COMP": "15",
+      "ATT": "24",
+      "YDS": "163",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "125.0"
+    },
+    {
+      "RK": "9",
       "NAME": "CJ Bailey, QB",
       "TEAM": "NCSU",
       "RESULT": "W21-11vs.FSU",
@@ -97,7 +109,7 @@
       "RAT": "149.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Lunch Winfield, QB",
       "TEAM": "UL",
       "RESULT": "W34-30atARST",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "121.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Hunter Najm, QB",
-      "TEAM": "BGSU",
-      "RESULT": "L16-19vs.AKR",
-      "COMP": "9",
-      "ATT": "26",
-      "YDS": "138",
-      "TD": "1",
-      "INT": "2",
-      "RAT": "76.5"
     }
   ],
   "Rushing Leaders": [
@@ -278,7 +278,7 @@
       "RK": "6",
       "NAME": "Jackson Harris, WR",
       "TEAM": "HAW",
-      "RESULT": "",
+      "RESULT": "L10-38atUNLV",
       "REC": "3",
       "YDS": "79",
       "YPR": "26.3",
@@ -298,7 +298,7 @@
       "RK": "8",
       "NAME": "Taeshaun Lyons, WR",
       "TEAM": "UNLV",
-      "RESULT": "",
+      "RESULT": "W38-10vs.HAW",
       "REC": "2",
       "YDS": "75",
       "YPR": "37.5",
