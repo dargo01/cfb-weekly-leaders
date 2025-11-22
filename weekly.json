@@ -4,7 +4,7 @@
       "RK": "1",
       "NAME": "Preston Stone, QB",
       "TEAM": "NU",
-      "RESULT": "",
+      "RESULT": "W38-35vs.MINN",
       "COMP": "25",
       "ATT": "30",
       "YDS": "305",
@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Carson Beck, QB",
+      "TEAM": "MIA",
+      "RESULT": "",
+      "COMP": "25",
+      "ATT": "30",
+      "YDS": "301",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "200.6"
+    },
+    {
+      "RK": "5",
       "NAME": "Robby Ashford, QB",
       "TEAM": "WAKE",
       "RESULT": "W52-14vs.DEL",
@@ -47,18 +59,6 @@
       "TD": "3",
       "INT": "1",
       "RAT": "215.6"
-    },
-    {
-      "RK": "5",
-      "NAME": "Carson Beck, QB",
-      "TEAM": "MIA",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "28",
-      "YDS": "283",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "202.4"
     },
     {
       "RK": "6",
@@ -76,7 +76,7 @@
       "RK": "7",
       "NAME": "Drake Lindsey, QB",
       "TEAM": "MINN",
-      "RESULT": "",
+      "RESULT": "L35-38atNU",
       "COMP": "20",
       "ATT": "30",
       "YDS": "264",
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Colton Joseph, QB",
+      "TEAM": "ODU",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "189",
+      "YPC": "9.5",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Deuce Knight, QB",
       "TEAM": "AUB",
       "RESULT": "",
@@ -153,7 +163,7 @@
       "TD": "4"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "L25-26vs.TLSA",
@@ -161,16 +171,6 @@
       "YDS": "159",
       "YPC": "5.0",
       "TD": "3"
-    },
-    {
-      "RK": "5",
-      "NAME": "Colton Joseph, QB",
-      "TEAM": "ODU",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "158",
-      "YPC": "9.3",
-      "TD": "0"
     },
     {
       "RK": "6",
@@ -187,16 +187,16 @@
       "NAME": "Chip Trayanum, RB",
       "TEAM": "TOL",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "129",
-      "YPC": "10.8",
-      "TD": "0"
+      "CAR": "13",
+      "YDS": "131",
+      "YPC": "10.1",
+      "TD": "1"
     },
     {
-      "RK": "",
+      "RK": "8",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
-      "RESULT": "",
+      "RESULT": "W38-35vs.MINN",
       "CAR": "22",
       "YDS": "129",
       "YPC": "5.9",
@@ -246,26 +246,36 @@
     },
     {
       "RK": "3",
-      "NAME": "Hayden Eligon II, WR",
-      "TEAM": "NU",
+      "NAME": "Kris Hutson, WR",
+      "TEAM": "ARIZ",
       "RESULT": "",
-      "REC": "7",
-      "YDS": "127",
-      "YPR": "18.1",
-      "TD": "0"
+      "REC": "9",
+      "YDS": "133",
+      "YPR": "14.8",
+      "TD": "1"
     },
     {
       "RK": "4",
       "NAME": "Malachi Toney, WR",
       "TEAM": "MIA",
       "RESULT": "",
-      "REC": "9",
-      "YDS": "123",
-      "YPR": "13.7",
+      "REC": "10",
+      "YDS": "127",
+      "YPR": "12.7",
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "",
+      "NAME": "Hayden Eligon II, WR",
+      "TEAM": "NU",
+      "RESULT": "W38-35vs.MINN",
+      "REC": "7",
+      "YDS": "127",
+      "YPR": "18.1",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Corey Rucker, WR",
       "TEAM": "ARST",
       "RESULT": "L30-34vs.UL",
@@ -275,7 +285,17 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Kevin Coleman Jr., WR",
+      "TEAM": "MIZ",
+      "RESULT": "L6-17atOU",
+      "REC": "7",
+      "YDS": "115",
+      "YPR": "16.4",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Victor Snow, WR",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -288,40 +308,20 @@
       "RK": "",
       "NAME": "Griffin Wilde, WR",
       "TEAM": "NU",
-      "RESULT": "",
+      "RESULT": "W38-35vs.MINN",
       "REC": "11",
       "YDS": "111",
       "YPR": "10.1",
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Isaiah Sategna III, WR",
       "TEAM": "OU",
-      "RESULT": "",
+      "RESULT": "W17-6vs.MIZ",
       "REC": "3",
       "YDS": "109",
       "YPR": "36.3",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Max Klare, TE",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "105",
-      "YPR": "15.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kris Hutson, WR",
-      "TEAM": "ARIZ",
-      "RESULT": "",
-      "REC": "8",
-      "YDS": "97",
-      "YPR": "12.1",
       "TD": "1"
     }
   ]
