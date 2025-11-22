@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Kevin Jennings, QB",
+      "TEAM": "SMU",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "16",
+      "YDS": "154",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "215.9"
+    },
+    {
+      "RK": "10",
       "NAME": "CJ Bailey, QB",
       "TEAM": "NCSU",
       "RESULT": "W21-11vs.FSU",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "149.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Lunch Winfield, QB",
-      "TEAM": "UL",
-      "RESULT": "W34-30atARST",
-      "COMP": "18",
-      "ATT": "25",
-      "YDS": "147",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "121.4"
     }
   ],
   "Rushing Leaders": [
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "113",
+      "YPC": "7.5",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
       "NAME": "Austyn Dendy, RB",
       "TEAM": "BGSU",
       "RESULT": "L16-19vs.AKR",
@@ -163,7 +173,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Amari Daniels, RB",
       "TEAM": "TA&M",
       "RESULT": "",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Devin Miles, RB",
       "TEAM": "WMU",
       "RESULT": "W35-19atNIU",
@@ -183,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W35-19atNIU",
@@ -193,33 +203,23 @@
       "TD": "3"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Carson Hansen, RB",
+      "TEAM": "ISU",
+      "RESULT": "",
+      "CAR": "18",
+      "YDS": "99",
+      "YPC": "5.5",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "L19-35vs.WMU",
       "CAR": "21",
       "YDS": "92",
       "YPC": "4.4",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Lunch Winfield, QB",
-      "TEAM": "UL",
-      "RESULT": "W34-30atARST",
-      "CAR": "20",
-      "YDS": "89",
-      "YPC": "4.5",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jordan Gant, RB",
-      "TEAM": "AKR",
-      "RESULT": "W19-16atBGSU",
-      "CAR": "22",
-      "YDS": "86",
-      "YPC": "3.9",
       "TD": "0"
     }
   ],
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Isaiah Sategna III, WR",
+      "TEAM": "OU",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "94",
+      "YPR": "47.0",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Israel Polk, WR",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -265,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Cole Weaver, WR",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jackson Harris, WR",
       "TEAM": "HAW",
       "RESULT": "L10-38atUNLV",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Kam Perry, WR",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Taeshaun Lyons, WR",
       "TEAM": "UNLV",
       "RESULT": "W38-10vs.HAW",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Marcel Williams, WR",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -313,16 +323,6 @@
       "YDS": "74",
       "YPR": "12.3",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Duce Robinson, WR",
-      "TEAM": "FSU",
-      "RESULT": "L11-21atNCSU",
-      "REC": "4",
-      "YDS": "74",
-      "YPR": "18.5",
-      "TD": "1"
     }
   ]
 }
