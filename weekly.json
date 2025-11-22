@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Carson Beck, QB",
+      "TEAM": "MIA",
+      "RESULT": "W34-17atVT",
+      "COMP": "27",
+      "ATT": "32",
+      "YDS": "320",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "209.6"
+    },
+    {
+      "RK": "2",
       "NAME": "Preston Stone, QB",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
@@ -13,7 +25,7 @@
       "RAT": "190.7"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -35,18 +47,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "173.9"
-    },
-    {
-      "RK": "4",
-      "NAME": "Carson Beck, QB",
-      "TEAM": "MIA",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "30",
-      "YDS": "301",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "200.6"
     },
     {
       "RK": "5",
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Malachi Toney, WR",
+      "TEAM": "MIA",
+      "RESULT": "W34-17atVT",
+      "REC": "12",
+      "YDS": "146",
+      "YPR": "12.2",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Kris Hutson, WR",
       "TEAM": "ARIZ",
       "RESULT": "",
@@ -255,17 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
-      "NAME": "Malachi Toney, WR",
-      "TEAM": "MIA",
-      "RESULT": "",
-      "REC": "10",
-      "YDS": "127",
-      "YPR": "12.7",
-      "TD": "0"
-    },
-    {
-      "RK": "",
+      "RK": "5",
       "NAME": "Hayden Eligon II, WR",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
