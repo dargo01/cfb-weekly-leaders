@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "18",
+      "YDS": "253",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "232.5"
+    },
+    {
+      "RK": "",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "W38-10vs.HAW",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "200.6"
-    },
-    {
-      "RK": "10",
-      "NAME": "Joe Fagnano, QB",
-      "TEAM": "CONN",
-      "RESULT": "",
-      "COMP": "13",
-      "ATT": "17",
-      "YDS": "249",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "238.3"
     }
   ],
   "Rushing Leaders": [
@@ -217,9 +217,9 @@
       "NAME": "Jaquari Lewis, RB",
       "TEAM": "APP",
       "RESULT": "",
-      "CAR": "20",
+      "CAR": "21",
       "YDS": "126",
-      "YPC": "6.3",
+      "YPC": "6.0",
       "TD": "1"
     }
   ],
