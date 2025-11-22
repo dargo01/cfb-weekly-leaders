@@ -14,6 +14,18 @@
     },
     {
       "RK": "2",
+      "NAME": "Kevin Jennings, QB",
+      "TEAM": "SMU",
+      "RESULT": "",
+      "COMP": "28",
+      "ATT": "36",
+      "YDS": "297",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "174.6"
+    },
+    {
+      "RK": "3",
       "NAME": "Robby Ashford, QB",
       "TEAM": "WAKE",
       "RESULT": "",
@@ -25,40 +37,28 @@
       "RAT": "215.6"
     },
     {
-      "RK": "3",
-      "NAME": "Kevin Jennings, QB",
-      "TEAM": "SMU",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "34",
-      "YDS": "291",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "170.7"
-    },
-    {
       "RK": "4",
-      "NAME": "Preston Stone, QB",
-      "TEAM": "NU",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "24",
-      "YDS": "268",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "186.7"
-    },
-    {
-      "RK": "5",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "",
       "COMP": "21",
       "ATT": "25",
-      "YDS": "265",
+      "YDS": "277",
       "TD": "3",
       "INT": "0",
-      "RAT": "212.6"
+      "RAT": "216.7"
+    },
+    {
+      "RK": "5",
+      "NAME": "Preston Stone, QB",
+      "TEAM": "NU",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "26",
+      "YDS": "273",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "194.4"
     },
     {
       "RK": "6",
@@ -85,40 +85,40 @@
       "RAT": "200.6"
     },
     {
-      "RK": "8",
-      "NAME": "Rocco Becht, QB",
-      "TEAM": "ISU",
+      "RK": "",
+      "NAME": "Baylor Hayes, QB",
+      "TEAM": "TLSA",
       "RESULT": "",
-      "COMP": "16",
-      "ATT": "21",
-      "YDS": "217",
-      "TD": "3",
+      "COMP": "19",
+      "ATT": "30",
+      "YDS": "253",
+      "TD": "1",
       "INT": "0",
-      "RAT": "210.1"
+      "RAT": "145.2"
     },
     {
       "RK": "9",
-      "NAME": "Tommy Castellanos, QB",
-      "TEAM": "FSU",
-      "RESULT": "L11-21atNCSU",
-      "COMP": "16",
-      "ATT": "32",
-      "YDS": "203",
-      "TD": "1",
-      "INT": "2",
-      "RAT": "101.1"
+      "NAME": "Rocco Becht, QB",
+      "TEAM": "ISU",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "23",
+      "YDS": "241",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "209.3"
     },
     {
       "RK": "10",
-      "NAME": "Gunner Stockton, QB",
-      "TEAM": "UGA",
+      "NAME": "Drake Lindsey, QB",
+      "TEAM": "MINN",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "21",
-      "YDS": "196",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "149.8"
+      "COMP": "18",
+      "ATT": "26",
+      "YDS": "230",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "194.3"
     }
   ],
   "Rushing Leaders": [
@@ -134,23 +134,23 @@
     },
     {
       "RK": "2",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "",
-      "CAR": "29",
-      "YDS": "157",
-      "YPC": "5.4",
-      "TD": "3"
-    },
-    {
-      "RK": "3",
       "NAME": "Dominic Richardson, RB",
       "TEAM": "TLSA",
       "RESULT": "",
-      "CAR": "19",
-      "YDS": "139",
-      "YPC": "7.3",
+      "CAR": "23",
+      "YDS": "166",
+      "YPC": "7.2",
       "TD": "1"
+    },
+    {
+      "RK": "3",
+      "NAME": "Cale Hellums, QB",
+      "TEAM": "ARMY",
+      "RESULT": "",
+      "CAR": "30",
+      "YDS": "157",
+      "YPC": "5.2",
+      "TD": "3"
     },
     {
       "RK": "4",
@@ -184,16 +184,26 @@
     },
     {
       "RK": "7",
-      "NAME": "Caleb Komolafe, RB",
-      "TEAM": "NU",
+      "NAME": "Carson Hansen, RB",
+      "TEAM": "ISU",
       "RESULT": "",
-      "CAR": "16",
-      "YDS": "117",
-      "YPC": "7.3",
+      "CAR": "22",
+      "YDS": "120",
+      "YPC": "5.5",
       "TD": "1"
     },
     {
       "RK": "8",
+      "NAME": "Caleb Komolafe, RB",
+      "TEAM": "NU",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "119",
+      "YPC": "7.0",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Bo Jackson, RB",
       "TEAM": "OSU",
       "RESULT": "",
@@ -211,16 +221,6 @@
       "YDS": "110",
       "YPC": "4.1",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Amari Daniels, RB",
-      "TEAM": "TA&M",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "106",
-      "YPC": "11.8",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -316,12 +316,12 @@
     },
     {
       "RK": "10",
-      "NAME": "Jordan Hudson, WR",
-      "TEAM": "SMU",
+      "NAME": "Kris Hutson, WR",
+      "TEAM": "ARIZ",
       "RESULT": "",
       "REC": "8",
-      "YDS": "96",
-      "YPR": "12.0",
+      "YDS": "97",
+      "YPR": "12.1",
       "TD": "1"
     }
   ]
