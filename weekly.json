@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Carson Beck, QB",
+      "TEAM": "MIA",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "17",
+      "YDS": "190",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "209.2"
+    },
+    {
+      "RK": "6",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "L16-28vs.CMU",
@@ -73,7 +85,7 @@
       "RAT": "138.4"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Ben Finley, QB",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -85,7 +97,19 @@
       "RAT": "96.5"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Kevin Jennings, QB",
+      "TEAM": "SMU",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "18",
+      "YDS": "168",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "204.0"
+    },
+    {
+      "RK": "10",
       "NAME": "Micah Alejado, QB",
       "TEAM": "HAW",
       "RESULT": "L10-38atUNLV",
@@ -95,30 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "125.0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Kevin Jennings, QB",
-      "TEAM": "SMU",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "16",
-      "YDS": "154",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "215.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "CJ Bailey, QB",
-      "TEAM": "NCSU",
-      "RESULT": "W21-11vs.FSU",
-      "COMP": "18",
-      "ATT": "25",
-      "YDS": "152",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "149.5"
     }
   ],
   "Rushing Leaders": [
@@ -157,13 +157,13 @@
       "NAME": "Cale Hellums, QB",
       "TEAM": "ARMY",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "110",
-      "YPC": "7.9",
-      "TD": "2"
+      "CAR": "18",
+      "YDS": "122",
+      "YPC": "6.8",
+      "TD": "3"
     },
     {
-      "RK": "",
+      "RK": "5",
       "NAME": "Austyn Dendy, RB",
       "TEAM": "BGSU",
       "RESULT": "L16-19vs.AKR",
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Malachi Toney, WR",
+      "TEAM": "MIA",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "102",
+      "YPR": "17.0",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Isaiah Sategna III, WR",
       "TEAM": "OU",
       "RESULT": "",
@@ -265,7 +275,17 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "",
+      "NAME": "Carlos Hernandez, WR",
+      "TEAM": "WAKE",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "94",
+      "YPR": "31.3",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Israel Polk, WR",
       "TEAM": "AKR",
       "RESULT": "W19-16atBGSU",
@@ -275,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Cole Weaver, WR",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
@@ -285,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Jackson Harris, WR",
       "TEAM": "HAW",
       "RESULT": "L10-38atUNLV",
@@ -295,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Kam Perry, WR",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
@@ -303,26 +323,6 @@
       "YDS": "76",
       "YPR": "19.0",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Taeshaun Lyons, WR",
-      "TEAM": "UNLV",
-      "RESULT": "W38-10vs.HAW",
-      "REC": "2",
-      "YDS": "75",
-      "YPR": "37.5",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Marcel Williams, WR",
-      "TEAM": "AKR",
-      "RESULT": "W19-16atBGSU",
-      "REC": "6",
-      "YDS": "74",
-      "YPR": "12.3",
-      "TD": "0"
     }
   ]
 }
