@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Rocco Becht, QB",
-      "TEAM": "ISU",
-      "RESULT": "W38-14vs.KU",
-      "COMP": "18",
-      "ATT": "23",
-      "YDS": "241",
-      "TD": "3",
+      "NAME": "Joe Fagnano, QB",
+      "TEAM": "CONN",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "17",
+      "YDS": "249",
+      "TD": "2",
       "INT": "0",
-      "RAT": "209.3"
+      "RAT": "238.3"
     }
   ],
   "Rushing Leaders": [
@@ -146,7 +146,7 @@
       "RK": "3",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
-      "RESULT": "",
+      "RESULT": "W45-10atGASO",
       "CAR": "20",
       "YDS": "189",
       "YPC": "9.5",
@@ -184,16 +184,6 @@
     },
     {
       "RK": "7",
-      "NAME": "Chip Trayanum, RB",
-      "TEAM": "TOL",
-      "RESULT": "",
-      "CAR": "13",
-      "YDS": "131",
-      "YPC": "10.1",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
       "NAME": "Caleb Komolafe, RB",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
@@ -203,24 +193,34 @@
       "TD": "1"
     },
     {
-      "RK": "9",
-      "NAME": "Wayne Knight, RB",
-      "TEAM": "JMU",
+      "RK": "8",
+      "NAME": "Chip Trayanum, RB",
+      "TEAM": "TOL",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "124",
-      "YPC": "8.9",
+      "CAR": "15",
+      "YDS": "128",
+      "YPC": "8.5",
       "TD": "1"
     },
     {
-      "RK": "10",
-      "NAME": "Jordan Brunson, RB",
-      "TEAM": "M-OH",
-      "RESULT": "W37-20atBUF",
-      "CAR": "16",
-      "YDS": "123",
-      "YPC": "7.7",
-      "TD": "0"
+      "RK": "9",
+      "NAME": "Wayne Knight, RB",
+      "TEAM": "JMU",
+      "RESULT": "W24-20vs.WSU",
+      "CAR": "15",
+      "YDS": "126",
+      "YPC": "8.4",
+      "TD": "1"
+    },
+    {
+      "RK": "",
+      "NAME": "Jaquari Lewis, RB",
+      "TEAM": "APP",
+      "RESULT": "",
+      "CAR": "20",
+      "YDS": "126",
+      "YPC": "6.3",
+      "TD": "1"
     }
   ],
   "Receiving Leaders": [
