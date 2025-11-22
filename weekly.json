@@ -17,12 +17,12 @@
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "",
-      "COMP": "32",
-      "ATT": "45",
-      "YDS": "444",
+      "COMP": "33",
+      "ATT": "46",
+      "YDS": "446",
       "TD": "3",
       "INT": "0",
-      "RAT": "176.0"
+      "RAT": "174.7"
     },
     {
       "RK": "3",
@@ -127,9 +127,9 @@
       "NAME": "Joe Jackson, RB",
       "TEAM": "KSU",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "247",
-      "YPC": "17.6",
+      "CAR": "16",
+      "YDS": "251",
+      "YPC": "15.7",
       "TD": "2"
     },
     {
