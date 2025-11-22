@@ -5,51 +5,63 @@
       "NAME": "Diego Pavia, QB",
       "TEAM": "VAN",
       "RESULT": "",
-      "COMP": "31",
-      "ATT": "36",
-      "YDS": "448",
+      "COMP": "32",
+      "ATT": "38",
+      "YDS": "469",
       "TD": "4",
-      "INT": "0",
-      "RAT": "227.3"
+      "INT": "1",
+      "RAT": "217.4"
     },
     {
       "RK": "2",
-      "NAME": "Caden Veltkamp, QB",
-      "TEAM": "FAU",
-      "RESULT": "",
-      "COMP": "39",
-      "ATT": "52",
-      "YDS": "426",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "152.7"
-    },
-    {
-      "RK": "3",
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "",
-      "COMP": "28",
-      "ATT": "36",
-      "YDS": "403",
+      "COMP": "32",
+      "ATT": "45",
+      "YDS": "444",
       "TD": "3",
       "INT": "0",
-      "RAT": "199.3"
+      "RAT": "176.0"
+    },
+    {
+      "RK": "3",
+      "NAME": "Caden Veltkamp, QB",
+      "TEAM": "FAU",
+      "RESULT": "",
+      "COMP": "40",
+      "ATT": "53",
+      "YDS": "438",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "153.6"
     },
     {
       "RK": "4",
-      "NAME": "Byrum Brown, QB",
-      "TEAM": "USF",
+      "NAME": "Arch Manning, QB",
+      "TEAM": "TEX",
       "RESULT": "",
-      "COMP": "18",
-      "ATT": "23",
-      "YDS": "344",
-      "TD": "3",
+      "COMP": "17",
+      "ATT": "29",
+      "YDS": "379",
+      "TD": "4",
       "INT": "0",
-      "RAT": "246.9"
+      "RAT": "213.9"
     },
     {
       "RK": "5",
+      "NAME": "Byrum Brown, QB",
+      "TEAM": "USF",
+      "RESULT": "W48-18atUAB",
+      "COMP": "19",
+      "ATT": "25",
+      "YDS": "353",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "234.2"
+    },
+    {
+      "RK": "6",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "W34-17atVT",
@@ -61,7 +73,19 @@
       "RAT": "209.6"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Braylon Braxton, QB",
+      "TEAM": "USM",
+      "RESULT": "",
+      "COMP": "25",
+      "ATT": "42",
+      "YDS": "306",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "139.5"
+    },
+    {
+      "RK": "8",
       "NAME": "Preston Stone, QB",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
@@ -73,19 +97,7 @@
       "RAT": "190.7"
     },
     {
-      "RK": "7",
-      "NAME": "Arch Manning, QB",
-      "TEAM": "TEX",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "24",
-      "YDS": "304",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "206.0"
-    },
-    {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "173.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "Robby Ashford, QB",
-      "TEAM": "WAKE",
-      "RESULT": "W52-14vs.DEL",
-      "COMP": "15",
-      "ATT": "22",
-      "YDS": "292",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "215.6"
     }
   ],
   "Rushing Leaders": [
@@ -127,9 +127,9 @@
       "NAME": "Joe Jackson, RB",
       "TEAM": "KSU",
       "RESULT": "",
-      "CAR": "11",
-      "YDS": "241",
-      "YPC": "21.9",
+      "CAR": "14",
+      "YDS": "247",
+      "YPC": "17.6",
       "TD": "2"
     },
     {
@@ -174,16 +174,26 @@
     },
     {
       "RK": "6",
+      "NAME": "Kentrel Bullock, RB",
+      "TEAM": "USA",
+      "RESULT": "",
+      "CAR": "23",
+      "YDS": "187",
+      "YPC": "8.1",
+      "TD": "3"
+    },
+    {
+      "RK": "7",
       "NAME": "Ashten Emory, RB",
       "TEAM": "UTEP",
-      "RESULT": "",
+      "RESULT": "L31-34vs.NMSU",
       "CAR": "18",
       "YDS": "181",
       "YPC": "10.1",
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jaquari Lewis, RB",
       "TEAM": "APP",
       "RESULT": "W26-24vs.MRSH",
@@ -193,17 +203,17 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jeremiyah Love, RB",
       "TEAM": "ND",
-      "RESULT": "",
+      "RESULT": "W70-7vs.SYR",
       "CAR": "8",
       "YDS": "171",
       "YPC": "21.4",
       "TD": "3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Deuce Knight, QB",
       "TEAM": "AUB",
       "RESULT": "W62-17vs.MER",
@@ -211,16 +221,6 @@
       "YDS": "162",
       "YPC": "18.0",
       "TD": "4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cale Hellums, QB",
-      "TEAM": "ARMY",
-      "RESULT": "L25-26vs.TLSA",
-      "CAR": "32",
-      "YDS": "159",
-      "YPC": "5.0",
-      "TD": "3"
     }
   ],
   "Receiving Leaders": [
@@ -238,7 +238,7 @@
       "RK": "2",
       "NAME": "Mudia Reuben, WR",
       "TEAM": "USF",
-      "RESULT": "",
+      "RESULT": "W48-18atUAB",
       "REC": "5",
       "YDS": "174",
       "YPR": "34.8",
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Dominique Henry, WR",
+      "TEAM": "FAU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "157",
+      "YPR": "22.4",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Malcolm Simmons, WR",
       "TEAM": "AUB",
       "RESULT": "W62-17vs.MER",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Malachi Toney, WR",
       "TEAM": "MIA",
       "RESULT": "W34-17atVT",
@@ -278,21 +288,11 @@
       "RK": "",
       "NAME": "Iverson Hooks, WR",
       "TEAM": "UAB",
-      "RESULT": "",
+      "RESULT": "L18-48vs.USF",
       "REC": "10",
       "YDS": "146",
       "YPR": "14.6",
       "TD": "0"
-    },
-    {
-      "RK": "7",
-      "NAME": "Dominique Henry, WR",
-      "TEAM": "FAU",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "145",
-      "YPR": "24.2",
-      "TD": "1"
     },
     {
       "RK": "8",
