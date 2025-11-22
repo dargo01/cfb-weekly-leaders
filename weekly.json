@@ -204,6 +204,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Wayne Knight, RB",
+      "TEAM": "JMU",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "124",
+      "YPC": "8.9",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Jordan Brunson, RB",
       "TEAM": "M-OH",
       "RESULT": "W37-20atBUF",
@@ -211,16 +221,6 @@
       "YDS": "123",
       "YPC": "7.7",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Carson Hansen, RB",
-      "TEAM": "ISU",
-      "RESULT": "W38-14vs.KU",
-      "CAR": "22",
-      "YDS": "120",
-      "YPC": "5.5",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Malcolm Simmons, WR",
+      "TEAM": "AUB",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "149",
+      "YPR": "29.8",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -245,7 +255,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Malachi Toney, WR",
       "TEAM": "MIA",
       "RESULT": "W34-17atVT",
@@ -255,17 +265,17 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Kris Hutson, WR",
       "TEAM": "ARIZ",
-      "RESULT": "",
+      "RESULT": "W41-17vs.BAY",
       "REC": "9",
       "YDS": "133",
       "YPR": "14.8",
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Hayden Eligon II, WR",
       "TEAM": "NU",
       "RESULT": "W38-35vs.MINN",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Corey Rucker, WR",
       "TEAM": "ARST",
       "RESULT": "L30-34vs.UL",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Kevin Coleman Jr., WR",
       "TEAM": "MIZ",
       "RESULT": "L6-17atOU",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Victor Snow, WR",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -312,16 +322,6 @@
       "REC": "11",
       "YDS": "111",
       "YPR": "10.1",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Isaiah Sategna III, WR",
-      "TEAM": "OU",
-      "RESULT": "W17-6vs.MIZ",
-      "REC": "3",
-      "YDS": "109",
-      "YPR": "36.3",
       "TD": "1"
     }
   ]
