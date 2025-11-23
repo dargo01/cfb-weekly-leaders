@@ -16,13 +16,13 @@
       "RK": "2",
       "NAME": "Diego Pavia, QB",
       "TEAM": "VAN",
-      "RESULT": "",
-      "COMP": "32",
-      "ATT": "38",
-      "YDS": "469",
-      "TD": "4",
+      "RESULT": "W45-17vs.UK",
+      "COMP": "33",
+      "ATT": "39",
+      "YDS": "484",
+      "TD": "5",
       "INT": "1",
-      "RAT": "217.4"
+      "RAT": "226.1"
     },
     {
       "RK": "3",
@@ -38,18 +38,54 @@
     },
     {
       "RK": "4",
-      "NAME": "Arch Manning, QB",
-      "TEAM": "TEX",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "29",
-      "YDS": "379",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "213.9"
+      "NAME": "Braylon Braxton, QB",
+      "TEAM": "USM",
+      "RESULT": "L35-42atUSA",
+      "COMP": "31",
+      "ATT": "52",
+      "YDS": "400",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "139.4"
     },
     {
       "RK": "5",
+      "NAME": "Arch Manning, QB",
+      "TEAM": "TEX",
+      "RESULT": "W52-37vs.ARK",
+      "COMP": "18",
+      "ATT": "30",
+      "YDS": "389",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "212.9"
+    },
+    {
+      "RK": "6",
+      "NAME": "Amari Odom, QB",
+      "TEAM": "KENN",
+      "RESULT": "W41-34vs.MOST",
+      "COMP": "24",
+      "ATT": "34",
+      "YDS": "387",
+      "TD": "5",
+      "INT": "0",
+      "RAT": "214.7"
+    },
+    {
+      "RK": "7",
+      "NAME": "Goose Crowder, QB",
+      "TEAM": "TROY",
+      "RESULT": "W31-19vs.GAST",
+      "COMP": "27",
+      "ATT": "43",
+      "YDS": "361",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "164.0"
+    },
+    {
+      "RK": "8",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W48-18atUAB",
@@ -61,19 +97,19 @@
       "RAT": "234.2"
     },
     {
-      "RK": "6",
-      "NAME": "Amari Odom, QB",
-      "TEAM": "KENN",
-      "RESULT": "W41-34vs.MOST",
-      "COMP": "22",
+      "RK": "9",
+      "NAME": "Jacob Clark, QB",
+      "TEAM": "MOST",
+      "RESULT": "L34-41atKENN",
+      "COMP": "23",
       "ATT": "32",
-      "YDS": "333",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "197.4"
+      "YDS": "344",
+      "TD": "3",
+      "INT": "2",
+      "RAT": "180.6"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Carson Beck, QB",
       "TEAM": "MIA",
       "RESULT": "W34-17atVT",
@@ -83,42 +119,6 @@
       "TD": "4",
       "INT": "0",
       "RAT": "209.6"
-    },
-    {
-      "RK": "8",
-      "NAME": "Braylon Braxton, QB",
-      "TEAM": "USM",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "43",
-      "YDS": "306",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "136.3"
-    },
-    {
-      "RK": "9",
-      "NAME": "Preston Stone, QB",
-      "TEAM": "NU",
-      "RESULT": "W38-35vs.MINN",
-      "COMP": "25",
-      "ATT": "30",
-      "YDS": "305",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "190.7"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jacob Clark, QB",
-      "TEAM": "MOST",
-      "RESULT": "L34-41atKENN",
-      "COMP": "21",
-      "ATT": "29",
-      "YDS": "304",
-      "TD": "3",
-      "INT": "1",
-      "RAT": "187.7"
     }
   ],
   "Rushing Leaders": [
@@ -126,11 +126,11 @@
       "RK": "1",
       "NAME": "Joe Jackson, RB",
       "TEAM": "KSU",
-      "RESULT": "",
-      "CAR": "16",
-      "YDS": "251",
-      "YPC": "15.7",
-      "TD": "2"
+      "RESULT": "L47-51atUTAH",
+      "CAR": "24",
+      "YDS": "293",
+      "YPC": "12.2",
+      "TD": "3"
     },
     {
       "RK": "2",
@@ -176,7 +176,7 @@
       "RK": "6",
       "NAME": "Kentrel Bullock, RB",
       "TEAM": "USA",
-      "RESULT": "",
+      "RESULT": "W42-35vs.USM",
       "CAR": "23",
       "YDS": "187",
       "YPC": "8.1",
@@ -246,6 +246,26 @@
     },
     {
       "RK": "3",
+      "NAME": "Tre Richardson, WR",
+      "TEAM": "VAN",
+      "RESULT": "W45-17vs.UK",
+      "REC": "6",
+      "YDS": "159",
+      "YPR": "26.5",
+      "TD": "3"
+    },
+    {
+      "RK": "4",
+      "NAME": "Wyatt Young, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "158",
+      "YPR": "79.0",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
       "NAME": "Dominique Henry, WR",
       "TEAM": "FAU",
       "RESULT": "L45-48vs.CONN",
@@ -255,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Malcolm Simmons, WR",
       "TEAM": "AUB",
       "RESULT": "W62-17vs.MER",
@@ -265,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L20-37vs.M-OH",
@@ -275,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Malachi Toney, WR",
       "TEAM": "MIA",
       "RESULT": "W34-17atVT",
@@ -295,33 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Dylan Wade, TE",
-      "TEAM": "UCF",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "145",
-      "YPR": "36.3",
-      "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Tre Richardson, WR",
-      "TEAM": "VAN",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "144",
-      "YPR": "28.8",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Anthony Smith, WR",
-      "TEAM": "ECU",
-      "RESULT": "",
-      "REC": "8",
-      "YDS": "143",
-      "YPR": "17.9",
+      "RK": "",
+      "NAME": "Javon Robinson, WR",
+      "TEAM": "GAST",
+      "RESULT": "L19-31atTROY",
+      "REC": "7",
+      "YDS": "146",
+      "YPR": "20.9",
       "TD": "1"
     }
   ]
