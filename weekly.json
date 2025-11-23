@@ -22,7 +22,7 @@
       "YDS": "484",
       "TD": "5",
       "INT": "1",
-      "RAT": "226.1"
+      "RAT": "226.0"
     },
     {
       "RK": "3",
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "LJ Martin, RB",
+      "TEAM": "BYU",
+      "RESULT": "W26-14atCIN",
+      "CAR": "32",
+      "YDS": "222",
+      "YPC": "6.9",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
       "NAME": "Dominic Richardson, RB",
       "TEAM": "TLSA",
       "RESULT": "W26-25atARMY",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Ja'Kyrian Turner, RB",
       "TEAM": "PITT",
       "RESULT": "W42-28atGT",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W42-14vs.MASS",
@@ -183,7 +193,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Colton Joseph, QB",
       "TEAM": "ODU",
       "RESULT": "W45-10atGASO",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Kentrel Bullock, RB",
       "TEAM": "USA",
       "RESULT": "W42-35vs.USM",
@@ -203,7 +213,7 @@
       "TD": "3"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Ashten Emory, RB",
       "TEAM": "UTEP",
       "RESULT": "L31-34vs.NMSU",
@@ -211,16 +221,6 @@
       "YDS": "181",
       "YPC": "10.1",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jaquari Lewis, RB",
-      "TEAM": "APP",
-      "RESULT": "W26-24vs.MRSH",
-      "CAR": "33",
-      "YDS": "175",
-      "YPC": "5.3",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
