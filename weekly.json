@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "23",
+      "YDS": "469",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "296.9"
+    },
+    {
+      "RK": "4",
       "NAME": "Joe Fagnano, QB",
       "TEAM": "CONN",
       "RESULT": "W48-45atFAU",
@@ -37,7 +49,7 @@
       "RAT": "174.7"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Braylon Braxton, QB",
       "TEAM": "USM",
       "RESULT": "L35-42atUSA",
@@ -49,7 +61,7 @@
       "RAT": "139.4"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Arch Manning, QB",
       "TEAM": "TEX",
       "RESULT": "W52-37vs.ARK",
@@ -61,7 +73,7 @@
       "RAT": "212.9"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Amari Odom, QB",
       "TEAM": "KENN",
       "RESULT": "W41-34vs.MOST",
@@ -73,7 +85,7 @@
       "RAT": "214.7"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Goose Crowder, QB",
       "TEAM": "TROY",
       "RESULT": "W31-19vs.GAST",
@@ -85,7 +97,7 @@
       "RAT": "164.0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Byrum Brown, QB",
       "TEAM": "USF",
       "RESULT": "W48-18atUAB",
@@ -97,7 +109,7 @@
       "RAT": "234.2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jacob Clark, QB",
       "TEAM": "MOST",
       "RESULT": "L34-41atKENN",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "2",
       "RAT": "180.6"
-    },
-    {
-      "RK": "10",
-      "NAME": "Carson Beck, QB",
-      "TEAM": "MIA",
-      "RESULT": "W34-17atVT",
-      "COMP": "27",
-      "ATT": "32",
-      "YDS": "320",
-      "TD": "4",
-      "INT": "0",
-      "RAT": "209.6"
     }
   ],
   "Rushing Leaders": [
@@ -226,6 +226,16 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Wyatt Young, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "295",
+      "YPR": "36.9",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
       "NAME": "Carlos Hernandez, WR",
       "TEAM": "WAKE",
       "RESULT": "W52-14vs.DEL",
@@ -235,7 +245,7 @@
       "TD": "2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Mudia Reuben, WR",
       "TEAM": "USF",
       "RESULT": "W48-18atUAB",
@@ -245,7 +255,7 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Tre Richardson, WR",
       "TEAM": "VAN",
       "RESULT": "W45-17vs.UK",
@@ -253,16 +263,6 @@
       "YDS": "159",
       "YPR": "26.5",
       "TD": "3"
-    },
-    {
-      "RK": "4",
-      "NAME": "Wyatt Young, WR",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "158",
-      "YPR": "79.0",
-      "TD": "2"
     },
     {
       "RK": "5",
