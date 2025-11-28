@@ -29,12 +29,12 @@
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "",
-      "COMP": "14",
-      "ATT": "23",
-      "YDS": "134",
+      "COMP": "18",
+      "ATT": "35",
+      "YDS": "165",
       "TD": "2",
       "INT": "0",
-      "RAT": "138.5"
+      "RAT": "109.9"
     },
     {
       "RK": "4",
@@ -61,16 +61,16 @@
       "RAT": "110.0"
     },
     {
-      "RK": "6",
+      "RK": "",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "8",
-      "YDS": "82",
+      "COMP": "5",
+      "ATT": "9",
+      "YDS": "100",
       "TD": "1",
       "INT": "0",
-      "RAT": "177.4"
+      "RAT": "185.6"
     }
   ],
   "Rushing Leaders": [
@@ -96,6 +96,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Alex Tecza, RB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "26",
+      "YDS": "103",
+      "YPC": "4.0",
+      "TD": "2"
+    },
+    {
+      "RK": "4",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -105,7 +115,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Cameron Pettaway, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -113,16 +123,6 @@
       "YDS": "87",
       "YPC": "7.3",
       "TD": "0"
-    },
-    {
-      "RK": "5",
-      "NAME": "Alex Tecza, RB",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "CAR": "16",
-      "YDS": "72",
-      "YPC": "4.5",
-      "TD": "2"
     },
     {
       "RK": "6",
@@ -146,6 +146,26 @@
     },
     {
       "RK": "8",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "54",
+      "YPC": "3.6",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
+      "NAME": "Brendon Lewis, QB",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "44",
+      "YPC": "4.9",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "PaSean Wimberly, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -153,26 +173,6 @@
       "YDS": "38",
       "YPC": "7.6",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "",
-      "CAR": "10",
-      "YDS": "36",
-      "YPC": "3.6",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Elijah Faulkner, RB",
-      "TEAM": "MASS",
-      "RESULT": "L14-45vs.BGSU",
-      "CAR": "8",
-      "YDS": "36",
-      "YPC": "4.5",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -208,6 +208,26 @@
     },
     {
       "RK": "4",
+      "NAME": "Cortez Braham Jr., WR",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "65",
+      "YPR": "16.3",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
+      "NAME": "Eli Heidenreich, WR",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "64",
+      "YPR": "32.0",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Harold Mack, WR",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -217,17 +237,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
-      "NAME": "Cortez Braham Jr., WR",
-      "TEAM": "MEM",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "46",
-      "YPR": "23.0",
-      "TD": "1"
-    },
-    {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Blake Bosma, TE",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -237,7 +247,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Porter Rooks, WR",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -247,7 +257,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Brady Kluse, WR",
       "TEAM": "MEM",
       "RESULT": "",
@@ -257,7 +267,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Donnie Gray, WR",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
@@ -265,16 +275,6 @@
       "YDS": "24",
       "YPR": "8.0",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Reece Adkins, TE",
-      "TEAM": "MASS",
-      "RESULT": "L14-45vs.BGSU",
-      "REC": "2",
-      "YDS": "24",
-      "YPR": "12.0",
-      "TD": "1"
     }
   ]
 }
