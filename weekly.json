@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "9",
+      "ATT": "9",
+      "YDS": "177",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "338.5"
+    },
+    {
+      "RK": "10",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "L17-28vs.NAVY",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "111.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Mark Gronowski, QB",
-      "TEAM": "IOWA",
-      "RESULT": "W40-16atNEB",
-      "COMP": "9",
-      "ATT": "16",
-      "YDS": "166",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "164.0"
     }
   ],
   "Rushing Leaders": [
