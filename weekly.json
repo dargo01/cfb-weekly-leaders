@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Max Cutforth, QB",
+      "TEAM": "BOIS",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "38",
+      "YDS": "206",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "104.2"
+    },
+    {
+      "RK": "10",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "L21-31vs.UTAH",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "3",
       "RAT": "85.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Max Cutforth, QB",
-      "TEAM": "BOIS",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "36",
-      "YDS": "182",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "101.6"
     }
   ],
   "Rushing Leaders": [
@@ -137,13 +137,13 @@
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "",
-      "CAR": "24",
-      "YDS": "185",
-      "YPC": "7.7",
-      "TD": "3"
+      "CAR": "25",
+      "YDS": "186",
+      "YPC": "7.4",
+      "TD": "4"
     },
     {
-      "RK": "",
+      "RK": "3",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "L31-35vs.KENT",
