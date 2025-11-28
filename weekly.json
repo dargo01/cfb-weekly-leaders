@@ -28,16 +28,28 @@
       "RK": "3",
       "NAME": "Jackson Brousseau, QB",
       "TEAM": "CSU",
-      "RESULT": "",
-      "COMP": "27",
-      "ATT": "34",
-      "YDS": "315",
+      "RESULT": "L21-42vs.AF",
+      "COMP": "28",
+      "ATT": "37",
+      "YDS": "323",
       "TD": "2",
       "INT": "0",
-      "RAT": "176.6"
+      "RAT": "166.8"
     },
     {
       "RK": "4",
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "21",
+      "YDS": "288",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "248.1"
+    },
+    {
+      "RK": "5",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
@@ -47,18 +59,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "160.3"
-    },
-    {
-      "RK": "5",
-      "NAME": "Drew Mestemaker, QB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "COMP": "16",
-      "ATT": "19",
-      "YDS": "266",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "236.5"
     },
     {
       "RK": "6",
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Caleb Hawkins, RB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "177",
+      "YPC": "8.0",
+      "TD": "3"
+    },
+    {
+      "RK": "4",
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "L19-38vs.MISS",
@@ -151,16 +161,6 @@
       "YDS": "173",
       "YPC": "8.7",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Caleb Hawkins, RB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "CAR": "19",
-      "YDS": "160",
-      "YPC": "8.4",
-      "TD": "3"
     },
     {
       "RK": "5",
@@ -238,7 +238,7 @@
       "RK": "2",
       "NAME": "Lloyd Avant, RB",
       "TEAM": "CSU",
-      "RESULT": "",
+      "RESULT": "L21-42vs.AF",
       "REC": "8",
       "YDS": "135",
       "YPR": "16.9",
