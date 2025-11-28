@@ -38,6 +38,30 @@
     },
     {
       "RK": "4",
+      "NAME": "Trinidad Chambliss, QB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "COMP": "11",
+      "ATT": "18",
+      "YDS": "145",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "147.1"
+    },
+    {
+      "RK": "5",
+      "NAME": "Devon Dampier, QB",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "COMP": "9",
+      "ATT": "14",
+      "YDS": "129",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "165.3"
+    },
+    {
+      "RK": "6",
       "NAME": "Hunter Najm, QB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -49,19 +73,31 @@
       "RAT": "307.2"
     },
     {
-      "RK": "5",
-      "NAME": "Trinidad Chambliss, QB",
-      "TEAM": "MISS",
+      "RK": "7",
+      "NAME": "Dru DeShields, QB",
+      "TEAM": "KENT",
       "RESULT": "",
       "COMP": "7",
-      "ATT": "11",
-      "YDS": "118",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "183.7"
+      "ATT": "15",
+      "YDS": "114",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "141.2"
     },
     {
-      "RK": "6",
+      "RK": "8",
+      "NAME": "Parker Navarro, QB",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "COMP": "7",
+      "ATT": "13",
+      "YDS": "113",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "162.3"
+    },
+    {
+      "RK": "9",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -83,42 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "185.6"
-    },
-    {
-      "RK": "8",
-      "NAME": "Devon Dampier, QB",
-      "TEAM": "UTAH",
-      "RESULT": "",
-      "COMP": "3",
-      "ATT": "4",
-      "YDS": "72",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "308.7"
-    },
-    {
-      "RK": "9",
-      "NAME": "Kamario Taylor, QB",
-      "TEAM": "MSST",
-      "RESULT": "",
-      "COMP": "3",
-      "ATT": "6",
-      "YDS": "59",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "99.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Ta'Quan Roberson, QB",
-      "TEAM": "BUF",
-      "RESULT": "",
-      "COMP": "5",
-      "ATT": "8",
-      "YDS": "49",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "155.2"
     }
   ],
   "Rushing Leaders": [
@@ -127,9 +127,9 @@
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
       "RESULT": "",
-      "CAR": "10",
-      "YDS": "132",
-      "YPC": "13.2",
+      "CAR": "18",
+      "YDS": "172",
+      "YPC": "9.6",
       "TD": "1"
     },
     {
@@ -144,6 +144,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Chavon Wright, RB",
+      "TEAM": "NIU",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "114",
+      "YPC": "8.1",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Dontae McMillan, RB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -153,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Alex Tecza, RB",
       "TEAM": "NAVY",
       "RESULT": "W28-17atMEM",
@@ -163,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -173,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Cameron Pettaway, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -183,43 +193,33 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "",
-      "CAR": "6",
-      "YDS": "77",
-      "YPC": "12.8",
+      "CAR": "8",
+      "YDS": "85",
+      "YPC": "10.6",
       "TD": "1"
     },
     {
-      "RK": "8",
-      "NAME": "Jalen Buckley, RB",
-      "TEAM": "WMU",
-      "RESULT": "W31-21atEMU",
-      "CAR": "16",
-      "YDS": "70",
-      "YPC": "4.4",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
+      "RK": "9",
+      "NAME": "Gavin Garcia, RB",
+      "TEAM": "KENT",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "70",
-      "YPC": "5.8",
-      "TD": "1"
+      "CAR": "14",
+      "YDS": "77",
+      "YPC": "5.5",
+      "TD": "0"
     },
     {
       "RK": "10",
-      "NAME": "Talique Williams, WR",
-      "TEAM": "WMU",
-      "RESULT": "W31-21atEMU",
-      "CAR": "5",
-      "YDS": "67",
-      "YPC": "13.4",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "74",
+      "YPC": "5.3",
       "TD": "1"
     }
   ],
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Chase Hendricks, WR",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "66",
+      "YPR": "22.0",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Cortez Braham Jr., WR",
       "TEAM": "MEM",
       "RESULT": "L17-28vs.NAVY",
@@ -275,7 +285,17 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "",
+      "NAME": "JJ Buchanan, TE",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "65",
+      "YPR": "32.5",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "W28-17atMEM",
@@ -295,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "DJ Vonnahme, TE",
       "TEAM": "IOWA",
       "RESULT": "",
@@ -303,26 +323,6 @@
       "YDS": "48",
       "YPR": "24.0",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Blake Bosma, TE",
-      "TEAM": "WMU",
-      "RESULT": "W31-21atEMU",
-      "REC": "3",
-      "YDS": "38",
-      "YPR": "12.7",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Porter Rooks, WR",
-      "TEAM": "EMU",
-      "RESULT": "L21-31vs.WMU",
-      "REC": "2",
-      "YDS": "36",
-      "YPR": "18.0",
-      "TD": "0"
     }
   ]
 }
