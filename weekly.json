@@ -14,18 +14,6 @@
     },
     {
       "RK": "2",
-      "NAME": "Trinidad Chambliss, QB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "29",
-      "YDS": "234",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "156.1"
-    },
-    {
-      "RK": "3",
       "NAME": "Grant Jordan, QB",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
@@ -35,6 +23,18 @@
       "TD": "2",
       "INT": "0",
       "RAT": "135.2"
+    },
+    {
+      "RK": "3",
+      "NAME": "Trinidad Chambliss, QB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "27",
+      "YDS": "222",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "160.2"
     },
     {
       "RK": "4",
@@ -66,11 +66,11 @@
       "TEAM": "UTAH",
       "RESULT": "",
       "COMP": "12",
-      "ATT": "22",
+      "ATT": "21",
       "YDS": "145",
       "TD": "1",
       "INT": "0",
-      "RAT": "124.9"
+      "RAT": "130.9"
     },
     {
       "RK": "7",
