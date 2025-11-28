@@ -74,27 +74,51 @@
     },
     {
       "RK": "7",
+      "NAME": "Trinidad Chambliss, QB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "COMP": "6",
+      "ATT": "6",
+      "YDS": "97",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "290.8"
+    },
+    {
+      "RK": "8",
+      "NAME": "Kamario Taylor, QB",
+      "TEAM": "MSST",
+      "RESULT": "",
+      "COMP": "3",
+      "ATT": "3",
+      "YDS": "59",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "265.2"
+    },
+    {
+      "RK": "9",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "",
       "COMP": "3",
-      "ATT": "6",
+      "ATT": "7",
       "YDS": "34",
       "TD": "0",
       "INT": "1",
-      "RAT": "64.3"
+      "RAT": "55.1"
     },
     {
-      "RK": "8",
-      "NAME": "Dru DeShields, QB",
-      "TEAM": "KENT",
+      "RK": "10",
+      "NAME": "Ta'Quan Roberson, QB",
+      "TEAM": "BUF",
       "RESULT": "",
-      "COMP": "0",
-      "ATT": "4",
-      "YDS": "0",
+      "COMP": "3",
+      "ATT": "5",
+      "YDS": "17",
       "TD": "0",
-      "INT": "1",
-      "RAT": "-50.0"
+      "INT": "0",
+      "RAT": "88.6"
     }
   ],
   "Rushing Leaders": [
@@ -130,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Emmett Johnson, RB",
+      "TEAM": "NEB",
+      "RESULT": "",
+      "CAR": "5",
+      "YDS": "95",
+      "YPC": "19.0",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -139,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Cameron Pettaway, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -149,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -159,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Talique Williams, WR",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -169,7 +203,17 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Wayshawn Parker, RB",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "CAR": "4",
+      "YDS": "56",
+      "YPC": "14.0",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "W28-17atMEM",
@@ -177,26 +221,6 @@
       "YDS": "54",
       "YPC": "3.6",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "PaSean Wimberly, RB",
-      "TEAM": "BGSU",
-      "RESULT": "W45-14atMASS",
-      "CAR": "5",
-      "YDS": "38",
-      "YPC": "7.6",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Brandon Chatman, WR",
-      "TEAM": "NAVY",
-      "RESULT": "W28-17atMEM",
-      "CAR": "7",
-      "YDS": "38",
-      "YPC": "5.4",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -222,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Harrison Wallace III, WR",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "72",
+      "YPR": "18.0",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Jamarien Wheeler, WR",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -231,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Cortez Braham Jr., WR",
       "TEAM": "MEM",
       "RESULT": "L17-28vs.NAVY",
@@ -241,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "W28-17atMEM",
@@ -261,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Blake Bosma, TE",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -271,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Porter Rooks, WR",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -281,23 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Cam Pickett, WR",
       "TEAM": "KU",
       "RESULT": "",
       "REC": "3",
       "YDS": "34",
       "YPR": "11.3",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Brady Kluse, WR",
-      "TEAM": "MEM",
-      "RESULT": "L17-28vs.NAVY",
-      "REC": "2",
-      "YDS": "27",
-      "YPR": "13.5",
       "TD": "0"
     }
   ]
