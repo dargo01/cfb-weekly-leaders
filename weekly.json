@@ -30,11 +30,11 @@
       "TEAM": "MISS",
       "RESULT": "",
       "COMP": "17",
-      "ATT": "25",
+      "ATT": "26",
       "YDS": "212",
       "TD": "2",
       "INT": "0",
-      "RAT": "165.6"
+      "RAT": "159.3"
     },
     {
       "RK": "4",
@@ -54,11 +54,11 @@
       "TEAM": "UTAH",
       "RESULT": "",
       "COMP": "12",
-      "ATT": "19",
+      "ATT": "21",
       "YDS": "145",
       "TD": "1",
       "INT": "0",
-      "RAT": "144.6"
+      "RAT": "130.9"
     },
     {
       "RK": "6",
@@ -78,11 +78,11 @@
       "TEAM": "OHIO",
       "RESULT": "",
       "COMP": "8",
-      "ATT": "16",
+      "ATT": "17",
       "YDS": "123",
       "TD": "2",
       "INT": "1",
-      "RAT": "143.3"
+      "RAT": "134.9"
     },
     {
       "RK": "8",
@@ -102,11 +102,11 @@
       "TEAM": "MSST",
       "RESULT": "",
       "COMP": "8",
-      "ATT": "14",
+      "ATT": "15",
       "YDS": "111",
       "TD": "0",
       "INT": "1",
-      "RAT": "109.5"
+      "RAT": "102.2"
     },
     {
       "RK": "10",
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Parker Navarro, QB",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "98",
+      "YPC": "8.2",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -183,7 +193,17 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "91",
+      "YPC": "5.4",
+      "TD": "1"
+    },
+    {
+      "RK": "9",
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "",
@@ -193,33 +213,13 @@
       "TD": "1"
     },
     {
-      "RK": "8",
-      "NAME": "Parker Navarro, QB",
-      "TEAM": "OHIO",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "87",
-      "YPC": "7.9",
-      "TD": "1"
-    },
-    {
-      "RK": "",
+      "RK": "10",
       "NAME": "Cameron Pettaway, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
       "CAR": "12",
       "YDS": "87",
       "YPC": "7.3",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Fluff Bothwell, RB",
-      "TEAM": "MSST",
-      "RESULT": "",
-      "CAR": "14",
-      "YDS": "82",
-      "YPC": "5.9",
       "TD": "0"
     }
   ],
