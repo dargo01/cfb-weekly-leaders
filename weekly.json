@@ -54,11 +54,11 @@
       "TEAM": "MISS",
       "RESULT": "",
       "COMP": "7",
-      "ATT": "7",
+      "ATT": "11",
       "YDS": "118",
       "TD": "1",
       "INT": "0",
-      "RAT": "288.7"
+      "RAT": "183.7"
     },
     {
       "RK": "6",
@@ -86,44 +86,54 @@
     },
     {
       "RK": "8",
+      "NAME": "Devon Dampier, QB",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "COMP": "3",
+      "ATT": "4",
+      "YDS": "72",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "308.7"
+    },
+    {
+      "RK": "9",
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "",
       "COMP": "3",
-      "ATT": "5",
+      "ATT": "6",
       "YDS": "59",
       "TD": "0",
-      "INT": "0",
-      "RAT": "159.1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Mark Gronowski, QB",
-      "TEAM": "IOWA",
-      "RESULT": "",
-      "COMP": "2",
-      "ATT": "4",
-      "YDS": "48",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "233.3"
+      "INT": "1",
+      "RAT": "99.3"
     },
     {
       "RK": "10",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "",
-      "COMP": "4",
-      "ATT": "7",
-      "YDS": "39",
-      "TD": "0",
+      "COMP": "5",
+      "ATT": "8",
+      "YDS": "49",
+      "TD": "1",
       "INT": "0",
-      "RAT": "103.9"
+      "RAT": "155.2"
     }
   ],
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Emmett Johnson, RB",
+      "TEAM": "NEB",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "132",
+      "YPC": "13.2",
+      "TD": "1"
+    },
+    {
+      "RK": "2",
       "NAME": "Austyn Dendy, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -133,7 +143,7 @@
       "TD": "2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Dontae McMillan, RB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -143,7 +153,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Alex Tecza, RB",
       "TEAM": "NAVY",
       "RESULT": "W28-17atMEM",
@@ -151,16 +161,6 @@
       "YDS": "103",
       "YPC": "4.0",
       "TD": "2"
-    },
-    {
-      "RK": "4",
-      "NAME": "Emmett Johnson, RB",
-      "TEAM": "NEB",
-      "RESULT": "",
-      "CAR": "6",
-      "YDS": "98",
-      "YPC": "16.3",
-      "TD": "1"
     },
     {
       "RK": "5",
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Kamario Taylor, QB",
+      "TEAM": "MSST",
+      "RESULT": "",
+      "CAR": "6",
+      "YDS": "77",
+      "YPC": "12.8",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -193,7 +203,17 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "70",
+      "YPC": "5.8",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Talique Williams, WR",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -201,26 +221,6 @@
       "YDS": "67",
       "YPC": "13.4",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "CAR": "11",
-      "YDS": "64",
-      "YPC": "5.8",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Gavin Garcia, RB",
-      "TEAM": "KENT",
-      "RESULT": "",
-      "CAR": "8",
-      "YDS": "61",
-      "YPC": "7.6",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
