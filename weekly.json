@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Trinidad Chambliss, QB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "25",
+      "YDS": "212",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "165.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "L17-28vs.NAVY",
@@ -37,28 +49,16 @@
       "RAT": "111.2"
     },
     {
-      "RK": "4",
-      "NAME": "Trinidad Chambliss, QB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "COMP": "11",
-      "ATT": "18",
-      "YDS": "145",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "147.1"
-    },
-    {
       "RK": "5",
       "NAME": "Devon Dampier, QB",
       "TEAM": "UTAH",
       "RESULT": "",
-      "COMP": "9",
-      "ATT": "14",
-      "YDS": "129",
+      "COMP": "11",
+      "ATT": "16",
+      "YDS": "140",
       "TD": "1",
       "INT": "0",
-      "RAT": "165.3"
+      "RAT": "162.9"
     },
     {
       "RK": "6",
@@ -127,9 +127,9 @@
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "172",
-      "YPC": "9.6",
+      "CAR": "19",
+      "YDS": "177",
+      "YPC": "9.3",
       "TD": "1"
     },
     {
@@ -204,6 +204,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Wayshawn Parker, RB",
+      "TEAM": "UTAH",
+      "RESULT": "",
+      "CAR": "8",
+      "YDS": "81",
+      "YPC": "10.1",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Gavin Garcia, RB",
       "TEAM": "KENT",
       "RESULT": "",
@@ -211,16 +221,6 @@
       "YDS": "77",
       "YPC": "5.5",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "CAR": "14",
-      "YDS": "74",
-      "YPC": "5.3",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "DJ Vonnahme, TE",
-      "TEAM": "IOWA",
+      "NAME": "Cayden Lee, WR",
+      "TEAM": "MISS",
       "RESULT": "",
-      "REC": "2",
-      "YDS": "48",
-      "YPR": "24.0",
-      "TD": "1"
+      "REC": "4",
+      "YDS": "53",
+      "YPR": "13.3",
+      "TD": "0"
     }
   ]
 }
