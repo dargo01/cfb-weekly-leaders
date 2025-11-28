@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Dru DeShields, QB",
+      "TEAM": "KENT",
+      "RESULT": "W35-31atNIU",
+      "COMP": "11",
+      "ATT": "22",
+      "YDS": "207",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "149.9"
+    },
+    {
+      "RK": "7",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "L21-31vs.UTAH",
@@ -73,7 +85,7 @@
       "RAT": "85.2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "L19-38vs.MISS",
@@ -85,7 +97,7 @@
       "RAT": "90.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "L17-28vs.NAVY",
@@ -97,7 +109,7 @@
       "RAT": "111.2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Mark Gronowski, QB",
       "TEAM": "IOWA",
       "RESULT": "W40-16atNEB",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "0",
       "RAT": "164.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Parker Navarro, QB",
-      "TEAM": "OHIO",
-      "RESULT": "W31-26atBUF",
-      "COMP": "10",
-      "ATT": "23",
-      "YDS": "147",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "117.2"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Chavon Wright, RB",
+      "TEAM": "NIU",
+      "RESULT": "L31-35vs.KENT",
+      "CAR": "30",
+      "YDS": "185",
+      "YPC": "6.2",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "L19-38vs.MISS",
@@ -143,7 +153,17 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Gavin Garcia, RB",
+      "TEAM": "KENT",
+      "RESULT": "W35-31atNIU",
+      "CAR": "24",
+      "YDS": "151",
+      "YPC": "6.3",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Kewan Lacy, RB",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
@@ -153,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W31-26atBUF",
@@ -163,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W31-26atBUF",
@@ -173,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Austyn Dendy, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -183,17 +203,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
-      "NAME": "Chavon Wright, RB",
-      "TEAM": "NIU",
-      "RESULT": "L31-35vs.KENT",
-      "CAR": "14",
-      "YDS": "114",
-      "YPC": "8.1",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Dontae McMillan, RB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Daniel Hishaw Jr., RB",
       "TEAM": "KU",
       "RESULT": "L21-31vs.UTAH",
@@ -211,16 +221,6 @@
       "YDS": "107",
       "YPC": "4.9",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Leshon Williams, RB",
-      "TEAM": "KU",
-      "RESULT": "L21-31vs.UTAH",
-      "CAR": "15",
-      "YDS": "104",
-      "YPC": "6.9",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -305,23 +305,23 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "",
+      "NAME": "Dashawn Martin, WR",
+      "TEAM": "KENT",
+      "RESULT": "W35-31atNIU",
+      "REC": "3",
+      "YDS": "91",
+      "YPR": "30.3",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Victor Snow, WR",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
       "REC": "4",
       "YDS": "82",
       "YPR": "20.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Brenen Thompson, WR",
-      "TEAM": "MSST",
-      "RESULT": "L19-38vs.MISS",
-      "REC": "6",
-      "YDS": "80",
-      "YPR": "13.3",
       "TD": "0"
     }
   ]
