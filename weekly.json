@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "19",
+      "YDS": "266",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "236.5"
+    },
+    {
+      "RK": "6",
       "NAME": "Devon Dampier, QB",
       "TEAM": "UTAH",
       "RESULT": "W31-21atKU",
@@ -59,18 +71,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "184.6"
-    },
-    {
-      "RK": "6",
-      "NAME": "Drew Mestemaker, QB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "COMP": "13",
-      "ATT": "16",
-      "YDS": "234",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "245.3"
     },
     {
       "RK": "7",
@@ -154,6 +154,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Caleb Hawkins, RB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "CAR": "19",
+      "YDS": "160",
+      "YPC": "8.4",
+      "TD": "3"
+    },
+    {
+      "RK": "5",
       "NAME": "Gavin Garcia, RB",
       "TEAM": "KENT",
       "RESULT": "W35-31atNIU",
@@ -163,7 +173,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Kewan Lacy, RB",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
@@ -171,16 +181,6 @@
       "YDS": "143",
       "YPC": "5.3",
       "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Caleb Hawkins, RB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "CAR": "15",
-      "YDS": "135",
-      "YPC": "9.0",
-      "TD": "3"
     },
     {
       "RK": "7",
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Cameron Dorner, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "125",
+      "YPR": "31.3",
+      "TD": "1"
+    },
+    {
+      "RK": "5",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Emmanuel Henderson Jr., WR",
       "TEAM": "KU",
       "RESULT": "L21-31vs.UTAH",
@@ -273,16 +283,6 @@
       "YDS": "113",
       "YPR": "37.7",
       "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Cameron Dorner, WR",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "99",
-      "YPR": "49.5",
-      "TD": "1"
     },
     {
       "RK": "7",
