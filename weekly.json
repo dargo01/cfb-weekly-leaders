@@ -90,14 +90,26 @@
       "TEAM": "MSST",
       "RESULT": "",
       "COMP": "3",
-      "ATT": "3",
+      "ATT": "5",
       "YDS": "59",
       "TD": "0",
       "INT": "0",
-      "RAT": "265.2"
+      "RAT": "159.1"
     },
     {
       "RK": "9",
+      "NAME": "Ta'Quan Roberson, QB",
+      "TEAM": "BUF",
+      "RESULT": "",
+      "COMP": "4",
+      "ATT": "7",
+      "YDS": "39",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "103.9"
+    },
+    {
+      "RK": "10",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
       "RESULT": "",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "1",
       "RAT": "55.1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Ta'Quan Roberson, QB",
-      "TEAM": "BUF",
-      "RESULT": "",
-      "COMP": "3",
-      "ATT": "5",
-      "YDS": "17",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "88.6"
     }
   ],
   "Rushing Leaders": [
@@ -157,9 +157,9 @@
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
       "RESULT": "",
-      "CAR": "5",
-      "YDS": "95",
-      "YPC": "19.0",
+      "CAR": "6",
+      "YDS": "98",
+      "YPC": "16.3",
       "TD": "1"
     },
     {
