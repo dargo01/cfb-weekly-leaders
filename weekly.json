@@ -6,11 +6,11 @@
       "TEAM": "MISS",
       "RESULT": "",
       "COMP": "23",
-      "ATT": "33",
+      "ATT": "34",
       "YDS": "359",
       "TD": "4",
       "INT": "0",
-      "RAT": "201.1"
+      "RAT": "195.2"
     },
     {
       "RK": "2",
@@ -26,27 +26,27 @@
     },
     {
       "RK": "3",
+      "NAME": "Ta'Quan Roberson, QB",
+      "TEAM": "BUF",
+      "RESULT": "L26-31vs.OHIO",
+      "COMP": "16",
+      "ATT": "27",
+      "YDS": "270",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "160.3"
+    },
+    {
+      "RK": "4",
       "NAME": "Devon Dampier, QB",
       "TEAM": "UTAH",
-      "RESULT": "",
+      "RESULT": "W31-21atKU",
       "COMP": "15",
       "ATT": "25",
       "YDS": "253",
       "TD": "3",
       "INT": "0",
       "RAT": "184.6"
-    },
-    {
-      "RK": "4",
-      "NAME": "Ta'Quan Roberson, QB",
-      "TEAM": "BUF",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "23",
-      "YDS": "233",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "166.0"
     },
     {
       "RK": "5",
@@ -64,16 +64,28 @@
       "RK": "6",
       "NAME": "Jalon Daniels, QB",
       "TEAM": "KU",
-      "RESULT": "",
+      "RESULT": "L21-31vs.UTAH",
       "COMP": "10",
-      "ATT": "24",
+      "ATT": "27",
       "YDS": "187",
       "TD": "1",
       "INT": "3",
-      "RAT": "95.9"
+      "RAT": "85.2"
     },
     {
       "RK": "7",
+      "NAME": "Kamario Taylor, QB",
+      "TEAM": "MSST",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "30",
+      "YDS": "178",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "93.2"
+    },
+    {
+      "RK": "8",
       "NAME": "Brendon Lewis, QB",
       "TEAM": "MEM",
       "RESULT": "L17-28vs.NAVY",
@@ -85,10 +97,10 @@
       "RAT": "111.2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Mark Gronowski, QB",
       "TEAM": "IOWA",
-      "RESULT": "",
+      "RESULT": "W40-16atNEB",
       "COMP": "9",
       "ATT": "16",
       "YDS": "166",
@@ -97,22 +109,10 @@
       "RAT": "164.0"
     },
     {
-      "RK": "9",
-      "NAME": "Kamario Taylor, QB",
-      "TEAM": "MSST",
-      "RESULT": "",
-      "COMP": "13",
-      "ATT": "25",
-      "YDS": "160",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "97.8"
-    },
-    {
       "RK": "10",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
-      "RESULT": "",
+      "RESULT": "W31-26atBUF",
       "COMP": "10",
       "ATT": "23",
       "YDS": "147",
@@ -126,7 +126,7 @@
       "RK": "1",
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
-      "RESULT": "",
+      "RESULT": "L16-40vs.IOWA",
       "CAR": "29",
       "YDS": "217",
       "YPC": "7.5",
@@ -137,23 +137,43 @@
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "153",
-      "YPC": "8.5",
+      "CAR": "20",
+      "YDS": "173",
+      "YPC": "8.7",
       "TD": "2"
     },
     {
       "RK": "3",
+      "NAME": "Kewan Lacy, RB",
+      "TEAM": "MISS",
+      "RESULT": "",
+      "CAR": "27",
+      "YDS": "143",
+      "YPC": "5.3",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
-      "RESULT": "",
+      "RESULT": "W31-26atBUF",
       "CAR": "18",
       "YDS": "121",
       "YPC": "6.7",
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
+      "NAME": "Sieh Bangura, RB",
+      "TEAM": "OHIO",
+      "RESULT": "W31-26atBUF",
+      "CAR": "22",
+      "YDS": "120",
+      "YPC": "5.5",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Austyn Dendy, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -163,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "L31-35vs.KENT",
@@ -173,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Dontae McMillan, RB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -183,44 +203,24 @@
       "TD": "1"
     },
     {
-      "RK": "",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "CAR": "22",
-      "YDS": "111",
-      "YPC": "5.0",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Daniel Hishaw Jr., RB",
       "TEAM": "KU",
-      "RESULT": "",
+      "RESULT": "L21-31vs.UTAH",
       "CAR": "22",
       "YDS": "107",
       "YPC": "4.9",
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Leshon Williams, RB",
       "TEAM": "KU",
-      "RESULT": "",
+      "RESULT": "L21-31vs.UTAH",
       "CAR": "15",
       "YDS": "104",
       "YPC": "6.9",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Alex Tecza, RB",
-      "TEAM": "NAVY",
-      "RESULT": "W28-17atMEM",
-      "CAR": "26",
-      "YDS": "103",
-      "YPC": "4.0",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
@@ -246,29 +246,29 @@
     },
     {
       "RK": "3",
+      "NAME": "Nik McMillan, WR",
+      "TEAM": "BUF",
+      "RESULT": "L26-31vs.OHIO",
+      "REC": "5",
+      "YDS": "122",
+      "YPR": "24.4",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Emmanuel Henderson Jr., WR",
       "TEAM": "KU",
-      "RESULT": "",
+      "RESULT": "L21-31vs.UTAH",
       "REC": "3",
       "YDS": "113",
       "YPR": "37.7",
       "TD": "0"
     },
     {
-      "RK": "4",
-      "NAME": "Nik McMillan, WR",
-      "TEAM": "BUF",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "102",
-      "YPR": "25.5",
-      "TD": "0"
-    },
-    {
       "RK": "5",
       "NAME": "Larry Simmons, WR",
       "TEAM": "UTAH",
-      "RESULT": "",
+      "RESULT": "W31-21atKU",
       "REC": "3",
       "YDS": "97",
       "YPR": "32.3",
@@ -288,7 +288,7 @@
       "RK": "7",
       "NAME": "Chase Hendricks, WR",
       "TEAM": "OHIO",
-      "RESULT": "",
+      "RESULT": "W31-26atBUF",
       "REC": "5",
       "YDS": "92",
       "YPR": "18.4",
@@ -298,7 +298,7 @@
       "RK": "8",
       "NAME": "DJ Vonnahme, TE",
       "TEAM": "IOWA",
-      "RESULT": "",
+      "RESULT": "W40-16atNEB",
       "REC": "3",
       "YDS": "91",
       "YPR": "30.3",
@@ -306,23 +306,23 @@
     },
     {
       "RK": "9",
-      "NAME": "Cayden Lee, WR",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "77",
-      "YPR": "11.0",
+      "NAME": "Victor Snow, WR",
+      "TEAM": "BUF",
+      "RESULT": "L26-31vs.OHIO",
+      "REC": "4",
+      "YDS": "82",
+      "YPR": "20.5",
       "TD": "0"
     },
     {
       "RK": "10",
-      "NAME": "Harrison Wallace III, WR",
-      "TEAM": "MISS",
+      "NAME": "Brenen Thompson, WR",
+      "TEAM": "MSST",
       "RESULT": "",
-      "REC": "4",
-      "YDS": "72",
-      "YPR": "18.0",
-      "TD": "1"
+      "REC": "6",
+      "YDS": "80",
+      "YPR": "13.3",
+      "TD": "0"
     }
   ]
 }
