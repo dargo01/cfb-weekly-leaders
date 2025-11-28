@@ -71,6 +71,30 @@
       "TD": "1",
       "INT": "0",
       "RAT": "185.6"
+    },
+    {
+      "RK": "7",
+      "NAME": "Jalon Daniels, QB",
+      "TEAM": "KU",
+      "RESULT": "",
+      "COMP": "3",
+      "ATT": "6",
+      "YDS": "34",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "64.3"
+    },
+    {
+      "RK": "8",
+      "NAME": "Dru DeShields, QB",
+      "TEAM": "KENT",
+      "RESULT": "",
+      "COMP": "0",
+      "ATT": "4",
+      "YDS": "0",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "-50.0"
     }
   ],
   "Rushing Leaders": [
@@ -258,22 +282,22 @@
     },
     {
       "RK": "9",
+      "NAME": "Cam Pickett, WR",
+      "TEAM": "KU",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "34",
+      "YPR": "11.3",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Brady Kluse, WR",
       "TEAM": "MEM",
       "RESULT": "L17-28vs.NAVY",
       "REC": "2",
       "YDS": "27",
       "YPR": "13.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Donnie Gray, WR",
-      "TEAM": "MASS",
-      "RESULT": "L14-45vs.BGSU",
-      "REC": "3",
-      "YDS": "24",
-      "YPR": "8.0",
       "TD": "0"
     }
   ]
