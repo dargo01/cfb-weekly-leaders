@@ -53,12 +53,12 @@
       "NAME": "Devon Dampier, QB",
       "TEAM": "UTAH",
       "RESULT": "",
-      "COMP": "11",
-      "ATT": "17",
-      "YDS": "140",
+      "COMP": "12",
+      "ATT": "19",
+      "YDS": "145",
       "TD": "1",
       "INT": "0",
-      "RAT": "153.3"
+      "RAT": "144.6"
     },
     {
       "RK": "6",
@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Parker Navarro, QB",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "COMP": "8",
+      "ATT": "16",
+      "YDS": "123",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "143.3"
+    },
+    {
+      "RK": "8",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "",
@@ -85,19 +97,19 @@
       "RAT": "141.2"
     },
     {
-      "RK": "8",
-      "NAME": "Parker Navarro, QB",
-      "TEAM": "OHIO",
+      "RK": "9",
+      "NAME": "Kamario Taylor, QB",
+      "TEAM": "MSST",
       "RESULT": "",
-      "COMP": "7",
-      "ATT": "13",
-      "YDS": "113",
-      "TD": "2",
+      "COMP": "8",
+      "ATT": "14",
+      "YDS": "111",
+      "TD": "0",
       "INT": "1",
-      "RAT": "162.3"
+      "RAT": "109.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "110.0"
-    },
-    {
-      "RK": "",
-      "NAME": "Blake Horvath, QB",
-      "TEAM": "NAVY",
-      "RESULT": "W28-17atMEM",
-      "COMP": "5",
-      "ATT": "9",
-      "YDS": "100",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "185.6"
     }
   ],
   "Rushing Leaders": [
@@ -184,6 +184,26 @@
     },
     {
       "RK": "7",
+      "NAME": "Kamario Taylor, QB",
+      "TEAM": "MSST",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "89",
+      "YPC": "8.9",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
+      "NAME": "Parker Navarro, QB",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "87",
+      "YPC": "7.9",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Cameron Pettaway, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -193,33 +213,13 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Kamario Taylor, QB",
+      "RK": "10",
+      "NAME": "Fluff Bothwell, RB",
       "TEAM": "MSST",
       "RESULT": "",
-      "CAR": "8",
-      "YDS": "85",
-      "YPC": "10.6",
-      "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Wayshawn Parker, RB",
-      "TEAM": "UTAH",
-      "RESULT": "",
-      "CAR": "8",
-      "YDS": "81",
-      "YPC": "10.1",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Gavin Garcia, RB",
-      "TEAM": "KENT",
-      "RESULT": "",
       "CAR": "14",
-      "YDS": "77",
-      "YPC": "5.5",
+      "YDS": "82",
+      "YPC": "5.9",
       "TD": "0"
     }
   ],
@@ -246,6 +246,26 @@
     },
     {
       "RK": "3",
+      "NAME": "Chase Hendricks, WR",
+      "TEAM": "OHIO",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "76",
+      "YPR": "19.0",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
+      "NAME": "Nik McMillan, WR",
+      "TEAM": "BUF",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "73",
+      "YPR": "24.3",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Harrison Wallace III, WR",
       "TEAM": "MISS",
       "RESULT": "",
@@ -265,17 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
-      "NAME": "Chase Hendricks, WR",
-      "TEAM": "OHIO",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "66",
-      "YPR": "22.0",
-      "TD": "1"
-    },
-    {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Cortez Braham Jr., WR",
       "TEAM": "MEM",
       "RESULT": "L17-28vs.NAVY",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Eli Heidenreich, WR",
       "TEAM": "NAVY",
       "RESULT": "W28-17atMEM",
@@ -312,16 +322,6 @@
       "REC": "5",
       "YDS": "64",
       "YPR": "12.8",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cayden Lee, WR",
-      "TEAM": "MISS",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "53",
-      "YPR": "13.3",
       "TD": "0"
     }
   ]
