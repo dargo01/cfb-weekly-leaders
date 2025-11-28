@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Brendon Lewis, QB",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "23",
+      "YDS": "134",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "138.5"
+    },
+    {
+      "RK": "4",
       "NAME": "Hunter Najm, QB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -37,7 +49,7 @@
       "RAT": "307.2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -49,28 +61,16 @@
       "RAT": "110.0"
     },
     {
-      "RK": "5",
-      "NAME": "Brendon Lewis, QB",
-      "TEAM": "MEM",
-      "RESULT": "",
-      "COMP": "11",
-      "ATT": "15",
-      "YDS": "82",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "141.3"
-    },
-    {
-      "RK": "",
+      "RK": "6",
       "NAME": "Blake Horvath, QB",
       "TEAM": "NAVY",
       "RESULT": "",
       "COMP": "4",
-      "ATT": "6",
+      "ATT": "8",
       "YDS": "82",
       "TD": "1",
       "INT": "0",
-      "RAT": "236.5"
+      "RAT": "177.4"
     }
   ],
   "Rushing Leaders": [
@@ -116,6 +116,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Alex Tecza, RB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "16",
+      "YDS": "72",
+      "YPC": "4.5",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -125,7 +135,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Talique Williams, WR",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -135,7 +145,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "PaSean Wimberly, RB",
       "TEAM": "BGSU",
       "RESULT": "W45-14atMASS",
@@ -145,33 +155,23 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Blake Horvath, QB",
+      "TEAM": "NAVY",
+      "RESULT": "",
+      "CAR": "10",
+      "YDS": "36",
+      "YPC": "3.6",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Elijah Faulkner, RB",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
       "CAR": "8",
       "YDS": "36",
       "YPC": "4.5",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Brendon Lewis, QB",
-      "TEAM": "MEM",
-      "RESULT": "",
-      "CAR": "4",
-      "YDS": "33",
-      "YPC": "8.3",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Mar'Kel Porter, RB",
-      "TEAM": "BGSU",
-      "RESULT": "W45-14atMASS",
-      "CAR": "7",
-      "YDS": "33",
-      "YPC": "4.7",
       "TD": "0"
     }
   ],
@@ -218,6 +218,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Cortez Braham Jr., WR",
+      "TEAM": "MEM",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "46",
+      "YPR": "23.0",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Blake Bosma, TE",
       "TEAM": "WMU",
       "RESULT": "W31-21atEMU",
@@ -227,7 +237,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Porter Rooks, WR",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -237,7 +247,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Brady Kluse, WR",
       "TEAM": "MEM",
       "RESULT": "",
@@ -247,7 +257,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Donnie Gray, WR",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
@@ -264,16 +274,6 @@
       "REC": "2",
       "YDS": "24",
       "YPR": "12.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Max Dowling, TE",
-      "TEAM": "MASS",
-      "RESULT": "L14-45vs.BGSU",
-      "REC": "4",
-      "YDS": "23",
-      "YPR": "5.8",
       "TD": "1"
     }
   ]
