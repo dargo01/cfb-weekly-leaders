@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Jackson Brousseau, QB",
+      "TEAM": "CSU",
+      "RESULT": "",
+      "COMP": "27",
+      "ATT": "34",
+      "YDS": "315",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "176.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
@@ -37,7 +49,7 @@
       "RAT": "160.3"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Devon Dampier, QB",
       "TEAM": "UTAH",
       "RESULT": "W31-21atKU",
@@ -47,18 +59,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "184.6"
-    },
-    {
-      "RK": "5",
-      "NAME": "Jackson Brousseau, QB",
-      "TEAM": "CSU",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "30",
-      "YDS": "242",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "155.4"
     },
     {
       "RK": "6",
@@ -177,9 +177,9 @@
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "122",
-      "YPC": "8.7",
+      "CAR": "15",
+      "YDS": "135",
+      "YPC": "9.0",
       "TD": "3"
     },
     {
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Lloyd Avant, RB",
+      "TEAM": "CSU",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "135",
+      "YPR": "16.9",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Dontae McMillan, RB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -243,16 +253,6 @@
       "YDS": "126",
       "YPR": "31.5",
       "TD": "1"
-    },
-    {
-      "RK": "3",
-      "NAME": "Lloyd Avant, RB",
-      "TEAM": "CSU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "123",
-      "YPR": "17.6",
-      "TD": "0"
     },
     {
       "RK": "4",
