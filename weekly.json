@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "24",
+      "YDS": "366",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "252.7"
+    },
+    {
+      "RK": "2",
       "NAME": "Trinidad Chambliss, QB",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
@@ -13,7 +25,7 @@
       "RAT": "195.2"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Noah Kim, QB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -25,7 +37,7 @@
       "RAT": "127.0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Jackson Brousseau, QB",
       "TEAM": "CSU",
       "RESULT": "L21-42vs.AF",
@@ -35,18 +47,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "166.8"
-    },
-    {
-      "RK": "4",
-      "NAME": "Drew Mestemaker, QB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "21",
-      "YDS": "288",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "248.1"
     },
     {
       "RK": "5",
@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Kamario Taylor, QB",
-      "TEAM": "MSST",
-      "RESULT": "L19-38vs.MISS",
-      "COMP": "15",
-      "ATT": "31",
-      "YDS": "178",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "90.2"
+      "NAME": "Max Cutforth, QB",
+      "TEAM": "BOIS",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "36",
+      "YDS": "182",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "101.6"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Caleb Hawkins, RB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "CAR": "24",
+      "YDS": "185",
+      "YPC": "7.7",
+      "TD": "3"
+    },
+    {
+      "RK": "",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "L31-35vs.KENT",
@@ -141,16 +151,6 @@
       "YDS": "185",
       "YPC": "6.2",
       "TD": "2"
-    },
-    {
-      "RK": "3",
-      "NAME": "Caleb Hawkins, RB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "CAR": "22",
-      "YDS": "177",
-      "YPC": "8.0",
-      "TD": "3"
     },
     {
       "RK": "4",
@@ -246,6 +246,16 @@
     },
     {
       "RK": "3",
+      "NAME": "Wyatt Young, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "127",
+      "YPR": "21.2",
+      "TD": "0"
+    },
+    {
+      "RK": "4",
       "NAME": "Dontae McMillan, RB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -255,7 +265,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "",
@@ -265,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Emmanuel Henderson Jr., WR",
       "TEAM": "KU",
       "RESULT": "L21-31vs.UTAH",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Larry Simmons, WR",
       "TEAM": "UTAH",
       "RESULT": "W31-21atKU",
@@ -295,7 +305,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Deuce Alexander, WR",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
@@ -305,23 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Chase Hendricks, WR",
       "TEAM": "OHIO",
       "RESULT": "W31-26atBUF",
       "REC": "5",
       "YDS": "92",
       "YPR": "18.4",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "DJ Vonnahme, TE",
-      "TEAM": "IOWA",
-      "RESULT": "W40-16atNEB",
-      "REC": "3",
-      "YDS": "91",
-      "YPR": "30.3",
       "TD": "1"
     }
   ]
