@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Alex Perry, WR",
+      "TEAM": "FIU",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "112",
+      "YPR": "22.4",
+      "TD": "2"
+    },
+    {
+      "RK": "9",
       "NAME": "Terrance Carter Jr., TE",
       "TEAM": "TTU",
       "RESULT": "",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Larry Simmons, WR",
       "TEAM": "UTAH",
       "RESULT": "W31-21atKU",
@@ -313,16 +323,6 @@
       "YDS": "97",
       "YPR": "32.3",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Vandrevius Jacobs, WR",
-      "TEAM": "SC",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "96",
-      "YPR": "32.0",
-      "TD": "1"
     }
   ]
 }
