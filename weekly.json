@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Noah Fifita, QB",
+      "TEAM": "ARIZ",
+      "RESULT": "",
+      "COMP": "28",
+      "ATT": "45",
+      "YDS": "286",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "122.9"
+    },
+    {
+      "RK": "7",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
@@ -73,7 +85,7 @@
       "RAT": "160.3"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Devon Dampier, QB",
       "TEAM": "UTAH",
       "RESULT": "W31-21atKU",
@@ -83,18 +95,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "184.6"
-    },
-    {
-      "RK": "8",
-      "NAME": "Noah Fifita, QB",
-      "TEAM": "ARIZ",
-      "RESULT": "",
-      "COMP": "25",
-      "ATT": "41",
-      "YDS": "244",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "119.0"
     },
     {
       "RK": "9",
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Kris Hutson, WR",
+      "TEAM": "ARIZ",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "95",
+      "YPR": "13.6",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Deuce Alexander, WR",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
@@ -313,16 +323,6 @@
       "YDS": "94",
       "YPR": "47.0",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jack Endries, TE",
-      "TEAM": "TEX",
-      "RESULT": "W27-17vs.TA&M",
-      "REC": "4",
-      "YDS": "93",
-      "YPR": "23.3",
-      "TD": "0"
     }
   ]
 }
