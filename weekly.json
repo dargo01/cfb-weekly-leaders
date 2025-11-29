@@ -28,7 +28,7 @@
       "RK": "3",
       "NAME": "Max Cutforth, QB",
       "TEAM": "BOIS",
-      "RESULT": "",
+      "RESULT": "W25-24atUSU",
       "COMP": "26",
       "ATT": "49",
       "YDS": "341",
@@ -184,6 +184,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Roman Hemby, RB",
+      "TEAM": "IU",
+      "RESULT": "",
+      "CAR": "9",
+      "YDS": "130",
+      "YPC": "14.4",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W31-26atBUF",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W31-26atBUF",
@@ -206,21 +216,11 @@
       "RK": "",
       "NAME": "Dylan Riley, RB",
       "TEAM": "BOIS",
-      "RESULT": "",
+      "RESULT": "W25-24atUSU",
       "CAR": "25",
       "YDS": "120",
       "YPC": "4.8",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Austyn Dendy, RB",
-      "TEAM": "BGSU",
-      "RESULT": "W45-14atMASS",
-      "CAR": "22",
-      "YDS": "115",
-      "YPC": "5.2",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
