@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "TK King, WR",
+      "TEAM": "NMSU",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "162",
+      "YPR": "20.3",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Adrian Norton, WR",
       "TEAM": "MRSH",
       "RESULT": "L19-24vs.GASO",
@@ -245,7 +255,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
       "RESULT": "W24-19atMRSH",
@@ -255,7 +265,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Chris Dawn Jr., WR",
       "TEAM": "TXST",
       "RESULT": "",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Vandrevius Jacobs, WR",
       "TEAM": "SC",
       "RESULT": "L14-28vs.CLEM",
@@ -275,7 +285,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Alex Perry, WR",
       "TEAM": "FIU",
       "RESULT": "W56-16atSHSU",
@@ -285,7 +295,7 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jacquon Gibson, WR",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Lloyd Avant, RB",
       "TEAM": "CSU",
       "RESULT": "L21-42vs.AF",
@@ -313,16 +323,6 @@
       "YDS": "135",
       "YPR": "16.9",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Caleb Douglas, WR",
-      "TEAM": "TTU",
-      "RESULT": "W49-0atWVU",
-      "REC": "5",
-      "YDS": "127",
-      "YPR": "25.4",
-      "TD": "2"
     }
   ]
 }
