@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Grant Jordan, QB",
-      "TEAM": "MASS",
-      "RESULT": "L14-45vs.BGSU",
-      "COMP": "22",
-      "ATT": "35",
-      "YDS": "223",
+      "NAME": "Katin Houser, QB",
+      "TEAM": "ECU",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "18",
+      "YDS": "224",
       "TD": "2",
       "INT": "0",
-      "RAT": "135.2"
+      "RAT": "219.0"
     }
   ],
   "Rushing Leaders": [
@@ -306,6 +306,16 @@
     },
     {
       "RK": "9",
+      "NAME": "Vandrevius Jacobs, WR",
+      "TEAM": "SC",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "96",
+      "YPR": "32.0",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Kris Hutson, WR",
       "TEAM": "ARIZ",
       "RESULT": "W23-7atASU",
@@ -313,16 +323,6 @@
       "YDS": "95",
       "YPR": "13.6",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Deuce Alexander, WR",
-      "TEAM": "MISS",
-      "RESULT": "W38-19atMSST",
-      "REC": "2",
-      "YDS": "94",
-      "YPR": "47.0",
-      "TD": "1"
     }
   ]
 }
