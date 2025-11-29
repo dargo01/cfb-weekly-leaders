@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Athan Kaliakmanis, QB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "22",
+      "YDS": "338",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "246.8"
+    },
+    {
+      "RK": "",
       "NAME": "Skyler Locklear, QB",
       "TEAM": "UTEP",
       "RESULT": "L31-61atDEL",
@@ -73,7 +85,7 @@
       "RAT": "134.0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Noah Kim, QB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -85,7 +97,7 @@
       "RAT": "127.0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jackson Brousseau, QB",
       "TEAM": "CSU",
       "RESULT": "L21-42vs.AF",
@@ -97,28 +109,16 @@
       "RAT": "166.8"
     },
     {
-      "RK": "9",
-      "NAME": "JC French IV, QB",
-      "TEAM": "GASO",
-      "RESULT": "W24-19atMRSH",
-      "COMP": "24",
-      "ATT": "37",
-      "YDS": "313",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "153.8"
-    },
-    {
       "RK": "10",
-      "NAME": "Aidan Armenta, QB",
-      "TEAM": "ULM",
-      "RESULT": "L27-30atUL",
-      "COMP": "19",
-      "ATT": "31",
-      "YDS": "311",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "177.5"
+      "NAME": "Robby Ashford, QB",
+      "TEAM": "WAKE",
+      "RESULT": "",
+      "COMP": "26",
+      "ATT": "41",
+      "YDS": "322",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "140.6"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Evan Dickens, RB",
       "TEAM": "LIB",
       "RESULT": "",
-      "CAR": "31",
-      "YDS": "203",
-      "YPC": "6.5",
+      "CAR": "33",
+      "YDS": "207",
+      "YPC": "6.3",
       "TD": "3"
     },
     {
@@ -147,9 +147,9 @@
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
       "RESULT": "",
-      "CAR": "27",
-      "YDS": "188",
-      "YPC": "7.0",
+      "CAR": "29",
+      "YDS": "189",
+      "YPC": "6.5",
       "TD": "1"
     },
     {
