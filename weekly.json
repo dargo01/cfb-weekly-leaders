@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Trey Kukuk, QB",
+      "TEAM": "LT",
+      "RESULT": "W42-30atMOST",
+      "CAR": "16",
+      "YDS": "172",
+      "YPC": "10.8",
+      "TD": "3"
+    },
+    {
+      "RK": "6",
       "NAME": "Quintrevion Wisner, RB",
       "TEAM": "TEX",
       "RESULT": "W27-17vs.TA&M",
@@ -173,7 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Roman Hemby, RB",
       "TEAM": "IU",
       "RESULT": "W56-3atPUR",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Gavin Garcia, RB",
       "TEAM": "KENT",
       "RESULT": "W35-31atNIU",
@@ -193,7 +203,17 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
+      "NAME": "Caden Creel, QB",
+      "TEAM": "JXST",
+      "RESULT": "W37-34vs.WKU",
+      "CAR": "20",
+      "YDS": "143",
+      "YPC": "7.2",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Kewan Lacy, RB",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
@@ -201,31 +221,21 @@
       "YDS": "143",
       "YPC": "5.3",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Joe Jackson, RB",
-      "TEAM": "KSU",
-      "RESULT": "W24-14vs.COLO",
-      "CAR": "26",
-      "YDS": "142",
-      "YPC": "5.5",
-      "TD": "3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Caden Creel, QB",
-      "TEAM": "JXST",
-      "RESULT": "",
-      "CAR": "16",
-      "YDS": "138",
-      "YPC": "8.6",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Lewis Bond, WR",
+      "TEAM": "BC",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "168",
+      "YPR": "24.0",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Adrian Norton, WR",
       "TEAM": "MRSH",
       "RESULT": "L19-24vs.GASO",
@@ -235,7 +245,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Camden Brown, WR",
       "TEAM": "GASO",
       "RESULT": "W24-19atMRSH",
@@ -245,7 +255,17 @@
       "TD": "2"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Chris Dawn Jr., WR",
+      "TEAM": "TXST",
+      "RESULT": "",
+      "REC": "8",
+      "YDS": "154",
+      "YPR": "19.3",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Vandrevius Jacobs, WR",
       "TEAM": "SC",
       "RESULT": "L14-28vs.CLEM",
@@ -255,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Alex Perry, WR",
       "TEAM": "FIU",
       "RESULT": "W56-16atSHSU",
@@ -265,7 +285,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Jacquon Gibson, WR",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
@@ -275,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Lloyd Avant, RB",
       "TEAM": "CSU",
       "RESULT": "L21-42vs.AF",
@@ -295,17 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
-      "NAME": "Chris Dawn Jr., WR",
-      "TEAM": "TXST",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "134",
-      "YPR": "22.3",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Caleb Douglas, WR",
       "TEAM": "TTU",
       "RESULT": "W49-0atWVU",
@@ -313,16 +323,6 @@
       "YDS": "127",
       "YPR": "25.4",
       "TD": "2"
-    },
-    {
-      "RK": "",
-      "NAME": "Wyatt Young, WR",
-      "TEAM": "UNT",
-      "RESULT": "W52-25vs.TEM",
-      "REC": "6",
-      "YDS": "127",
-      "YPR": "21.2",
-      "TD": "0"
     }
   ]
 }
