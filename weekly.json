@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Ryan Browne, QB",
+      "TEAM": "PUR",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "40",
+      "YDS": "221",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "93.9"
+    },
+    {
+      "RK": "10",
       "NAME": "Dru DeShields, QB",
       "TEAM": "KENT",
       "RESULT": "W35-31atNIU",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "149.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jalon Daniels, QB",
-      "TEAM": "KU",
-      "RESULT": "L21-31vs.UTAH",
-      "COMP": "10",
-      "ATT": "27",
-      "YDS": "187",
-      "TD": "1",
-      "INT": "3",
-      "RAT": "85.2"
     }
   ],
   "Rushing Leaders": [
@@ -194,6 +194,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Quintrevion Wisner, RB",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "122",
+      "YPC": "8.1",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W31-26atBUF",
@@ -201,16 +211,6 @@
       "YDS": "121",
       "YPC": "6.7",
       "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Quintrevion Wisner, RB",
-      "TEAM": "TEX",
-      "RESULT": "",
-      "CAR": "14",
-      "YDS": "121",
-      "YPC": "8.6",
-      "TD": "0"
     },
     {
       "RK": "10",
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Chase Hendricks, WR",
-      "TEAM": "OHIO",
-      "RESULT": "W31-26atBUF",
-      "REC": "5",
-      "YDS": "92",
-      "YPR": "18.4",
-      "TD": "1"
+      "NAME": "Jack Endries, TE",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "93",
+      "YPR": "23.3",
+      "TD": "0"
     }
   ]
 }
