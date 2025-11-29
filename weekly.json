@@ -2,6 +2,18 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "LaNorris Sellers, QB",
+      "TEAM": "SC",
+      "RESULT": "L14-28vs.CLEM",
+      "COMP": "23",
+      "ATT": "42",
+      "YDS": "381",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "137.2"
+    },
+    {
+      "RK": "2",
       "NAME": "Drew Mestemaker, QB",
       "TEAM": "UNT",
       "RESULT": "W52-25vs.TEM",
@@ -13,7 +25,7 @@
       "RAT": "252.7"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Trinidad Chambliss, QB",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
@@ -25,7 +37,7 @@
       "RAT": "195.2"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Max Cutforth, QB",
       "TEAM": "BOIS",
       "RESULT": "W25-24atUSU",
@@ -37,7 +49,7 @@
       "RAT": "125.0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Noah Kim, QB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -49,7 +61,7 @@
       "RAT": "127.0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Jackson Brousseau, QB",
       "TEAM": "CSU",
       "RESULT": "L21-42vs.AF",
@@ -59,18 +71,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "166.8"
-    },
-    {
-      "RK": "6",
-      "NAME": "LaNorris Sellers, QB",
-      "TEAM": "SC",
-      "RESULT": "",
-      "COMP": "18",
-      "ATT": "34",
-      "YDS": "320",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "139.7"
     },
     {
       "RK": "7",
@@ -88,7 +88,7 @@
       "RK": "8",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
-      "RESULT": "",
+      "RESULT": "L24-31vs.HOU",
       "COMP": "23",
       "ATT": "46",
       "YDS": "309",
@@ -98,27 +98,27 @@
     },
     {
       "RK": "9",
-      "NAME": "Noah Fifita, QB",
-      "TEAM": "ARIZ",
-      "RESULT": "W23-7atASU",
-      "COMP": "28",
-      "ATT": "45",
-      "YDS": "286",
-      "TD": "1",
+      "NAME": "JC French IV, QB",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "COMP": "22",
+      "ATT": "33",
+      "YDS": "292",
+      "TD": "2",
       "INT": "0",
-      "RAT": "122.9"
+      "RAT": "161.0"
     },
     {
       "RK": "10",
-      "NAME": "Ta'Quan Roberson, QB",
-      "TEAM": "BUF",
-      "RESULT": "L26-31vs.OHIO",
-      "COMP": "16",
-      "ATT": "27",
-      "YDS": "270",
-      "TD": "2",
+      "NAME": "Keyone Jenkins, QB",
+      "TEAM": "FIU",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "24",
+      "YDS": "291",
+      "TD": "3",
       "INT": "1",
-      "RAT": "160.3"
+      "RAT": "197.3"
     }
   ],
   "Rushing Leaders": [
@@ -226,6 +226,36 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Camden Brown, WR",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "REC": "9",
+      "YDS": "157",
+      "YPR": "17.4",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
+      "NAME": "Vandrevius Jacobs, WR",
+      "TEAM": "SC",
+      "RESULT": "L14-28vs.CLEM",
+      "REC": "7",
+      "YDS": "141",
+      "YPR": "20.1",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
+      "NAME": "Alex Perry, WR",
+      "TEAM": "FIU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "140",
+      "YPR": "20.0",
+      "TD": "2"
+    },
+    {
+      "RK": "4",
       "NAME": "Jacquon Gibson, WR",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
@@ -235,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "5",
       "NAME": "Lloyd Avant, RB",
       "TEAM": "CSU",
       "RESULT": "L21-42vs.AF",
@@ -245,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "6",
       "NAME": "Caleb Douglas, WR",
       "TEAM": "TTU",
       "RESULT": "W49-0atWVU",
@@ -265,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "8",
       "NAME": "Dontae McMillan, RB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -285,43 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "W52-25vs.TEM",
       "REC": "4",
       "YDS": "125",
       "YPR": "31.3",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Alex Perry, WR",
-      "TEAM": "FIU",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "123",
-      "YPR": "20.5",
-      "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Nik McMillan, WR",
-      "TEAM": "BUF",
-      "RESULT": "L26-31vs.OHIO",
-      "REC": "5",
-      "YDS": "122",
-      "YPR": "24.4",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Vandrevius Jacobs, WR",
-      "TEAM": "SC",
-      "RESULT": "",
-      "REC": "5",
-      "YDS": "122",
-      "YPR": "24.4",
       "TD": "1"
     }
   ]
