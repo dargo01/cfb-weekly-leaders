@@ -85,7 +85,19 @@
       "RAT": "122.9"
     },
     {
-      "RK": "8",
+      "RK": "",
+      "NAME": "LaNorris Sellers, QB",
+      "TEAM": "SC",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "28",
+      "YDS": "286",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "159.4"
+    },
+    {
+      "RK": "9",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
@@ -97,28 +109,16 @@
       "RAT": "160.3"
     },
     {
-      "RK": "9",
-      "NAME": "LaNorris Sellers, QB",
-      "TEAM": "SC",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "24",
-      "YDS": "267",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "175.1"
-    },
-    {
       "RK": "10",
       "NAME": "Cade Klubnik, QB",
       "TEAM": "CLEM",
       "RESULT": "",
       "COMP": "23",
-      "ATT": "35",
+      "ATT": "36",
       "YDS": "265",
       "TD": "0",
       "INT": "1",
-      "RAT": "123.6"
+      "RAT": "120.2"
     }
   ],
   "Rushing Leaders": [
@@ -204,22 +204,22 @@
     },
     {
       "RK": "9",
+      "NAME": "Joe Jackson, RB",
+      "TEAM": "KSU",
+      "RESULT": "",
+      "CAR": "25",
+      "YDS": "133",
+      "YPC": "5.3",
+      "TD": "3"
+    },
+    {
+      "RK": "10",
       "NAME": "Parker Navarro, QB",
       "TEAM": "OHIO",
       "RESULT": "W31-26atBUF",
       "CAR": "18",
       "YDS": "121",
       "YPC": "6.7",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sieh Bangura, RB",
-      "TEAM": "OHIO",
-      "RESULT": "W31-26atBUF",
-      "CAR": "22",
-      "YDS": "120",
-      "YPC": "5.5",
       "TD": "1"
     }
   ],
@@ -305,23 +305,23 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "",
+      "NAME": "Vandrevius Jacobs, WR",
+      "TEAM": "SC",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "122",
+      "YPR": "24.4",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Emmanuel Henderson Jr., WR",
       "TEAM": "KU",
       "RESULT": "L21-31vs.UTAH",
       "REC": "3",
       "YDS": "113",
       "YPR": "37.7",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Omarion Miller, WR",
-      "TEAM": "COLO",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "104",
-      "YPR": "17.3",
       "TD": "0"
     }
   ]
