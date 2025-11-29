@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Skyler Locklear, QB",
+      "TEAM": "UTEP",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "33",
+      "YDS": "312",
+      "TD": "4",
+      "INT": "4",
+      "RAT": "149.7"
+    },
+    {
+      "RK": "8",
       "NAME": "Behren Morton, QB",
       "TEAM": "TTU",
       "RESULT": "W49-0atWVU",
@@ -85,7 +97,7 @@
       "RAT": "190.4"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Sawyer Robertson, QB",
       "TEAM": "BAY",
       "RESULT": "L24-31vs.HOU",
@@ -97,28 +109,16 @@
       "RAT": "109.3"
     },
     {
-      "RK": "9",
-      "NAME": "JC French IV, QB",
-      "TEAM": "GASO",
+      "RK": "10",
+      "NAME": "Nick Minicucci, QB",
+      "TEAM": "DEL",
       "RESULT": "",
       "COMP": "23",
       "ATT": "36",
-      "YDS": "303",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "152.9"
-    },
-    {
-      "RK": "10",
-      "NAME": "Keyone Jenkins, QB",
-      "TEAM": "FIU",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "24",
-      "YDS": "291",
+      "YDS": "305",
       "TD": "3",
-      "INT": "1",
-      "RAT": "197.3"
+      "INT": "0",
+      "RAT": "162.6"
     }
   ],
   "Rushing Leaders": [
@@ -214,12 +214,12 @@
     },
     {
       "RK": "10",
-      "NAME": "Marlon Gunn Jr., RB",
-      "TEAM": "ECU",
-      "RESULT": "W42-3atFAU",
-      "CAR": "14",
-      "YDS": "130",
-      "YPC": "9.3",
+      "NAME": "Caden Creel, QB",
+      "TEAM": "JXST",
+      "RESULT": "",
+      "CAR": "15",
+      "YDS": "136",
+      "YPC": "9.1",
       "TD": "1"
     }
   ],
@@ -315,13 +315,13 @@
       "TD": "1"
     },
     {
-      "RK": "10",
-      "NAME": "Marcus Sanders Jr., WR",
-      "TEAM": "GASO",
+      "RK": "",
+      "NAME": "Parker Kingston, WR",
+      "TEAM": "BYU",
       "RESULT": "",
-      "REC": "7",
-      "YDS": "125",
-      "YPR": "17.9",
+      "REC": "6",
+      "YDS": "126",
+      "YPR": "21.0",
       "TD": "1"
     }
   ]
