@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Noah Fifita, QB",
+      "TEAM": "ARIZ",
+      "RESULT": "",
+      "COMP": "24",
+      "ATT": "38",
+      "YDS": "228",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "122.2"
+    },
+    {
+      "RK": "10",
       "NAME": "Grant Jordan, QB",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "0",
       "RAT": "135.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Dru DeShields, QB",
-      "TEAM": "KENT",
-      "RESULT": "W35-31atNIU",
-      "COMP": "11",
-      "ATT": "22",
-      "YDS": "207",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "149.9"
     }
   ],
   "Rushing Leaders": [
