@@ -101,12 +101,12 @@
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "",
-      "COMP": "22",
-      "ATT": "33",
-      "YDS": "292",
+      "COMP": "23",
+      "ATT": "36",
+      "YDS": "303",
       "TD": "2",
       "INT": "0",
-      "RAT": "161.0"
+      "RAT": "152.9"
     },
     {
       "RK": "10",
@@ -316,12 +316,12 @@
     },
     {
       "RK": "10",
-      "NAME": "Cameron Dorner, WR",
-      "TEAM": "UNT",
-      "RESULT": "W52-25vs.TEM",
-      "REC": "4",
+      "NAME": "Marcus Sanders Jr., WR",
+      "TEAM": "GASO",
+      "RESULT": "",
+      "REC": "7",
       "YDS": "125",
-      "YPR": "31.3",
+      "YPR": "17.9",
       "TD": "1"
     }
   ]
