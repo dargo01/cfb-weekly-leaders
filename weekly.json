@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Behren Morton, QB",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "30",
+      "YDS": "250",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "179.7"
+    },
+    {
+      "RK": "10",
       "NAME": "Ryan Browne, QB",
       "TEAM": "PUR",
       "RESULT": "L3-56vs.IU",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "1",
       "RAT": "91.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Katin Houser, QB",
-      "TEAM": "ECU",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "18",
-      "YDS": "224",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "219.0"
     }
   ],
   "Rushing Leaders": [
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Terrance Carter Jr., TE",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "98",
+      "YPR": "9.8",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
       "NAME": "Larry Simmons, WR",
       "TEAM": "UTAH",
       "RESULT": "W31-21atKU",
@@ -305,7 +315,7 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Vandrevius Jacobs, WR",
       "TEAM": "SC",
       "RESULT": "",
@@ -313,16 +323,6 @@
       "YDS": "96",
       "YPR": "32.0",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kris Hutson, WR",
-      "TEAM": "ARIZ",
-      "RESULT": "W23-7atASU",
-      "REC": "7",
-      "YDS": "95",
-      "YPR": "13.6",
-      "TD": "0"
     }
   ]
 }
