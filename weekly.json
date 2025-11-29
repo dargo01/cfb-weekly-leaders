@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Nick Minicucci, QB",
-      "TEAM": "DEL",
-      "RESULT": "W61-31vs.UTEP",
-      "COMP": "24",
-      "ATT": "38",
+      "NAME": "Aidan Armenta, QB",
+      "TEAM": "ULM",
+      "RESULT": "L27-30atUL",
+      "COMP": "19",
+      "ATT": "31",
       "YDS": "311",
       "TD": "3",
       "INT": "0",
-      "RAT": "158.0"
+      "RAT": "177.5"
     }
   ],
   "Rushing Leaders": [
@@ -134,6 +134,26 @@
     },
     {
       "RK": "2",
+      "NAME": "Evan Dickens, RB",
+      "TEAM": "LIB",
+      "RESULT": "",
+      "CAR": "31",
+      "YDS": "203",
+      "YPC": "6.5",
+      "TD": "3"
+    },
+    {
+      "RK": "3",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "CAR": "27",
+      "YDS": "188",
+      "YPC": "7.0",
+      "TD": "1"
+    },
+    {
+      "RK": "4",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W52-25vs.TEM",
@@ -143,7 +163,7 @@
       "TD": "4"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "L31-35vs.KENT",
@@ -153,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "L19-38vs.MISS",
@@ -163,7 +183,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Trey Kukuk, QB",
       "TEAM": "LT",
       "RESULT": "W42-30atMOST",
@@ -173,17 +193,17 @@
       "TD": "3"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Kaytron Allen, RB",
       "TEAM": "PSU",
       "RESULT": "",
-      "CAR": "17",
-      "YDS": "170",
-      "YPC": "10.0",
+      "CAR": "18",
+      "YDS": "168",
+      "YPC": "9.3",
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Quintrevion Wisner, RB",
       "TEAM": "TEX",
       "RESULT": "W27-17vs.TA&M",
@@ -193,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Roman Hemby, RB",
       "TEAM": "IU",
       "RESULT": "W56-3atPUR",
@@ -201,48 +221,28 @@
       "YDS": "152",
       "YPC": "12.7",
       "TD": "1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Gavin Garcia, RB",
-      "TEAM": "KENT",
-      "RESULT": "W35-31atNIU",
-      "CAR": "24",
-      "YDS": "151",
-      "YPC": "6.3",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Antwan Raymond, RB",
-      "TEAM": "RUTG",
-      "RESULT": "",
-      "CAR": "22",
-      "YDS": "146",
-      "YPC": "6.6",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "TK King, WR",
+      "TEAM": "NMSU",
+      "RESULT": "",
+      "REC": "10",
+      "YDS": "178",
+      "YPR": "17.8",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
       "NAME": "Lewis Bond, WR",
       "TEAM": "BC",
-      "RESULT": "",
+      "RESULT": "W34-12atSYR",
       "REC": "8",
       "YDS": "171",
       "YPR": "21.4",
       "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "TK King, WR",
-      "TEAM": "NMSU",
-      "RESULT": "",
-      "REC": "9",
-      "YDS": "171",
-      "YPR": "19.0",
-      "TD": "2"
     },
     {
       "RK": "3",
@@ -268,7 +268,7 @@
       "RK": "5",
       "NAME": "Chris Dawn Jr., WR",
       "TEAM": "TXST",
-      "RESULT": "",
+      "RESULT": "W49-26vs.USA",
       "REC": "8",
       "YDS": "154",
       "YPR": "19.3",
