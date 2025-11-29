@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Jaylen Raynor, QB",
+      "TEAM": "ARST",
+      "RESULT": "W30-29atAPP",
+      "COMP": "32",
+      "ATT": "47",
+      "YDS": "363",
+      "TD": "3",
+      "INT": "1",
+      "RAT": "149.8"
+    },
+    {
+      "RK": "4",
       "NAME": "Trinidad Chambliss, QB",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
@@ -37,7 +49,7 @@
       "RAT": "195.2"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Max Cutforth, QB",
       "TEAM": "BOIS",
       "RESULT": "W25-24atUSU",
@@ -49,7 +61,7 @@
       "RAT": "125.0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Skyler Locklear, QB",
       "TEAM": "UTEP",
       "RESULT": "L31-61atDEL",
@@ -61,7 +73,7 @@
       "RAT": "134.0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Noah Kim, QB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -73,7 +85,7 @@
       "RAT": "127.0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Jackson Brousseau, QB",
       "TEAM": "CSU",
       "RESULT": "L21-42vs.AF",
@@ -85,7 +97,7 @@
       "RAT": "166.8"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "JC French IV, QB",
       "TEAM": "GASO",
       "RESULT": "W24-19atMRSH",
@@ -97,7 +109,7 @@
       "RAT": "153.8"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "W61-31vs.UTEP",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "158.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Behren Morton, QB",
-      "TEAM": "TTU",
-      "RESULT": "W49-0atWVU",
-      "COMP": "25",
-      "ATT": "32",
-      "YDS": "310",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "190.4"
     }
   ],
   "Rushing Leaders": [
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Kaytron Allen, RB",
+      "TEAM": "PSU",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "170",
+      "YPC": "10.0",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Quintrevion Wisner, RB",
       "TEAM": "TEX",
       "RESULT": "W27-17vs.TA&M",
@@ -183,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Roman Hemby, RB",
       "TEAM": "IU",
       "RESULT": "W56-3atPUR",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Gavin Garcia, RB",
       "TEAM": "KENT",
       "RESULT": "W35-31atNIU",
@@ -203,23 +213,13 @@
       "TD": "1"
     },
     {
-      "RK": "9",
-      "NAME": "Caden Creel, QB",
-      "TEAM": "JXST",
-      "RESULT": "W37-34vs.WKU",
-      "CAR": "20",
-      "YDS": "143",
-      "YPC": "7.2",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Kewan Lacy, RB",
-      "TEAM": "MISS",
-      "RESULT": "W38-19atMSST",
-      "CAR": "27",
-      "YDS": "143",
-      "YPC": "5.3",
+      "RK": "10",
+      "NAME": "Antwan Raymond, RB",
+      "TEAM": "RUTG",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "146",
+      "YPC": "6.6",
       "TD": "1"
     }
   ],
@@ -229,19 +229,19 @@
       "NAME": "Lewis Bond, WR",
       "TEAM": "BC",
       "RESULT": "",
-      "REC": "7",
-      "YDS": "168",
-      "YPR": "24.0",
+      "REC": "8",
+      "YDS": "171",
+      "YPR": "21.4",
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "",
       "NAME": "TK King, WR",
       "TEAM": "NMSU",
       "RESULT": "",
-      "REC": "8",
-      "YDS": "162",
-      "YPR": "20.3",
+      "REC": "9",
+      "YDS": "171",
+      "YPR": "19.0",
       "TD": "2"
     },
     {
