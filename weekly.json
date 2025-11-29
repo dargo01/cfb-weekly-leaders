@@ -105,20 +105,20 @@
       "ATT": "24",
       "YDS": "267",
       "TD": "2",
-      "INT": "0",
-      "RAT": "183.5"
+      "INT": "1",
+      "RAT": "175.1"
     },
     {
       "RK": "10",
-      "NAME": "Katin Houser, QB",
-      "TEAM": "ECU",
+      "NAME": "Cade Klubnik, QB",
+      "TEAM": "CLEM",
       "RESULT": "",
-      "COMP": "20",
-      "ATT": "29",
-      "YDS": "258",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "166.5"
+      "COMP": "23",
+      "ATT": "35",
+      "YDS": "265",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "123.6"
     }
   ],
   "Rushing Leaders": [
@@ -316,13 +316,13 @@
     },
     {
       "RK": "10",
-      "NAME": "Nyck Harbor, WR",
-      "TEAM": "SC",
+      "NAME": "Omarion Miller, WR",
+      "TEAM": "COLO",
       "RESULT": "",
-      "REC": "5",
-      "YDS": "103",
-      "YPR": "20.6",
-      "TD": "1"
+      "REC": "6",
+      "YDS": "104",
+      "YPR": "17.3",
+      "TD": "0"
     }
   ]
 }
