@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Roman Hemby, RB",
+      "TEAM": "IU",
+      "RESULT": "",
+      "CAR": "12",
+      "YDS": "152",
+      "YPC": "12.7",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Gavin Garcia, RB",
       "TEAM": "KENT",
       "RESULT": "W35-31atNIU",
@@ -173,23 +183,13 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Kewan Lacy, RB",
       "TEAM": "MISS",
       "RESULT": "W38-19atMSST",
       "CAR": "27",
       "YDS": "143",
       "YPC": "5.3",
-      "TD": "1"
-    },
-    {
-      "RK": "7",
-      "NAME": "Roman Hemby, RB",
-      "TEAM": "IU",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "130",
-      "YPC": "14.4",
       "TD": "1"
     },
     {
@@ -203,23 +203,23 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "",
+      "NAME": "Quintrevion Wisner, RB",
+      "TEAM": "TEX",
+      "RESULT": "",
+      "CAR": "14",
+      "YDS": "121",
+      "YPC": "8.6",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W31-26atBUF",
       "CAR": "22",
       "YDS": "120",
       "YPC": "5.5",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Dylan Riley, RB",
-      "TEAM": "BOIS",
-      "RESULT": "W25-24atUSU",
-      "CAR": "25",
-      "YDS": "120",
-      "YPC": "4.8",
       "TD": "1"
     }
   ],
