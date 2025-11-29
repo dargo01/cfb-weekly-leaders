@@ -62,9 +62,21 @@
     },
     {
       "RK": "6",
+      "NAME": "LaNorris Sellers, QB",
+      "TEAM": "SC",
+      "RESULT": "",
+      "COMP": "18",
+      "ATT": "34",
+      "YDS": "320",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "139.7"
+    },
+    {
+      "RK": "7",
       "NAME": "Behren Morton, QB",
       "TEAM": "TTU",
-      "RESULT": "",
+      "RESULT": "W49-0atWVU",
       "COMP": "25",
       "ATT": "32",
       "YDS": "310",
@@ -73,7 +85,19 @@
       "RAT": "190.4"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Sawyer Robertson, QB",
+      "TEAM": "BAY",
+      "RESULT": "",
+      "COMP": "23",
+      "ATT": "46",
+      "YDS": "309",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "109.3"
+    },
+    {
+      "RK": "9",
       "NAME": "Noah Fifita, QB",
       "TEAM": "ARIZ",
       "RESULT": "W23-7atASU",
@@ -85,19 +109,7 @@
       "RAT": "122.9"
     },
     {
-      "RK": "",
-      "NAME": "LaNorris Sellers, QB",
-      "TEAM": "SC",
-      "RESULT": "",
-      "COMP": "16",
-      "ATT": "28",
-      "YDS": "286",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "159.4"
-    },
-    {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Ta'Quan Roberson, QB",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
@@ -107,18 +119,6 @@
       "TD": "2",
       "INT": "1",
       "RAT": "160.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cade Klubnik, QB",
-      "TEAM": "CLEM",
-      "RESULT": "",
-      "COMP": "23",
-      "ATT": "36",
-      "YDS": "265",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "120.2"
     }
   ],
   "Rushing Leaders": [
@@ -206,20 +206,20 @@
       "RK": "9",
       "NAME": "Joe Jackson, RB",
       "TEAM": "KSU",
-      "RESULT": "",
-      "CAR": "25",
-      "YDS": "133",
-      "YPC": "5.3",
+      "RESULT": "W24-14vs.COLO",
+      "CAR": "26",
+      "YDS": "142",
+      "YPC": "5.5",
       "TD": "3"
     },
     {
       "RK": "10",
-      "NAME": "Parker Navarro, QB",
-      "TEAM": "OHIO",
-      "RESULT": "W31-26atBUF",
-      "CAR": "18",
-      "YDS": "121",
-      "YPC": "6.7",
+      "NAME": "Marlon Gunn Jr., RB",
+      "TEAM": "ECU",
+      "RESULT": "W42-3atFAU",
+      "CAR": "14",
+      "YDS": "130",
+      "YPC": "9.3",
       "TD": "1"
     }
   ],
@@ -248,7 +248,7 @@
       "RK": "3",
       "NAME": "Caleb Douglas, WR",
       "TEAM": "TTU",
-      "RESULT": "",
+      "RESULT": "W49-0atWVU",
       "REC": "5",
       "YDS": "127",
       "YPR": "25.4",
@@ -275,7 +275,17 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "",
+      "NAME": "Malachi Toney, WR",
+      "TEAM": "MIA",
+      "RESULT": "W38-7atPITT",
+      "REC": "13",
+      "YDS": "126",
+      "YPR": "9.7",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "W52-25vs.TEM",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Alex Perry, WR",
       "TEAM": "FIU",
       "RESULT": "",
@@ -295,7 +305,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Nik McMillan, WR",
       "TEAM": "BUF",
       "RESULT": "L26-31vs.OHIO",
@@ -313,16 +323,6 @@
       "YDS": "122",
       "YPR": "24.4",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Emmanuel Henderson Jr., WR",
-      "TEAM": "KU",
-      "RESULT": "L21-31vs.UTAH",
-      "REC": "3",
-      "YDS": "113",
-      "YPR": "37.7",
-      "TD": "0"
     }
   ]
 }
