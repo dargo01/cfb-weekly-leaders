@@ -110,15 +110,15 @@
     },
     {
       "RK": "10",
-      "NAME": "Noah Kim, QB",
-      "TEAM": "EMU",
-      "RESULT": "L21-31vs.WMU",
-      "COMP": "24",
-      "ATT": "41",
-      "YDS": "327",
-      "TD": "2",
-      "INT": "3",
-      "RAT": "127.0"
+      "NAME": "Jaron-Keawe Sagapolutele, QB",
+      "TEAM": "CAL",
+      "RESULT": "W38-35vs.SMU",
+      "COMP": "31",
+      "ATT": "40",
+      "YDS": "330",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "179.8"
     }
   ],
   "Rushing Leaders": [
@@ -278,7 +278,7 @@
       "RK": "6",
       "NAME": "Malcolm Simmons, WR",
       "TEAM": "AUB",
-      "RESULT": "",
+      "RESULT": "L20-27vs.ALA",
       "REC": "3",
       "YDS": "143",
       "YPR": "47.7",
