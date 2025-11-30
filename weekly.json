@@ -4,7 +4,7 @@
       "RK": "1",
       "NAME": "Malik Washington, QB",
       "TEAM": "MD",
-      "RESULT": "",
+      "RESULT": "L28-38atMSU",
       "COMP": "38",
       "ATT": "61",
       "YDS": "459",
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Malcolm Simmons, WR",
+      "TEAM": "AUB",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "143",
+      "YPR": "47.7",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Vandrevius Jacobs, WR",
       "TEAM": "SC",
       "RESULT": "L14-28vs.CLEM",
@@ -285,7 +295,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Alex Perry, WR",
       "TEAM": "FIU",
       "RESULT": "W56-16atSHSU",
@@ -295,33 +305,23 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Shaleak Knotts, WR",
       "TEAM": "MD",
-      "RESULT": "",
+      "RESULT": "L28-38atMSU",
       "REC": "8",
       "YDS": "139",
       "YPR": "17.4",
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jacquon Gibson, WR",
       "TEAM": "MASS",
       "RESULT": "L14-45vs.BGSU",
       "REC": "10",
       "YDS": "138",
       "YPR": "13.8",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Lloyd Avant, RB",
-      "TEAM": "CSU",
-      "RESULT": "L21-42vs.AF",
-      "REC": "8",
-      "YDS": "135",
-      "YPR": "16.9",
       "TD": "0"
     }
   ]
