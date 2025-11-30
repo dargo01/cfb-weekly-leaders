@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Robby Ashford, QB",
+      "TEAM": "WAKE",
+      "RESULT": "L32-49atDUKE",
+      "COMP": "27",
+      "ATT": "43",
+      "YDS": "342",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "140.3"
+    },
+    {
+      "RK": "6",
       "NAME": "Max Cutforth, QB",
       "TEAM": "BOIS",
       "RESULT": "W25-24atUSU",
@@ -61,10 +73,10 @@
       "RAT": "125.0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Athan Kaliakmanis, QB",
       "TEAM": "RUTG",
-      "RESULT": "",
+      "RESULT": "L36-40vs.PSU",
       "COMP": "16",
       "ATT": "22",
       "YDS": "338",
@@ -78,14 +90,14 @@
       "TEAM": "UTEP",
       "RESULT": "L31-61atDEL",
       "COMP": "22",
-      "ATT": "40",
+      "ATT": "39",
       "YDS": "338",
       "TD": "4",
       "INT": "5",
-      "RAT": "134.0"
+      "RAT": "137.4"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Noah Kim, QB",
       "TEAM": "EMU",
       "RESULT": "L21-31vs.WMU",
@@ -97,7 +109,7 @@
       "RAT": "127.0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jackson Brousseau, QB",
       "TEAM": "CSU",
       "RESULT": "L21-42vs.AF",
@@ -107,43 +119,41 @@
       "TD": "2",
       "INT": "0",
       "RAT": "166.8"
-    },
-    {
-      "RK": "10",
-      "NAME": "Robby Ashford, QB",
-      "TEAM": "WAKE",
-      "RESULT": "",
-      "COMP": "26",
-      "ATT": "41",
-      "YDS": "322",
-      "TD": "2",
-      "INT": "1",
-      "RAT": "140.6"
     }
   ],
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Evan Dickens, RB",
+      "TEAM": "LIB",
+      "RESULT": "L42-48vs.KENN",
+      "CAR": "43",
+      "YDS": "267",
+      "YPC": "6.2",
+      "TD": "4"
+    },
+    {
+      "RK": "2",
+      "NAME": "Jadan Baugh, RB",
+      "TEAM": "FLA",
+      "RESULT": "W40-21vs.FSU",
+      "CAR": "38",
+      "YDS": "266",
+      "YPC": "7.0",
+      "TD": "2"
+    },
+    {
+      "RK": "3",
       "NAME": "Kaytron Allen, RB",
       "TEAM": "PSU",
-      "RESULT": "",
+      "RESULT": "W40-36atRUTG",
       "CAR": "22",
       "YDS": "226",
       "YPC": "10.3",
       "TD": "1"
     },
     {
-      "RK": "2",
-      "NAME": "Evan Dickens, RB",
-      "TEAM": "LIB",
-      "RESULT": "",
-      "CAR": "36",
-      "YDS": "219",
-      "YPC": "6.1",
-      "TD": "3"
-    },
-    {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Emmett Johnson, RB",
       "TEAM": "NEB",
       "RESULT": "L16-40vs.IOWA",
@@ -153,17 +163,17 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Antwan Raymond, RB",
       "TEAM": "RUTG",
-      "RESULT": "",
+      "RESULT": "L36-40vs.PSU",
       "CAR": "29",
       "YDS": "189",
       "YPC": "6.5",
       "TD": "1"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Caleb Hawkins, RB",
       "TEAM": "UNT",
       "RESULT": "W52-25vs.TEM",
@@ -173,7 +183,7 @@
       "TD": "4"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Chavon Wright, RB",
       "TEAM": "NIU",
       "RESULT": "L31-35vs.KENT",
@@ -183,7 +193,17 @@
       "TD": "2"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Jeremy Payne, RB",
+      "TEAM": "TCU",
+      "RESULT": "W45-23vs.CIN",
+      "CAR": "26",
+      "YDS": "174",
+      "YPC": "6.7",
+      "TD": "2"
+    },
+    {
+      "RK": "9",
       "NAME": "Kamario Taylor, QB",
       "TEAM": "MSST",
       "RESULT": "L19-38vs.MISS",
@@ -193,7 +213,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Trey Kukuk, QB",
       "TEAM": "LT",
       "RESULT": "W42-30atMOST",
@@ -201,26 +221,6 @@
       "YDS": "172",
       "YPC": "10.8",
       "TD": "3"
-    },
-    {
-      "RK": "9",
-      "NAME": "Diego Pavia, QB",
-      "TEAM": "VAN",
-      "RESULT": "",
-      "CAR": "19",
-      "YDS": "159",
-      "YPC": "8.4",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Ahmad Hardy, RB",
-      "TEAM": "MIZ",
-      "RESULT": "W31-17atARK",
-      "CAR": "27",
-      "YDS": "157",
-      "YPC": "5.8",
-      "TD": "1"
     }
   ],
   "Receiving Leaders": [
