@@ -14,18 +14,6 @@
     },
     {
       "RK": "2",
-      "NAME": "Maddux Madsen, QB",
-      "TEAM": "BOIS",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "18",
-      "YDS": "207",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "218.3"
-    },
-    {
-      "RK": "3",
       "NAME": "Goose Crowder, QB",
       "TEAM": "TROY",
       "RESULT": "",
@@ -35,6 +23,18 @@
       "TD": "0",
       "INT": "0",
       "RAT": "92.5"
+    },
+    {
+      "RK": "3",
+      "NAME": "Maddux Madsen, QB",
+      "TEAM": "BOIS",
+      "RESULT": "",
+      "COMP": "11",
+      "ATT": "17",
+      "YDS": "186",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "214.8"
     },
     {
       "RK": "4",
@@ -66,11 +66,11 @@
       "TEAM": "JXST",
       "RESULT": "",
       "COMP": "12",
-      "ATT": "19",
+      "ATT": "18",
       "YDS": "96",
       "TD": "0",
       "INT": "1",
-      "RAT": "95.1"
+      "RAT": "100.3"
     },
     {
       "RK": "7",
@@ -90,11 +90,11 @@
       "TEAM": "TULN",
       "RESULT": "",
       "COMP": "7",
-      "ATT": "14",
+      "ATT": "13",
       "YDS": "89",
       "TD": "0",
       "INT": "0",
-      "RAT": "103.4"
+      "RAT": "111.4"
     }
   ],
   "Rushing Leaders": [
@@ -103,8 +103,8 @@
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "154",
+      "CAR": "17",
+      "YDS": "147",
       "YPC": "8.6",
       "TD": "1"
     },
@@ -113,9 +113,9 @@
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "112",
-      "YPC": "6.2",
+      "CAR": "17",
+      "YDS": "122",
+      "YPC": "7.2",
       "TD": "1"
     },
     {
@@ -123,9 +123,9 @@
       "NAME": "Jamauri McClure, RB",
       "TEAM": "TULN",
       "RESULT": "",
-      "CAR": "14",
-      "YDS": "95",
-      "YPC": "6.8",
+      "CAR": "13",
+      "YDS": "90",
+      "YPC": "6.9",
       "TD": "1"
     },
     {
@@ -193,8 +193,8 @@
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "",
-      "CAR": "12",
-      "YDS": "39",
+      "CAR": "10",
+      "YDS": "33",
       "YPC": "3.3",
       "TD": "2"
     }
@@ -232,16 +232,6 @@
     },
     {
       "RK": "4",
-      "NAME": "Malik Sherrod, RB",
-      "TEAM": "BOIS",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "60",
-      "YPR": "30.0",
-      "TD": "1"
-    },
-    {
-      "RK": "5",
       "NAME": "Deondre Johnson, WR",
       "TEAM": "JXST",
       "RESULT": "",
@@ -251,7 +241,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "5",
       "NAME": "DJ Epps, WR",
       "TEAM": "TROY",
       "RESULT": "",
@@ -261,7 +251,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "6",
       "NAME": "Coleman Bennett, RB",
       "TEAM": "KENN",
       "RESULT": "",
@@ -281,7 +271,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "8",
       "NAME": "Tray Taylor, WR",
       "TEAM": "TROY",
       "RESULT": "",
@@ -291,7 +281,7 @@
       "TD": "0"
     },
     {
-      "RK": "10",
+      "RK": "9",
       "NAME": "Tre Williams III, TE",
       "TEAM": "UNT",
       "RESULT": "",
@@ -299,6 +289,16 @@
       "YDS": "32",
       "YPR": "16.0",
       "TD": "1"
+    },
+    {
+      "RK": "10",
+      "NAME": "Daejon Reynolds, WR",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "REC": "2",
+      "YDS": "31",
+      "YPR": "15.5",
+      "TD": "0"
     }
   ]
 }
