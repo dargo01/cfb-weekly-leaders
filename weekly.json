@@ -90,11 +90,11 @@
       "TEAM": "TULN",
       "RESULT": "",
       "COMP": "7",
-      "ATT": "13",
+      "ATT": "14",
       "YDS": "89",
       "TD": "0",
       "INT": "0",
-      "RAT": "111.4"
+      "RAT": "103.4"
     }
   ],
   "Rushing Leaders": [
@@ -103,8 +103,8 @@
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "",
-      "CAR": "17",
-      "YDS": "147",
+      "CAR": "18",
+      "YDS": "154",
       "YPC": "8.6",
       "TD": "1"
     },
@@ -123,9 +123,9 @@
       "NAME": "Jamauri McClure, RB",
       "TEAM": "TULN",
       "RESULT": "",
-      "CAR": "13",
+      "CAR": "14",
       "YDS": "90",
-      "YPC": "6.9",
+      "YPC": "6.4",
       "TD": "1"
     },
     {
@@ -193,9 +193,9 @@
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "",
-      "CAR": "10",
-      "YDS": "33",
-      "YPC": "3.3",
+      "CAR": "11",
+      "YDS": "34",
+      "YPC": "3.1",
       "TD": "2"
     }
   ],
