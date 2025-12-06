@@ -98,15 +98,27 @@
     },
     {
       "RK": "9",
-      "NAME": "Tucker Kilcrease, QB",
-      "TEAM": "TROY",
-      "RESULT": "L14-31atJMU",
-      "COMP": "1",
-      "ATT": "5",
-      "YDS": "7",
+      "NAME": "Thomas Gotkowski, QB",
+      "TEAM": "M-OH",
+      "RESULT": "",
+      "COMP": "3",
+      "ATT": "3",
+      "YDS": "50",
       "TD": "0",
       "INT": "0",
-      "RAT": "31.8"
+      "RAT": "240.0"
+    },
+    {
+      "RK": "10",
+      "NAME": "Bear Bachmeier, QB",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "COMP": "4",
+      "ATT": "6",
+      "YDS": "39",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "121.3"
     }
   ],
   "Rushing Leaders": [
@@ -162,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Jalen Buckley, RB",
+      "TEAM": "WMU",
+      "RESULT": "",
+      "CAR": "2",
+      "YDS": "81",
+      "YPC": "40.5",
+      "TD": "1"
+    },
+    {
+      "RK": "7",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
@@ -171,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Dylan Riley, RB",
       "TEAM": "BOIS",
       "RESULT": "W38-21vs.UNLV",
@@ -181,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "L21-38atBOIS",
@@ -191,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Sire Gaines, RB",
       "TEAM": "BOIS",
       "RESULT": "W38-21vs.UNLV",
@@ -199,16 +221,6 @@
       "YDS": "64",
       "YPC": "7.1",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Keyvone Lee, RB",
-      "TEAM": "UNLV",
-      "RESULT": "L21-38atBOIS",
-      "CAR": "7",
-      "YDS": "58",
-      "YPC": "8.3",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
@@ -304,12 +316,12 @@
     },
     {
       "RK": "10",
-      "NAME": "DJ Epps, WR",
-      "TEAM": "TROY",
-      "RESULT": "L14-31atJMU",
-      "REC": "4",
+      "NAME": "Kam Perry, WR",
+      "TEAM": "M-OH",
+      "RESULT": "",
+      "REC": "2",
       "YDS": "50",
-      "YPR": "12.5",
+      "YPR": "25.0",
       "TD": "0"
     }
   ]
