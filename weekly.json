@@ -65,12 +65,12 @@
       "NAME": "Behren Morton, QB",
       "TEAM": "TTU",
       "RESULT": "",
-      "COMP": "16",
-      "ATT": "27",
-      "YDS": "180",
+      "COMP": "17",
+      "ATT": "29",
+      "YDS": "178",
       "TD": "1",
       "INT": "0",
-      "RAT": "127.5"
+      "RAT": "121.6"
     },
     {
       "RK": "7",
@@ -98,6 +98,18 @@
     },
     {
       "RK": "9",
+      "NAME": "Bear Bachmeier, QB",
+      "TEAM": "BYU",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "22",
+      "YDS": "97",
+      "TD": "0",
+      "INT": "1",
+      "RAT": "91.6"
+    },
+    {
+      "RK": "10",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "1",
       "RAT": "86.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Alonza Barnett III, QB",
-      "TEAM": "JMU",
-      "RESULT": "W31-14vs.TROY",
-      "COMP": "10",
-      "ATT": "25",
-      "YDS": "93",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "76.4"
     }
   ],
   "Rushing Leaders": [
@@ -137,9 +137,9 @@
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "",
-      "CAR": "10",
-      "YDS": "161",
-      "YPC": "16.1",
+      "CAR": "13",
+      "YDS": "175",
+      "YPC": "13.5",
       "TD": "2"
     },
     {
@@ -204,22 +204,22 @@
     },
     {
       "RK": "9",
+      "NAME": "J'Koby Williams, RB",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "67",
+      "YPC": "6.1",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "L21-38atBOIS",
       "CAR": "12",
       "YDS": "66",
       "YPC": "5.5",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Sire Gaines, RB",
-      "TEAM": "BOIS",
-      "RESULT": "W38-21vs.UNLV",
-      "CAR": "9",
-      "YDS": "64",
-      "YPC": "7.1",
       "TD": "1"
     }
   ],
