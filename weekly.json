@@ -77,15 +77,15 @@
       "NAME": "Behren Morton, QB",
       "TEAM": "TTU",
       "RESULT": "",
-      "COMP": "8",
-      "ATT": "12",
-      "YDS": "96",
-      "TD": "0",
+      "COMP": "11",
+      "ATT": "17",
+      "YDS": "138",
+      "TD": "1",
       "INT": "0",
-      "RAT": "133.9"
+      "RAT": "152.3"
     },
     {
-      "RK": "",
+      "RK": "8",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
@@ -113,12 +113,12 @@
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "",
-      "COMP": "3",
-      "ATT": "4",
-      "YDS": "50",
+      "COMP": "5",
+      "ATT": "7",
+      "YDS": "76",
       "TD": "0",
       "INT": "0",
-      "RAT": "180.0"
+      "RAT": "162.6"
     }
   ],
   "Rushing Leaders": [
@@ -157,9 +157,9 @@
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "",
-      "CAR": "5",
-      "YDS": "88",
-      "YPC": "17.6",
+      "CAR": "6",
+      "YDS": "91",
+      "YPC": "15.2",
       "TD": "1"
     },
     {
@@ -279,9 +279,9 @@
       "NAME": "Reggie Virgil, WR",
       "TEAM": "TTU",
       "RESULT": "",
-      "REC": "4",
-      "YDS": "66",
-      "YPR": "16.5",
+      "REC": "5",
+      "YDS": "68",
+      "YPR": "13.6",
       "TD": "0"
     },
     {
