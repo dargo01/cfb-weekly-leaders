@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Ty Simpson, QB",
+      "TEAM": "ALA",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "25",
+      "YDS": "142",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "108.9"
+    },
+    {
+      "RK": "9",
       "NAME": "Gunner Stockton, QB",
       "TEAM": "UGA",
       "RESULT": "",
@@ -97,7 +109,7 @@
       "RAT": "150.5"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Bear Bachmeier, QB",
       "TEAM": "BYU",
       "RESULT": "L7-34atTTU",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "2",
       "RAT": "80.2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Broc Lowry, QB",
-      "TEAM": "WMU",
-      "RESULT": "W23-13vs.M-OH",
-      "COMP": "8",
-      "ATT": "13",
-      "YDS": "111",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "133.3"
     }
   ],
   "Rushing Leaders": [
