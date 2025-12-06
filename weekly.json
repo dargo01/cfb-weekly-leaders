@@ -6,11 +6,11 @@
       "TEAM": "BOIS",
       "RESULT": "",
       "COMP": "16",
-      "ATT": "27",
+      "ATT": "28",
       "YDS": "272",
       "TD": "3",
       "INT": "0",
-      "RAT": "180.5"
+      "RAT": "174.1"
     },
     {
       "RK": "2",
@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "16",
+      "ATT": "27",
+      "YDS": "214",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "135.5"
+    },
+    {
+      "RK": "4",
       "NAME": "Goose Crowder, QB",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -35,18 +47,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "92.5"
-    },
-    {
-      "RK": "4",
-      "NAME": "Drew Mestemaker, QB",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "25",
-      "YDS": "171",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "123.9"
     },
     {
       "RK": "5",
@@ -185,9 +185,9 @@
       "NAME": "Dylan Riley, RB",
       "TEAM": "BOIS",
       "RESULT": "",
-      "CAR": "17",
-      "YDS": "67",
-      "YPC": "3.9",
+      "CAR": "18",
+      "YDS": "69",
+      "YPC": "3.8",
       "TD": "0"
     },
     {
@@ -284,32 +284,32 @@
     },
     {
       "RK": "8",
+      "NAME": "Cameron Dorner, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "56",
+      "YPR": "11.2",
+      "TD": "0"
+    },
+    {
+      "RK": "9",
+      "NAME": "Tre Williams III, TE",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "52",
+      "YPR": "13.0",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "DJ Epps, WR",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
       "REC": "4",
       "YDS": "50",
       "YPR": "12.5",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "JoJo Earle, WR",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "45",
-      "YPR": "22.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Coleman Bennett, RB",
-      "TEAM": "KENN",
-      "RESULT": "W19-15atJXST",
-      "REC": "7",
-      "YDS": "42",
-      "YPR": "6.0",
       "TD": "0"
     }
   ]
