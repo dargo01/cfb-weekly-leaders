@@ -77,15 +77,27 @@
       "NAME": "Behren Morton, QB",
       "TEAM": "TTU",
       "RESULT": "",
-      "COMP": "11",
-      "ATT": "17",
-      "YDS": "138",
+      "COMP": "12",
+      "ATT": "20",
+      "YDS": "142",
       "TD": "1",
       "INT": "0",
-      "RAT": "152.3"
+      "RAT": "136.1"
     },
     {
       "RK": "8",
+      "NAME": "Broc Lowry, QB",
+      "TEAM": "WMU",
+      "RESULT": "",
+      "COMP": "7",
+      "ATT": "10",
+      "YDS": "100",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "154.0"
+    },
+    {
+      "RK": "9",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
@@ -97,7 +109,7 @@
       "RAT": "86.0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Alonza Barnett III, QB",
       "TEAM": "JMU",
       "RESULT": "W31-14vs.TROY",
@@ -107,18 +119,6 @@
       "TD": "1",
       "INT": "1",
       "RAT": "76.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Broc Lowry, QB",
-      "TEAM": "WMU",
-      "RESULT": "",
-      "COMP": "5",
-      "ATT": "7",
-      "YDS": "76",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "162.6"
     }
   ],
   "Rushing Leaders": [
@@ -157,9 +157,9 @@
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "",
-      "CAR": "6",
-      "YDS": "91",
-      "YPC": "15.2",
+      "CAR": "7",
+      "YDS": "95",
+      "YPC": "13.6",
       "TD": "1"
     },
     {
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Kam Perry, WR",
+      "TEAM": "M-OH",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "73",
+      "YPR": "18.3",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Reggie Virgil, WR",
       "TEAM": "TTU",
       "RESULT": "",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Cameron Bates, WR",
       "TEAM": "BOIS",
       "RESULT": "W38-21vs.UNLV",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Malik Sherrod, RB",
       "TEAM": "BOIS",
       "RESULT": "W38-21vs.UNLV",
@@ -305,7 +315,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Deondre Johnson, WR",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
@@ -313,16 +323,6 @@
       "YDS": "59",
       "YPR": "14.8",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Tre Williams III, TE",
-      "TEAM": "UNT",
-      "RESULT": "L21-34atTULN",
-      "REC": "4",
-      "YDS": "52",
-      "YPR": "13.0",
-      "TD": "1"
     }
   ]
 }
