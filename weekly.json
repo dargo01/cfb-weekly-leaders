@@ -86,6 +86,18 @@
     },
     {
       "RK": "8",
+      "NAME": "Gunner Stockton, QB",
+      "TEAM": "UGA",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "23",
+      "YDS": "131",
+      "TD": "2",
+      "INT": "0",
+      "RAT": "150.5"
+    },
+    {
+      "RK": "9",
       "NAME": "Bear Bachmeier, QB",
       "TEAM": "BYU",
       "RESULT": "L7-34atTTU",
@@ -97,7 +109,7 @@
       "RAT": "80.2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Broc Lowry, QB",
       "TEAM": "WMU",
       "RESULT": "W23-13vs.M-OH",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "133.3"
-    },
-    {
-      "RK": "10",
-      "NAME": "Gunner Stockton, QB",
-      "TEAM": "UGA",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "21",
-      "YDS": "110",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "146.9"
     }
   ],
   "Rushing Leaders": [
