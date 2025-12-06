@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Ty Simpson, QB",
+      "TEAM": "ALA",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "28",
+      "YDS": "150",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "103.2"
+    },
+    {
+      "RK": "8",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "W34-21vs.UNT",
@@ -85,28 +97,16 @@
       "RAT": "114.5"
     },
     {
-      "RK": "8",
-      "NAME": "Ty Simpson, QB",
-      "TEAM": "ALA",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "25",
-      "YDS": "142",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "108.9"
-    },
-    {
       "RK": "9",
       "NAME": "Gunner Stockton, QB",
       "TEAM": "UGA",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "23",
-      "YDS": "131",
+      "COMP": "19",
+      "ATT": "25",
+      "YDS": "143",
       "TD": "2",
       "INT": "0",
-      "RAT": "150.5"
+      "RAT": "150.4"
     },
     {
       "RK": "10",
