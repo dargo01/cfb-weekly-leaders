@@ -137,9 +137,9 @@
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "",
-      "CAR": "9",
-      "YDS": "160",
-      "YPC": "17.8",
+      "CAR": "10",
+      "YDS": "161",
+      "YPC": "16.1",
       "TD": "2"
     },
     {
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Kam Perry, WR",
+      "TEAM": "M-OH",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "81",
+      "YPR": "16.2",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Reggie Virgil, WR",
       "TEAM": "TTU",
       "RESULT": "",
@@ -265,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "L21-34atTULN",
@@ -275,23 +285,13 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
       "REC": "5",
       "YDS": "75",
       "YPR": "15.0",
-      "TD": "0"
-    },
-    {
-      "RK": "7",
-      "NAME": "Kam Perry, WR",
-      "TEAM": "M-OH",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "73",
-      "YPR": "18.3",
       "TD": "0"
     },
     {
