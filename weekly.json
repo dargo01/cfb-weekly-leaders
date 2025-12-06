@@ -5,15 +5,27 @@
       "NAME": "Maddux Madsen, QB",
       "TEAM": "BOIS",
       "RESULT": "",
-      "COMP": "16",
-      "ATT": "28",
-      "YDS": "272",
+      "COMP": "17",
+      "ATT": "31",
+      "YDS": "289",
       "TD": "3",
       "INT": "0",
-      "RAT": "174.1"
+      "RAT": "165.1"
     },
     {
       "RK": "2",
+      "NAME": "Drew Mestemaker, QB",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "COMP": "20",
+      "ATT": "31",
+      "YDS": "274",
+      "TD": "2",
+      "INT": "2",
+      "RAT": "147.2"
+    },
+    {
+      "RK": "3",
       "NAME": "Amari Odom, QB",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -25,19 +37,19 @@
       "RAT": "156.1"
     },
     {
-      "RK": "3",
-      "NAME": "Drew Mestemaker, QB",
-      "TEAM": "UNT",
+      "RK": "4",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
       "RESULT": "",
       "COMP": "16",
-      "ATT": "27",
-      "YDS": "214",
-      "TD": "2",
-      "INT": "2",
-      "RAT": "135.5"
+      "ATT": "34",
+      "YDS": "205",
+      "TD": "1",
+      "INT": "0",
+      "RAT": "107.4"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Goose Crowder, QB",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -49,28 +61,16 @@
       "RAT": "92.5"
     },
     {
-      "RK": "5",
-      "NAME": "Anthony Colandrea, QB",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "COMP": "12",
-      "ATT": "29",
-      "YDS": "164",
-      "TD": "1",
-      "INT": "0",
-      "RAT": "100.3"
-    },
-    {
       "RK": "6",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "",
-      "COMP": "11",
-      "ATT": "19",
-      "YDS": "131",
+      "COMP": "13",
+      "ATT": "22",
+      "YDS": "145",
       "TD": "0",
       "INT": "0",
-      "RAT": "115.8"
+      "RAT": "114.5"
     },
     {
       "RK": "7",
@@ -122,22 +122,22 @@
     },
     {
       "RK": "2",
+      "NAME": "Jamauri McClure, RB",
+      "TEAM": "TULN",
+      "RESULT": "",
+      "CAR": "22",
+      "YDS": "121",
+      "YPC": "5.5",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
       "CAR": "18",
       "YDS": "112",
       "YPC": "6.2",
-      "TD": "1"
-    },
-    {
-      "RK": "3",
-      "NAME": "Jamauri McClure, RB",
-      "TEAM": "TULN",
-      "RESULT": "",
-      "CAR": "17",
-      "YDS": "104",
-      "YPC": "6.1",
       "TD": "1"
     },
     {
@@ -152,16 +152,6 @@
     },
     {
       "RK": "5",
-      "NAME": "Anthony Colandrea, QB",
-      "TEAM": "UNLV",
-      "RESULT": "",
-      "CAR": "9",
-      "YDS": "84",
-      "YPC": "9.3",
-      "TD": "1"
-    },
-    {
-      "RK": "6",
       "NAME": "Coleman Bennett, RB",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -171,7 +161,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "6",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
@@ -181,14 +171,24 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "7",
       "NAME": "Dylan Riley, RB",
       "TEAM": "BOIS",
       "RESULT": "",
-      "CAR": "18",
-      "YDS": "69",
-      "YPC": "3.8",
+      "CAR": "21",
+      "YDS": "75",
+      "YPC": "3.6",
       "TD": "0"
+    },
+    {
+      "RK": "8",
+      "NAME": "Anthony Colandrea, QB",
+      "TEAM": "UNLV",
+      "RESULT": "",
+      "CAR": "11",
+      "YDS": "68",
+      "YPC": "6.2",
+      "TD": "1"
     },
     {
       "RK": "9",
@@ -214,6 +214,16 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Miles Coleman, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "125",
+      "YPR": "17.9",
+      "TD": "1"
+    },
+    {
+      "RK": "2",
       "NAME": "Chase Penry, WR",
       "TEAM": "BOIS",
       "RESULT": "",
@@ -223,7 +233,7 @@
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "RaRa Thomas, WR",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -233,7 +243,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -243,17 +253,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
-      "NAME": "Miles Coleman, WR",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "REC": "3",
-      "YDS": "65",
-      "YPR": "21.7",
-      "TD": "1"
-    },
-    {
-      "RK": "",
+      "RK": "5",
       "NAME": "Cameron Bates, WR",
       "TEAM": "BOIS",
       "RESULT": "",
