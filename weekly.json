@@ -6,11 +6,11 @@
       "TEAM": "BOIS",
       "RESULT": "",
       "COMP": "16",
-      "ATT": "29",
+      "ATT": "28",
       "YDS": "272",
       "TD": "3",
       "INT": "0",
-      "RAT": "168.1"
+      "RAT": "174.1"
     },
     {
       "RK": "2",
@@ -29,12 +29,12 @@
       "NAME": "Drew Mestemaker, QB",
       "TEAM": "UNT",
       "RESULT": "",
-      "COMP": "17",
-      "ATT": "28",
-      "YDS": "240",
+      "COMP": "16",
+      "ATT": "27",
+      "YDS": "214",
       "TD": "2",
       "INT": "2",
-      "RAT": "142.0"
+      "RAT": "135.5"
     },
     {
       "RK": "4",
@@ -224,16 +224,6 @@
     },
     {
       "RK": "2",
-      "NAME": "Miles Coleman, WR",
-      "TEAM": "UNT",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "91",
-      "YPR": "22.8",
-      "TD": "1"
-    },
-    {
-      "RK": "3",
       "NAME": "RaRa Thomas, WR",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -243,7 +233,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "3",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -253,7 +243,17 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "4",
+      "NAME": "Miles Coleman, WR",
+      "TEAM": "UNT",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "65",
+      "YPR": "21.7",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Cameron Bates, WR",
       "TEAM": "BOIS",
       "RESULT": "",
