@@ -98,27 +98,27 @@
     },
     {
       "RK": "9",
+      "NAME": "Behren Morton, QB",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "COMP": "6",
+      "ATT": "10",
+      "YDS": "72",
+      "TD": "0",
+      "INT": "0",
+      "RAT": "120.5"
+    },
+    {
+      "RK": "10",
       "NAME": "Thomas Gotkowski, QB",
       "TEAM": "M-OH",
       "RESULT": "",
       "COMP": "3",
-      "ATT": "3",
+      "ATT": "5",
       "YDS": "50",
       "TD": "0",
       "INT": "0",
-      "RAT": "240.0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Bear Bachmeier, QB",
-      "TEAM": "BYU",
-      "RESULT": "",
-      "COMP": "4",
-      "ATT": "6",
-      "YDS": "39",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "121.3"
+      "RAT": "144.0"
     }
   ],
   "Rushing Leaders": [
@@ -164,22 +164,22 @@
     },
     {
       "RK": "5",
+      "NAME": "Jalen Buckley, RB",
+      "TEAM": "WMU",
+      "RESULT": "",
+      "CAR": "3",
+      "YDS": "83",
+      "YPC": "27.7",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Coleman Bennett, RB",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
       "CAR": "17",
       "YDS": "82",
       "YPC": "4.8",
-      "TD": "1"
-    },
-    {
-      "RK": "6",
-      "NAME": "Jalen Buckley, RB",
-      "TEAM": "WMU",
-      "RESULT": "",
-      "CAR": "2",
-      "YDS": "81",
-      "YPC": "40.5",
       "TD": "1"
     },
     {
@@ -286,6 +286,16 @@
     },
     {
       "RK": "7",
+      "NAME": "Reggie Virgil, WR",
+      "TEAM": "TTU",
+      "RESULT": "",
+      "REC": "3",
+      "YDS": "62",
+      "YPR": "20.7",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Malik Sherrod, RB",
       "TEAM": "BOIS",
       "RESULT": "W38-21vs.UNLV",
@@ -295,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Deondre Johnson, WR",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Tre Williams III, TE",
       "TEAM": "UNT",
       "RESULT": "L21-34atTULN",
@@ -313,16 +323,6 @@
       "YDS": "52",
       "YPR": "13.0",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Kam Perry, WR",
-      "TEAM": "M-OH",
-      "RESULT": "",
-      "REC": "2",
-      "YDS": "50",
-      "YPR": "25.0",
-      "TD": "0"
     }
   ]
 }
