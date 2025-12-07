@@ -62,6 +62,18 @@
     },
     {
       "RK": "6",
+      "NAME": "Ty Simpson, QB",
+      "TEAM": "ALA",
+      "RESULT": "L7-28vs.UGA",
+      "COMP": "19",
+      "ATT": "39",
+      "YDS": "212",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "97.7"
+    },
+    {
+      "RK": "7",
       "NAME": "Goose Crowder, QB",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -73,19 +85,19 @@
       "RAT": "92.5"
     },
     {
-      "RK": "7",
-      "NAME": "Ty Simpson, QB",
-      "TEAM": "ALA",
-      "RESULT": "",
-      "COMP": "15",
-      "ATT": "28",
-      "YDS": "150",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "103.2"
+      "RK": "8",
+      "NAME": "Gunner Stockton, QB",
+      "TEAM": "UGA",
+      "RESULT": "W28-7atALA",
+      "COMP": "20",
+      "ATT": "26",
+      "YDS": "156",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "165.4"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "W34-21vs.UNT",
@@ -95,18 +107,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "114.5"
-    },
-    {
-      "RK": "9",
-      "NAME": "Gunner Stockton, QB",
-      "TEAM": "UGA",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "25",
-      "YDS": "143",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "150.4"
     },
     {
       "RK": "10",
@@ -266,6 +266,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "84",
+      "YPR": "21.0",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "RaRa Thomas, WR",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -275,7 +285,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "L21-34atTULN",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Coy Eakin, WR",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
@@ -305,20 +315,10 @@
       "TD": "2"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Cole Weaver, WR",
       "TEAM": "M-OH",
       "RESULT": "L13-23atWMU",
-      "REC": "3",
-      "YDS": "65",
-      "YPR": "21.7",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Cameron Bates, WR",
-      "TEAM": "BOIS",
-      "RESULT": "W38-21vs.UNLV",
       "REC": "3",
       "YDS": "65",
       "YPR": "21.7",
