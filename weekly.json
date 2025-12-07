@@ -86,6 +86,30 @@
     },
     {
       "RK": "8",
+      "NAME": "Fernando Mendoza, QB",
+      "TEAM": "IU",
+      "RESULT": "",
+      "COMP": "13",
+      "ATT": "20",
+      "YDS": "182",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "147.9"
+    },
+    {
+      "RK": "9",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "COMP": "14",
+      "ATT": "19",
+      "YDS": "177",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "158.8"
+    },
+    {
+      "RK": "10",
       "NAME": "Gunner Stockton, QB",
       "TEAM": "UGA",
       "RESULT": "W28-7atALA",
@@ -95,30 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "165.4"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jake Retzlaff, QB",
-      "TEAM": "TULN",
-      "RESULT": "W34-21vs.UNT",
-      "COMP": "13",
-      "ATT": "22",
-      "YDS": "145",
-      "TD": "0",
-      "INT": "0",
-      "RAT": "114.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Bear Bachmeier, QB",
-      "TEAM": "BYU",
-      "RESULT": "L7-34atTTU",
-      "COMP": "16",
-      "ATT": "27",
-      "YDS": "115",
-      "TD": "0",
-      "INT": "2",
-      "RAT": "80.2"
     }
   ],
   "Rushing Leaders": [
@@ -236,6 +236,16 @@
     },
     {
       "RK": "2",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "103",
+      "YPR": "17.2",
+      "TD": "0"
+    },
+    {
+      "RK": "3",
       "NAME": "Kam Perry, WR",
       "TEAM": "M-OH",
       "RESULT": "L13-23atWMU",
@@ -245,7 +255,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Chase Penry, WR",
       "TEAM": "BOIS",
       "RESULT": "W38-21vs.UNLV",
@@ -255,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Reggie Virgil, WR",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
@@ -265,17 +275,17 @@
       "TD": "0"
     },
     {
-      "RK": "5",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
+      "RK": "",
+      "NAME": "Charlie Becker, WR",
+      "TEAM": "IU",
       "RESULT": "",
       "REC": "4",
-      "YDS": "84",
-      "YPR": "21.0",
+      "YDS": "86",
+      "YPR": "21.5",
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "RaRa Thomas, WR",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "L21-34atTULN",
@@ -295,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Coy Eakin, WR",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
@@ -313,16 +323,6 @@
       "YDS": "66",
       "YPR": "22.0",
       "TD": "2"
-    },
-    {
-      "RK": "10",
-      "NAME": "Cole Weaver, WR",
-      "TEAM": "M-OH",
-      "RESULT": "L13-23atWMU",
-      "REC": "3",
-      "YDS": "65",
-      "YPR": "21.7",
-      "TD": "1"
     }
   ]
 }
