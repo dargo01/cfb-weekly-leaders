@@ -26,6 +26,18 @@
     },
     {
       "RK": "3",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
+      "RESULT": "L10-13vs.IU",
+      "COMP": "21",
+      "ATT": "29",
+      "YDS": "258",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "151.6"
+    },
+    {
+      "RK": "4",
       "NAME": "Amari Odom, QB",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -37,7 +49,7 @@
       "RAT": "156.1"
     },
     {
-      "RK": "4",
+      "RK": "5",
       "NAME": "Anthony Colandrea, QB",
       "TEAM": "UNLV",
       "RESULT": "L21-38atBOIS",
@@ -49,10 +61,10 @@
       "RAT": "105.8"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Fernando Mendoza, QB",
       "TEAM": "IU",
-      "RESULT": "",
+      "RESULT": "W13-10atOSU",
       "COMP": "15",
       "ATT": "23",
       "YDS": "222",
@@ -61,7 +73,19 @@
       "RAT": "151.9"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Chandler Morris, QB",
+      "TEAM": "UVA",
+      "RESULT": "",
+      "COMP": "21",
+      "ATT": "39",
+      "YDS": "216",
+      "TD": "2",
+      "INT": "1",
+      "RAT": "112.2"
+    },
+    {
+      "RK": "8",
       "NAME": "Behren Morton, QB",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
@@ -73,7 +97,7 @@
       "RAT": "135.3"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Ty Simpson, QB",
       "TEAM": "ALA",
       "RESULT": "L7-28vs.UGA",
@@ -85,19 +109,7 @@
       "RAT": "97.7"
     },
     {
-      "RK": "8",
-      "NAME": "Julian Sayin, QB",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "COMP": "19",
-      "ATT": "26",
-      "YDS": "211",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "146.2"
-    },
-    {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Goose Crowder, QB",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -107,18 +119,6 @@
       "TD": "0",
       "INT": "0",
       "RAT": "92.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Darian Mensah, QB",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "COMP": "17",
-      "ATT": "22",
-      "YDS": "180",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "151.9"
     }
   ],
   "Rushing Leaders": [
@@ -176,7 +176,7 @@
       "RK": "6",
       "NAME": "Bo Jackson, RB",
       "TEAM": "OSU",
-      "RESULT": "",
+      "RESULT": "L10-13vs.IU",
       "CAR": "17",
       "YDS": "83",
       "YPC": "4.9",
@@ -226,16 +226,26 @@
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "L10-13vs.IU",
+      "REC": "8",
+      "YDS": "144",
+      "YPR": "18.0",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Charlie Becker, WR",
       "TEAM": "IU",
-      "RESULT": "",
+      "RESULT": "W13-10atOSU",
       "REC": "6",
       "YDS": "126",
       "YPR": "21.0",
       "TD": "0"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Miles Coleman, WR",
       "TEAM": "UNT",
       "RESULT": "L21-34atTULN",
@@ -245,23 +255,13 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "4",
       "NAME": "Kam Perry, WR",
       "TEAM": "M-OH",
       "RESULT": "L13-23atWMU",
       "REC": "7",
       "YDS": "101",
       "YPR": "14.4",
-      "TD": "0"
-    },
-    {
-      "RK": "4",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "REC": "7",
-      "YDS": "98",
-      "YPR": "14.0",
       "TD": "0"
     },
     {
@@ -276,6 +276,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "5",
+      "YDS": "91",
+      "YPR": "18.2",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Reggie Virgil, WR",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
@@ -285,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "RaRa Thomas, WR",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -295,17 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
-      "NAME": "Cooper Barkate, WR",
-      "TEAM": "DUKE",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "76",
-      "YPR": "19.0",
-      "TD": "0"
-    },
-    {
-      "RK": "",
+      "RK": "9",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "L21-34atTULN",
