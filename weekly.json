@@ -50,6 +50,18 @@
     },
     {
       "RK": "5",
+      "NAME": "Fernando Mendoza, QB",
+      "TEAM": "IU",
+      "RESULT": "",
+      "COMP": "15",
+      "ATT": "23",
+      "YDS": "222",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "151.9"
+    },
+    {
+      "RK": "6",
       "NAME": "Behren Morton, QB",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
@@ -61,7 +73,7 @@
       "RAT": "135.3"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Ty Simpson, QB",
       "TEAM": "ALA",
       "RESULT": "L7-28vs.UGA",
@@ -73,7 +85,19 @@
       "RAT": "97.7"
     },
     {
-      "RK": "7",
+      "RK": "8",
+      "NAME": "Julian Sayin, QB",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "COMP": "19",
+      "ATT": "26",
+      "YDS": "211",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "146.2"
+    },
+    {
+      "RK": "9",
       "NAME": "Goose Crowder, QB",
       "TEAM": "TROY",
       "RESULT": "L14-31atJMU",
@@ -85,40 +109,16 @@
       "RAT": "92.5"
     },
     {
-      "RK": "8",
-      "NAME": "Fernando Mendoza, QB",
-      "TEAM": "IU",
-      "RESULT": "",
-      "COMP": "13",
-      "ATT": "20",
-      "YDS": "182",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "147.9"
-    },
-    {
-      "RK": "9",
-      "NAME": "Julian Sayin, QB",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "COMP": "14",
-      "ATT": "19",
-      "YDS": "177",
-      "TD": "1",
-      "INT": "1",
-      "RAT": "158.8"
-    },
-    {
       "RK": "10",
-      "NAME": "Gunner Stockton, QB",
-      "TEAM": "UGA",
-      "RESULT": "W28-7atALA",
-      "COMP": "20",
-      "ATT": "26",
-      "YDS": "156",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "165.4"
+      "NAME": "Darian Mensah, QB",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "COMP": "17",
+      "ATT": "22",
+      "YDS": "180",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "151.9"
     }
   ],
   "Rushing Leaders": [
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Bo Jackson, RB",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "CAR": "17",
+      "YDS": "83",
+      "YPC": "4.9",
+      "TD": "0"
+    },
+    {
+      "RK": "7",
       "NAME": "Coleman Bennett, RB",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "J'Koby Williams, RB",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
@@ -203,7 +213,7 @@
       "TD": "1"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "LJ Martin, RB",
       "TEAM": "BYU",
       "RESULT": "L7-34atTTU",
@@ -211,21 +221,21 @@
       "YDS": "76",
       "YPC": "4.0",
       "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Dylan Riley, RB",
-      "TEAM": "BOIS",
-      "RESULT": "W38-21vs.UNLV",
-      "CAR": "21",
-      "YDS": "75",
-      "YPC": "3.6",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Charlie Becker, WR",
+      "TEAM": "IU",
+      "RESULT": "",
+      "REC": "6",
+      "YDS": "126",
+      "YPR": "21.0",
+      "TD": "0"
+    },
+    {
+      "RK": "2",
       "NAME": "Miles Coleman, WR",
       "TEAM": "UNT",
       "RESULT": "L21-34atTULN",
@@ -233,16 +243,6 @@
       "YDS": "125",
       "YPR": "17.9",
       "TD": "1"
-    },
-    {
-      "RK": "2",
-      "NAME": "Jeremiah Smith, WR",
-      "TEAM": "OSU",
-      "RESULT": "",
-      "REC": "6",
-      "YDS": "103",
-      "YPR": "17.2",
-      "TD": "0"
     },
     {
       "RK": "3",
@@ -256,6 +256,16 @@
     },
     {
       "RK": "4",
+      "NAME": "Jeremiah Smith, WR",
+      "TEAM": "OSU",
+      "RESULT": "",
+      "REC": "7",
+      "YDS": "98",
+      "YPR": "14.0",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Chase Penry, WR",
       "TEAM": "BOIS",
       "RESULT": "W38-21vs.UNLV",
@@ -265,23 +275,13 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "Reggie Virgil, WR",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
       "REC": "8",
       "YDS": "86",
       "YPR": "10.8",
-      "TD": "0"
-    },
-    {
-      "RK": "",
-      "NAME": "Charlie Becker, WR",
-      "TEAM": "IU",
-      "RESULT": "",
-      "REC": "4",
-      "YDS": "86",
-      "YPR": "21.5",
       "TD": "0"
     },
     {
@@ -296,6 +296,16 @@
     },
     {
       "RK": "8",
+      "NAME": "Cooper Barkate, WR",
+      "TEAM": "DUKE",
+      "RESULT": "",
+      "REC": "4",
+      "YDS": "76",
+      "YPR": "19.0",
+      "TD": "0"
+    },
+    {
+      "RK": "",
       "NAME": "Cameron Dorner, WR",
       "TEAM": "UNT",
       "RESULT": "L21-34atTULN",
@@ -305,7 +315,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Christian Moss, WR",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -313,16 +323,6 @@
       "YDS": "75",
       "YPR": "15.0",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Coy Eakin, WR",
-      "TEAM": "TTU",
-      "RESULT": "W34-7vs.BYU",
-      "REC": "3",
-      "YDS": "66",
-      "YPR": "22.0",
-      "TD": "2"
     }
   ]
 }
