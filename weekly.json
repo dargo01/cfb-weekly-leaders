@@ -76,13 +76,13 @@
       "RK": "7",
       "NAME": "Chandler Morris, QB",
       "TEAM": "UVA",
-      "RESULT": "",
+      "RESULT": "L20-27vs.DUKE",
       "COMP": "21",
-      "ATT": "39",
+      "ATT": "40",
       "YDS": "216",
       "TD": "2",
-      "INT": "1",
-      "RAT": "112.2"
+      "INT": "2",
+      "RAT": "104.4"
     },
     {
       "RK": "8",
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Nate Sheppard, RB",
+      "TEAM": "DUKE",
+      "RESULT": "W27-20atUVA",
+      "CAR": "21",
+      "YDS": "97",
+      "YPC": "4.6",
+      "TD": "1"
+    },
+    {
+      "RK": "6",
       "NAME": "Alonza Barnett III, QB",
       "TEAM": "JMU",
       "RESULT": "W31-14vs.TROY",
@@ -173,7 +183,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Bo Jackson, RB",
       "TEAM": "OSU",
       "RESULT": "L10-13vs.IU",
@@ -183,7 +193,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Coleman Bennett, RB",
       "TEAM": "KENN",
       "RESULT": "W19-15atJXST",
@@ -193,7 +203,7 @@
       "TD": "1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "J'Koby Williams, RB",
       "TEAM": "TTU",
       "RESULT": "W34-7vs.BYU",
@@ -203,23 +213,13 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Cam Cook, RB",
       "TEAM": "JXST",
       "RESULT": "L15-19vs.KENN",
       "CAR": "19",
       "YDS": "78",
       "YPC": "4.1",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "LJ Martin, RB",
-      "TEAM": "BYU",
-      "RESULT": "L7-34atTTU",
-      "CAR": "19",
-      "YDS": "76",
-      "YPC": "4.0",
       "TD": "1"
     }
   ],
@@ -278,7 +278,7 @@
       "RK": "6",
       "NAME": "Cooper Barkate, WR",
       "TEAM": "DUKE",
-      "RESULT": "",
+      "RESULT": "W27-20atUVA",
       "REC": "5",
       "YDS": "91",
       "YPR": "18.2",
