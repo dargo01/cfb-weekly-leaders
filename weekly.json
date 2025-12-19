@@ -2,6 +2,30 @@
   "Passing Leaders": [
     {
       "RK": "1",
+      "NAME": "Jacob Clark, QB",
+      "TEAM": "MOST",
+      "RESULT": "L28-34atARST",
+      "COMP": "25",
+      "ATT": "35",
+      "YDS": "349",
+      "TD": "4",
+      "INT": "0",
+      "RAT": "192.9"
+    },
+    {
+      "RK": "2",
+      "NAME": "Jaylen Raynor, QB",
+      "TEAM": "ARST",
+      "RESULT": "W34-28vs.MOST",
+      "COMP": "17",
+      "ATT": "31",
+      "YDS": "288",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "164.8"
+    },
+    {
+      "RK": "3",
       "NAME": "Gaston Moore, QB",
       "TEAM": "USF",
       "RESULT": "L10-24vs.ODU",
@@ -13,7 +37,7 @@
       "RAT": "139.7"
     },
     {
-      "RK": "2",
+      "RK": "4",
       "NAME": "Lunch Winfield, QB",
       "TEAM": "UL",
       "RESULT": "L13-20atDEL",
@@ -25,7 +49,7 @@
       "RAT": "115.8"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Demond Williams Jr., QB",
       "TEAM": "WASH",
       "RESULT": "W38-10vs.BOIS",
@@ -37,7 +61,7 @@
       "RAT": "192.7"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Max Cutforth, QB",
       "TEAM": "BOIS",
       "RESULT": "L10-38atWASH",
@@ -49,7 +73,7 @@
       "RAT": "108.4"
     },
     {
-      "RK": "5",
+      "RK": "7",
       "NAME": "Nick Minicucci, QB",
       "TEAM": "DEL",
       "RESULT": "W20-13vs.UL",
@@ -61,7 +85,7 @@
       "RAT": "123.6"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Caden Creel, QB",
       "TEAM": "JXST",
       "RESULT": "W17-13vs.TROY",
@@ -73,7 +97,7 @@
       "RAT": "159.2"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Quinn Henicle, QB",
       "TEAM": "ODU",
       "RESULT": "W24-10atUSF",
@@ -85,7 +109,7 @@
       "RAT": "86.7"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Tucker Kilcrease, QB",
       "TEAM": "TROY",
       "RESULT": "L13-17atJXST",
@@ -95,30 +119,6 @@
       "TD": "0",
       "INT": "2",
       "RAT": "77.1"
-    },
-    {
-      "RK": "9",
-      "NAME": "Maddux Madsen, QB",
-      "TEAM": "BOIS",
-      "RESULT": "L10-38atWASH",
-      "COMP": "7",
-      "ATT": "16",
-      "YDS": "51",
-      "TD": "0",
-      "INT": "2",
-      "RAT": "45.5"
-    },
-    {
-      "RK": "10",
-      "NAME": "Locklan Hewlett, QB",
-      "TEAM": "USF",
-      "RESULT": "L10-24vs.ODU",
-      "COMP": "7",
-      "ATT": "12",
-      "YDS": "45",
-      "TD": "0",
-      "INT": "1",
-      "RAT": "73.2"
     }
   ],
   "Rushing Leaders": [
@@ -164,6 +164,16 @@
     },
     {
       "RK": "5",
+      "NAME": "Shomari Lawrence, RB",
+      "TEAM": "MOST",
+      "RESULT": "L28-34atARST",
+      "CAR": "16",
+      "YDS": "57",
+      "YPC": "3.6",
+      "TD": "0"
+    },
+    {
+      "RK": "6",
       "NAME": "Trequan Jones, RB",
       "TEAM": "ODU",
       "RESULT": "W24-10atUSF",
@@ -173,7 +183,17 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "7",
+      "NAME": "Kenyon Clay, RB",
+      "TEAM": "ARST",
+      "RESULT": "W34-28vs.MOST",
+      "CAR": "11",
+      "YDS": "53",
+      "YPC": "4.8",
+      "TD": "0"
+    },
+    {
+      "RK": "8",
       "NAME": "Khristian Lando, RB",
       "TEAM": "JXST",
       "RESULT": "W17-13vs.TROY",
@@ -183,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Justus Savage, RB",
       "TEAM": "JXST",
       "RESULT": "W17-13vs.TROY",
@@ -193,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "10",
       "NAME": "Alvon Isaac, RB",
       "TEAM": "USF",
       "RESULT": "L10-24vs.ODU",
@@ -201,31 +221,31 @@
       "YDS": "41",
       "YPC": "5.9",
       "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Lunch Winfield, QB",
-      "TEAM": "UL",
-      "RESULT": "L13-20atDEL",
-      "CAR": "14",
-      "YDS": "40",
-      "YPC": "2.9",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Viron Ellison Jr., RB",
-      "TEAM": "DEL",
-      "RESULT": "W20-13vs.UL",
-      "CAR": "10",
-      "YDS": "38",
-      "YPC": "3.8",
-      "TD": "0"
     }
   ],
   "Receiving Leaders": [
     {
       "RK": "1",
+      "NAME": "Dash Luke, WR",
+      "TEAM": "MOST",
+      "RESULT": "L28-34atARST",
+      "REC": "7",
+      "YDS": "169",
+      "YPR": "24.1",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
+      "NAME": "Corey Rucker, WR",
+      "TEAM": "ARST",
+      "RESULT": "W34-28vs.MOST",
+      "REC": "6",
+      "YDS": "166",
+      "YPR": "27.7",
+      "TD": "1"
+    },
+    {
+      "RK": "3",
       "NAME": "Denzel Boston, WR",
       "TEAM": "WASH",
       "RESULT": "W38-10vs.BOIS",
@@ -235,7 +255,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "4",
       "NAME": "Christian Neptune, WR",
       "TEAM": "USF",
       "RESULT": "L10-24vs.ODU",
@@ -245,7 +265,7 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "5",
       "NAME": "Deondre Johnson, WR",
       "TEAM": "JXST",
       "RESULT": "W17-13vs.TROY",
@@ -255,7 +275,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Chris Marshall, WR",
       "TEAM": "BOIS",
       "RESULT": "L10-38atWASH",
@@ -265,7 +285,17 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "7",
+      "NAME": "Jmariyae Robinson, WR",
+      "TEAM": "MOST",
+      "RESULT": "L28-34atARST",
+      "REC": "4",
+      "YDS": "96",
+      "YPR": "24.0",
+      "TD": "1"
+    },
+    {
+      "RK": "8",
       "NAME": "Sean Wilson, WR",
       "TEAM": "DEL",
       "RESULT": "W20-13vs.UL",
@@ -275,7 +305,7 @@
       "TD": "1"
     },
     {
-      "RK": "6",
+      "RK": "9",
       "NAME": "Caden Jensen, TE",
       "TEAM": "UL",
       "RESULT": "L13-20atDEL",
@@ -285,43 +315,13 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "10",
       "NAME": "Latrell Caples, WR",
       "TEAM": "BOIS",
       "RESULT": "L10-38atWASH",
       "REC": "5",
       "YDS": "70",
       "YPR": "14.0",
-      "TD": "0"
-    },
-    {
-      "RK": "8",
-      "NAME": "Kyre Duplessis, WR",
-      "TEAM": "DEL",
-      "RESULT": "W20-13vs.UL",
-      "REC": "5",
-      "YDS": "69",
-      "YPR": "13.8",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Jeremiah Koger, WR",
-      "TEAM": "USF",
-      "RESULT": "L10-24vs.ODU",
-      "REC": "4",
-      "YDS": "68",
-      "YPR": "17.0",
-      "TD": "1"
-    },
-    {
-      "RK": "10",
-      "NAME": "JeyQuan Smith, WR",
-      "TEAM": "USF",
-      "RESULT": "L10-24vs.ODU",
-      "REC": "5",
-      "YDS": "61",
-      "YPR": "12.2",
       "TD": "0"
     }
   ]
