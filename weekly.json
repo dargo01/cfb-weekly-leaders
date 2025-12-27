@@ -74,6 +74,18 @@
     },
     {
       "RK": "7",
+      "NAME": "Owen McCown, QB",
+      "TEAM": "UTSA",
+      "RESULT": "W57-20vs.FIU",
+      "COMP": "18",
+      "ATT": "28",
+      "YDS": "295",
+      "TD": "3",
+      "INT": "0",
+      "RAT": "188.1"
+    },
+    {
+      "RK": "8",
       "NAME": "Jaylen Raynor, QB",
       "TEAM": "ARST",
       "RESULT": "W34-28vs.MOST",
@@ -85,7 +97,7 @@
       "RAT": "164.8"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Trinidad Chambliss, QB",
       "TEAM": "MISS",
       "RESULT": "W41-10vs.TULN",
@@ -97,7 +109,7 @@
       "RAT": "172.4"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Micah Alejado, QB",
       "TEAM": "HAW",
       "RESULT": "W35-31vs.CAL",
@@ -107,18 +119,6 @@
       "TD": "3",
       "INT": "0",
       "RAT": "141.1"
-    },
-    {
-      "RK": "10",
-      "NAME": "Alonza Barnett III, QB",
-      "TEAM": "JMU",
-      "RESULT": "L34-51atORE",
-      "COMP": "23",
-      "ATT": "48",
-      "YDS": "273",
-      "TD": "2",
-      "INT": "0",
-      "RAT": "109.4"
     }
   ],
   "Rushing Leaders": [
@@ -174,6 +174,16 @@
     },
     {
       "RK": "6",
+      "NAME": "Darius Taylor, RB",
+      "TEAM": "MINN",
+      "RESULT": "W20-17vs.UNM",
+      "CAR": "24",
+      "YDS": "116",
+      "YPC": "4.8",
+      "TD": "1"
+    },
+    {
+      "RK": "",
       "NAME": "Jo Silver, RB",
       "TEAM": "DEL",
       "RESULT": "W20-13vs.UL",
@@ -183,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Keyjuan Brown, RB",
       "TEAM": "LOU",
       "RESULT": "W27-22vs.TOL",
@@ -193,7 +203,7 @@
       "TD": "0"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Wayne Knight, RB",
       "TEAM": "JMU",
       "RESULT": "L34-51atORE",
@@ -203,7 +213,7 @@
       "TD": "0"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Jayden Scott, RB",
       "TEAM": "NCSU",
       "RESULT": "W31-7vs.MEM",
@@ -211,16 +221,6 @@
       "YDS": "108",
       "YPC": "5.7",
       "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Quinn Henicle, QB",
-      "TEAM": "ODU",
-      "RESULT": "W24-10atUSF",
-      "CAR": "24",
-      "YDS": "107",
-      "YPC": "4.5",
-      "TD": "2"
     }
   ],
   "Receiving Leaders": [
