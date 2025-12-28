@@ -38,6 +38,18 @@
     },
     {
       "RK": "4",
+      "NAME": "Bear Bachmeier, QB",
+      "TEAM": "BYU",
+      "RESULT": "W25-21vs.GT",
+      "COMP": "27",
+      "ATT": "38",
+      "YDS": "325",
+      "TD": "1",
+      "INT": "1",
+      "RAT": "146.3"
+    },
+    {
+      "RK": "5",
       "NAME": "Dante Moore, QB",
       "TEAM": "ORE",
       "RESULT": "W51-34vs.JMU",
@@ -49,7 +61,7 @@
       "RAT": "201.8"
     },
     {
-      "RK": "5",
+      "RK": "6",
       "NAME": "John Mateer, QB",
       "TEAM": "OU",
       "RESULT": "L24-34vs.ALA",
@@ -61,7 +73,7 @@
       "RAT": "137.5"
     },
     {
-      "RK": "6",
+      "RK": "7",
       "NAME": "Jake Retzlaff, QB",
       "TEAM": "TULN",
       "RESULT": "L10-41atMISS",
@@ -73,7 +85,7 @@
       "RAT": "134.3"
     },
     {
-      "RK": "7",
+      "RK": "8",
       "NAME": "Owen McCown, QB",
       "TEAM": "UTSA",
       "RESULT": "W57-20vs.FIU",
@@ -85,7 +97,7 @@
       "RAT": "188.1"
     },
     {
-      "RK": "8",
+      "RK": "9",
       "NAME": "Jaylen Raynor, QB",
       "TEAM": "ARST",
       "RESULT": "W34-28vs.MOST",
@@ -97,7 +109,7 @@
       "RAT": "164.8"
     },
     {
-      "RK": "9",
+      "RK": "10",
       "NAME": "Trinidad Chambliss, QB",
       "TEAM": "MISS",
       "RESULT": "W41-10vs.TULN",
@@ -107,23 +119,21 @@
       "TD": "1",
       "INT": "0",
       "RAT": "172.4"
-    },
-    {
-      "RK": "10",
-      "NAME": "Micah Alejado, QB",
-      "TEAM": "HAW",
-      "RESULT": "W35-31vs.CAL",
-      "COMP": "32",
-      "ATT": "46",
-      "YDS": "274",
-      "TD": "3",
-      "INT": "0",
-      "RAT": "141.1"
     }
   ],
   "Rushing Leaders": [
     {
       "RK": "1",
+      "NAME": "Caleb Hawkins, RB",
+      "TEAM": "UNT",
+      "RESULT": "W49-47atSDSU",
+      "CAR": "30",
+      "YDS": "198",
+      "YPC": "6.6",
+      "TD": "2"
+    },
+    {
+      "RK": "2",
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "W41-6vs.KENN",
@@ -133,7 +143,7 @@
       "TD": "1"
     },
     {
-      "RK": "2",
+      "RK": "3",
       "NAME": "Mark Fletcher Jr., RB",
       "TEAM": "MIA",
       "RESULT": "W10-3atTA&M",
@@ -143,7 +153,37 @@
       "TD": "0"
     },
     {
-      "RK": "3",
+      "RK": "4",
+      "NAME": "Godspower Nwawuihe, QB",
+      "TEAM": "ARMY",
+      "RESULT": "W41-16vs.CONN",
+      "CAR": "12",
+      "YDS": "171",
+      "YPC": "14.3",
+      "TD": "2"
+    },
+    {
+      "RK": "5",
+      "NAME": "Bert Emanuel Jr., QB",
+      "TEAM": "SDSU",
+      "RESULT": "L47-49vs.UNT",
+      "CAR": "11",
+      "YDS": "170",
+      "YPC": "15.5",
+      "TD": "2"
+    },
+    {
+      "RK": "6",
+      "NAME": "Ashton Gray, RB",
+      "TEAM": "UNT",
+      "RESULT": "W49-47atSDSU",
+      "CAR": "16",
+      "YDS": "152",
+      "YPC": "9.5",
+      "TD": "2"
+    },
+    {
+      "RK": "7",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W17-10vs.UNLV",
@@ -153,7 +193,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "8",
       "NAME": "Chase Belcher, RB",
       "TEAM": "KENN",
       "RESULT": "L6-41atWMU",
@@ -163,63 +203,23 @@
       "TD": "0"
     },
     {
-      "RK": "5",
+      "RK": "9",
+      "NAME": "Dean Connors, RB",
+      "TEAM": "HOU",
+      "RESULT": "W38-35vs.LSU",
+      "CAR": "16",
+      "YDS": "126",
+      "YPC": "7.9",
+      "TD": "1"
+    },
+    {
+      "RK": "10",
       "NAME": "Maxwell Woods, RB",
       "TEAM": "WSU",
       "RESULT": "W34-21atUSU",
       "CAR": "9",
       "YDS": "117",
       "YPC": "13.0",
-      "TD": "0"
-    },
-    {
-      "RK": "6",
-      "NAME": "Darius Taylor, RB",
-      "TEAM": "MINN",
-      "RESULT": "W20-17vs.UNM",
-      "CAR": "24",
-      "YDS": "116",
-      "YPC": "4.8",
-      "TD": "1"
-    },
-    {
-      "RK": "",
-      "NAME": "Jo Silver, RB",
-      "TEAM": "DEL",
-      "RESULT": "W20-13vs.UL",
-      "CAR": "14",
-      "YDS": "116",
-      "YPC": "8.3",
-      "TD": "1"
-    },
-    {
-      "RK": "8",
-      "NAME": "Keyjuan Brown, RB",
-      "TEAM": "LOU",
-      "RESULT": "W27-22vs.TOL",
-      "CAR": "15",
-      "YDS": "112",
-      "YPC": "7.5",
-      "TD": "0"
-    },
-    {
-      "RK": "9",
-      "NAME": "Wayne Knight, RB",
-      "TEAM": "JMU",
-      "RESULT": "L34-51atORE",
-      "CAR": "17",
-      "YDS": "110",
-      "YPC": "6.5",
-      "TD": "0"
-    },
-    {
-      "RK": "10",
-      "NAME": "Jayden Scott, RB",
-      "TEAM": "NCSU",
-      "RESULT": "W31-7vs.MEM",
-      "CAR": "19",
-      "YDS": "108",
-      "YPC": "5.7",
       "TD": "0"
     }
   ],
@@ -246,6 +246,26 @@
     },
     {
       "RK": "3",
+      "NAME": "Anthony Smith, WR",
+      "TEAM": "ECU",
+      "RESULT": "W23-17vs.PITT",
+      "REC": "4",
+      "YDS": "156",
+      "YPR": "39.0",
+      "TD": "2"
+    },
+    {
+      "RK": "4",
+      "NAME": "Josiah Freeman, WR",
+      "TEAM": "FRES",
+      "RESULT": "W18-3vs.M-OH",
+      "REC": "7",
+      "YDS": "143",
+      "YPR": "20.4",
+      "TD": "0"
+    },
+    {
+      "RK": "5",
       "NAME": "Jacob De Jesus, WR",
       "TEAM": "CAL",
       "RESULT": "L31-35atHAW",
@@ -255,7 +275,7 @@
       "TD": "1"
     },
     {
-      "RK": "4",
+      "RK": "6",
       "NAME": "Denzel Boston, WR",
       "TEAM": "WASH",
       "RESULT": "W38-10vs.BOIS",
@@ -275,7 +295,7 @@
       "TD": "0"
     },
     {
-      "RK": "6",
+      "RK": "8",
       "NAME": "Shazz Preston, WR",
       "TEAM": "TULN",
       "RESULT": "L10-41atMISS",
@@ -285,7 +305,7 @@
       "TD": "0"
     },
     {
-      "RK": "7",
+      "RK": "9",
       "NAME": "Pofele Ashlock, WR",
       "TEAM": "HAW",
       "RESULT": "W35-31vs.CAL",
@@ -295,34 +315,14 @@
       "TD": "2"
     },
     {
-      "RK": "8",
-      "NAME": "Malik Benson, WR",
-      "TEAM": "ORE",
-      "RESULT": "W51-34vs.JMU",
-      "REC": "5",
-      "YDS": "119",
-      "YPR": "23.8",
-      "TD": "2"
-    },
-    {
-      "RK": "9",
-      "NAME": "Javon Rogers, WR",
-      "TEAM": "KENN",
-      "RESULT": "L6-41atWMU",
-      "REC": "3",
-      "YDS": "111",
-      "YPR": "37.0",
-      "TD": "1"
-    },
-    {
       "RK": "10",
-      "NAME": "Deion Burks, WR",
-      "TEAM": "OU",
-      "RESULT": "L24-34vs.ALA",
-      "REC": "7",
-      "YDS": "107",
-      "YPR": "15.3",
-      "TD": "1"
+      "NAME": "Carsen Ryan, TE",
+      "TEAM": "BYU",
+      "RESULT": "W25-21vs.GT",
+      "REC": "8",
+      "YDS": "120",
+      "YPR": "15.0",
+      "TD": "0"
     }
   ]
 }
