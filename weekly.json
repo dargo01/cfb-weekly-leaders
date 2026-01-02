@@ -124,16 +124,6 @@
   "Rushing Leaders": [
     {
       "RK": "1",
-      "NAME": "Caleb Hawkins, RB",
-      "TEAM": "UNT",
-      "RESULT": "W49-47atSDSU",
-      "CAR": "31",
-      "YDS": "198",
-      "YPC": "6.4",
-      "TD": "2"
-    },
-    {
-      "RK": "2",
       "NAME": "Jalen Buckley, RB",
       "TEAM": "WMU",
       "RESULT": "W41-6vs.KENN",
@@ -143,7 +133,7 @@
       "TD": "1"
     },
     {
-      "RK": "3",
+      "RK": "2",
       "NAME": "Mark Fletcher Jr., RB",
       "TEAM": "MIA",
       "RESULT": "W10-3atTA&M",
@@ -153,7 +143,7 @@
       "TD": "0"
     },
     {
-      "RK": "4",
+      "RK": "3",
       "NAME": "Godspower Nwawuihe, QB",
       "TEAM": "ARMY",
       "RESULT": "W41-16vs.CONN",
@@ -163,17 +153,7 @@
       "TD": "2"
     },
     {
-      "RK": "5",
-      "NAME": "Bert Emanuel Jr., QB",
-      "TEAM": "SDSU",
-      "RESULT": "L47-49vs.UNT",
-      "CAR": "11",
-      "YDS": "170",
-      "YPC": "15.5",
-      "TD": "2"
-    },
-    {
-      "RK": "",
+      "RK": "4",
       "NAME": "Nate Sheppard, RB",
       "TEAM": "DUKE",
       "RESULT": "W42-39vs.ASU",
@@ -183,7 +163,7 @@
       "TD": "1"
     },
     {
-      "RK": "7",
+      "RK": "5",
       "NAME": "Arch Manning, QB",
       "TEAM": "TEX",
       "RESULT": "W41-27vs.MICH",
@@ -193,7 +173,7 @@
       "TD": "2"
     },
     {
-      "RK": "8",
+      "RK": "6",
       "NAME": "OJ Arnold, RB",
       "TEAM": "GASO",
       "RESULT": "W29-10atAPP",
@@ -203,17 +183,7 @@
       "TD": "0"
     },
     {
-      "RK": "",
-      "NAME": "Ashton Gray, RB",
-      "TEAM": "UNT",
-      "RESULT": "W49-47atSDSU",
-      "CAR": "16",
-      "YDS": "152",
-      "YPC": "9.5",
-      "TD": "2"
-    },
-    {
-      "RK": "10",
+      "RK": "7",
       "NAME": "Sieh Bangura, RB",
       "TEAM": "OHIO",
       "RESULT": "W17-10vs.UNLV",
@@ -221,6 +191,36 @@
       "YDS": "149",
       "YPC": "7.8",
       "TD": "1"
+    },
+    {
+      "RK": "8",
+      "NAME": "Devon Dampier, QB",
+      "TEAM": "UTAH",
+      "RESULT": "W44-22vs.NEB",
+      "CAR": "19",
+      "YDS": "148",
+      "YPC": "7.8",
+      "TD": "3"
+    },
+    {
+      "RK": "",
+      "NAME": "Chase Belcher, RB",
+      "TEAM": "KENN",
+      "RESULT": "L6-41atWMU",
+      "CAR": "16",
+      "YDS": "148",
+      "YPC": "9.3",
+      "TD": "0"
+    },
+    {
+      "RK": "10",
+      "NAME": "Trey Kukuk, QB",
+      "TEAM": "LT",
+      "RESULT": "W23-14vs.CCU",
+      "CAR": "19",
+      "YDS": "121",
+      "YPC": "6.4",
+      "TD": "0"
     }
   ],
   "Receiving Leaders": [
